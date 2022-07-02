@@ -1,0 +1,14 @@
+#!/bin/bash
+# Powered by Apad.pro
+# https://apad.pro/easymosdns
+#
+# Notes: EasyMosDNS for CentOS/RedHat 7+
+#
+mosdns_working_dir="/etc/mosdns"
+source $mosdns_working_dir/include.conf
+sed -i '/^      size:/c\      size: 10240' $mosdns_working_dir/config.yaml
+sed -i "/^      redis:/c\      #redis: '$redis_dir'" $mosdns_working_dir/config.yaml
+sed -i "/^      #redis:/c\      #redis: '$redis_dir'" $mosdns_working_dir/config.yaml
+sed -i '/^      lazy_cache_ttl:/c\      lazy_cache_ttl: 86400' $mosdns_working_dir/config.yaml
+$mosdns_working_dir/restart.service
+echo '-cache:auto(10240) -redis:disable'

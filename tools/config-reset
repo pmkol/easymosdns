@@ -1,0 +1,19 @@
+#!/bin/bash
+# Powered by Apad.pro
+# https://apad.pro/easymosdns
+#
+# Notes: EasyMosDNS for CentOS/RedHat 7+
+#
+mosdns_working_dir="/etc/mosdns"
+chmod +x $mosdns_working_dir/cache -R
+chmod +x $mosdns_working_dir/local -R
+chmod +x $mosdns_working_dir/remote -R
+chmod +x $mosdns_working_dir/rules/update*
+chmod +x $mosdns_working_dir/tools/adblock*
+chmod +x $mosdns_working_dir/tools/ecs*
+chmod +x $mosdns_working_dir/tools/ipv4*
+chmod +x $mosdns_working_dir/tools/socks5-reload
+chmod +x $mosdns_working_dir/restart.service
+\cp -rf $mosdns_working_dir/tools/config.bak $mosdns_working_dir/config.yaml
+$mosdns_working_dir/restart.service
+echo 'EasyMosDNS: Reset successful'
