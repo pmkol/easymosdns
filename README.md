@@ -249,7 +249,7 @@ chmod +x /etc/mosdns/tools/config-reset
 ```bash
 /etc/mosdns/tools/socks5-reload
 ```
-> Socks5模式地址 127.0.0.1:1080
+> Socks5默认地址 127.0.0.1:1080
 
 #### 切换ECS模式
 
