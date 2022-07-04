@@ -60,7 +60,7 @@ https://apad.pro/easymosdns/ <br />
 >- 脚本工作目录为 /etc/mosdns 不建议更改，如需更改请自行修改源码 <br />
 >- 如 mosdns 二进制文件未在 /usr/local/bin 或 /usr/bin 目录下，应在二进制文件所在目录下执行命令 <br />
 >- 脚本默认启动 UDP/TCP 53端口运行mosdns，如需更改端口，请修改config配置文件中的'protocol' <br />
->- 如 mosdns 部署在内网，应关闭ECS模式，请参考文档的[切换ECS模式](https://github.com/pmkol/easymosdns/README.md#切换ecs模式) <br />
+>- 如 mosdns 部署在内网，应关闭ECS模式，请参考文档的 [切换ECS模式](https://github.com/pmkol/easymosdns#切换ecs模式) <br />
 ---
 - 卸载Mosdns服务
 ```bash
@@ -181,7 +181,7 @@ chmod +x /etc/mosdns/tools/config-reset
 ```
 需在提供Sokcs5服务的远程主机上部署53端口的DNS <br />
 > Socks5地址默认连接本机1080端口 <br />
-> 如需更改Socks5地址，请参考文档的[配置Socks5代理](https://github.com/pmkol/easymosdns/README.md#配置socks5代理)
+> 如需更改Socks5地址，请参考文档的 [配置Socks5代理](https://github.com/pmkol/easymosdns#配置socks5代理)
 
 #### 切换缓存策略
 
@@ -231,7 +231,7 @@ chmod +x /etc/mosdns/tools/config-reset
 /etc/mosdns/rules/update-socks
 ```
 > Socks5地址默认连接本机1080端口 <br />
-> 如需更改Socks5地址，请参考文档的[配置Socks5代理](https://github.com/pmkol/easymosdns/README.md#配置socks5代理)
+> 如需更改Socks5地址，请参考文档的 [配置Socks5代理](https://github.com/pmkol/easymosdns#配置socks5代理)
 
 - 自动更新规则
 
