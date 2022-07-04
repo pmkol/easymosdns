@@ -10,7 +10,6 @@ source $mosdns_working_dir/include.conf
 sed -i '/^            - forward_remote_socks/c\            - forward_remote' $mosdns_working_dir/config.yaml
 sed -i '/^            - forward_host_socks/c\            - forward_remote' $mosdns_working_dir/config.yaml
 sed -i '/^            - forward_googledns/c\            - forward_remote' $mosdns_working_dir/config.yaml
-sed -i '/^            - forward_googledns_socks/c\            - forward_remote' $mosdns_working_dir/config.yaml
 sed -i '/^            - forward_geekdns/c\            - forward_remote' $mosdns_working_dir/config.yaml
 sed -i '/^            - forward_tunadns/c\            - forward_remote' $mosdns_working_dir/config.yaml
 $mosdns_working_dir/restart.service

@@ -77,13 +77,13 @@ plugins:
       force_overwrite: true
 
   # 调整TTL的插件
-  - tag: "ttl_short"
-    type: "ttl"
+  - tag: ttl_short
+    type: ttl
     args:
-      minimal_ttl: 30
+      minimal_ttl: 60
       maximum_ttl: 3600
-  - tag: "ttl_long"
-    type: "ttl"
+  - tag: ttl_long
+    type: ttl
     args:
       minimal_ttl: 300
       maximum_ttl: 3600
@@ -123,25 +123,14 @@ plugins:
           enable_pipeline: true
 
   # 转发至远程服务器的插件
-  # [remote|remote_socks|host_socks|googledns|googledns_socks]
+  # [remote|host_socks|googledns|googledns_socks]
   - tag: forward_remote
     type: fast_forward
     args:
       upstream:
-        - addr: "208.67.220.220:443"
         - addr: "tls://8.8.4.4:853"
           enable_pipeline: true
-          trusted: true
-  - tag: forward_remote_socks
-    type: fast_forward
-    args:
-      upstream:
-        - addr: "tcp://208.67.222.222:443"
-          socks5: "127.0.0.1:1080"
-          enable_pipeline: true
-        - addr: "tls://8.8.8.8:853"
-          socks5: "127.0.0.1:1080"
-          enable_pipeline: true
+        - addr: "208.67.220.220:443"
   - tag: forward_host_socks
     type: fast_forward
     args:
@@ -155,7 +144,7 @@ plugins:
         - addr: "tls://8.8.4.4:853"
           enable_pipeline: true
         - addr: "udpme://8.8.8.8"
-          trusted: true        
+          trusted: true
   - tag: forward_googledns_socks
     type: fast_forward
     args:
@@ -301,9 +290,8 @@ plugins:
             - ttl_long
             - if: "response_server_failed"
               exec:
-                - _no_ecs
                 - forward_local
-                - ttl_short
+                - ttl_long
           # 这里建议设置成 local 服务器正常延时的 2~5 倍
           # 这个延时保证了 local 延时偶尔变高时，其结果不会被 remote 抢答
           # 如果 local 超过这个延时还没响应，可以假设 local 出现了问题
