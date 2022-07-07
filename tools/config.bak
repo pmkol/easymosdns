@@ -1,6 +1,6 @@
 # Powered by Apad.pro
 # https://apad.pro/easymosdns
-#
+# 
 log:
     file: "./mosdns.log"
     level: error
@@ -14,6 +14,9 @@ data_providers:
     auto_reload: true
   - tag: chinaip
     file: ./rules/china_ip_list.txt
+    auto_reload: true
+  - tag: gfwip
+    file: ./rules/gfw_ip_list.txt
     auto_reload: true
   - tag: adlist
     file: ./rules/ad_domain_list.txt
@@ -77,13 +80,13 @@ plugins:
       force_overwrite: true
 
   # 调整TTL的插件
-  - tag: "ttl_short"
-    type: "ttl"
+  - tag: ttl_short
+    type: ttl
     args:
-      minimal_ttl: 30
+      minimal_ttl: 60
       maximum_ttl: 3600
-  - tag: "ttl_long"
-    type: "ttl"
+  - tag: ttl_long
+    type: ttl
     args:
       minimal_ttl: 300
       maximum_ttl: 3600
@@ -123,25 +126,14 @@ plugins:
           enable_pipeline: true
 
   # 转发至远程服务器的插件
-  # [remote|remote_socks|host_socks|googledns|googledns_socks]
+  # [remote|host_socks|googledns|googledns_socks]
   - tag: forward_remote
     type: fast_forward
     args:
       upstream:
-        - addr: "208.67.220.220:443"
         - addr: "tls://8.8.4.4:853"
           enable_pipeline: true
-          trusted: true
-  - tag: forward_remote_socks
-    type: fast_forward
-    args:
-      upstream:
-        - addr: "tcp://208.67.222.222:443"
-          socks5: "127.0.0.1:1080"
-          enable_pipeline: true
-        - addr: "tls://8.8.8.8:853"
-          socks5: "127.0.0.1:1080"
-          enable_pipeline: true
+        - addr: "208.67.220.220:443"
   - tag: forward_host_socks
     type: fast_forward
     args:
@@ -155,7 +147,7 @@ plugins:
         - addr: "tls://8.8.4.4:853"
           enable_pipeline: true
         - addr: "udpme://8.8.8.8"
-          trusted: true        
+          trusted: true
   - tag: forward_googledns_socks
     type: fast_forward
     args:
@@ -223,6 +215,13 @@ plugins:
       ip:
         - "provider:chinaip"
 
+  # 匹配污染IP的插件
+  - tag: response_has_gfw_ip
+    type: response_matcher
+    args:
+      ip:
+        - "provider:gfwip"
+
   # 匹配RCODE2的插件
   - tag: response_server_failed
     type: response_matcher
@@ -285,12 +284,12 @@ plugins:
             - _return
 
         # 剩下的未知域名用IP分流，分流原理请参考fallback的工作流程
-          # primary 从本地服务器获取应答，丢弃非本地IP的结果
+          # primary 从本地服务器获取应答，丢弃非本地IP或污染IP的结果
         - primary:
             - ecs_auto
             - forward_local
             - ttl_short
-            - if: "(! response_has_local_ip) && [_response_valid_answer]"
+            - if: "(! response_has_local_ip) && [_response_valid_answer] || (response_has_gfw_ip)"
               exec:
                 - _drop_response
           # secondary 从远程服务器获取应答，无法解析的域名从本地服务器获取应答
@@ -301,9 +300,8 @@ plugins:
             - ttl_long
             - if: "response_server_failed"
               exec:
-                - _no_ecs
                 - forward_local
-                - ttl_short
+                - ttl_long
           # 这里建议设置成 local 服务器正常延时的 2~5 倍
           # 这个延时保证了 local 延时偶尔变高时，其结果不会被 remote 抢答
           # 如果 local 超过这个延时还没响应，可以假设 local 出现了问题

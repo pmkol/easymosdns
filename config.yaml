@@ -1,6 +1,6 @@
 # Powered by Apad.pro
 # https://apad.pro/easymosdns
-#
+# 
 log:
     file: "./mosdns.log"
     level: error
@@ -14,6 +14,9 @@ data_providers:
     auto_reload: true
   - tag: chinaip
     file: ./rules/china_ip_list.txt
+    auto_reload: true
+  - tag: gfwip
+    file: ./rules/gfw_ip_list.txt
     auto_reload: true
   - tag: adlist
     file: ./rules/ad_domain_list.txt
@@ -212,6 +215,13 @@ plugins:
       ip:
         - "provider:chinaip"
 
+  # 匹配污染IP的插件
+  - tag: response_has_gfw_ip
+    type: response_matcher
+    args:
+      ip:
+        - "provider:gfwip"
+
   # 匹配RCODE2的插件
   - tag: response_server_failed
     type: response_matcher
@@ -274,12 +284,12 @@ plugins:
             - _return
 
         # 剩下的未知域名用IP分流，分流原理请参考fallback的工作流程
-          # primary 从本地服务器获取应答，丢弃非本地IP的结果
+          # primary 从本地服务器获取应答，丢弃非本地IP或污染IP的结果
         - primary:
             - ecs_auto
             - forward_local
             - ttl_short
-            - if: "(! response_has_local_ip) && [_response_valid_answer]"
+            - if: "(! response_has_local_ip) && [_response_valid_answer] || (response_has_gfw_ip)"
               exec:
                 - _drop_response
           # secondary 从远程服务器获取应答，无法解析的域名从本地服务器获取应答
