@@ -3,7 +3,7 @@
 - è¯·å‹¿ç”¨äºéæ³•ç”¨é€”
 
 ### DNSè§„åˆ™åº“
-| í ½í³¦ List | í ½í³ƒ Rule | í ½í´§ GitHub RAW | í ½íº€ GitHub CDN
+| ğŸ“¦ List | ğŸ“ƒ Rule | ğŸ”§ GitHub RAW | ğŸš€ GitHub CDN
 |  :--:  |  :--:  |     :--:     |     :--:    |
 | ä¸­å›½IP | china_ip_list.txt | [ä¸‹è½½é“¾æ¥](https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_ip_list.txt) | [åŠ é€Ÿé“¾æ¥](https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/china_ip_list.txt) |
 | æ±¡æŸ“IP | gfw_ip_list.txt | [ä¸‹è½½é“¾æ¥](https://raw.githubusercontent.com/pmkol/easymosdns/rules/gfw_ip_list.txt) | [åŠ é€Ÿé“¾æ¥](https://raw.githubusercontent.com/pmkol/easymosdns/rules/gfw_ip_list.txt) |
