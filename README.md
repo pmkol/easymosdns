@@ -1,7 +1,7 @@
 # EasyMosdns Rules
 - 规则每日0点更新，如未更新说明规则当日无变化
 - 请勿用于非法用途
-### DNS规则库
+#### DNS规则库
 | 📦 List | 📃 Rule | 🔧 GitHub RAW | 🚀 GitHub CDN
 |  :--:  |  :--:  |     :--:     |     :--:    |
 | 中国IP | china_ip_list.txt | [下载链接](https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_ip_list.txt) | [加速链接](https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/china_ip_list.txt) |
