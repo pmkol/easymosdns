@@ -1,6 +1,6 @@
 # Powered by Apad.pro
 # https://apad.pro/easymosdns
-# 
+#
 log:
     file: "./mosdns.log"
     level: error
@@ -11,6 +11,9 @@ data_providers:
     auto_reload: true
   - tag: gfwlist
     file: ./rules/gfw_domain_list.txt
+    auto_reload: true
+  - tag: cdncn
+    file: ./rules/cdn_domain_list.txt
     auto_reload: true
   - tag: chinaip
     file: ./rules/china_ip_list.txt
@@ -111,7 +114,7 @@ plugins:
       upstream:
         - addr: "tls://120.53.53.53:853"
           enable_pipeline: true
-        - addr: "223.5.5.5"
+        - addr: "udpme://223.5.5.5"
           trusted: true
   - tag: forward_alidns
     type: fast_forward
@@ -186,6 +189,13 @@ plugins:
     args:
       domain:
         - "provider:gfwlist"
+
+  # 匹配CDN域名的插件
+  - tag: query_is_cdn_cn_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:cdncn"
 
   # 匹配广告域名的插件
   - tag: query_is_ad_domain
@@ -268,8 +278,8 @@ plugins:
           - _new_nxdomain_response
           - _return
 
-        # 已知的本地域名用本地服务器解析
-        - if: query_is_local_domain
+        # 已知的本地域名或CDN域名用本地服务器解析
+        - if: "(query_is_local_domain) || (query_is_cdn_cn_domain)"
           exec:
             - ecs_auto
             - forward_alidns
