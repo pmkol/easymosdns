@@ -1,4 +1,3 @@
-full:
 full:1.cms.s81c.com
 full:1.www.s81c.com
 full:265.com
