@@ -1970,7 +1970,6 @@
 1tuikem.com
 1uke.com
 1uuc.com
-1v1offcn.com
 1vp.me
 1wandian.com
 1wang.com
@@ -15543,7 +15542,6 @@ clouddn.com
 cloud-dns.net
 cloud-dns.vip
 clouddream.net
-cloudflarea.com
 cloud-frame.com
 cloudgap.net
 cloudgfw.com
@@ -19341,7 +19339,6 @@ dns-vip.net
 dnswa.com
 dnswhk.com
 dnswind.net
-dnsx365.com
 dnsyy.net
 dnszh.com
 dnxp.net
@@ -45806,7 +45803,6 @@ qxxsjk.com
 qxyaoc.com
 qxzc.net
 qxzxp.com
-qy01.com
 qy266.com
 qy6.com
 qy6.net
@@ -49328,7 +49324,6 @@ sjxinxiwang.com
 sjxs.la
 sjybsc.com
 sjycbl.com
-sjyst.net
 sjytech.com
 sjyx.com
 sjyyt.com
