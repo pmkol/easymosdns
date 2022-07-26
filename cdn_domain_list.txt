@@ -487,11 +487,13 @@ full:z0.muscache.com
 full:z1.muscache.com
 full:z2.muscache.com
 regexp:^a[1-5]\.mzstatic\.com$
+regexp:^cdn-akamai-.+\.gog-services\.com$
 regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 regexp:^cl[1-5]\.apple\.com$
 regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
 regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$
+regexp:^gog-cdn-.+\.footprint\.net$
 regexp:^images(-\d)?\.gog-statics\.com$
 regexp:^is[1-5](-ssl)?\.mzstatic\.com$
 regexp:^.+-mihayo\.akamaized\.net$
