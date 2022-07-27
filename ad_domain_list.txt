@@ -3834,7 +3834,6 @@ pimproll.com
 pingback.issuu.com
 ping.kitidi.com
 ping.ublock.org
-pi.pardot.com
 pipedream.wistia.com
 pippio.com
 piquantpigs.com
@@ -4279,6 +4278,7 @@ rulovar.com
 rum-collector-2.pingdom.net
 rum-collector.pingdom.net
 rum-static.pingdom.net
+rum.uptime.com
 runads.com
 runbornto.com
 rundsp.com
