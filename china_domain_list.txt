@@ -938,7 +938,6 @@
 114dns.com
 114dns.net
 114god.com
-114huoche.com
 114hzw.com
 114ic.com
 114ic.net
@@ -9317,7 +9316,6 @@ arpun.com
 arrowos.net
 arrow-tower.com
 art138.com
-art2500.com
 art456.com
 artacode.com
 art-ba-ba.com
@@ -16506,7 +16504,6 @@ coobar.com
 coocaa.com
 coocaatv.com
 coocare.com
-cooch3d.com
 coocox.org
 coodir.com
 coodub.com
@@ -25785,7 +25782,6 @@ haima001.com
 haimacloud.com
 haima.me
 haimawan.com
-haimayisheng.com
 haimi.com
 haimii.com
 haiming-cn.com
@@ -48128,7 +48124,6 @@ sheui.com
 sheup.net
 shevdc.org
 shexiannet.com
-shexun.net
 sheyi8.com
 sheying001.net
 sheyingtg.com
@@ -56294,7 +56289,6 @@ wenxi777.com
 wenxiang.org
 wenxiaoyou.com
 wenxin-ge.com
-wenxingfilter.com
 wenxiu.com
 wenxiushop.com
 wenxue100.com
@@ -64880,7 +64874,6 @@ zhskw.com
 zhsyb.cc
 zhtelecom.com
 zhtmid.com
-zhtzvip.com
 zhu360.com
 zhu7jie.com
 zhuainiu.com
