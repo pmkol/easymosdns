@@ -72,6 +72,8 @@ full:cdn.marketplaceimages.windowsphone.com
 full:cds.apple.com
 full:cds.apple.com.akadns.net
 full:cds-cdn.v.aaplimg.com
+full:certs.apple.com
+full:certs-lb.apple.com.akadns.net
 full:checkin.gstatic.com
 full:china-cdn2.unityads.unity3d.com
 full:china-cdn3.unityads.unity3d.com
@@ -126,6 +128,9 @@ full:contentstore.htcvive.com
 full:corp.google.com
 full:cortexfx.bnpparibas.com
 full:createpoint.qti.qualcomm.com
+full:crl2.alphassl.com
+full:crl.apple.com
+full:crl-lb.apple.com.akadns.net
 full:crl.pki.goog
 full:cs-analytics.htcsense.com
 full:csi-china.l.google.com
@@ -372,6 +377,7 @@ full:sdx.microsoft.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
 full:secaz-fota-dn.samsungdm.com
+full:secure2.alphassl.com
 full:secure.globalsign.com
 full:secure-nikeplus.nike.com
 full:se-edge.itunes.apple.com
