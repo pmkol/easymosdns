@@ -493,6 +493,7 @@ full:z0.muscache.com
 full:z1.muscache.com
 full:z2.muscache.com
 regexp:^a[1-5]\.mzstatic\.com$
+regexp:.+\.azure-dns-([1-9]|10)\.cn$
 regexp:^cdn-akamai-.+\.gog-services\.com$
 regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
