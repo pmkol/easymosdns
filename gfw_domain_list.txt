@@ -4433,6 +4433,7 @@ awsedstart.com
 awseducate.com
 awseducate.net
 awseducate.org
+awsglobalaccelerator.com
 aws-iot-hackathon.com
 awsloft-johannesburg.com
 awsloft-stockholm.com
