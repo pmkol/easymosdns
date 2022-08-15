@@ -182,6 +182,7 @@ full:fs.microsoft.com
 full:g1.gstatic.com
 full:g2.gstatic.com
 full:gameplay.intel.com
+full:gateway.craft.moe
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
 full:gfwsl.geforce.com
