@@ -321,6 +321,7 @@ full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
 full:music.apple.com
 full:nxeassets.xbox.com
+full:ocsp2.apple.com
 full:ocsp2.globalsign.com
 full:ocsp.apple.com
 full:ocsp-data.us.cdnetworks.com
@@ -484,6 +485,7 @@ full:www.parallels.com
 full:www.recaptcha.net
 full:www.renren.com.cdngc.net
 full:www-ssl.intel.com
+full:www.sulwhasoo.com
 full:www.travelzoo.com
 full:www.tutorabc.com
 full:xb.dlservice.microsoft.com

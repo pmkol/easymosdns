@@ -8013,6 +8013,7 @@ codecademy.com
 codecampo.com
 codefarmer.cf
 codeforaliving.io
+codeforces.com
 codeger.com
 codeguru.com
 codei.sh
@@ -15579,6 +15580,7 @@ inyt.com
 ioe.com
 ioffergift.com
 io.freess.org
+ioinformatics.org
 ionic.cf
 iop.org
 i.org
