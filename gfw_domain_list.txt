@@ -5421,6 +5421,9 @@ bigtopsites.com
 biguz.net
 biitii.com
 bijakids.com
+bikaa.xyz
+bikac.xyz
+bikaios.xyz
 bild.de
 bilibili230.com
 bilibili301.xyz
@@ -21668,8 +21671,11 @@ pianku.me
 pianopiano.pt
 piavpn.com
 pic5.pixclub.net
+picacg2022.com
+picacn.xyz
 picacomiccn.com
 picacomic.com
+picacomic.xyz
 picasa.com
 picasaweb.com
 picasaweb.net
@@ -28808,6 +28814,7 @@ wii-u.com
 wiiugamepad.com
 wiivc.net
 wikaba.com
+wikawika.xyz
 wiki22.ml
 wiki2.org
 wiki3.cf

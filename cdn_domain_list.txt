@@ -71,6 +71,7 @@ full:cdn.loli.net
 full:cdn.marketplaceimages.windowsphone.com
 full:cds.apple.com
 full:cds.apple.com.akadns.net
+full:cdsassets.apple.com
 full:cds-cdn.v.aaplimg.com
 full:certs.apple.com
 full:certs-lb.apple.com.akadns.net
@@ -270,6 +271,7 @@ full:international.download.nvidia.com
 full:international-gfe.download.nvidia.com
 full:iosapps.itunes.apple.com
 full:iosapps.itunes.g.aaplimg.com
+full:ipcdn.apple.com
 full:iphone-ld.apple.com
 full:is1.mzstatic.com
 full:is1-ssl.mzstatic.com
@@ -358,6 +360,7 @@ full:prm.dji.com
 full:prod-support.apple-support.akadns.net
 full:productcard.gog-statics.com
 full:profile.xboxlive.com
+full:publicassets.cdn-apple.com
 full:qh.dlservice.microsoft.com
 full:recaptcha.net
 full:redirector.gvt1.com
@@ -391,6 +394,7 @@ full:shop.samsung.com
 full:silverlight.dlservice.microsoft.com
 full:sina.com.hk
 full:slupdate.dlservice.microsoft.com
+full:smp-device-content.apple.com
 full:s.mzstatic.com
 full:source.tutorabc.com
 full:speedtest.xboxlive.com
