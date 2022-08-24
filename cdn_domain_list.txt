@@ -504,6 +504,8 @@ regexp:.+\.azure-dns-([1-9]|10)\.cn$
 regexp:^cdn-akamai-.+\.gog-services\.com$
 regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+regexp:.+\.cdnhwc([1-9]|10)\.cn$
+regexp:.+\.cdnhwc([1-9]|10)\.com$
 regexp:^cl[1-5]\.apple\.com$
 regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
 regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$
