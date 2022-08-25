@@ -1380,7 +1380,6 @@ beabsolom.com
 beaconacceptable.com
 beacon.cdnma.com
 beacon.errorception.com
-beacon.fusioncdn.com
 beacon.gu-web.net
 beacon.mlytics.com
 beacon.riskified.com
@@ -3144,7 +3143,6 @@ linktarget.com
 liquidad.narrowcastmedia.com
 litheremility.site
 litix.io
-littlecdn.com
 littlecutecats.com
 littlecutedogs.com
 littlecutelions.com
