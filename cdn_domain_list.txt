@@ -424,6 +424,7 @@ full:study.163.com
 full:su.itunes.apple.com
 full:support.apple.com
 full:support-china.apple-support.akadns.net
+full:swallow.apple.com
 full:swcatalog.apple.com
 full:swcatalog-cdn.apple.com.akadns.net
 full:swcdn.apple.com
