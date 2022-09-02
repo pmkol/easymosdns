@@ -3725,11 +3725,13 @@ apa.org
 apartmentratings.com
 apartments.com
 apat1989.org
+ap-bangkok.myqcloud.com
 apcrwangpian.com
 apetube.com
 apexlegends.com
 apfi-jatim.org
 apfritts.com
+ap-hongkong.myqcloud.com
 api17tp.apitilt.com
 api1.sg8888.ws
 api1.sg888.net
@@ -3769,6 +3771,7 @@ api.trajectore.com
 api-verify.recaptcha.net
 api.xc17868.com
 api.zdqp11.com
+ap-jakarta.myqcloud.com
 apjforex.com
 apk2.cf
 apk2.ml
@@ -3792,6 +3795,7 @@ aple.com
 aplestore.com
 aplleipods.com
 aplusvpn.com
+ap-mumbai.myqcloud.com
 apne.tv
 apnews.com
 apocalisselaica.net
@@ -4036,11 +4040,14 @@ appye.com
 appyq.com
 apress.com
 apsense.com
+ap-seoul.myqcloud.com
+ap-singapore.myqcloud.com
 aps.org
 ap-southeast-1.myhuaweicloud.com
 ap-southeast-2.myhuaweicloud.com
 ap-southeast-3.myhuaweicloud.com
 aptoide.com
+ap-tokyo.myqcloud.com
 apture.com
 apyle.com
 aq
@@ -6873,6 +6880,7 @@ cadillac
 ca.etitrans.com
 cafedots.com
 cafepress.com
+ca.file.myqcloud.com
 cahr.org.tw
 cai8wan.com
 caige.a2020.com
@@ -8222,7 +8230,10 @@ cortanaanalytics.com
 cortanaskills.com
 cortexrpg.com
 corumcollege.com
+cosca.myqcloud.com
 cosersuki.net
+cosger.myqcloud.com
+coshk.myqcloud.com
 cosmic.monar.ch
 cos-moe.com
 cosmosdb.info
@@ -8232,6 +8243,7 @@ cosplaybutts.com
 cosplay-jav.com
 cosplayjav.pl
 cosplayporntube.com
+cossgp.myqcloud.com
 costcobusinessdelivery.com
 costco.com
 costco-static.com
@@ -10615,7 +10627,9 @@ eu49.com
 eubluecardvisa.com
 eucasino.com
 eu-consumer-empowerment.com
+eu-frankfurt.myqcloud.com
 eulam.com
+eu-moscow.myqcloud.com
 eu.org
 euphotravel.com
 eurashe.be
@@ -12666,6 +12680,7 @@ geph.io
 gequ888.com
 geraldoatlarge.com
 gerefoundation.org
+ger.file.myqcloud.com
 germandeli.com
 gerritcodereview.com
 gesgxsj.com
@@ -14327,6 +14342,7 @@ hket.com
 hketgroup.com
 hkex.la
 hkfaa.com
+hk.file.myqcloud.com
 hkfreezone.com
 hk.frienddy.com
 hkfront.org
@@ -19724,6 +19740,7 @@ n8photos.com
 n9919.com
 na
 naacoalition.org
+na-ashburn.myqcloud.com
 na-att-idns.net
 nab
 nachovidal.com
@@ -19775,6 +19792,7 @@ naol.ca
 naol.cc
 napiszex.com
 narutopixxx.com
+na-siliconvalley.myqcloud.com
 nas.overock.com
 naspers
 nasty.singles
@@ -19794,6 +19812,7 @@ nationsonline.org
 nationwide
 nationwide.com
 nat.moe
+na-toronto.myqcloud.com
 natura
 naturalvoices.com
 nature.com
@@ -23710,6 +23729,7 @@ sarapbabe.com
 sarathyweb.com
 sarkarinaukriblog.com
 sas
+sa-saopaulo.myqcloud.com
 sastradana.com
 satan18av.com
 saturnvpn.com
@@ -24189,6 +24209,7 @@ sg9095.com
 sg9097.com
 sgforums.com
 sgp1.fun
+sgp.file.myqcloud.com
 sgtsourcing.box.com
 sg.yepdns.com
 sg-zxc.serverip.co
