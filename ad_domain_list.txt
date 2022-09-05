@@ -1007,7 +1007,6 @@ analytics.clickdimensions.com
 analytics.cloudron.io
 analytics.diyriver.io
 analytics-eu.clickdimensions.com
-analytics.ff.avast.com
 analytics.gavelz.com
 analytics.getshogun.com
 analytics.gismart.xyz
@@ -1121,7 +1120,6 @@ appia.com
 appier.com
 applescringe.com
 applog.camera360.com
-app-measurement.com
 appolicious.com
 app-promo.com
 apprebates.com
