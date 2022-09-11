@@ -29,6 +29,7 @@ full:appleid.cdn-apple.com
 full:app-measurement-cn.com
 full:app-measurement.com
 full:apps.apple.com
+full:app-site-association.cdn-apple.com
 full:apps.mzstatic.com
 full:apptrailers.itunes.apple.com
 full:ark.intel.com
@@ -138,6 +139,7 @@ full:csi-china.l.google.com
 full:csi.gstatic.com
 full:c.s-microsoft.com
 full:cstat.apple.com
+full:cstat.cdn-apple.com
 full:ctldl.windowsupdate.com
 full:dartsearch-cn.net
 full:dd-cdn.origin-apple.com.akadns.net
