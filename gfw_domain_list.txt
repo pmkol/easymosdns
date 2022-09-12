@@ -1313,6 +1313,7 @@
 4club.com
 4dq.com
 4ebaytraders.com
+4everland.io
 4everproxy.com
 4freeproxy.com
 4gtv.tv
@@ -4457,6 +4458,7 @@ awabo.com
 awayoutgame.com
 awc7.com
 aweencore.com
+awempire.com
 awetv.com
 awflapp.top
 awk.so
@@ -5666,6 +5668,7 @@ blm898.com
 blmdc7.com
 blockbuster
 blockbuster.com
+blockcast.it
 blockcn.com
 blockedbyhk.com
 blockedinchina.net
@@ -6783,6 +6786,7 @@ c3344.com
 c3j.fun
 c.3mon.xyz
 c4288.com
+c4rex.co
 c4story.com
 c4v6d7v3.stackpathcdn.com
 c5007.com
@@ -7315,6 +7319,7 @@ cfake.com
 cfan.xyz
 cfblob.com
 cfhks.org.hk
+cf-ipfs.com
 cfna.com
 cfos.de
 cfr.org
@@ -7547,7 +7552,6 @@ chinasmile.net
 chinasocialdemocraticparty.com
 chinasoul.org
 chinasucks.net
-chinatalk.substack.com
 china.tg
 chinatibettrain.com
 chinatimes.com
@@ -7596,7 +7600,6 @@ chineseradiony.com
 chineseradioseattle.com
 chinese.soifind.com
 chinesespanking.com
-chinesestorytellers.substack.com
 chinesetalks.net
 chineseupress.com
 chingcheong.com
@@ -8362,6 +8365,7 @@ crs
 crucial.com
 cruisecritic.com
 crunchyroll.com
+crustwebsites.net
 crv2000.com
 cryptocat.com
 cryptocert.org
@@ -9453,6 +9457,8 @@ doceapower.com
 docker.com
 docker.io
 dockerizer.com
+docleradn.com
+doclercdn.com
 do.co
 docomo
 docs.com
@@ -10194,7 +10200,6 @@ edupro.org
 edu-research.org
 eduvpn.com
 edwardsalem.com
-edwardsnowden.substack.com
 edwingomez.com
 edx-cdn.org
 edx.org
@@ -12476,6 +12481,7 @@ gate-project.com
 gateway.dev
 gateway.jb88app.com
 gateway.jbo25.com
+gateway.pinata.cloud
 gateway.tlc801.com
 gatewayus.com
 gather.com
@@ -14942,7 +14948,6 @@ hybssr.org
 hyc1324.com
 hyc1324.xyz
 hychot4.xyz
-hyperbolea.substack.com
 hyper.co
 hyper.is
 hyperrate.com
@@ -15684,8 +15689,15 @@ ipchanging.com
 ipconceal.com
 ipdisguiser.com
 ipfire.org
+ipfs.anonymize.com
+ipfs.eternum.io
+ipfs.eth.aragon.network
+ipfs.fleek.co
+ipfs-gateway.cloud
 ipfs.infura.io
 ipfs.io
+ipfs.lain.la
+ipfs.runfission.com
 ipfs.smartsignature.io
 ipge.com
 ipgphotonics.box.com
@@ -15738,6 +15750,7 @@ ipjetable.net
 ipjlvpn.com
 ipleadership.org
 iplogger.org
+ipns.co
 ipo-90.maaii.com
 ipobar.com
 ipod.ch
@@ -15991,7 +16004,6 @@ iyb88.com
 iyottube.com
 iyouport.com
 iyouport.org
-iyouport.substack.com
 iyoutube.com
 iysse.com
 izaobao.us
@@ -16467,6 +16479,7 @@ jonward.com
 joox.com
 jornaldacidadeonline.com.br
 jorn.net
+jorropo.net
 jos.com
 joshuarue.com
 jotform.com
@@ -17462,13 +17475,13 @@ liboggirls.net
 librarylovefest.com
 library.pressdisplay.com
 library.usc.cuhk.edu.hk
+libredd.it
 libreswan.org
 libsolutions.app
 libsolutions.domains
 libsolutions.net
 licdn.com
 licensebuttons.net
-lidecheng.com
 lidl
 liecut.net
 lifechanyuan.org
@@ -17697,6 +17710,7 @@ logitechg.com
 logos.com.hk
 logular.com
 loholidayhk.com
+lokinet.org
 lolclub.org
 lolespor.com
 lolesports.com
@@ -18510,6 +18524,7 @@ mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 metacafe.com
 metacloud.com
+meta.com
 metacpan.org
 metafilter.com
 metamind.io
@@ -20127,6 +20142,7 @@ nfoxo.com
 nfscdict.com
 nfsc.global
 nfsworld.com
+nftstorage.link
 ng
 nga.mil
 ngan.ml
@@ -21048,6 +21064,7 @@ oraclefoundation.org
 oracleimg.com
 oracleinfinity.io
 orange
+oranum.com
 orbitera.com
 orchid.com
 order.shadowsocks.ch
@@ -25386,6 +25403,7 @@ submit.jotformz.com
 submityourflicks.com
 submityourtapes.com
 subscene.com
+substack.com
 successfn.com
 successwithteams.com
 suche.gmx.net
@@ -27866,6 +27884,7 @@ vhxqa4.com
 vhxqa6.com
 vhx.tv
 vi
+via0.com
 viacbs.com
 viacomcbs.com
 viacomcbspressexpress.com
@@ -33931,7 +33950,6 @@ yinmh.com
 yippy.com
 yipub.com
 yiqiedoushiganggangkaishi.org
-yisay.substack.com
 yivarlden.com
 yiyechat.com
 yiyuanjy.w185-e0.ezwebtest.com
