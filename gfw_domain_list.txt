@@ -7856,6 +7856,7 @@ cloudflare-quic.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
+cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
@@ -23300,6 +23301,7 @@ renzhe.cloud
 renzhecloud.com
 repo.akii.art
 repo.brucezhang.cf
+repo.new
 repostone.home.blog
 repsneakermall.com
 repswing.com
@@ -25177,6 +25179,7 @@ starchu.com
 starcraft2.com
 starcraft.com
 starfares.com
+starfieldtech.com
 starfishfx.com
 starfox.com
 starhub
