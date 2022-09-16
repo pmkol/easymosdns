@@ -4034,7 +4034,6 @@ app-store.wang
 apptopia.com
 app.tutanota.com
 appule.com
-app.uniswap.org
 app.vsight.io
 app.xmx-134-1.com
 appye.com
@@ -7226,7 +7225,6 @@ cdn77.com
 cdn77.org
 cdn-apple.com
 cdn.assets.lfpcontent.com
-cdn.cms-twdigitalassets.com
 cdnews.com.tw
 cdn.helixstudios.net
 cdn.hkwesi22222.xyz
@@ -7913,6 +7911,7 @@ cmsc106.net
 cms.gov
 cms.korea.net
 cm.spacetechnology.net
+cms-twdigitalassets.com
 cmule.com
 cmule.net
 cmule.org
@@ -8071,6 +8070,7 @@ coinegg.com
 coinex.com
 coingecko.com
 coingi.com
+coinglass.com
 coinmarketcap.com
 coinonecore.com
 coinonecorp.com
@@ -8371,6 +8371,7 @@ crv2000.com
 cryptocat.com
 cryptocert.org
 cryptocoinsnews.com
+cryptocompare.com
 cryptocurrencytalk.com
 cryptomeans.co
 cryptorarium.com
@@ -8935,6 +8936,7 @@ dealtree.org
 dearelder.com
 deasians.com
 deathbychina.com
+debank.com
 debate.org
 debian.org
 debug.com
@@ -15443,6 +15445,7 @@ infotmj.com
 infowars.com
 infowarsmedia.com
 infrapedia.com
+infura.io
 infy
 ingads.com
 ingarden.pt
@@ -15696,7 +15699,6 @@ ipfs.eternum.io
 ipfs.eth.aragon.network
 ipfs.fleek.co
 ipfs-gateway.cloud
-ipfs.infura.io
 ipfs.io
 ipfs.lain.la
 ipfs.runfission.com
@@ -19707,6 +19709,7 @@ mythicentertainment.com
 mythicentertainment.net
 mythicgames.com
 mytizi.com
+mytokenapi.com
 my.tranzact.com
 mytubeweb.com
 mytving.com
@@ -26813,6 +26816,7 @@ trueamateurs.com
 trueanal.com
 truebuddha-md.org
 truedepth3d.com
+truefi.io
 tru.io
 trulyergonomic.com
 trustdoc.ch
@@ -27164,8 +27168,10 @@ twitstat.com
 twittbot.net
 twitter4j.org
 twitter.com
+twittercommunity.com
 twittercounter.com
 twitterfeed.com
+twitterflightschool.com
 twittergadget.com
 twitterinc.com
 twitter.jp
@@ -27453,6 +27459,7 @@ unification.net
 unification.org.tw
 uninhibitedcomix.com
 unirule.cloud
+uniswap.org
 unite4tibet.org
 unitedsocialpress.com
 unitefortibet.org

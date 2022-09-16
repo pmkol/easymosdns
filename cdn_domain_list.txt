@@ -511,10 +511,12 @@ regexp:.+\.cdnhwc([1-9]|10)\.cn$
 regexp:.+\.cdnhwc([1-9]|10)\.com$
 regexp:^cl[1-5]\.apple\.com$
 regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
+regexp:.+\.dnse[0-5]\.(cn|com)$
 regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$
 regexp:^gog-cdn-.+\.footprint\.net$
 regexp:^images(-\d)?\.gog-statics\.com$
 regexp:^is[1-5](-ssl)?\.mzstatic\.com$
 regexp:^.+-mihayo\.akamaized\.net$
 regexp:^s[1-5]?\.mzstatic\.com$
+regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
 regexp:^(.+\.)*zh\.okaapps\.com$
