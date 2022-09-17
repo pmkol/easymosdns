@@ -7220,6 +7220,7 @@ c-dellis.com
 cdig.info
 cdjp.org
 cdkworkshop.com
+cdmatech.com
 cdn1.lp.saboom.com
 cdn77.com
 cdn77.org
@@ -8872,6 +8873,7 @@ dc996.com
 dc9977.com
 dcard.cc
 dcard.io
+dcard.link
 dcard.tw
 dcdbjkjn.fzgyh.com
 dchome.net
@@ -19965,7 +19967,9 @@ netflixdnstest9.com
 netflixinvestor.com
 netflix.net
 netflixtechblog.com
+netlify.app
 netlify.com
+netlifystatus.com
 netme.cc
 netmums.com
 netpornsex.com
