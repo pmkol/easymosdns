@@ -232,12 +232,6 @@ plugins:
       ip:
         - "provider:gfwip"
 
-  # 匹配RCODE2的插件
-  - tag: response_server_failed
-    type: response_matcher
-    args:
-      rcode: [2]
-
   # 主要的运行逻辑插件
   # sequence 插件中调用的插件 tag 必须在 sequence 前定义
   # 否则 sequence 找不到对应插件
@@ -267,10 +261,10 @@ plugins:
         # 强制用非本地服务器解析
         - if: query_is_tw_domain
           exec:
-           - ecs_tw
-           - forward_googledns
-           - ttl_long
-           - _return
+            - ecs_tw
+            - forward_googledns
+            - ttl_long
+            - _return
 
         # 屏蔽广告域名
         - if: query_is_ad_domain
@@ -290,28 +284,32 @@ plugins:
           exec:
             - _prefer_ipv4
             - ecs_cn
-            - forward_remote
+            - forward_googledns
             - _return
 
-        # 剩下的未知域名用IP分流，分流原理请参考fallback的工作流程
-          # primary 从本地服务器获取应答，丢弃非本地IP或污染IP的结果
-        - primary:
+        # 已知的本地IP从本地服务器获取应答
+        - if: "(response_has_local_ip) && [_response_valid_answer]"
+          exec:
             - ecs_auto
             - forward_local
-            - ttl_short
-            - if: "(! response_has_local_ip) && [_response_valid_answer] || (response_has_gfw_ip)"
-              exec:
-                - _drop_response
-          # secondary 从远程服务器获取应答，无法解析的域名从本地服务器获取应答
-          secondary:
+            - _return
+
+        # 剩下的非本地IP从远程服务器获取应答，原理请参考fallback的工作流程
+          # primary 从远程服务器获取应答，丢弃污染IP的结果
+        - primary:
             - _prefer_ipv4
             - ecs_global
+            - forward_googledns
+            - ttl_short
+            - if: response_has_gfw_ip
+              exec:
+                - _drop_response
+          # secondary 从远程服务器获取应答，隐藏真实ECS信息
+          secondary:
+            - _prefer_ipv4
+            - ecs_cn
             - forward_remote
             - ttl_long
-            - if: "response_server_failed"
-              exec:
-                - forward_local
-                - ttl_long
           # 这里建议设置成 local 服务器正常延时的 2~5 倍
           # 这个延时保证了 local 延时偶尔变高时，其结果不会被 remote 抢答
           # 如果 local 超过这个延时还没响应，可以假设 local 出现了问题

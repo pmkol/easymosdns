@@ -6,7 +6,6 @@
 #
 mosdns_working_dir="/etc/mosdns"
 source $mosdns_working_dir/include.conf
-sed -i '/^            - forward_remote/c\            - forward_host_socks' $mosdns_working_dir/config.yaml
 #sed -i '/^            - forward_host_socks/c\            - forward_host_socks' $mosdns_working_dir/config.yaml
 sed -i '/^            - forward_googledns/c\            - forward_host_socks' $mosdns_working_dir/config.yaml
 sed -i '/^            - forward_googledns_socks/c\            - forward_host_socks' $mosdns_working_dir/config.yaml

@@ -22,7 +22,7 @@
 #### 转发规则：
 
 - 本地上游使用 DNSPod | AliDNS
-- 远程上游使用 GoogleDNS | OpenDNS
+- 远程上游使用 GoogleDNS
 - 远程上游备用 GeekDNS | TUNA DNS
 - 支持使用socks5代理连接 远程上游
 - 支持切换本地/远程上游转发的DNS
@@ -151,12 +151,7 @@ chmod +x /etc/mosdns/tools/config-reset
 
 #### 切换远程上游DNS
 
-- GoogleDNS + OpenDNS (推荐)
-```bash
-/etc/mosdns/remote/remote
-```
-
-- GoogleDNS
+- GoogleDNS (默认)
 ```bash
 /etc/mosdns/remote/googledns
 ```
