@@ -287,34 +287,30 @@ plugins:
             - forward_googledns
             - _return
 
-        # 已知的本地IP从本地服务器获取应答
-        - if: "(response_has_local_ip) && [_response_valid_answer]"
-          exec:
-            - ecs_auto
-            - forward_local
-            - _return
-
-        # 剩下的非本地IP从远程服务器获取应答，原理请参考fallback的工作流程
-          # primary 从远程服务器获取应答，丢弃污染IP的结果
+        # 剩下的未知域名用IP分流，分流原理请参考fallback的工作流程
+          # primary 从远程服务器获取应答，丢弃本地IP的结果
         - primary:
             - _prefer_ipv4
             - ecs_global
             - forward_googledns
             - ttl_short
-            - if: response_has_gfw_ip
+            - if: response_has_local_ip
               exec:
                 - _drop_response
-          # secondary 从远程服务器获取应答，隐藏真实ECS信息
+          # secondary 从本地服务器获取应答
           secondary:
             - _prefer_ipv4
-            - ecs_cn
-            - forward_remote
-            - ttl_long
-          # 这里建议设置成 local 服务器正常延时的 2~5 倍
-          # 这个延时保证了 local 延时偶尔变高时，其结果不会被 remote 抢答
-          # 如果 local 超过这个延时还没响应，可以假设 local 出现了问题
-          # 这时用就采用 remote 的应答。单位: 毫秒
-          fast_fallback: 150
+            - ecs_auto
+            - forward_local
+            - if: "(! response_has_local_ip) && [_response_valid_answer] || (response_has_gfw_ip)"
+              exec:
+                - ecs_auto
+                - forward_remote
+                - ttl_long
+          # 如果 primary 超过这个延时还没响应，可以假设 primary 出现了问题
+          # 这时会采用 secondary 应答。单位: 毫秒
+          fast_fallback: 2200
+          always_standby: false
 
 servers:
   - exec: main_sequence
