@@ -3023,6 +3023,7 @@ affiliate.pncle8.com
 affiliates.abab16.com
 affiliate.w88win.com
 aff.imoredo.com
+affirmtrust.com
 aff.lolxtv.com
 aff.ptw8.com
 affsal365.com
@@ -4299,6 +4300,7 @@ atlasvpn.com
 atnext.com
 atom.io
 atomyteam.com
+atos.net
 atozproxy.com
 atriumesoteric.org
 atscaleconference.com
@@ -7059,6 +7061,7 @@ camelotherald.net
 camelphat.com
 camelspaceeffect.com
 cameraboys.com
+camerfirma.com
 camfinder.com
 camfox.com
 camfrog.com
@@ -7442,8 +7445,10 @@ cepacol.com
 cerdas.com
 cern
 cern.ch
+certificat2.com
 certificate.revocationcheck.com
 certificate-transparency.org
+certinomis.com
 cervetoria.pt
 c-est-simple.com
 cevin.me
@@ -9937,6 +9942,7 @@ dtci.technology
 dtdns.net
 dtiblog.com
 dtic.mil
+d-trust.net
 dtsell.com
 dtunnel.com
 dtv
@@ -10813,6 +10819,7 @@ ets.cc
 etsy.com
 ettego.com
 ettoday.net
+e-tugra.com
 etviet.com
 etvonline.hk
 etwealth.com
@@ -11726,6 +11733,7 @@ firestonetire.com
 firetell.net
 firetweet.io
 firevpn.net
+firmaprofesional.com
 firmdale
 firstanalquest.com
 firstasianpussy.com
@@ -12672,6 +12680,7 @@ gamingsoft.com
 gammalikker.net
 gamousa.com
 gandhidham.com
+gandi.net
 ganetstudio.com
 ganges.com
 ganjingworld.com
@@ -15684,6 +15693,7 @@ incestvidz.com
 incezt.net
 incloak.com
 inclusivegrowthscore.com
+incommon-rsa.org
 incredibox.fr
 indazn.com
 indaznlab.com
@@ -15735,6 +15745,8 @@ influencersgonewild.com
 infmeta.com
 info140419.over-blog.com
 info-buddhism.com
+infocert.digital
+infocert.it
 infodns.xyz
 infofalungong.net
 info.gf
@@ -17758,6 +17770,7 @@ letou-bet.com
 letou.com
 letou.link
 letscorp.net
+letsencrypt.com
 letsencrypt.org
 letsfuckme.net
 letsjerk.cc
@@ -18487,6 +18500,7 @@ mammothtube.com
 man
 managedmeetingrooms.com
 managed-pki.ch
+managedpki.com
 manarat.com
 manbetx711.com
 manbetx852.com
@@ -19888,6 +19902,7 @@ myamateurgirls.net
 myanmar-porn.com
 myanniu.com
 myappleid.com
+myatos.net
 myaudiocast.com
 myav123.com
 myav.com.tw
@@ -20115,6 +20130,7 @@ m.yuyan.live
 myvalleynews.com
 myvisaluxuryhotels.com
 myvnc.com
+myvodafone.com.ws
 myway.com
 mywaytopay.info
 mywaytopay.net
@@ -20376,6 +20392,7 @@ netpornsex.net
 netsarang.com
 netsee.co
 netsneak.com
+netsolssl.com
 nettyinternet.com
 netvideogirls.com
 netvigator.com
@@ -21159,6 +21176,7 @@ ocry.com
 ocsp-certum.com
 ocsp.int-x3.letsencrypt.org
 ocsp-lb.apple.com.akadns.net
+ocsp-responder.com
 october-review.org
 octoteam.com
 octrev.mysrvnet.com
@@ -21288,6 +21306,7 @@ omgili.com
 omgteens.com
 omhsstaff.org
 omni7.jp
+omniroot.com
 omnitalk.com
 omnitalk.org
 omnitek.tv
@@ -22172,7 +22191,6 @@ pexcn.me
 pf
 pf.anonplus.org
 pfdc89.com
-pfd.org.hk
 pfizer
 pg
 pgafan.net
@@ -23200,6 +23218,7 @@ publicidees.com
 publicpornvideo.com
 publicsexhub.com
 public-sex-porn.com
+public-trust.com
 publishproxy.com
 pubmatic.com
 pubu.com.tw
@@ -23454,6 +23473,7 @@ quoracdn.net
 quora.com
 quotable.com
 quota.com
+quovadisglobal.com
 quran.com
 quranexplorer.com
 quranicaudio.com
@@ -26238,6 +26258,9 @@ syinji4.xyz
 syjidh1.xyz
 sylfoundation.org
 symantec
+symantec.com
+symcb.com
+symcd.com
 s.ymk.im
 synaptic.net
 sync2it.com
@@ -27396,6 +27419,7 @@ trellocdn.com
 trello.com
 trementina.ml
 trendhunter.com
+trendmicro.com
 trendsmap.com
 trendyporn.com
 treverix.com
@@ -27439,10 +27463,12 @@ truedepth3d.com
 truefi.io
 tru.io
 trulyergonomic.com
+trustcor.com
 trustdoc.ch
 trustedanalytics.com
 trustedanalytics.net
 trustedreviews.com
+trustisfps.com
 trust-provider.com
 trustsign.ch
 trustwave.com
@@ -28904,6 +28930,8 @@ voc.tv
 vocus.cc
 vod360.net
 vod-abematv.akamaized.net
+vodafone.com
+vodafone.it
 vod.com
 vodka
 vo.domain888.pw
@@ -29760,6 +29788,9 @@ wirelessreach.com
 wiremoneytoirelandwithxoomeasierandcheaper.com
 wireshark.org
 wisdompubs.org
+wisecoin.com
+wiseid.com
+wisekey.com
 wise-research.com
 wisevid.com
 wish.com
