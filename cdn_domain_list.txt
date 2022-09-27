@@ -153,6 +153,8 @@ full:dlassets.xboxlive.com
 full:dlcdnets.asus.com
 full:dl.google.com
 full:dl.l.google.com
+full:dl-origin.ubnt.com
+full:dl.ubnt.com
 full:docs.microsoft.com
 full:doubleclick-cn.net
 full:doubleclick.net
