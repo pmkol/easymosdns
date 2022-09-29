@@ -6394,6 +6394,7 @@ boston
 bostonangelclub.com
 bostonherald.com
 bostontibet.org
+boswp.com
 botanwang.com
 botframework.com
 bot.nu
@@ -17403,6 +17404,7 @@ kukuku.uk
 kukuying.com
 kulichan.com
 kum.com
+kumo.com
 kumparan.com
 kundun1069.com
 kuniao.com
@@ -19760,6 +19762,7 @@ msnewskids.com
 msnewskids.net
 msnewskids.org
 msnkids.com
+msn.net
 msocdn.com
 msocsp.com
 msp2.czxujiwq.com
@@ -25294,6 +25297,7 @@ sm.ms
 s.mobileread.com
 smowtion.com
 smpte.org
+s-msft.com
 s-msn.com
 smt.live
 smutcam.com
