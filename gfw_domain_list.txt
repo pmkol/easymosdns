@@ -929,7 +929,6 @@
 2lipstube.com
 2ljz.14.iamallama.com
 2mdn-cn.net
-2mdn.net
 2nine.net
 2ninesm.net
 2o7.net
@@ -3467,6 +3466,7 @@ amazonpay.com
 amazonprimevideos.com
 amazon.red
 amazonsdi.com
+amazonses.com
 amazonstudiosguilds.com
 amazontrust.com
 amazonvideo.cc
@@ -4585,6 +4585,8 @@ azurecosmosdb.info
 azurecosmosdb.net
 azurecosmos.net
 azuredatabricks.net
+azure-devices-int.net
+azure-devices.net
 azuredevopslaunch.com
 azuredigitaltwin.com
 azuredigitaltwins.com
@@ -13815,7 +13817,6 @@ gtdollar.com
 g-technology.com
 gtjtht.com
 gtloli.com
-gtm.oasisfeng.com
 gtricks.com
 gts-vpn.com
 g-tun.com
@@ -18506,6 +18507,8 @@ man
 managedmeetingrooms.com
 managed-pki.ch
 managedpki.com
+management-azure-devices-int.net
+management-azure-devices.net
 manarat.com
 manbetx711.com
 manbetx852.com
