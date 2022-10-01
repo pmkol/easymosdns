@@ -23,7 +23,7 @@
 
 - 本地上游使用 DNSPod | AliDNS
 - 远程上游使用 GoogleDNS
-- 远程上游备用 GeekDNS | TUNA DNS
+- 远程上游备用 EasyMosDNS (自建DoH) | TUNA DNS
 - 支持使用socks5代理连接 远程上游
 - 支持切换本地/远程上游转发的DNS
 
@@ -161,9 +161,9 @@ chmod +x /etc/mosdns/tools/config-reset
 /etc/mosdns/remote/googledns-socks
 ```
 
-- GeekDNS
+- EasyMosDNS (自建DoH)
 ```bash
-/etc/mosdns/remote/geekdns
+/etc/mosdns/remote/easymosdns
 ```
 
 - TUNADNS

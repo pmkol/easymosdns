@@ -94,17 +94,34 @@ plugins:
       minimal_ttl: 300
       maximum_ttl: 3600
 
-  # 屏蔽TYPE65类型请求的插件
+  # 匹配TYPE12类型请求的插件
+  - tag: response_ptr
+    type: query_matcher
+    args:
+      qtype: [12]
+
+  # 匹配TYPE65类型请求的插件
   - tag: qtype65
     type: query_matcher
     args:
       qtype: [65]
+      
+  # 屏蔽请求的插件
   - tag: black_hole
     type: blackhole
     args:
       rcode: 0
       ipv4: "127.0.0.1"
       ipv6: "::1"
+
+  # 匹配Akamai的插件
+  - tag: response_cname_akamai
+    type: response_matcher
+    args:
+      cname:
+        - "akamaiedge.net"
+        - "akadns.net"
+        - "edgekey.net"
 
   # 转发至本地服务器的插件
   # [local|alidns|dnspod]
@@ -160,15 +177,14 @@ plugins:
           enable_pipeline: true
 
   # 转发至本地无污染服务器的插件
-  # [geekdns|tunadns]
-  - tag: forward_geekdns
+  # [easymosdns|tunadns]
+  - tag: forward_easymosdns
     type: forward
     args:
       upstream:
-        - addr: "tls://v.233py.com:853"
+        - addr: "https://doh.apad.pro/dns-query"
       bootstrap:
         - "119.29.29.29"
-        - "223.5.5.5"
       timeout: 5
   - tag: forward_tunadns
     type: fast_forward
@@ -242,6 +258,9 @@ plugins:
         # 域名映射IP
         - hosts
 
+        # 获取ECS
+            - ecs_auto
+
         # 缓存
         - cache
 
@@ -252,9 +271,8 @@ plugins:
           - _return
 
         # 强制用本地服务器解析
-        - if: query_is_cn_domain
+        - if: "(query_is_cn_domain) || [response_ptr]"
           exec:
-            - ecs_auto
             - forward_alidns
             - _return
 
@@ -275,7 +293,6 @@ plugins:
         # 已知的本地域名或CDN域名用本地服务器解析
         - if: "(query_is_local_domain) || (query_is_cdn_cn_domain)"
           exec:
-            - ecs_auto
             - forward_alidns
             - _return
 
@@ -294,7 +311,7 @@ plugins:
             - ecs_global
             - forward_googledns
             - ttl_short
-            - if: response_has_local_ip
+            - if: "(response_has_local_ip) || (response_cname_akamai)"
               exec:
                 - _drop_response
           # secondary 从本地服务器获取应答
@@ -309,7 +326,7 @@ plugins:
                 - ttl_long
           # 如果 primary 超过这个延时还没响应，可以假设 primary 出现了问题
           # 这时会采用 secondary 应答。单位: 毫秒
-          fast_fallback: 2200
+          fast_fallback: 2500
           always_standby: false
 
 servers:
