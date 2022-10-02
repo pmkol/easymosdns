@@ -929,6 +929,7 @@
 2lipstube.com
 2ljz.14.iamallama.com
 2mdn-cn.net
+2mdn.net
 2nine.net
 2ninesm.net
 2o7.net
@@ -10682,6 +10683,7 @@ erlang.org
 ernestmandel.org
 erni
 ero-anime.net
+eroan.xyz
 ero-comic-hunter.net
 erocool.net
 erocurves.com
@@ -13627,7 +13629,6 @@ googlesyndication-cn.com
 google-syndication.com
 googlesyndication.com
 googletagmanager-cn.com
-googletagmanager.com
 googletagservices-cn.com
 googletagservices.com
 google.td
