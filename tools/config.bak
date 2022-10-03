@@ -94,8 +94,8 @@ plugins:
       minimal_ttl: 300
       maximum_ttl: 3600
 
-  # 匹配TYPE12类型请求的插件
-  - tag: response_ptr
+  # 匹配PTR类型请求的插件
+  - tag: query_is_ptr
     type: query_matcher
     args:
       qtype: [12]
@@ -122,6 +122,62 @@ plugins:
         - "akamaiedge.net"
         - "akadns.net"
         - "edgekey.net"
+
+  # 匹配本地域名的插件
+  - tag: query_is_local_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:chinalist"
+
+  # 匹配污染域名的插件
+  - tag: query_is_non_local_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:gfwlist"
+
+  # 匹配CDN域名的插件
+  - tag: query_is_cdn_cn_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:cdncn"
+
+  # 匹配广告域名的插件
+  - tag: query_is_ad_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:adlist"
+
+  # 匹配强制本地解析域名的插件
+  - tag: query_is_cn_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:ecscn"
+
+  # 匹配强制非本地解析域名的插件
+  - tag: query_is_tw_domain
+    type: query_matcher
+    args:
+      domain:
+        - "provider:ecstw"
+
+  # 匹配本地IP的插件
+  - tag: response_has_local_ip
+    type: response_matcher
+    args:
+      ip:
+        - "provider:chinaip"
+
+  # 匹配污染IP的插件
+  - tag: response_has_gfw_ip
+    type: response_matcher
+    args:
+      ip:
+        - "provider:gfwip"
 
   # 转发至本地服务器的插件
   # [local|alidns|dnspod]
@@ -192,62 +248,6 @@ plugins:
       upstream:
         - addr: "https://101.6.6.6:8443/dns-query"
 
-  # 匹配本地域名的插件
-  - tag: query_is_local_domain
-    type: query_matcher
-    args:
-      domain:
-        - "provider:chinalist"
-
-  # 匹配污染域名的插件
-  - tag: query_is_non_local_domain
-    type: query_matcher
-    args:
-      domain:
-        - "provider:gfwlist"
-
-  # 匹配CDN域名的插件
-  - tag: query_is_cdn_cn_domain
-    type: query_matcher
-    args:
-      domain:
-        - "provider:cdncn"
-
-  # 匹配广告域名的插件
-  - tag: query_is_ad_domain
-    type: query_matcher
-    args:
-      domain:
-        - "provider:adlist"
-
-  # 匹配强制本地解析域名的插件
-  - tag: query_is_cn_domain
-    type: query_matcher
-    args:
-      domain:
-        - "provider:ecscn"
-
-  # 匹配强制非本地解析域名的插件
-  - tag: query_is_tw_domain
-    type: query_matcher
-    args:
-      domain:
-        - "provider:ecstw"
-
-  # 匹配本地IP的插件
-  - tag: response_has_local_ip
-    type: response_matcher
-    args:
-      ip:
-        - "provider:chinaip"
-
-  # 匹配污染IP的插件
-  - tag: response_has_gfw_ip
-    type: response_matcher
-    args:
-      ip:
-        - "provider:gfwip"
-
   # 主要的运行逻辑插件
   # sequence 插件中调用的插件 tag 必须在 sequence 前定义
   # 否则 sequence 找不到对应插件
@@ -259,7 +259,7 @@ plugins:
         - hosts
 
         # 获取ECS
-            - ecs_auto
+        - ecs_auto
 
         # 缓存
         - cache
@@ -271,7 +271,7 @@ plugins:
           - _return
 
         # 强制用本地服务器解析
-        - if: "(query_is_cn_domain) || [response_ptr]"
+        - if: "(query_is_cn_domain) || [query_is_ptr]"
           exec:
             - forward_alidns
             - _return
@@ -291,7 +291,7 @@ plugins:
           - _return
 
         # 已知的本地域名或CDN域名用本地服务器解析
-        - if: "(query_is_local_domain) || (query_is_cdn_cn_domain)"
+        - if: "(query_is_local_domain) || (query_is_cdn_cn_domain) || (response_cname_akamai)"
           exec:
             - forward_alidns
             - _return
