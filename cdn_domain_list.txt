@@ -136,7 +136,6 @@ full:crl.apple.com
 full:crl-lb.apple.com.akadns.net
 full:crl.pki.goog
 full:cs-analytics.htcsense.com
-full:csi-china.l.google.com
 full:csi.gstatic.com
 full:c.s-microsoft.com
 full:cstat.apple.com
