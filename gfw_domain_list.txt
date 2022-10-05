@@ -13630,6 +13630,7 @@ googlesyndication-cn.com
 google-syndication.com
 googlesyndication.com
 googletagmanager-cn.com
+googletagmanager.com
 googletagservices-cn.com
 googletagservices.com
 google.td
@@ -13819,6 +13820,7 @@ gtdollar.com
 g-technology.com
 gtjtht.com
 gtloli.com
+gtm.oasisfeng.com
 gtricks.com
 gts-vpn.com
 g-tun.com
