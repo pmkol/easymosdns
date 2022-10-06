@@ -685,6 +685,7 @@ ads.space.com
 ads.stackoverflow.com
 adsstat.com
 ads.sun.com
+ads.sunmaker.com
 ads.suomiautomaatti.com
 ads.superawesome.tv
 ads.supplyframe.com
@@ -1660,6 +1661,7 @@ cjbmanagement.com
 cj.com
 cjlog.com
 cjt1.net
+cjt3w2kxrv.com
 claria.com
 claroadsclick.com
 claroads.com
@@ -1892,6 +1894,7 @@ curupeymaceman.com
 cutecushion.com
 cutescale.online
 cuteturkey.com
+cwqljsecvr.com
 cyberbounty.com
 cybermonitor.com
 cynicaugural.com
@@ -2087,6 +2090,7 @@ dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 docksalmon.com
+doerscharre.com
 dogconcurrencesauce.com
 dolesminced.com
 dollsdeclare.com
@@ -2273,7 +2277,6 @@ european-toplist.de
 euroranking.de
 euros4click.de
 eusta.de
-event.2performant.com
 event.condenastdigital.com
 events.apester.com
 events.attentivemobile.com
@@ -2949,7 +2952,6 @@ jscdn.greeter.me
 js.hscollectedforms.net
 js.hsleadflows.net
 jsonip.com
-js.pusher.com
 jtracking.lulusoft.com
 jugjetwok.com
 juicesphose.com
@@ -4687,6 +4689,7 @@ switchads.com
 swordfishdc.com
 swordgoose.com
 swpsvc.com
+sya9yncn3q.com
 s.yjtag.jp
 sync2ad.com
 sync.quantumdex.io
@@ -5520,6 +5523,7 @@ xebadu.com
 xertive.com
 xforever3xfile.com
 xg4ken.com
+xgzyfpmfkxa.com
 xiti.com
 xius.com
 xlviiirdr.com

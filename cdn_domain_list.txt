@@ -307,6 +307,7 @@ full:khm.googleapis.com
 full:khm.google.com
 full:km.support.apple.com
 full:lh3.appinn.net
+full:liveupdate01.asus.com
 full:lnkd.licdn.com
 full:lx2.cok.elexapp.com
 full:lx2.cok.elex.com
