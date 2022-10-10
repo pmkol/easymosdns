@@ -658,7 +658,6 @@
 0s8s.com
 0sm.com
 0x0.biz
-0x0.ooo
 0x100.club
 0x3.me
 0x5.me
@@ -3248,7 +3247,6 @@
 3g2win.com
 3g3h.org
 3g567.com
-3gcomet.com
 3gdisk.com
 3g-edu.org
 3glasses.com
@@ -4401,7 +4399,6 @@
 52dgs.net
 52digua.com
 52dmtp.com
-52dns.com
 52doc.com
 52dr.net
 52dsy.com
@@ -6055,6 +6052,7 @@
 81toutiao.com
 81tt.net
 81xy.com
+81xz.com
 81yy.cc
 81zw.com
 81zw.us
@@ -6761,7 +6759,6 @@
 949678.com
 949949.com
 94994.com
-9499.net
 94afx.com
 94cb.com
 94cto.com
@@ -11445,7 +11442,6 @@ bktencent.com
 bkweek.com
 bkxs.net
 bkzzy.com
-bl9k.com
 bla01.com
 blackbirdsport.com
 blackdir.com
@@ -13876,7 +13872,6 @@ chengedeco.com
 chengezhao.com
 chengfeilong.com
 chenggongguiji.com
-chenggua.com
 chengguw.com
 chengji1859.com
 chengjieos.com
@@ -14894,7 +14889,6 @@ chtwm.com
 chuaiguo.com
 chuairan.com
 chuaizhe.com
-chuanbofanyi.com
 chuanbojia.com
 chuanboyi.com
 chuandaizc.com
@@ -19994,6 +19988,7 @@ dxecs.com
 dxf5.com
 dxf6.com
 dxias.com
+dxiazaicc.com
 dx-job.com
 dxjs.com
 dxlfile.com
@@ -31955,6 +31950,7 @@ jianjie8.com
 jiankang.com
 jiankanghebei.com
 jiankangju.com
+jiankang.org
 jiankeba.com
 jianke.cc
 jianke.com
@@ -32223,6 +32219,7 @@ jileniao.net
 jiliguala.com
 jiliguara.xyz
 jilingwy.org
+jilinoffcn.com
 jilinpujiyiyuan.com
 jilinwula.com
 jiliyun.com
@@ -33381,6 +33378,7 @@ jucelin.com
 jucheng01.net
 juchuangbio.com
 judouapp.com
+juduo.cc
 juduoping.com
 jue1.com
 juecan.com
@@ -36927,7 +36925,6 @@ liweiliang.com
 liwei.red
 liwenzhou.com
 liwinon.com
-liwngad.com
 liwuhy.com
 liwumaoapp.com
 liwushuo.com
@@ -38521,6 +38518,7 @@ maxuscloud.com
 maxvinch.com
 maxwealthfund.com
 maxwi.com
+maxws.com
 maxxipoint.com
 maya09.com
 mayahuashi.com
@@ -43005,6 +43003,7 @@ pdidc.com
 pdim.gs
 pdm.so
 pdosgk.com
+pdowncc.com
 p-dragon.com
 pdrcfw.com
 pdreading.com
@@ -48006,6 +48005,7 @@ shenghuowo.com
 shenghuozhe.net
 shengjing360.com
 shengjoy.com
+shengjunshi.com
 shengli.com
 shengming.net
 shengniuuz.com
@@ -49434,7 +49434,6 @@ smokeliq.com
 smoothgroup.cc
 smo-software.com
 smovie168.com
-smpeizi.com
 smppw.com
 sms9.net
 smsbao.com
@@ -49535,7 +49534,6 @@ so147.com
 so8848.com
 so-a.net
 soarwatch.com
-soba8.com
 sobaidupan.com
 so-b.com
 sobeian.com
@@ -53198,7 +53196,6 @@ tsingtoo.com
 ts-juheng.com
 tskscn.com
 tskscn.org
-tslapinshang.com
 tsljzs.com
 tslongtai.com
 tslsmart.com
@@ -60118,6 +60115,7 @@ xtuo.net
 xtutoring.com
 xtxcm.com
 xtyxdq.com
+xtzjcz.com
 xu1s.com
 xu7b.com
 xuanad.com
@@ -60171,7 +60169,6 @@ xudongfood.com
 xudoodoo.com
 xuduan.vip
 xue163.net
-xue3dmax.com
 xue51.com
 xue63.com
 xueanquan.com
@@ -60403,6 +60400,7 @@ xweb.vip
 xwei.tv
 xwhb.com
 xwhodesign.com
+xwie.com
 xwjqr.com
 xwjr.com
 xwjy.org
@@ -65125,6 +65123,7 @@ zidootv.com
 ziewje.com
 zifandiaosu.com
 zifeiwuya.com
+zifumao.com
 zige365.com
 zigecha.com
 zigeer.com
@@ -65489,6 +65488,7 @@ zkxblog.com
 zkx.cc
 zkxlkj.net
 zkxww.com
+zkyai.com
 zkydib.com
 zkyouxi.com
 zkyxls.com
