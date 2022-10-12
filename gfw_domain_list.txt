@@ -16145,6 +16145,7 @@ ipv4.yunfei.cf
 ipvanish.com
 ipvm.com
 iq
+iq.com
 iqlinkus.com
 iqlinkus.net
 iqq1.net
@@ -27734,6 +27735,7 @@ turnnewsapp.com
 turntable.fm
 tusfiles.net
 tushycash.com
+tushy.com
 tuta.io
 tutanota.com
 tutifruta.pt

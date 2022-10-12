@@ -621,7 +621,6 @@ regexp:^cdn-akamai-.+\.gog-services\.com$
 regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 regexp:.+\.cdnhwc([1-9]|10)\.(cn|com)$
-regexp:.+\.cdnhwc[a-z]{3}[0-9]{2,3}\.(cn|com)$
 regexp:^cl[1-5]\.apple\.com$
 regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
 regexp:.+\.dnse[0-5]\.(cn|com)$
