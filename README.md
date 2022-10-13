@@ -343,6 +343,9 @@ chmod +x /etc/mosdns/tools/config-reset
 - 项目完整开源，可用于部署DNS服务器、开发软路由插件等多种场景
 - 使用源码仅需标明使用 [EasyMosdns](https://apad.pro/easymosdns) 的源码即可
 - 配置文件相关问题，请查阅 [Mosdns-Wiki](https://irine-sistiana.gitbook.io/mosdns-wiki/)
+
+#### 如何支持作者
+[前往打赏](https://afdian.net/a/maplecool)
 <br />
 
 ## Contact Us
