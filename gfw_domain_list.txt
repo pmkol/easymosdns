@@ -8019,6 +8019,7 @@ cloudflareinsights.com
 cloudflare-ipfs.com
 cloudflare.net
 cloudflareok.com
+cloudflarepreview.com
 cloudflare-quic.com
 cloudflareresolve.com
 cloudflaressl.com
