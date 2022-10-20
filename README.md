@@ -222,6 +222,11 @@ chmod +x /etc/mosdns/tools/config-reset
 /etc/mosdns/rules/update-cdn
 ```
 
+- 通过代理(GhProxy.com)下载更新规则
+```bash
+/etc/mosdns/rules/update-cdn-ghproxy
+```
+
 - 通过Socks5下载更新规则
 ```bash
 /etc/mosdns/rules/update-socks
