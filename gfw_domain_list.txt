@@ -27969,6 +27969,7 @@ twitpic.com
 twitstat.com
 twittbot.net
 twitter4j.org
+twitter.biz
 twitter.com
 twittercommunity.com
 twittercounter.com
@@ -28017,7 +28018,9 @@ twtrdns.net
 twtrland.com
 twt.tl
 twttr.com
+twttr.net
 twurl.nl
+twvid.com
 tw.voa.mobi
 tw.voicetube.com
 tw.vonvon.me
