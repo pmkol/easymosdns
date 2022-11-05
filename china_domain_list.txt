@@ -3644,6 +3644,7 @@
 50zw.la
 5100.net
 510560.com
+510xds.com
 510you.com
 511023.com
 51110.com
@@ -5190,6 +5191,7 @@
 63243.com
 6328.net
 632news.com
+636935.com
 6383.com
 639311.com
 6399868.com
@@ -5290,7 +5292,6 @@
 669ye.com
 66call.com
 66cn.com
-66diqiu.com
 66ds.net
 66house.com
 66ip.com
@@ -6622,7 +6623,6 @@
 9211.com
 921686.com
 921716.com
-9217w.com
 9217web.com
 921.com
 921lu.com
@@ -6976,7 +6976,6 @@
 999d.com
 999dns.net
 999inandon.com
-999kan.com
 999tea.com
 999wx.com
 999xy.net
@@ -9281,6 +9280,7 @@ asthis.net
 astorpiano.com
 astron.ac
 astropulsion.com
+asurada.zone
 asussmart.com
 asussz-zp.com
 aswetalk.net
@@ -10691,6 +10691,7 @@ bhzhuji.com
 bhzpw.com
 bhzyxy.net
 biacgn.com
+bianbao.net
 biancheng.net
 bianchengquan.com
 biancui.com
@@ -13884,7 +13885,6 @@ chenpeng.info
 chenplus.com
 chenpot.com
 chenruixuan.com
-chenrunjinshu.com
 chenshipin.com
 chensonglin.net
 chensuyang.com
@@ -14760,7 +14760,6 @@ chncomic.com
 chncpa.org
 chncwds.com
 chndesign.com
-chndsnews.com
 chndtb.com
 chnews.net
 chnfi.com
@@ -18350,6 +18349,7 @@ dexunyun.com
 deyang5.com
 deyatech.com
 deyayk.com
+deyeehome.com
 deyi.com
 deyijijin.org
 deyi.net
@@ -22793,6 +22793,7 @@ freekeyan.com
 freelycode.com
 freelynet.com
 freemancn.com
+freemdict.com
 freemindworld.com
 free.mk
 freemoban.com
@@ -23333,7 +23334,6 @@ gamefk.com
 gamefm.com
 gamefv.com
 gamehome.tv
-gamehui.com
 gameinns.com
 gameitop.com
 gameiy.com
@@ -26206,7 +26206,6 @@ hbdangyang.com
 hbddrn.com
 hbdfdh.com
 hbdmia.com
-hbdthy.com
 hbdtjqj.com
 hbdzcg.com
 hbeducloud.com
@@ -26410,6 +26409,7 @@ hcicloud.com
 hcjsk120.com
 hcl100.com
 hcmiraefund.com
+hcnamecdns.com
 hcocoa.com
 h-college.com
 hcqixinhb.com
@@ -31148,6 +31148,7 @@ iwordnet.com
 iworm.net
 iwpai.com
 iwshang.com
+iwshuma.com
 iwucha.com
 iwwwwwi.com
 iwxapi.com
@@ -33760,6 +33761,7 @@ jzsec.com
 jzsgzmhjyxgs.com
 jzshequ.com
 jzsjyksy.com
+jzsousuo.com
 jzsxinyudianqi.com
 jzsyishu.com
 jztdc.com
@@ -38084,7 +38086,6 @@ mailshanguo.com
 maimaimaiw.com
 maimemo.com
 maimemostatus.com
-maimengjun.com
 maimiaotech.com
 maimn.com
 maimowang.com
@@ -38623,6 +38624,7 @@ meeket.com
 meet99.com
 meetfave.com
 meethall.com
+meeting666.com
 meetingmeet.com
 meetingq.com
 meetlawyer.com
@@ -40361,7 +40363,6 @@ mycoss.com
 mycoss.net
 mycoss.org
 mycreate.net
-mycrtb.com
 mydadao.com
 mydao.net
 mydbfx.com
@@ -43334,7 +43335,6 @@ pinshan.com
 pinshu.com
 pinsilianzu1.com
 pinsilianzu3.com
-pintour.com
 pintu360.com
 pintuan.com
 pintuer.com
@@ -45054,7 +45054,6 @@ qq190.com
 qq2009.com
 qq387.com
 qq52o.me
-qq545.com
 qq5818.com
 qq5.com
 qq717.com
@@ -52119,7 +52118,6 @@ tianpeng.com
 tianpinjie.com
 tianqi123.com
 tianqi321.com
-tianqi4.com
 tianqi518.com
 tianqiaojuyuan.com
 tianqiaoyishuzhongxin.org
@@ -52894,6 +52892,7 @@ tp8.me
 tpbook.com
 tpcdnde88de.com
 tpengyun.com
+tpg2i1p7.com
 tpkey.com
 tplife.com
 tp-linkscm.com
@@ -53515,6 +53514,7 @@ tvmao.com
 tvmcloud.com
 tvmining.com
 tvn.cc
+tvnwang.com
 tvoao.com
 tvos.com
 tvscn.com
@@ -53929,6 +53929,7 @@ uhomecp.com
 uhomes.com
 uhouzz.com
 uhuitong.com
+uhzcdn.com
 ui001.com
 ui100day.com
 ui63.com
@@ -61854,6 +61855,7 @@ ylunion.com
 yluu.com
 ylwl.cc
 ylws.net
+ylwt33.com
 ylwyw.com
 ylxbxgtg.com
 ylxdtww.com
@@ -61883,7 +61885,6 @@ ymd520.net
 ymd88.com
 ymeme.com
 ymexf.com
-ymfhbcj.net
 ymfile01.com
 ymfile.com
 ymgmno.com
@@ -63992,7 +63993,6 @@ zgylqy.com
 zgyongxin.com
 zgys.net
 zgyssyxh.com
-zgystsd.com
 zgyxsw.org
 zgyygl.com
 zgzb.com
@@ -64291,7 +64291,6 @@ zhenhuan888.com
 zhenimg.com
 zhenjiang-marathon.com
 zhenleishan.com
-zhenlishen.com
 zhenpin.com
 zhenren.com
 zhenrongbao.com
@@ -64697,6 +64696,7 @@ zhongxunrunda.com
 zhongxuntv.com
 zhongyao1.com
 zhongyaoyi.com
+zhongyejy.com
 zhongye.net
 zhongyiiot.com
 zhongyiju360.com
