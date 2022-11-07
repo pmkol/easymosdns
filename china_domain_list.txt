@@ -39,7 +39,6 @@
 00817.com
 0082tv.com
 008321.com
-00853.la
 0086crane.com
 0086l.com
 0086org.com
@@ -916,7 +915,6 @@
 114park.com
 114photo.com
 114piaowu.com
-114pifa.com
 114pinpai.com
 114px.com
 114qy.com
@@ -3500,6 +3498,7 @@
 46z5j5.xyz
 47365.com
 4738.com
+4743.uk
 47473.com
 474b.com
 4765.com
@@ -6644,7 +6643,6 @@
 92fox.com
 92game.net
 92hidc.net
-92jiangbei.com
 92kaifa.com
 92kk.com
 92le.com
@@ -8716,7 +8714,6 @@ antuan.com
 antuni.com
 antutu.com
 antutu.net
-antuzhi.com
 antvr.com
 antzk.com
 anweishi.com
@@ -8972,7 +8969,6 @@ appgenuine.com
 appicplay.com
 appinn.com
 appjiagu.com
-appjzy.com
 appkaifa.com
 appkefu.com
 appkg.com
@@ -9683,7 +9679,6 @@ baidufe.com
 baidufree.com
 baidu-int.com
 baidu-itm.com
-baidui.vip
 baidu.jp
 baidulook.com
 baidu-mgame.com
@@ -10284,7 +10279,6 @@ bd-apaas.com
 bdapark.com
 bdatu.com
 bd-caict.com
-bdcdnimg.com
 bdchina.com
 bdcloudapi.com
 bdclouddns.com
@@ -13473,7 +13467,6 @@ cgpad.com
 cgplayer.com
 cgplusplus.com
 cgptwd.com
-cgpx.org
 cgris.net
 cgsec.com
 cgsfusion.com
@@ -16650,7 +16643,6 @@ cqjj.net
 cqjjnet.com
 cqjnw.org
 cqjob.com
-cqjsxx.com
 cqjy.com
 cqkdtui1.com
 cqkeb.com
@@ -16918,7 +16910,6 @@ csjwang.com
 csjyzq.com
 cskefu.com
 cskule.com
-cskxjk.com
 c-sky.com
 cslfans.com
 cslou.com
@@ -19754,7 +19745,6 @@ duoduozhifu.com
 duoente.net
 duoerpharmacy.com
 duofriend.com
-duofull.com
 duogouhui.com
 duohou.net
 duohui.co
@@ -21109,7 +21099,6 @@ esensoft.com
 esfimg.com
 eshangle.com
 eshanyao.com
-eshenan.com
 eshenlin.com
 eshimin.com
 eshiyun.info
@@ -26077,7 +26066,6 @@ haozuojia.com
 hapi123.net
 hapimall.com
 hapingapp.com
-hapiweb.com
 haplat.net
 happigo.com
 happy24uk.com
@@ -29619,7 +29607,6 @@ iduodou.com
 iduokan.net
 iduvip.com
 idwzx.com
-idyjy.com
 idyzs.com
 idzcp.com
 idzoom.com
@@ -32031,7 +32018,6 @@ jiefadg.com
 jiefuku.com
 jiegames.com
 jiegeng.com
-jiehuisoft.com
 jiehun021.com
 jiehun027.com
 jiehunmishu.com
@@ -33702,7 +33688,6 @@ jz6868.com
 jz68888.com
 jz6.com
 jzbar.net
-jzbbc.com
 jzb.com
 jzbdc.com
 jzcbank.com
@@ -35981,6 +35966,7 @@ leobian.com
 leoboard.com
 leocode.net
 leohoo.xyz
+leo.moe
 leonblog.net
 leozwang.com
 lepaiok.com
@@ -36821,6 +36807,7 @@ livesone.net
 livesupport24x7.com
 liveuc.net
 livevideostack.com
+live-voip.com
 livinglabs.cc
 livku.com
 livotre.com
@@ -39853,7 +39840,6 @@ mopcn.com
 mop.com
 mopei8.com
 moper.me
-mopiaoyao.com
 mopicer.com
 mopoint.com
 mopsky.com
@@ -41782,7 +41768,6 @@ ocar.tv
 ocd120.com
 oceanbase.com
 oceanbot-steam.com
-oceancnc.com
 oceanengine.com
 oceanlau.com
 oceanol.com
@@ -44263,7 +44248,6 @@ qhdatongnews.com
 qhdczzs.com
 qhdfxkj.com
 qhdgjj.com
-qhdjcbj.com
 qh.dlservice.microsoft.com
 qhd.net
 qhdnews.com
@@ -44295,7 +44279,6 @@ qhm123.com
 qhmed.com
 qhmsg.com
 qhnews.com
-qhnode.com
 qhong.net
 qhpcc.com
 qhpk.net
@@ -48673,7 +48656,6 @@ shyuwl.com
 sh-yuy.com
 shyuzhai.com
 shywtb.com
-shyxcm.com
 shyxi5.com
 shyxwz.com
 shyy6688.com
@@ -51098,7 +51080,6 @@ t20000.com
 t262.com
 t2cn.com
 t3315.com
-t365777.com
 t56jy.net
 t56.net
 t58b.com
@@ -53026,6 +53007,7 @@ tryfun.com
 tryineapp.com
 trylist.net
 trymoka.com
+tryqkj.com
 tryurbest.com
 tryxue.com
 ts100.com
