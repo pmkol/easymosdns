@@ -10775,6 +10775,7 @@ erolabs.com
 erolabs.game
 ero-labs.net
 erolabs.net
+ero-labs.online
 erolord.com
 eromanga-ace.com
 eromanga-cafe.com
@@ -29343,7 +29344,9 @@ vsallin.net
 vsassets.io
 vsb.edsby.com
 vsco.com
+vscode-cdn.net
 vscode.dev
+vscode-unpkg.net
 vsezoo.com
 vsh.org
 vsphere.com
