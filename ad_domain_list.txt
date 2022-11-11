@@ -112,7 +112,6 @@ adacado.com
 adaction.de
 ad.adpon.jp
 adalgard-wol.com
-ad.allstar.cz
 ad.anuntis.com
 ad.api.3g.tudou.com
 ad.apsalar.com
@@ -267,6 +266,7 @@ admanager.btopenworld.com
 admanager.carsoup.com
 adman.gr
 adman.otenet.gr
+admarket.network
 admedia.network
 admedia.ro
 ad.media-servers.net
@@ -375,6 +375,7 @@ ads.4tube.com
 ads4.virtual-nights.com
 ads.5ci.lt
 ads5.virtual-nights.com
+ads8.com
 ads.abovetopsecret.com
 ads.aceweb.net
 ads.activestate.com
@@ -719,7 +720,6 @@ ads.videosz.com
 ads.virtualcountries.com
 ads.virtual-nights.com
 ads.vnumedia.com
-ads.waps.cn
 ads.wapx.cn
 ads.watson.ch
 ads.weather.ca
@@ -831,7 +831,6 @@ adworx.nl
 adwx6vcj.com
 ad.wz.cz
 adx.aarki.net
-adx.allstar.cz
 adx-asia.aarki.net
 adx.atnext.com
 adx.cda.pl
@@ -975,7 +974,6 @@ analytics.ccgateway.net
 analytics.cdn.live
 analytics.clickdimensions.com
 analytics.cloudron.io
-analytics.diyriver.io
 analytics-eu.clickdimensions.com
 analytics.gavelz.com
 analytics.getshogun.com
@@ -988,10 +986,8 @@ analytics.icons8.com
 analytics.ihbsoft.com
 analytics.jumboprivacy.com
 analytics.kidoz.net
-analytics.lk.api.ditto.com
 analytics.mailmunch.co
 analytics.mobilegamestats.com
-analytics.monetiza.co
 analytics.myfinance.com
 analytics.newscred.com
 analytics.nike.com
@@ -1017,10 +1013,8 @@ analytics.siliconexpert.com
 analytics.similarweb.com
 analytics.slashdotmedia.com
 analytics-static.ugc.bazaarvoice.com
-analytics-statistics.machbird.com
 analytics.swiggy.com
 analytics-track.machbird.com
-analytics-usf.hotyon.com
 analytics.webgains.io
 analytics.wondershare.cc
 analytics.youronlinechoices.com
@@ -1067,7 +1061,6 @@ api.parse.com
 api.prooffactor.com
 api.pushspring.com
 api.quantumgraph.com
-api.safegraph.com
 apis.appnxt.net
 api.taps.io
 api.unthem.com
@@ -1139,7 +1132,6 @@ asiacpx.com
 aso1.net
 asp.animelab.com
 aspboxant.club
-a.ss828.xyz
 assets1.exgfnetwork.com
 assets.purch.com
 as.sexad.net
@@ -1851,7 +1843,6 @@ count.rin.ru
 count.west263.com
 coupling-media.de
 coveredbetting.com
-cp.abbp1.pw
 cpalead.com
 cpa-tc.com
 cpays.com
@@ -2104,6 +2095,7 @@ dn0qt3r0xannq.cloudfront.net
 dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
 dnn506yrbagrg.cloudfront.net
+dns.ladipage.com
 docksalmon.com
 doerscharre.com
 dogconcurrencesauce.com
@@ -2112,7 +2104,6 @@ dollsdeclare.com
 dolohen.com
 domaining.in
 domainsponsor.com
-domainsteam.de
 dombnrs.com
 domdex.com
 domeleco.top
@@ -2210,6 +2201,7 @@ effectivemeasure.com
 effectiveperformanceformat.com
 effectiveperformancenetwork.com
 efficaciouscactus.com
+effusedprankle.com
 eggnogsicerya.com
 eggsosgum.site
 egistonemes.com
@@ -2491,7 +2483,6 @@ ga-ads.com
 ga.clearbit.com
 ga.getresponse.com
 gaijiglo.net
-ga.kvideo.io
 galaksion.com
 galaxien.com
 galopelikeantelope.com
@@ -3182,7 +3173,6 @@ log-upload-os.mihoyo.com
 log.x2convert.com
 log.ys7.com
 lokinatoer5.com
-loles.neostrada.pl
 lologhfd.com
 longinglettuce.com
 loopme.biz
@@ -3208,7 +3198,6 @@ lwgadm.com
 lyssapebble.com
 lytics.io
 lzjl.com
-m1.webstats4u.com
 m32.media
 m4n.nl
 ma2gs3wne3gfej70osium.com
@@ -3344,7 +3333,6 @@ metrics.cloudflarebolt.com
 metrics.ctv.ca
 metrics.foxnews.com
 metrics.govexec.com
-metrics.redgifs.com
 metrics.roblox.com
 metrics.sdkbox.com
 metrilo.com
@@ -3403,7 +3391,6 @@ mobile-ent.biz
 mobileiconnect.com
 mobilemessenger.com
 mobileposse.com
-mobilereport.agency
 mobilestorm.com
 mobiletelemetry.ebay.com
 mobiletheory.com
@@ -3802,6 +3789,7 @@ peep-auktion.de
 peer39.com
 peggedolga.com
 pegloang.com
+pelagicmismate.com
 pennilesscomingall.com
 pennyweb.com
 pentaclaud.com
@@ -3865,7 +3853,6 @@ pillsofecho.com
 pimproll.com
 pingback.issuu.com
 ping.kitidi.com
-ping.ublock.org
 pipedream.wistia.com
 pippio.com
 piquantpigs.com
@@ -3885,7 +3872,6 @@ pixel.reddit.com
 pixel.s3xified.com
 pixel.sojern.com
 pixels.truvidplayer.com
-pixel.voltn.com
 pixel.watch
 pixel.wp.com
 pixel.yabidos.com
@@ -4072,7 +4058,6 @@ pv.pjtsu.com
 pv.sohu.com
 pwieu.com
 pwmctl.com
-px.redgifs.com
 pymx5.com
 pzhuzlwjiymfos.com
 q2melbourne.com
@@ -4367,7 +4352,6 @@ scornamentum.com
 sc.pages03.net
 scratch2cash.com
 screechingfurniture.com
-screenshielded.com
 scripte-monster.de
 scrubswim.com
 sc-static.net
@@ -4381,7 +4365,6 @@ seal.digicert.com
 seal.godaddy.com
 seal.networksolutions.com
 seal.qualys.com
-seal.verisign.com
 searchad-phinf.pstatic.net
 searchfeast.com
 searchmarketing.com
@@ -4432,7 +4415,6 @@ sextracker.com
 sexystat.com
 sezwho.com
 sf9yvla26s5t.com
-sg.a.stat.mi.com
 shakesea.com
 shakesuggestion.com
 shakytaste.com
@@ -4657,7 +4639,6 @@ stats.townnews.com
 stat.su
 stats.unlimapps.com
 stats.vk-portal.net
-stats.vngameden.com
 stats.wordpress.com
 stats.wp.com
 stats.x14.eu
@@ -4764,7 +4745,6 @@ tagbom.com
 tagger.ope.scmp.com
 tagmanager.alright.network
 tagmngrs.com
-tags.newscgp.com
 tagular.com
 tag.wknd.ai
 tailsweep.com
@@ -4826,7 +4806,6 @@ telemetry.acronis.com
 telemetry.api.swiftkey.com
 telemetry.art19.com
 telemetry.dropbox.com
-telemetry.swiftkey.com
 telemetry.tradingview.com
 teliad.de
 t.eloqua.com
@@ -4974,7 +4953,6 @@ track.gotprofits.com
 track.hubspot.com
 tracking101.com
 tracking.adsrv.io
-tracking.applift.com
 tracking.bloomberg.com
 tracking.bodis.com
 trackingflaregames.net
@@ -5148,7 +5126,6 @@ upspinarakor.com
 uptolike.com
 uptrendsdata.com
 urechar.com
-urgent-notice.com
 urlcash.net
 uruswan.com
 usabilla.com
@@ -5228,7 +5205,6 @@ videosprofitnetwork.com
 vidora.com
 view4cash.de
 view-apple.com
-view-appleid.com
 viewlnk.com
 viewpoint.com
 viewwonder.com
@@ -5419,6 +5395,7 @@ www.999.money
 www.ad287.com
 www.ad365.cc
 www.adexchangetracker.com
+www.admarket.network
 www.admedia.network
 www.adnetworkperformance.com
 www.ads24h.net
@@ -5440,7 +5417,6 @@ www.axdsz.pro
 www-banner.chat.ru
 www.beharmalted.info
 www.blockadsnot.com
-www.bookmtpo.com
 www.catchandfatch.bid
 www.cd-ads.com
 www.cdn4ads.com
@@ -5466,12 +5442,10 @@ www.everestjs.net
 www.fastly-insights.com
 www.fbcdn2.com
 www.find-my-great-life.com
-www.fizrnews.com
 www.fmiphone-apple.com
 www.ga-ads.com
 www.galaksion.com
 www.geniusdexchange.com
-www.gnqpystsiece.com
 www.goodnotification.net
 www.go-rillatrack.com
 www.groupm.com
@@ -5487,17 +5461,13 @@ www.intelligenceadx.com
 www.intellipopup.com
 www.ironsource.mobi
 www.isfxsiooyjad.com
-www.jgejqdddslxry.com
 www.jsonip.com
 www.kaplanindex.com
 www.ketchapp.org
-www.kiolim.com
 www.kqzyfj.com
-www.ladsblue.com
 www.lightboxcdn.com
 www.live-icloud.com
 www.logitxaequk.com
-www.markmansonbooklst.com
 www.maxgid.com
 www.maxonclick.com
 www.medtargetsystem.com
@@ -5506,10 +5476,7 @@ www.money4exit.de
 www.moneymakercdn.com
 www.montacarichi.it
 www.mousestats.com
-www.mpnoqwbkz.com
-www.mvdwjofacq.com
 www.myadsystem.com
-www.newsocko.com
 www.ninkorant.online
 www.noisysortcasualty.com
 www.npttech.com
@@ -5531,15 +5498,11 @@ www.premiumvertising.com
 www.pressingmiscellaneoustry.com
 www.pro-ads.club
 www.propu.sh
-www.prownl.com
 www.push-notifications.top
-www.rimpirbtmxg.com
 www.routeserve.info
 www.rtb123.com
 www.ryeqnyvbncdvg.com
-www.saltinourhairtv.com
 www.servsave.com
-www.share-apple.com
 www.shndrktrk.com
 www.srmdata.com
 www.statsforads.com
@@ -5555,34 +5518,24 @@ www.tkickhhylnvm.com
 www.trafyield.com
 www.tribedone.org
 www.trustaffs.com
-www.ubewpjbfo.com
 www.uciservice.com
-www.ucxfdvhuqwpig.com
 www.usertrack.net
 www.uyunad.com
 www.varietyofdisplayformats.com
-www.vbscgrnkoceya.com
 www.velocitycdn.com
 www.vidcpm.com
 www.videosprofitnetwork.com
 www.view-apple.com
-www.vigpsypoyta.com
 www.w3counter.com
 www.weborama.com
 www.webtrendslive.com
 www.weigezhiyao.com
-www.wgcsxqkyry.com
 www.xadsmart.com
-www.yljyjadlx.com
 www.youmi.net
-www.yourbestheal.com
 www.zap.buzz
 www.zarpop.com
-www.zdupdotxqwj.com
 www.zekiatagur.com
-www.zlbdvgjlxm.com
 www.zxc.world
-wyjimapsi.pro
 wyvpjsfhywm.com
 wywy.com
 x2sfa.javgg.eu
@@ -5656,6 +5609,7 @@ yjwumvme.com
 yldbt.com
 ylicxdkgkvfc.com
 yljyjadlx.com
+yllaris.com
 ylog.huya.com
 ymetrica1.com
 ymtracking.com
@@ -5710,7 +5664,7 @@ zeofnuvzsh.com
 zeroethgipsy.com
 zeusclicks.com
 zeustechnology.com
-zhangtom1989.cn
+zhangtom1989.cnads8.com
 zhej78i1an8w6ceu.com
 ziffdavis.com
 zijaipse.com
