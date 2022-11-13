@@ -3865,6 +3865,7 @@ piwik.pro
 pixanalytics2.pixnet.net
 pixanalytics.pixnet.net
 pixel.condenastdigital.com
+pixel.gliacloud.com
 pixel.leadzu.com
 pixel.mediaiqdigital.com
 pixel.personagraph.com
