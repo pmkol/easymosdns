@@ -8234,6 +8234,7 @@ cod36.com
 cod86.com
 cod98.com
 code1984.com
+codeberg.org
 codeboxapp.com
 codeburst.io
 codecademy.com
@@ -14499,6 +14500,7 @@ heryan.web.id
 hetzner.cloud
 hetzner.com
 heungkongdiscuss.com
+hexdocs.pm
 hexieshe.com
 hexieshe.xyz
 hex.pm
