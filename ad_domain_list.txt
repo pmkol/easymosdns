@@ -102,6 +102,7 @@ ad3.xrea.com
 ad4mat.com
 ad4mat.de
 ad4push.com
+ad4screen.com
 ad6media.fr
 ad.980x.com
 ad.abcnews.com
@@ -1051,6 +1052,7 @@ api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.forshrd.com
 api-gdpr.voodoo-tech.io
 api.intensifier.de
+api.mbrx.app
 api.monedata.io
 api.parse.com
 api.prooffactor.com
@@ -1107,6 +1109,7 @@ a.ria.ru
 arisedammiral.com
 aromamirror.com
 arsdev.net
+arsenal54.xyz
 arswabluchan.com
 artpever.com
 as5000.com
@@ -1939,6 +1942,7 @@ daisycontroversy.com
 dakic-ia-300.com
 damdoor.com
 danban.com
+danbo.org
 dancemistake.com
 dap.digitalgov.gov
 dapper.net
@@ -2068,7 +2072,6 @@ dn0qt3r0xannq.cloudfront.net
 dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
 dnn506yrbagrg.cloudfront.net
-dns.ladipage.com
 docksalmon.com
 doerscharre.com
 dogconcurrencesauce.com
@@ -5289,6 +5292,7 @@ www.520click.com
 www.5advertise.com
 www.999.money
 www.ad287.com
+www.ad4screen.com
 www.adexchangetracker.com
 www.admarket.network
 www.admedia.network
