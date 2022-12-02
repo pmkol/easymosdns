@@ -381,6 +381,7 @@ full:opencourse.pku.edu.cn
 full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
+full:osxapps.itunes.g.aaplimg.com
 full:overwatch.nosdn.127.net
 full:p1-juejin.byteimg.com
 full:p2-juejin.byteimg.com
@@ -509,6 +510,7 @@ full:support.1ucrs.com
 full:support.apple.com
 full:support-china.apple-support.akadns.net
 full:swallow.apple.com
+full:swallow-apple-com.v.aaplimg.com
 full:swcatalog.apple.com
 full:swcatalog-cdn.apple.com.akadns.net
 full:swcdn.apple.com
