@@ -553,6 +553,7 @@ full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
 full:wear.googleapis.com
 full:weather-data.apple.com
+full:weather-data.apple.com.akadns.net
 full:web-service.halo.xbox.com
 full:web-service-ssl.halo.xbox.com
 full:webview.unityads.unity3d.com

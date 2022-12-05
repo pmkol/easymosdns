@@ -29656,6 +29656,7 @@ wearehairy.com
 wearn.com
 weather
 weatherchannel
+weather-data.apple.com.akadns.net
 weathtown.com
 weav.xyz
 web2project.net
