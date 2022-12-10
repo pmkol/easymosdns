@@ -50,7 +50,7 @@ https://apad.pro/easymosdns/ <br />
 #### 请先确认：
 
 - Mosdns已安装且可以正常运行
-- Mosdns版本 4.1+
+- Mosdns版本 4.1+ 仅支持v4版本
 - Mosdns工作目录是否为/etc/mosdns
 - config配置文件已备份
 - config配置文件中'protocol: udp'与'protocol: tcp'字段下方的'addr'使用的端口号
