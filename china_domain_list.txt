@@ -1129,7 +1129,6 @@
 1314study.com
 1314wallet.com
 1314zf.com
-1317w.com
 131cc.com
 131.com
 131vip1.com
@@ -2379,7 +2378,6 @@
 2dfire.com
 2dfire.info
 2df.me
-2di.cc
 2dph.com
 2du.net
 2dyou.com
@@ -7326,7 +7324,6 @@ acmsearch.com
 acnow.net
 aco-musical.com
 aconf.org
-aconline.com
 acoolread.com
 acpf-cn.org
 acplay.net
@@ -9189,6 +9186,7 @@ aspxhome.com
 aspxhtml.com
 asrmicro.com
 assbbs.com
+asset.msi.com
 assets.analog.com
 assets-global.viveport.com
 assets.uxengine.net
@@ -9505,7 +9503,6 @@ b5esports.me
 b5m.com
 b612kaji.com
 b612.me
-b780.com
 b7l.cc
 b8yx.com
 baalchina.net
@@ -11267,6 +11264,7 @@ bjyestar.com
 bjyhwy.com
 bjyingyun.com
 bjyixiaojian.com
+bjyouth.net
 bjyqsj.com
 bjythd.com
 bjyunyu.com
@@ -12780,7 +12778,6 @@ ccpithebei.com
 ccpit-henan.org
 ccpithn.org
 ccpithrb.org
-ccpithz.org
 ccpitjinan.org
 ccpitjs.org
 ccpitlight.org
@@ -19845,7 +19842,6 @@ dyj.cc
 dyjqd.com
 dykj.site
 dylc.com
-dylxhm.com
 dyly.com
 dyonr.com
 dyqc.com
@@ -21741,7 +21737,6 @@ fbxslw.com
 fc0531.com
 fc0633.com
 fc12319.com
-fc2.red
 fc571.com
 fc811.com
 fcachinagsdp.com
@@ -32605,7 +32600,6 @@ jmbbs.com
 jmd-china.com
 jmdedu.com
 jmeii.com
-jmfans.com
 jmgle.com
 jmgo.com
 jmhapp.com
@@ -33549,6 +33543,7 @@ jzcxptm.com
 jzdhyl.com
 jzedu24.com
 jzerp.com
+jzfz.net
 jzgcjsysjzz.com
 jzgcjszz.com
 jzhfz.com
@@ -38558,7 +38553,6 @@ meituncdn.com
 meitun.com
 meitushop.com
 meitustat.com
-meitu.store
 meituyun.com
 meiweifood.xyz
 meiweis.com
@@ -43108,7 +43102,6 @@ pipsemi.com
 piqs.com
 piscesys.com
 pisx.com
-piworker.com
 pixelauth.com
 pixhey.com
 pixivacg.com
@@ -43146,7 +43139,6 @@ pkbigdata.com
 pkbkok.com
 pkdyplayer.com
 pkfj.xyz
-pkgklk.com
 pkm360.com
 pkmmo.com
 pko123.com
@@ -43707,7 +43699,6 @@ puworld.com
 puyurumen.com
 puzeyf.com
 pv001.net
-pv265.com
 pv4b.com
 pvc123.com
 pvhgws7.com
@@ -43867,7 +43858,6 @@ qcloudtt.com
 qcloudwaf.com
 qcloudwzgj.com
 qcloudzygj.com
-qc-meta.com
 qcmoke.site
 qcmrjx.com
 qcmuzhi.com
@@ -45775,6 +45765,7 @@ respondaudio.com
 respusher.com
 resset.com
 resuly.me
+retailo2o.com
 retalltech.com
 retey.net
 retiehe.com
@@ -49648,6 +49639,7 @@ sql110.com
 sqlsec.com
 sqngvd.com
 sqqmall.com
+sqqnh.org
 sqrc.net
 sqreader.com
 sqrt9.com
@@ -49892,6 +49884,7 @@ stoneread.com
 stonescloud.com
 stoneu.com
 stonexp.com
+storage-asset.msi.com
 stor-age.com
 storagesemicon.com
 store.dji.com
@@ -50073,6 +50066,8 @@ sumavision.com
 sumeme.com
 sumgotea.com
 suming.in
+sumkoo.com
+sumkoo.net
 sumly.net
 summall.com
 summerlight.name
@@ -54310,6 +54305,7 @@ veding.com
 vediotalk.com
 veelink.com
 veeqi.com
+veeqi.net
 veer.com
 veervr.tv
 veeteam.com
@@ -55886,6 +55882,7 @@ wenlc.com
 wenlvnews.com
 wenmeng.com
 wenmi.com
+wenmingban.com
 wenneart.com
 wenpie.com
 wenrouge.com
@@ -59515,7 +59512,6 @@ xqblog.com
 xqbxz.com
 xqckg.com
 xqfunds.com
-xqggz.com
 xqipu.com
 xqiushu.com
 xqjmzc.com
@@ -59693,7 +59689,6 @@ xuanyaoxp.com
 xuanyouwang.com
 xuanyuanhuangdi.org
 xuanyusong.com
-xuanzhoubian.com
 xuanzhuanmumatuwen.com
 xubei.com
 xuchuang.com
@@ -60169,7 +60164,6 @@ xzn56.com
 xzoo.org
 xzper.com
 xzpoll.com
-xzrj.cc
 xzr.kim
 xzsec.com
 xzsnw.com
@@ -64608,7 +64602,6 @@ ziben365.com
 ziboga.com
 zicaitou.com
 zichabaogao.com
-zichanzhihuan.com
 zichenit.com
 zi.com
 zidan.chat
@@ -65619,7 +65612,6 @@ zxinzxw.com
 zxip.com
 zxjg66.com
 zxjsq.net
-zxlearning.com
 zxlib.com
 zxlmx.com
 zxmall.com
