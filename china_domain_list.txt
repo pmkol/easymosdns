@@ -3349,7 +3349,6 @@
 40fenzhong.com
 40manhua.com
 40mdd.com
-40ya.com
 41188.com
 411au.com
 4124.com
@@ -7968,7 +7967,6 @@ aiwan91.com
 aiwanba.net
 aiwanpai.com
 aiwansc.com
-aiwawa520.com
 aiwebsec.com
 aiwei365.net
 aiweibang.com
@@ -12195,7 +12193,6 @@ c571.com
 c5game.com
 c6c.com
 c6n708.ren
-c73160.com
 c75uw72.com
 c77c.com
 c7c8.com
@@ -15817,7 +15814,6 @@ cnndns.com
 cnnerv.com
 cn.net
 cnnetsec.com
-cnnewss.com
 cnnfootballclub.com
 cnnmol.com
 cnnorip.org
@@ -23066,7 +23062,6 @@ g188.net
 g1c5.com
 g1d.net
 g1f5.com
-g1yx.com
 g207.com
 g2g1.com
 g2h3.com
@@ -38204,7 +38199,6 @@ maxpda.com
 maxreader.la
 maxreader.net
 maxscend.com
-maxstv.com
 maxthon.com
 maxthonimg.com
 maxuscloud.com
@@ -38908,7 +38902,6 @@ midureader.com
 midust.com
 midwayjs.org
 midway.run
-midymidy.com
 miecod.com
 miejw.com
 miemie.la
@@ -41634,7 +41627,6 @@ ofcard.com
 offcn.com
 offerstrack.net
 offer-wow.com
-office26.com
 officecdn.microsoft.com
 office-cn.net
 officectrl.com
@@ -43819,7 +43811,6 @@ qbangmang.com
 qbao.com
 qbaoting.com
 qbb6.com
-qbdcc.com
 qbdgame.com
 qbeenslee.com
 qbitai.com
@@ -47094,7 +47085,6 @@ seeyouhealth.com
 seeyouyima.com
 seezy.com
 sefonsoft.com
-sefyc.com
 segapi.com
 segmentfault.com
 segmentfault.net
@@ -53244,7 +53234,6 @@ twd2.me
 twd2.net
 twdm.net
 tweakcube.com
-twfeq.com
 twguozao.com
 twh5.com
 twinkleunion.com
@@ -54625,7 +54614,6 @@ vmoiver.com
 vmonkey.mobi
 vmovier.cc
 vmoviercdn.com
-vmovier.com
 vm.sg
 vmsky.com
 vmvps.com
@@ -57130,7 +57118,6 @@ wsssec.com
 wstong.com
 wstx.com
 wsurl.cc
-wsview.com
 wswebcdn.com
 wswebcdn.info
 wswebcdn.org
@@ -59442,7 +59429,6 @@ xn--io0a7i
 xn--it-1r3f.com
 xnjcw.com
 xnjjob.com
-xnjz.net
 xnlkj.com
 xnnpc.com
 xn--ntsp37j.net
@@ -65820,7 +65806,6 @@ zzsteel.com
 zzstep.com
 zzt9.com
 zztline.com
-zztongyun.com
 zztxkj.com
 zztyscl.com
 zzvips.com

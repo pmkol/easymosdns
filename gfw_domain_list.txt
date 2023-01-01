@@ -8072,6 +8072,7 @@ cloudimg.io
 cloudinary.com
 cloudinary.net
 cloudinsights.com
+cloudlatex.io
 cloudlive.com
 cloudlock.com
 cloud.mail.ru
@@ -30061,6 +30062,7 @@ wionnews.com
 wipower.com
 wire.com
 wiredbytes.com
+wired.com
 wiredpen.com
 wireguard.com
 wireless.radio
