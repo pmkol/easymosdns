@@ -13528,6 +13528,7 @@ googlechinawebmaster.com
 google.ci
 google.cl
 google.cm
+google.co
 google.co.ao
 google.co.bw
 google.co.ck
@@ -21790,6 +21791,7 @@ oss-us-east-1.aliyuncs.com
 oss-us-west-1.aliyuncs.com
 osxapps.itunes.g.aaplimg.com
 otaku13.howbbs.com
+otaku-168.com
 otakuss.com
 otbm.com
 otcbtc.com
