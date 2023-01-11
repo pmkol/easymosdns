@@ -13240,6 +13240,7 @@ getlantern.com
 getlantern.org
 getmalus.com
 getmdl.io
+get.new
 getome.com
 get-out.co
 getoutline.org
@@ -13248,6 +13249,7 @@ getpocket.com
 getporn.tv
 getprintersupports.com
 getrelax.club
+get.rsvp
 getscorecash.com
 getsetupfile.com
 getsexgames.com
@@ -14710,6 +14712,7 @@ hex.pm
 hex.win
 hexxeh.net
 heyav.tv
+hey.boo
 heydoga.com
 heydouga.com
 heymiles.com
@@ -20897,6 +20900,7 @@ newca.org
 newcenturymc.com
 newcenturynews.com
 newchen.com
+new.day
 newdrediscount.com
 neweconomyforum.com
 newenergyfinance.com
