@@ -5581,7 +5581,6 @@
 7618.com
 761a.com
 762rc.com
-764100.com
 7654.com
 7659.com
 765i.com
@@ -7247,7 +7246,6 @@ aboutgk.com
 aboutidc.com
 aboutnew.net
 aboutyun.com
-abovede6.com
 abreader.com
 abslw.com
 abtt266.com
@@ -8038,7 +8036,6 @@ aizhenrong.com
 aizhet.com
 aizhibaby.com
 aizhi.biz
-aizhigu.tv
 aizhuizhui.com
 aiziti.net
 aizongyi.com
@@ -8398,7 +8395,6 @@ alpha-browser.com
 alphafun.com
 alpha-star.org
 alsovalue.com
-alswl.com
 altstory.com
 altxw.com
 aluaa.com
@@ -12758,7 +12754,6 @@ ccnew.com
 ccnovel.com
 ccnpic.com
 ccnt.com
-ccnvpt.com
 ccoalnews.com
 ccoco.vip
 ccoi.ren
@@ -18732,9 +18727,7 @@ diymysite.com
 diynova.com
 diypda.com
 diyring.cc
-diytrade.com
 diywoju.com
-diyworld.com
 diywz.com
 diyyh.com
 diyzhuye.com
@@ -19662,7 +19655,6 @@ duolunmoma.org
 duoluodeyu.com
 duoluosb.com
 duomai.com
-duomeiti.co
 duomiapp.com
 duomicheng.com
 duomi.com
@@ -23538,7 +23530,6 @@ gdtextbook.com
 gdtimg.com
 gdtone.com
 gdtongjiang.com
-gdtrafficad.com
 gdtravel.com
 gdttc.com
 gdtz888.com
@@ -24410,7 +24401,6 @@ gozap.com
 gp123.cc
 gp1903.com
 gp1907.com
-gp1909.com
 gp241.com
 gp259.com
 gp451.com
@@ -24965,7 +24955,6 @@ gw2sc.com
 gw66.vip
 gw8888.com
 gwamcc.com
-gwapi.net
 gwauto.com
 gwclouds.net
 gw.craft.moe
@@ -25461,7 +25450,6 @@ haimacloud.com
 haima.me
 haimawan.com
 haimi.com
-haiming-cn.com
 haimini.com
 hainachuan.org
 haina.com
@@ -28500,7 +28488,6 @@ huolishaonianwang.com
 huolug.com
 huomakeji.com
 huomao.com
-huomaow.com
 huomaqun.com
 huoming.com
 huopinyuan.com
@@ -30876,7 +30863,6 @@ itxiao.com
 itxinwen.com
 itxm.net
 itxst.com
-itxuexi.com
 itxueyuan.com
 itxueyuan.org
 itxuye.com
@@ -31052,7 +31038,6 @@ iyooread.com
 iyoowi.com
 iyoucai.com
 iyoudui.com
-iyouguoo.com
 iyouhun.com
 iyoujia.com
 iyoujiao.net
@@ -33299,7 +33284,6 @@ jushuo.com
 jussevent.com
 jusstickets.com
 just4coding.com
-just4fun.ml
 just4fun.site
 just998.com
 justalkcloud.com
@@ -33738,7 +33722,6 @@ kanbaobei.com
 kanbardata.com
 kanbing.net
 kanbox.com
-kan.cc
 kanchao.com
 kandian.com
 kandian.net
@@ -34335,7 +34318,6 @@ kkjiaofei.com
 kkjk.com
 kkk5.com
 kkkd.com
-kkkkba.com
 kkkwww.com
 kklishi.com
 kklxj.com
@@ -37109,7 +37091,6 @@ lovemojito.com
 loveniwed.com
 loveota.com
 lovepd.com
-loveqindy.com
 loverili.com
 lovesec.com
 lovesoo.org
@@ -39391,7 +39372,6 @@ mobartsgame.com
 mobawan.com
 mobayke.com
 mobayx.com
-mobcastlead.com
 mobcent.com
 mobcloud.mobi
 mob.com
@@ -44983,7 +44963,6 @@ qtlcn.com
 qtlglb.com
 qtlglb.info
 qtlgslbcn.info
-qtluyuan.com
 qt-ly.com
 qtmojo.com
 qtonghua.com
@@ -49820,7 +49799,6 @@ startogether1.com
 startos.com
 startos.org
 startup-partner.com
-star-village-ent.com
 starwarschina.com
 stat18.com
 staticaa.com
@@ -51815,7 +51793,6 @@ tianjinshunma.com
 tianjinwe.com
 tiankong.com
 tiankong.info
-tiankonguse.com
 tianlaiedu.com
 tianlaikge.com
 tianlailive.com
@@ -53382,7 +53359,6 @@ tywxw.la
 tyy6.com
 tyymt.com
 tyzscl.com
-tz089.com
 tz121.com
 tz12306.com
 tz1288.com
@@ -54088,7 +54064,6 @@ uuu.moe
 uuuo.com
 uuu.ovh
 uuutu.com
-uuuxsw.com
 uuvisa.com
 uuvps.com
 uuwego.net
@@ -54219,7 +54194,6 @@ vamaker.com
 vanbaolu.com
 vance-commerce.com
 vanchhandheld.com
-vanchiot.com
 vanchip.com
 vanchiptech.com
 vanch.net
@@ -54893,7 +54867,6 @@ w3cbus.com
 w3cfuns.com
 w3chtml.com
 w3cjava.com
-w3cplus.com
 w3cschool.cc
 w3cshare.com
 w3ctalk.com
@@ -57915,7 +57888,6 @@ xdxdsz.com
 xdxialingying.com
 xdxmwang.com
 xdxx.ink
-xdyqw.com
 xedaojia.com
 xedaojia.net
 xeeee.net
@@ -59358,7 +59330,6 @@ xmmodo.com
 xmmtoys.com
 xmnjdwx.com
 xmnovel.com
-xmodelmall.com
 x-mol.com
 xm-olympic-museum.org
 xmonecode.com
@@ -60634,7 +60605,6 @@ yemaosoft.com
 yemayun.com
 yemeihuoguo.com
 yemet.com
-yemi.me
 yeolar.com
 yeoner.com
 yeree.com
@@ -64815,7 +64785,6 @@ zjhangyin.com
 zjhcbank.com
 zjhee.com
 zjhejiang.com
-zj-hhcy.com
 zjhim.com
 zjhnlianzhong.com
 zjhnrb.com
