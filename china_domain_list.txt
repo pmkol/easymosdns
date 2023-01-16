@@ -13314,6 +13314,8 @@ cfmmc.com
 cfmoto.com
 cf-ns.com
 cf-ns.net
+cf-ns.site
+cf-ns.tech
 cfogc.com
 c-fol.net
 cfpa.pw
@@ -13322,6 +13324,8 @@ cfryny.com
 cfsino.com
 cfsl2017.com
 cftea.com
+cftest7.com
+cftest8.com
 cftong.com
 cfucn.com
 cfund108.com
@@ -15216,6 +15220,11 @@ clouddongying.com
 clouddream.net
 cloudflare520.com
 cloudflare-cn.com
+cloudflarecn.net
+cloudflareinsights-cn.com
+cloudflareprod.com
+cloudflarestaging.com
+cloudflarestoragegw.com
 cloudfoshan.com
 cloud-frame.com
 cloudfront-cn.net
