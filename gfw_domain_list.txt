@@ -21344,6 +21344,7 @@ nitter.snopyta.org
 nitter.tedomum.net
 niu95992.com
 niubowang.com
+niuc2.com
 niu.moe
 niusnews.com
 niuxuewang.com
@@ -22435,6 +22436,8 @@ patelbrothersusa.com
 patentgold.net
 patenttruth.org
 patreon.com
+patreoncommunity.com
+patreonusercontent.com
 patriademarti.com
 patrickemaher.com
 paulsimon-music.com
@@ -24230,7 +24233,6 @@ rawdirect.com
 rawgit.com
 raw.githack.com
 rawgithub.com
-raw.githubusercontent.com
 rawstory.com
 rawtube.com
 rayanet.com
@@ -26314,6 +26316,7 @@ springboardplatform.com
 springer.com
 springerlink.com
 springernature.com
+springwood.me
 sprinklesapp.com
 sprint0.net
 sprint.com
@@ -35567,6 +35570,7 @@ youav.com
 youbeli.com
 youbiyao.net
 youcaring.com
+you.com
 youdontcare.com
 youflix.is
 youfreeproxytube.com
