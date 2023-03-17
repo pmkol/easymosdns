@@ -1086,6 +1086,7 @@ api.adserver-e7.com
 api.ampiri.com
 api.appnxt.net
 api.apptentive.com
+api.autopilothq.com
 api.catch.gift
 api.clickaine.com
 api.feedad.com
@@ -2221,6 +2222,7 @@ dualstack-logs.amap.com
 duckswillsmoochyou.com
 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 dummieseardrum.com
+dvmludkami.com
 dxgo95ahe73e8.cloudfront.net
 dynamicadx.com
 dynatrace.com
@@ -2730,6 +2732,7 @@ gyppedsquiss.com
 h2aek6rv0ard.com
 h78xb.pw
 hacbfyvvsw.com
+hadabqhbewcrt.com
 hadarone.com
 hadesleta.com
 hairdosslitter.casa
@@ -3632,6 +3635,7 @@ myaffiliateprogram.com
 myaffiliates.com
 mybbc-analytics.files.bbci.co.uk
 mybestmv.com
+mybettermb.com
 mybloglog.com
 mybuys.com
 mycounter.ua
@@ -4285,6 +4289,7 @@ qctop.com
 qdfxeqhnjuknyy.com
 qgicqtyh.com
 qgxbluhsgad.com
+qjwglnuwqvr.com
 qlcdnvkgi.com
 qmxgkgykaex.com
 qnsr.com
@@ -4439,8 +4444,10 @@ revealoverheadearth.com
 revengemeantjackpot.com
 revenuedirect.com
 revenue.net
+revenuenetwork.com
 reverysteno.com
 revincenizam.com
+revmasters.com
 revmob.com
 revoketypes.com
 revstats.com
@@ -5566,6 +5573,7 @@ weboohost.com
 weborama.com
 weborama.fr
 weborama.net
+webpartners.co
 webpinp.com
 webpower.com
 webproducts.click
@@ -5767,6 +5775,7 @@ www.pressingmiscellaneoustry.com
 www.pro-ads.club
 www.propu.sh
 www.push-notifications.top
+www.qksrv.net
 www.routeserve.info
 www.rtb123.com
 www.servsave.com
