@@ -357,6 +357,8 @@ full:menu-static.gog-statics.com
 full:mesu.apple.com
 full:mesu-cdn.apple.com.akadns.net
 full:mesu-china.apple.com.akadns.net
+full:mini5cn-1.opera-mini.net
+full:mini5cn.opera-mini.net
 full:mktplassets-ssl.xbox.com
 full:monitoring.qatp1.net
 full:monitoring.qcpp1.net
