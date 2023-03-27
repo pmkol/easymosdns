@@ -2735,6 +2735,7 @@ aalah.me
 aamacau.com
 aanaan.com
 aapks.com
+aaplimg.com
 aarberg-bierwanderung.ch
 aaronmix.net
 aaronnieh.com
@@ -3810,6 +3811,7 @@ annualpelvicexam.com
 annualreviews.org
 anobii.com
 anonasurf.com
+anonfiles.com
 anonproxy.info
 anontext.com
 anon-v.com
@@ -4009,7 +4011,6 @@ app.heywire.com
 appl4e.com
 appla.com
 appl.com
-appldnld.g.aaplimg.com
 apple
 appleaccount.net
 appleafrica.com
@@ -7619,7 +7620,6 @@ cdpusa.org
 cdpweb.org
 cdpwu.org
 cds.apple.com.akadns.net
-cds-cdn.v.aaplimg.com
 cd.spacetechnology.net
 cdtser.com
 cduniverse.com
@@ -14318,7 +14318,6 @@ guruonline.hk
 gutteruncensored.com
 gu-web.net
 guysnightlife.com
-guzzoni-apple-com.v.aaplimg.com
 gvardia.com
 gv.com
 gvlib.com
@@ -15781,6 +15780,7 @@ hyc1324.com
 hyc1324.xyz
 hycgm1324.shop
 hychot4.xyz
+hydrogenaud.io
 hyper.co
 hyperdreams.com
 hyper.is
@@ -16542,7 +16542,6 @@ iole.tv
 ionic.cf
 iop.org
 i.org
-iosapps.itunes.g.aaplimg.com
 ios-icloud.com
 iosinthecar.com
 iotinactionevents.com
@@ -16815,6 +16814,7 @@ itcfonts.com
 it-como-hobby.com
 iteke.ml
 itemdb.com
+itemfix.com
 itfromtheinside.com
 ithaisex.com
 ithelp.ithome.com.tw
@@ -18262,6 +18262,7 @@ leclerc
 lecloud.net
 lecoin.cc
 lede-project.org
+ledger.com
 le-direct.tv
 ledongzhibo1111.com
 ledongzhibo111.com
@@ -22062,6 +22063,7 @@ oldnavy
 oldpiratebay.org
 ole777.com
 olehd.com
+olehdtv.com
 olelive.com
 olevod.com
 olevod.io
@@ -22369,7 +22371,6 @@ oss-eu-west-1.aliyuncs.com
 oss-me-east-1.aliyuncs.com
 oss-us-east-1.aliyuncs.com
 oss-us-west-1.aliyuncs.com
-osxapps.itunes.g.aaplimg.com
 otaku13.howbbs.com
 otaku-168.com
 otakuss.com
@@ -27193,7 +27194,6 @@ svsgames.org
 swagbucks.com
 swaghub.cc
 swag.live
-swallow-apple-com.v.aaplimg.com
 swapsmut.com
 swarajyamag.com
 swatch
@@ -27202,7 +27202,6 @@ sway.com
 swc5555.com
 swc888.com
 swcatalog-cdn.apple.com.akadns.net
-swcdn.g.aaplimg.com
 swdist.apple.com.akadns.net
 sweetadult-tube.com
 sweetkiss.me
