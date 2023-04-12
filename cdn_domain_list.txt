@@ -445,6 +445,7 @@ full:regioninfo-pa.googleapis.com
 full:reserve-prime.apple.com
 full:res.office365.com
 full:res.outlook.com
+full:rum8.perf.linkedin.com
 full:s1.mzstatic.com
 full:s2.mzstatic.com
 full:s3.mzstatic.com
