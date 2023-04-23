@@ -8,7 +8,6 @@ full:a2.mzstatic.com
 full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
-full:account.htcvive.com
 full:accounts.googlers.com
 full:accounts.xn--9trs65b.com
 full:accounts.xn--ggle-55da.com
@@ -52,9 +51,7 @@ full:beacons.gvt2.com
 full:bg4.v4.a.dl.ws.microsoft.com
 full:bg.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
-full:blog.htcvive.com
 full:blog.tutorabc.com
-full:blog.vive.com
 full:blz.nosdn.127.net
 full:bookkeeper.itunes.apple.com
 full:borgmon.adz.google.com
@@ -139,7 +136,6 @@ full:console-service.halo.xbox.com
 full:console-service-ssl.halo.xbox.com
 full:content.googleadapis.com
 full:content.nike.com
-full:contentstore.htcvive.com
 full:corp.googleapis.com
 full:corp.google.com
 full:cortexfx.bnpparibas.com
@@ -157,9 +153,7 @@ full:cstat.cdn-apple.com
 full:ctldl.windowsupdate.com
 full:dartsearch-cn.net
 full:dd-cdn.origin-apple.com.akadns.net
-full:developer.htcvive.com
 full:developer.microsoft.com
-full:developer.vive.com
 full:dg-meta.video.google.com
 full:diablo3.nosdn.127.net
 full:di.res.netease.com
@@ -175,6 +169,7 @@ full:dl.l.google.com
 full:docs.microsoft.com
 full:doubleclick-cn.net
 full:doubleclick.net
+full:downloadcenter.samsung.com
 full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
 full:download.epicgames.com
@@ -195,7 +190,6 @@ full:ec4.images-amazon.com
 full:ec8.images-amazon.com
 full:editorial.xboxlive.com
 full:eds.xboxlive.com
-full:emdl.ws.microsoft.com
 full:emmapplecodevice.googleapis.com
 full:emoi-cncdn.bing.com
 full:encoding.image-gmkt.com
@@ -480,7 +474,6 @@ full:sina.com.hk
 full:slupdate.dlservice.microsoft.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
-full:source.tutorabc.com
 full:speedtest.xboxlive.com
 full:sp.itunes.apple.com
 full:ss.bjmu.edu.cn
@@ -594,8 +587,6 @@ full:www.renren.com.cdngc.net
 full:www-ssl.intel.com
 full:www.sulwhasoo.com
 full:www.travelzoo.com
-full:www.tutorabc.com
-full:www.vive.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
 full:xn--9kr7l.com
