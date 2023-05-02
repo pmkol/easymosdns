@@ -8064,7 +8064,6 @@ alianhome.com
 aliapp.com
 aliapp.org
 aliavv.com
-alibaba
 alibabacapital.com
 alibabachengdun.com
 alibabachengdun.net
@@ -8142,7 +8141,6 @@ alinx.com
 alinx.vip
 aliog.com
 alipansou.com
-alipay
 alipayauto.com
 alipay.com
 alipaycs.com
@@ -9327,7 +9325,6 @@ awtmt.com
 awuming.com
 awx1.com
 awyyzx.com
-#ax1x.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/391
 ax2nc4.ren
 ax630.com
 axatp.com
@@ -9509,7 +9506,6 @@ baidenafu.com
 baideye.com
 baidinet.com
 baidouya.com
-baidu
 baidu120.cc
 baidu123.com
 baidu1.com
@@ -14869,7 +14865,6 @@ cisskwt.com
 citahub.com
 citexpo.org
 citiais.com
-citic
 citicbank.com
 citicbankuser.com
 citiccapital.com
@@ -15323,7 +15318,6 @@ cmzd.com
 cmzi.com
 cmzj.net
 cmzyk.com
-cn
 cn006.com
 cn00.com
 cn010w.com
@@ -23806,7 +23800,6 @@ globalmil.com
 globalpingbao.com
 globalscanner.com
 global-scsl.com
-#globalsign.com # Disabled: very unstable
 globalslb.net
 globalsources.com
 globalstech.com
@@ -28870,7 +28863,6 @@ icaredbd.com
 icasiso.com
 icastlewar.com
 icax.org
-icbc
 icbc.ae
 icbcalmaty.kz
 icbcasia.com
@@ -48847,7 +48839,6 @@ sohodd.com
 sohonow.com
 sohotask.com
 soho-yiming.com
-sohu
 sohu.com
 sohucs.com
 sohuhistory.com
@@ -50629,7 +50620,6 @@ tao30.com
 tao616.com
 tao800.com
 tao8090.com
-taobao
 taobao1111.com
 taobao92.com
 taobaocdn.com
@@ -51781,7 +51771,6 @@ tlwok.com
 tlyy.cc
 tm312.com
 tmaill.com
-tmall
 tmall.casa
 tmall.com
 tmall.hk
@@ -51988,7 +51977,6 @@ tooopen.com
 tooseo.com
 tootour.com
 toouoo.com
-top
 top100summit.com
 top147.com
 top263.net
@@ -53350,7 +53338,6 @@ ungifts.com
 unibizp.com
 unicde.com
 unicloud.com
-unicom
 unicom-cz.com
 unicomgd.com
 unicomjnwy.com
@@ -55013,7 +55000,6 @@ webkv.com
 webmeng.net
 webmulu.com
 webnovel.com
-#webnovel.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/386
 webok.me
 webond.net
 weboss.hk
@@ -56965,7 +56951,6 @@ www.akamai.com
 www.amd.com
 www.analog.com
 wwwatch.in
-#www.bing.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/commit/449e1faf9816226ba30082cdc54061f520f78f81#r31928598
 wwwbuild.net
 www.cc
 www.cdnetworks.com
@@ -56985,7 +56970,6 @@ wwwic.net
 wwwimages2.adobe.com
 wwwimages.adobe.com
 wwwku.com
-#www.linkedin.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/335
 www.microsoft.com
 www.nike.com
 www.pandora.net
@@ -58926,15 +58910,11 @@ xmzdls.com
 xmzsyg.com
 xmzylh.com
 xn121.com
-xn--1qqw23a
 xn2017.com
 xn--2krw29cdqai43k.com
-xn--55qx5d
-xn--6frz82g
 xn--6rt008ee0k3ua.com
 xn--6rt008ee0k3ua.net
 xn--7hv285el2dtof.com
-xn--8y0a063a
 xnaidog.com
 xnara.org
 xnb.me
@@ -58947,17 +58927,12 @@ xndm.tech
 xn--e9qp53aepg.xn--ses554g
 xn--ebr05n.com
 xn--eqrt2g.xn--vuq861b
-xn--estv75g
-xn--fiq64b
 xn--fiq8ituh5mn9d1qbc28lu5dusc.xn--vuq861b
-xn--fiqs8s
 xn--fiqz7g67bsydx1ed00d.com
-xn--fiqz9s
 xn--glr604k.com
 xnh123.com
 xnhdgame.com
 xninja.org
-xn--io0a7i
 xn--it-1r3f.com
 xnjcw.com
 xnjjob.com
@@ -58977,18 +58952,15 @@ xnsla.com
 xn--tfr76a.xn--czr694b
 xntt.com
 xntv.tv
-xn--vuq861b
 xn--w9qy23cc6adz7d.net
 xnwan.com
 xnw.com
 xn--wlqw5ebvdhpi5hepihs3c.com
-xn--xhq521b
 xn--xkrs9ba41r.com
 xny365.com
 xnyauto.com
 xnye.net
 xn--ygtp21bwyedsq.com
-xn--zfr164b
 xnzjxx.com
 xnzn.net
 xoao.com
@@ -64623,7 +64595,6 @@ zoom3g.com
 zoom-china.com
 zoomeye.org
 zoomlion.com
-#zoom.us # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/29
 zoopda.com
 zoosnet.net
 zoossoft.com

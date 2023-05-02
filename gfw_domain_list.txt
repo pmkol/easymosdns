@@ -536,7 +536,6 @@ adanaatikhaber.com
 adbecrsl.com
 adbkm.com
 adblockplus.org
-adcdownload.apple.com.akadns.net
 adcex.com
 addictedtocoffee.de
 addthiscdn.com
@@ -1229,14 +1228,11 @@ appleclassicipod.com
 apple-cloudkit.com
 apple.co
 appl-e.com
-apple.com
-apple.com.co
 applecom.com
 applecomputer.com
 applecomputer-imac.com
 applecomputerimac.com
 applecomputerinc.info
-apple.comscoreresearch.com
 applecoronavirus.com
 appledaily.com
 appledaily.com.hk
@@ -3435,7 +3431,6 @@ cdmatech.com
 cdn1.lp.saboom.com
 cdn77.com
 cdn77.org
-cdn-apple.com
 cdn.assets.lfpcontent.com
 cdnews.com.tw
 cdn.helixstudios.net
@@ -3456,7 +3451,6 @@ cdpeu.org
 cdpusa.org
 cdpweb.org
 cdpwu.org
-cds.apple.com.akadns.net
 cdw.com
 cebay.com
 cecc.gov
@@ -3804,10 +3798,6 @@ ck101.com
 ckcdn.com
 ckck.fun
 ckss98.com
-cl1-cdn.origin-apple.com.akadns.net
-cl3-cdn.origin-apple.com.akadns.net
-cl4-cdn.origin-apple.com.akadns.net
-cl5-cdn.origin-apple.com.akadns.net
 claravenger.com
 clarionproject.org
 clarivate.com
@@ -3830,7 +3820,6 @@ clementine-player.org
 clickserve.cc-dt.com
 clickserver.googleads.com
 click-url.com
-clientflow.apple.com.akadns.net
 cling.omy.sg
 clinicalkey.com
 clinical-videos.com
@@ -4046,7 +4035,6 @@ computer.org
 computingreviews.com
 comsoc.org
 conair.me
-configuration.apple.com.akadns.net
 co.ng.mil
 connectcommerce.info
 connectedcommerce.com
@@ -4430,7 +4418,6 @@ dcard.tw
 dcmilitary.com
 dctbeatsbydre.com
 ddc.com.tw
-dd-cdn.origin-apple.com.akadns.net
 ddd-smart.net
 ddg.co
 ddhw.info
@@ -4697,7 +4684,6 @@ discountporn.club
 discoveryplus.com
 discuss4u.com
 discuss.com.hk
-discussionsapple.com
 dish.com
 dishworld.com
 disk.yandex.com
@@ -6325,7 +6311,6 @@ financetwitter.com
 financialadvisoriq.com
 finchvpn.com
 findacard.com
-find-apple.com
 findasians.live
 findbare.com
 findcams.live
@@ -7738,9 +7723,6 @@ gscanada.info
 gsccdn.com
 gs-discuss.com
 gsearch.media
-gsp4-cn.ls.apple.com.edgekey.net
-gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-gspe19-cn.ls-apple.com.akadns.net
 gsp.target.com
 gstatic-cn.com
 gstatic.com
@@ -8815,7 +8797,6 @@ idnike.com
 idol-sagasukun.com
 idouga.com
 idreamx.com
-ids-apple.com
 idservice.inc
 idv.tw
 ie10.com
@@ -8936,8 +8917,6 @@ ilove-movies.com
 iloveprettylolimm.com
 ilovexs.com
 im88.tw
-imac-apple.com
-imacapple.com
 imac-applecomputer.com
 imacapplecomputer.com
 imac.co
@@ -8952,8 +8931,6 @@ imagefap.com
 imageflea.com
 imagepost.com
 images-amazon.com
-images.apple.com.akadns.net
-images.apple.com.edgekey.net.globalredir.akadns.net
 images.comico.tw
 images-gaytube.com
 imageshack.com
@@ -9056,10 +9033,7 @@ ingka.dev
 inhumanity.com
 inikesneakers.com
 initiativesforchina.org
-init-p01md-lb.push-apple.com.akadns.net
-init-p01st-lb.push-apple.com.akadns.net
 initproducts.com
-init-s01st-lb.push-apple.com.akadns.net
 init.shop
 inkchoice.com
 inkedravens.com
@@ -9380,7 +9354,6 @@ itu.int
 itunbes.com
 ituneas.com
 itunes12days.com
-itunes-apple.com.akadns.net
 itunes.co
 itunes.com
 itunesessentials.com
@@ -10794,8 +10767,6 @@ mesotw.com
 messenger.com
 messengerdevelopers.com
 messytube.com
-mesu-cdn.apple.com.akadns.net
-mesu-china.apple.com.akadns.net
 metacafe.com
 metacloud.com
 meta.com
@@ -11898,7 +11869,6 @@ nexitcore.com
 nexon.com
 nexpart.com
 next11.co.jp
-nextapple.com
 next.com
 nextdigital.com.hk
 nextechafrica.net
@@ -12347,7 +12317,6 @@ ocreampies.com
 ocry.com
 ocsp-certum.com
 ocsp.int-x3.letsencrypt.org
-ocsp-lb.apple.com.akadns.net
 ocsp-responder.com
 october-review.org
 oculus2014.com
@@ -12607,7 +12576,6 @@ orzistic.org
 orzqwq.com
 osakamotion.net
 osapublishing.org
-oscdn.origin-apple.com.akadns.net
 osdn.net
 osfoora.com
 osiri-suki-club.com
@@ -12655,7 +12623,6 @@ outletbeatsshop.com
 outletnike.com
 outlook.com
 over18arcade.com
-overapple.com
 overcast.fm
 overdaily.org
 overleaf.com
@@ -12736,7 +12703,6 @@ paljorpublications.com
 paltalk.com
 panamapapers.sueddeutsche.de
 panasonic.com
-pancake.cdn-apple.com.akadns.net
 pandamovies.pw
 pandanet-igs.com
 pandapow.co
@@ -14143,7 +14109,6 @@ redxxxvideos.com
 redzonechannel.com
 referer.us
 reflectivecode.com
-reform-apple.com
 regex101.com
 regiongold.com
 registerhulu.com
@@ -15476,18 +15441,14 @@ sto.cc
 stockagainstphotography.com
 stockingfetishvideo.com
 stocking-tease.com
-stocks-sparkline-lb.apple.com.akadns.net
 stonefoxlingerie.com
 stonefoxproductions.com
 stoporganharvesting.org
 stoptibetcrisis.net
 storagenewsletter.com
-store.apple.com.edgekey.net
-store.apple.com.edgekey.net.globalredir.akadns.net
 store-bridgestonesports.com
 storesense.com
 store.steampowered.com
-store.storeimages.apple.com.akadns.net
 stories.google
 storiesonline.net
 storify.com
@@ -15637,8 +15598,6 @@ swag.live
 swapsmut.com
 sway-cdn.com
 sway.com
-swcatalog-cdn.apple.com.akadns.net
-swdist.apple.com.akadns.net
 sweetadult-tube.com
 sweetmlif.net
 sweetsext.com
@@ -15672,7 +15631,6 @@ swjedifallenorder.com
 swjfo.com
 swoosh.com
 swpr.livedoor.blog
-swscan-cdn.apple.com.akadns.net
 swtor.com
 swtor.net
 sxarab.top
@@ -16863,7 +16821,6 @@ uoherald.com
 up01.cc
 upcoming.yahoo.com
 update.crashlytics.com
-updates-http.cdn-apple.com.akadns.net
 updates.tdesktop.com
 updatetube.com
 up.gcp.googlers.com
@@ -16988,7 +16945,6 @@ vaginalultrasound.info
 vagrantcloud.com
 vagrantup.com
 valeursactuelles.com
-valid.origin-apple.com.akadns.net
 valoryirene.com
 valuegb.com
 valvesoftware.com
@@ -17562,7 +17518,6 @@ wealth.com.tw
 weareebay.com
 wearehairy.com
 wearn.com
-weather-data.apple.com.akadns.net
 weav.xyz
 web2project.net
 web.app
@@ -17946,7 +17901,6 @@ wumashe.com
 wunvb.com
 wuso.me
 wuw.red
-wuxiapple.com
 wuyanblog.com
 wuyefuli.org
 wvm0agb4.me
@@ -17967,9 +17921,6 @@ www.ajsands.com
 www.americorps.gov
 www.antd.org
 www.aolnews.com
-wwwapple.com
-www.apple.com.edgekey.net
-www.apple.com.edgekey.net.globalredir.akadns.net
 wwwapplemusic.com
 wwwapple.net
 www-bestbuystores.com
@@ -18001,7 +17952,6 @@ wwwitunes.com
 www.kindleren.com
 www.klip.me
 www.lamenhu.com
-wwwlapple.com
 www.lib.virginia.edu
 www.linksalpha.com
 wwwmacbookair.com
@@ -18022,7 +17972,6 @@ www.s4miniarchive.com
 www.sciencemag.org
 www.shadowsocks.com
 www.skype.com
-www-sms-apple.com
 www.tablesgenerator.com
 www.taiwanonline.cc
 www.taup.org.tw
