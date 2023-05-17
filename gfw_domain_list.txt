@@ -10233,6 +10233,7 @@ linguee.com
 lingvodics.com
 link2galleries.com
 link69.com
+link.com
 linkedin.com
 linkideo.com
 linkjunkies.com
@@ -15541,6 +15542,7 @@ stripchat.com
 stripecdn.com
 stripe.com
 stripe.network
+stripe-terminal-local-reader.net
 stripparadise.com
 stripselector.com
 stripskunk.com
