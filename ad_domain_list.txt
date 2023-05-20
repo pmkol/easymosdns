@@ -313,7 +313,6 @@ adnetworkperformance.com
 adnotch.com
 ad.nozonedata.com
 ad.nttnavi.co.jp
-ad.nvdvr.cn
 ad.nwt.cz
 adocean.pl
 adonspot.com
@@ -351,7 +350,6 @@ adrecreate.com
 adremedy.com
 adrenalpop.com
 adreporting.com
-adreq.togothermany.cn
 adrevolver.com
 adrino.pl
 adriver.ru
@@ -393,13 +391,11 @@ ads.adultfriendfinder.com
 ads.advance.net
 ads.adverline.com
 ads.affiliates.match.com
-adsage.cn
 ads.alt.com
 ads.amdmb.com
 ads.amigos.com
 ads.aol.co.uk
 ads-api.ft.com
-adsapi.togothermany.cn
 ads.apn.co.nz
 ads.appsgeyser.com
 ads.as4x.tmcs.net
@@ -430,7 +426,6 @@ ads.casumoaffiliates.com
 ads.cbc.ca
 ads.cc
 ads.centraliprom.com
-adscfg.togothermany.cn
 adscholar.com
 adscience.nl
 ads-click.com
@@ -714,7 +709,6 @@ ads.ultimate-guitar.com
 ads.uncrate.com
 adsupplyads.com
 adsupply.com
-adsup.togothermany.cn
 ads.usatoday.com
 ads.verticalresponse.com
 ads.vgchartz.com
@@ -722,7 +716,6 @@ ads.videosz.com
 ads.virtualcountries.com
 ads.virtual-nights.com
 ads.vnumedia.com
-ads.wapx.cn
 ads.watson.ch
 ads.weather.ca
 ads.web.de
@@ -770,7 +763,6 @@ ad.unimhk.com
 adunity.com
 ad-up.com
 ad.usatoday.com
-ad.us.sinaimg.cn
 adux.com
 adv-adserver.com
 advanced-web-analytics.com
@@ -820,8 +812,6 @@ adv.nexthardware.com
 advnt.com
 advolution.de
 advrspromo.click
-adv-sv-show.focus.cn
-adv-sv-stat.focus.cn
 adv.webmd.com
 adv.wp.pl
 adv.yo.cz
@@ -1877,7 +1867,6 @@ coremetrics.com
 coretalk.co
 cotihgcqkh.com
 cougarads.com
-count.7m.com.cn
 counted.com
 counter.bloke.com
 countercentral.com
@@ -2015,7 +2004,6 @@ da-ads.com
 dacmaiss.com
 dadsimz.com
 dadslims.com
-dads.wedobest.com.cn
 daedaelousscri.com
 daeda-iyk.com
 dagd0kz7sipfl.cloudfront.net
@@ -2363,8 +2351,6 @@ events.mapbox.com
 events.redditmedia.com
 events.shoplytics.com
 events.split.io
-event.stat.wedobest.com.cn
-event.wedobest.com.cn
 everestjs.net
 evergage.com
 eviltracker.net
@@ -3307,7 +3293,6 @@ log.getdropbox.com
 logitxaequk.com
 log.klook.com
 log.kmplayer.com
-log.kuwo.cn
 log.lemonpi.io
 log.mediation.onebooster.me
 log.mofa.go.kr
@@ -4292,7 +4277,6 @@ qlcdnvkgi.com
 qmxgkgykaex.com
 qnsr.com
 qohxtklfmy.com
-qp.ezfxpuo.cn
 qqkabb.com
 q.quora.com
 qstukqmsddqgs.com
@@ -4360,7 +4344,6 @@ rclog.rcplatformhk.com
 rdgtvgmtauro.com
 rdr.wargaming.net
 reachjunction.com
-reachmax.cn
 reactx.com
 readgoldfish.com
 readingguilt.com
