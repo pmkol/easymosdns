@@ -471,6 +471,7 @@ full:sf-api-token-service.itunes.apple.com
 full:shop.samsung.com
 full:silverlight.dlservice.microsoft.com
 full:sina.com.hk
+full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
