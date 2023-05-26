@@ -392,6 +392,7 @@ full:p9-juejin.byteimg.com
 full:pagead-googlehosted.l.google.com
 full:pancake.apple.com
 full:pancake.cdn-apple.com.akadns.net
+full:partner.globalsign.com
 full:pd.itunes.apple.com
 full:performanceparameters.googleapis.com
 full:pki-goog.l.google.com

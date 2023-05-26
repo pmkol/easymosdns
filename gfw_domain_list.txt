@@ -10717,6 +10717,7 @@ mcstories.com
 mdhcdn.com
 mdialog.com
 mdlf.xyz
+mdn.allizom.net
 mdn.dev
 mdnkids.com
 mdn.mozit.cloud
