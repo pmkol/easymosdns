@@ -308,6 +308,7 @@ full:iosapps.itunes.apple.com
 full:iosapps.itunes.g.aaplimg.com
 full:ipcdn.apple.com
 full:iphone-ld.apple.com
+full:iphone-ld.origin-apple.com.akadns.net
 full:is1.mzstatic.com
 full:is1-ssl.mzstatic.com
 full:is2.mzstatic.com
@@ -553,6 +554,8 @@ full:valid.origin-apple.com.akadns.net
 full:wear.googleapis.com
 full:weather-data.apple.com
 full:weather-data.apple.com.akadns.net
+full:weather-map2.apple.com
+full:weather-map.apple.com
 full:web-service.halo.xbox.com
 full:web-service-ssl.halo.xbox.com
 full:webview.unityads.unity3d.com

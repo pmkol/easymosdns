@@ -12,7 +12,7 @@
 | 恶意广告 | ad_domain_list.txt | [下载链接](https://raw.githubusercontent.com/pmkol/easymosdns/rules/ad_domain_list.txt) | [加速链接](https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/ad_domain_list.txt)
 #### DNS规则源
 - china_ip_list.txt
-> [geoip2-cn](https://github.com/Hackl0us/GeoIP2-CN) | [chnroutes2](https://github.com/misakaio/chnroutes2) | [daily](https://github.com/pexcn/daily)
+> [china-ip-list](https://github.com/17mon/china_ip_list) | [chnroutes2](https://github.com/misakaio/chnroutes2) | [daily](https://github.com/pexcn/daily)
 - gfw_ip_list.txt
 > [wikiversity](https://zh.m.wikiversity.org/zh-hans/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93IP%E5%88%97%E8%A1%A8)
 - china_domain_list.txt
