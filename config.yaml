@@ -1,6 +1,5 @@
-# Powered by Apad.pro
+# EasyMosdns v3.0(Final Release)
 # https://apad.pro/easymosdns
-#
 log:
     file: "./mosdns.log"
     level: error
@@ -27,8 +26,8 @@ data_providers:
   - tag: ecscn
     file: ./ecs_cn_domain.txt
     auto_reload: true
-  - tag: ecstw
-    file: ./ecs_tw_domain.txt
+  - tag: ecsnoncn
+    file: ./ecs_noncn_domain.txt
     auto_reload: true
   - tag: hosts
     file: ./hosts.txt
@@ -36,13 +35,24 @@ data_providers:
 
 plugins:
   # 缓存的插件
-  - tag: cache
+  # [lan|wan]
+  - tag: cache_lan
     type: cache
     args:
-      size: 10240
+      size: 8192
       #redis: "redis://127.0.0.1:6379/0"
       lazy_cache_ttl: 86400
       cache_everything: true
+      lazy_cache_reply_ttl: 1
+  - tag: cache_wan
+    type: cache
+    args:
+      size: 131072
+      compress_resp: true
+      #redis: "redis://127.0.0.1:6379/0"
+      lazy_cache_ttl: 86400
+      cache_everything: true
+      lazy_cache_reply_ttl: 5
 
   # Hosts的插件
   - tag: hosts
@@ -51,51 +61,70 @@ plugins:
       hosts:
         - "provider:hosts"
 
-  # 调整ECS的插件
-  # [auto|global|cn|tw]
+  # 获取ECS的插件
   - tag: ecs_auto
     type: ecs
     args:
       auto: true
-      mask4: 24
       force_overwrite: false
+      
+  # 指定ECS的插件
   - tag: ecs_global
-    type: ecs
-    args:
-      auto: true
-      mask4: 22
-      force_overwrite: false
-  - tag: ecs_cn
-    type: ecs
-    args:
-      auto: false
-      ipv4: "1.2.4.0"
-      ipv6: "2001:dc7:1000::1"
-      mask4: 24
-      force_overwrite: true
-  - tag: ecs_tw
     type: ecs
     args:
       auto: false
       ipv4: "168.95.1.0"
-      ipv6: "2001:b000:168::1"
-      mask4: 22
-      force_overwrite: true
+      ipv6: "2001:b000:168::"
+      force_overwrite: false
+
+  # 匹配ECS的插件
+  - tag: ecs_is_lan
+    type: query_matcher
+    args:
+      ecs: 
+        - "0.0.0.0/8"
+        - "10.0.0.0/8"
+        - "100.64.0.0/10"
+        - "127.0.0.0/8"
+        - "169.254.0.0/16"
+        - "172.16.0.0/12"
+        - "192.0.0.0/24"
+        - "192.0.2.0/24"
+        - "198.18.0.0/15"
+        - "192.88.99.0/24"
+        - "192.168.0.0/16"
+        - "198.51.100.0/24"
+        - "203.0.113.0/24"
+        - "224.0.0.0/3"
+        - "::1/128"
+        - "fc00::/7"
+        - "fe80::/10"
+  - tag: ecs_is_cn
+    type: query_matcher
+    args:
+      ecs: 
+        - "provider:chinaip"
 
   # 调整TTL的插件
-  - tag: ttl_short
+  # [1m|5m|1h]
+  - tag: ttl_1m
     type: ttl
     args:
       minimal_ttl: 60
       maximum_ttl: 3600
-  - tag: ttl_long
+  - tag: ttl_5m
     type: ttl
     args:
       minimal_ttl: 300
-      maximum_ttl: 3600
+      maximum_ttl: 86400
+  - tag: ttl_1h
+    type: ttl
+    args:
+      minimal_ttl: 3600
+      maximum_ttl: 86400
 
-  # 匹配PTR类型请求的插件
-  - tag: query_is_ptr
+  # 匹配TYPE12类型请求的插件
+  - tag: qtype12
     type: query_matcher
     args:
       qtype: [12]
@@ -105,23 +134,33 @@ plugins:
     type: query_matcher
     args:
       qtype: [65]
-      
+
+  # 匹配TYPE255类型请求的插件
+  - tag: qtype255
+    type: query_matcher
+    args:
+      qtype: [255]
+
+  # 匹配RCODE2的插件
+  - tag: response_server_failed
+    type: response_matcher
+    args:
+      rcode: [2]
+
   # 屏蔽请求的插件
   - tag: black_hole
     type: blackhole
     args:
       rcode: 0
-      ipv4: "127.0.0.1"
-      ipv6: "::1"
+      ipv4: "0.0.0.0"
+      ipv6: "::"
 
-  # 匹配Akamai的插件
-  - tag: response_cname_akamai
-    type: response_matcher
+  # 匹配无效域名的插件
+  - tag: query_is_non_domain
+    type: query_matcher
     args:
-      cname:
-        - "akamaiedge.net"
-        - "akadns.net"
-        - "edgekey.net"
+      domain:
+        - "keyword::"
 
   # 匹配本地域名的插件
   - tag: query_is_local_domain
@@ -159,11 +198,11 @@ plugins:
         - "provider:ecscn"
 
   # 匹配强制非本地解析域名的插件
-  - tag: query_is_tw_domain
+  - tag: query_is_noncn_domain
     type: query_matcher
     args:
       domain:
-        - "provider:ecstw"
+        - "provider:ecsnoncn"
 
   # 匹配本地IP的插件
   - tag: response_has_local_ip
@@ -180,73 +219,35 @@ plugins:
         - "provider:gfwip"
 
   # 转发至本地服务器的插件
-  # [local|alidns|dnspod]
   - tag: forward_local
     type: fast_forward
     args:
       upstream:
-        - addr: "tls://120.53.53.53:853"
-          enable_pipeline: true
-        - addr: "udpme://223.5.5.5"
-          trusted: true
-  - tag: forward_alidns
-    type: fast_forward
-    args:
-      upstream:
         - addr: "223.5.5.5"
-  - tag: forward_dnspod
-    type: fast_forward
-    args:
-      upstream:
         - addr: "tls://120.53.53.53:853"
           enable_pipeline: true
 
   # 转发至远程服务器的插件
-  # [remote|host_socks|googledns|googledns_socks]
   - tag: forward_remote
     type: fast_forward
     args:
       upstream:
-        - addr: "tls://8.8.4.4:853"
+        - addr: "tcp://208.67.220.220:5353"
           enable_pipeline: true
-        - addr: "208.67.220.220:443"
-  - tag: forward_host_socks
-    type: fast_forward
-    args:
-      upstream:
-        - addr: "127.0.0.1:53"
-          socks5: "127.0.0.1:1080"
-  - tag: forward_googledns
-    type: fast_forward
-    args:
-      upstream:
-        - addr: "tls://8.8.4.4:853"
+          #socks5: "127.0.0.1:1080"
+        - addr: "tls://8.8.4.4"
           enable_pipeline: true
-        - addr: "udpme://8.8.8.8"
-          trusted: true
-  - tag: forward_googledns_socks
-    type: fast_forward
-    args:
-      upstream:
-        - addr: "tcp://8.8.8.8"
-          socks5: "127.0.0.1:1080"
-          enable_pipeline: true
+          #socks5: "127.0.0.1:1080"
 
-  # 转发至本地无污染服务器的插件
-  # [easymosdns|tunadns]
+  # 转发至分流服务器的插件
   - tag: forward_easymosdns
-    type: forward
+    type: fast_forward
     args:
       upstream:
         - addr: "https://doh.apad.pro/dns-query"
-      bootstrap:
-        - "119.29.29.29"
-      timeout: 5
-  - tag: forward_tunadns
-    type: fast_forward
-    args:
-      upstream:
-        - addr: "https://101.6.6.6:8443/dns-query"
+          bootstrap: "119.29.29.29"
+          #dial_addr: "ip:port"
+          #enable_http3: true
 
   # 主要的运行逻辑插件
   # sequence 插件中调用的插件 tag 必须在 sequence 前定义
@@ -258,80 +259,124 @@ plugins:
         # 域名映射IP
         - hosts
 
-        # 获取ECS
-        - ecs_auto
-
-        # 缓存
-        - cache
-
-        # 屏蔽TYPE65类型请求
-        - if: qtype65
+        # 屏蔽TYPE65与无效类型请求
+        - if: "[qtype65] || (query_is_non_domain)"
           exec:
-          - black_hole
-          - _return
+            - _new_nxdomain_response
+            - _return
+
+        # 优化PRT与ANY类型请求
+        - if: "[qtype12] || [qtype255]"
+          exec:
+            - _no_ecs
+            - forward_local
+            - ttl_1h
+            - _return
+
+        # 缓存ECS
+        - ecs_auto
+        - _edns0_filter_ecs_only
+        - if: ecs_is_lan
+          exec:
+            - cache_lan
+            - _no_ecs
+          else_exec:
+            - cache_wan
 
         # 强制用本地服务器解析
-        - if: "(query_is_cn_domain) || [query_is_ptr]"
+        - if: query_is_cn_domain
           exec:
-            - forward_alidns
+            - forward_local
+            - ttl_5m
             - _return
 
         # 强制用非本地服务器解析
-        - if: query_is_tw_domain
+        - if: query_is_noncn_domain
           exec:
-            - ecs_tw
-            - forward_googledns
-            - ttl_long
+            # 优先返回ipv4结果
+            - _prefer_ipv4
+            - ecs_global
+            - primary:
+                # 默认用分流服务器
+                - forward_easymosdns
+              secondary:
+                # 超时用远程服务器
+                - forward_remote
+              fast_fallback: 2500
+              always_standby: false
+            - ttl_5m
             - _return
 
         # 屏蔽广告域名
         - if: query_is_ad_domain
           exec:
-          - _new_nxdomain_response
+          - black_hole
+          - ttl_1h
           - _return
 
         # 已知的本地域名或CDN域名用本地服务器解析
-        - if: "(query_is_local_domain) || (query_is_cdn_cn_domain) || (response_cname_akamai)"
+        - if: "(query_is_local_domain) || (query_is_cdn_cn_domain)"
           exec:
-            - forward_alidns
-            - _return
+            - primary:
+                # 默认用本地服务器
+                - forward_local
+                - ttl_1m
+              secondary:
+                # 超时用分流服务器
+                - forward_easymosdns
+                - ttl_5m
+              fast_fallback: 25
+              always_standby: false
+            # 预防已知的本地域名临时污染
+            - if: "(! response_has_gfw_ip)"
+              exec:
+                - _return
 
-        # 已知的污染域名用远程服务器解析
+        # 已知的污染域名用分流服务器或远程服务器解析
         - if: query_is_non_local_domain
           exec:
-            - _prefer_ipv4
-            - ecs_cn
-            - forward_googledns
-            - _return
-
-        # 剩下的未知域名用IP分流，分流原理请参考fallback的工作流程
-          # primary 从远程服务器获取应答，丢弃本地IP的结果
-        - primary:
+            # 优先返回ipv4结果
             - _prefer_ipv4
             - ecs_global
-            - forward_googledns
-            - ttl_short
-            - if: "(response_has_local_ip) || (response_cname_akamai)"
-              exec:
-                - _drop_response
-          # secondary 从本地服务器获取应答
-          secondary:
-            - ecs_auto
-            - forward_local
-            - if: "(! response_has_local_ip) && [_response_valid_answer] || (response_has_gfw_ip)"
-              exec:
-                - _prefer_ipv4
-                - ecs_cn
+            - primary:
+                # 默认用分流服务器
+                - forward_easymosdns
+              secondary:
+                # 超时用远程服务器
                 - forward_remote
-                - ttl_long
-          # 如果 primary 超过这个延时还没响应，可以假设 primary 出现了问题
-          # 这时会采用 secondary 应答。单位: 毫秒
+              fast_fallback: 2500
+              always_standby: false
+            - ttl_5m
+            - _return
+
+        # 剩下的未知域名用IP分流
+        # 优先返回ipv4结果
+        - _prefer_ipv4
+        - primary:
+            # 默认用分流服务器
+            - forward_easymosdns
+            - if: response_server_failed
+              exec:
+                - forward_local
+                - _return
+            - ecs_global
+            - if: "(! ecs_is_cn) && (! response_has_local_ip) && [_response_valid_answer]"
+              exec:
+                - forward_easymosdns
+          secondary:
+            # 超时用本地分流器
+            - forward_local
+            - if: "(! response_has_local_ip) && [_response_valid_answer]"
+              exec:
+                - ecs_global
+                - forward_remote
           fast_fallback: 2500
           always_standby: false
+        - ttl_5m
 
 servers:
   - exec: main_sequence
-    timeout: 5
+    timeout: 6
     listeners:
       - protocol: udp
         addr: "0.0.0.0:53"
@@ -345,7 +390,6 @@ servers:
       #  addr: "0.0.0.0:853"
       #  cert: "/etc/mosdns/yourdomain.cert"  # TLS 所需证书文件。
       #  key: "/etc/mosdns/yourdomain.key"    # TLS 所需密钥文件。
-      #  idle_timeout: 10          # 连接复用空连接超时时间。单位: 秒。默认: 10。
 
 #api:
 #    http: "127.0.0.1:9080"
