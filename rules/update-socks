@@ -1,9 +1,0 @@
-#!/bin/bash
-# Powered by Apad.pro
-# https://apad.pro/easymosdns
-#
-# Notes: EasyMosDNS for CentOS/RedHat 7+
-#
-mosdns_working_dir="/etc/mosdns"
-source $mosdns_working_dir/include.conf
-mkdir -p /tmp/easymosdns && curl --socks5 $socks5addr https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_domain_list.txt > /tmp/easymosdns/china_domain_list.txt && curl --socks5 $socks5addr https://raw.githubusercontent.com/pmkol/easymosdns/rules/gfw_domain_list.txt > /tmp/easymosdns/gfw_domain_list.txt && curl --socks5 $socks5addr https://raw.githubusercontent.com/pmkol/easymosdns/rules/cdn_domain_list.txt > /tmp/easymosdns/cdn_domain_list.txt && curl --socks5 $socks5addr https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_ip_list.txt > /tmp/easymosdns/china_ip_list.txt && curl --socks5 $socks5addr https://raw.githubusercontent.com/pmkol/easymosdns/rules/gfw_ip_list.txt > /tmp/easymosdns/gfw_ip_list.txt  && curl --socks5 $socks5addr https://raw.githubusercontent.com/pmkol/easymosdns/rules/ad_domain_list.txt > /tmp/easymosdns/ad_domain_list.txt && \cp -rf /tmp/easymosdns/*.txt $mosdns_working_dir/rules && rm -rf /tmp/easymosdns/* && echo 'update successful'
