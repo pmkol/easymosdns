@@ -11,7 +11,7 @@
 
 ## About EasyMosdns
 
-[EasyMosdns](https://apad.pro/easymosdns) 是基于Mosdns制作的EDNS部署方案，内置中国大陆地区的优化规则与及分流API，满足DNS日常使用场景。<br />
+[EasyMosdns](https://apad.pro/easymosdns) 是基于Mosdns制作的EDNS部署方案，内置中国大陆地区优化规则与分流API，满足DNS日常使用场景。<br />
 
 #### 转发规则：
 
