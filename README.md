@@ -317,4 +317,4 @@ mosdns service start
 ## Contact Us
 
 For feedback, questions, and to follow the progress of the project: <br />
-[Telegram Group](https://t.me/+VeV5wt1E6FA5Ue-x)<br />
+[Telegram Group](https://t.me/+VeV5wt1E6FA5Ue-x)
