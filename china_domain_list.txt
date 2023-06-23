@@ -5843,6 +5843,7 @@
 81comdns.com
 81it.com
 81js.net
+81jubayi.com
 81kx.com
 81pan.com
 81tech.com
@@ -11581,6 +11582,7 @@ bqfy.com
 bqg8.cc
 bqg8.la
 bqg99.cc
+bqgnovels.com
 bqgyy.com
 bqimg.com
 bqpoint.com
@@ -13315,6 +13317,7 @@ changjiangdata.com
 changjiangtimes.com
 changjuyi.com
 changker.com
+changlipeixun.com
 changliuliang.com
 changning.net
 changpingquzhongxiyijieheyiyuan.com
@@ -18448,6 +18451,7 @@ dingtalk.com
 dingtalk.net
 dingtangzqx.com
 dingteam.com
+dingweilishi.com
 dingxiang-inc.com
 dingxinhui.com
 dingxinwen.com
@@ -19921,7 +19925,6 @@ easytouch.com
 easytrip.com
 easyzw.com
 eateapp.com
-eaten.fun
 eaydu.com
 eayou.com
 eayuan.com
@@ -23314,6 +23317,7 @@ gdswine.com
 gdsxgd.com
 gdsytech.com
 gdszjgdj.org
+gdszkw.com
 gdtai.com
 gdtaihao.com
 gdtex.com
@@ -31851,6 +31855,7 @@ jingyuelaw.com
 jingyuxiaoban.com
 jingyuyun.com
 jingzhengu.com
+jingzhunyunting.com
 jingzhusz.com
 jinhe-energy.com
 jinhengjgj.com
@@ -34766,6 +34771,7 @@ kzett.com
 kzeww.com
 kzore.com
 kzqs.com
+kzread.com
 kzt.cc
 kztpms.com
 kzwr.com
@@ -37348,7 +37354,6 @@ lzhongdian.com
 lzhpo.com
 lzhygame.com
 lzjdbjc.com
-lzjjdd.net
 lzjoy.com
 lzlj.com
 lzmoyin.com
@@ -43630,6 +43635,7 @@ qfamilylaw.com
 qfang.com
 qfangimg.com
 qfcm.vip
+qfdy2022.xyz
 qfedu.com
 qfeiche.com
 qfgolang.com
@@ -44890,7 +44896,6 @@ qutu.com
 qutuiwa.com
 quumii.com
 quvisa.com
-quw1234.icu
 quwaifu.com
 quwan.com
 quwan.fun
@@ -51749,6 +51754,7 @@ tjmama.com
 tjmhc.com
 tj-model.com
 tjmuch.com
+tjmysdq.com
 tjorthop.org
 tjpa-china.org
 tjpma.org
@@ -54220,6 +54226,7 @@ vjia.com
 vjiazu.com
 vjie.com
 vjshi.com
+vjty372.com
 vjudge.net
 vk6.me
 vk8.co
@@ -57227,6 +57234,7 @@ x12plus.com
 x1340.com
 x158.tv
 x1997.net
+x23119.com
 x23qb.com
 x23us.me
 x23us.us
@@ -61722,6 +61730,7 @@ yrucd.com
 yrw.cc
 yrw.com
 yrwy.com
+yrxsw.com
 yryz.com
 yrzjw.com
 yrz.name
@@ -64226,6 +64235,7 @@ zikao365.com
 zikao5.com
 zikaocqi.com
 zikao.gd
+zikaogd.com
 zikaoshu.net
 zikaoshu.vip
 zikaosw.com
@@ -64911,7 +64921,6 @@ ztcadx.com
 ztch.ltd
 ztcia.com
 ztcnwy.com
-ztdad.com
 ztedevice.com
 ztedevices.com
 ztedu8.com
