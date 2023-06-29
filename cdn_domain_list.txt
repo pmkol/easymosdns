@@ -402,7 +402,6 @@ full:platform.linkedin.com
 full:play.1ucrs.com
 full:play.itunes.apple.com
 full:plus.djicdn.com
-full:plus.dji.com
 full:prm.dji.com
 full:prod-controlbe.floonet.goog
 full:prod-databe.floonet.goog
@@ -587,6 +586,7 @@ full:www.kaspersky.com
 full:www.libvideo.com
 full:www.microsoft.com
 full:www.nvidia.com
+full:www.pandora.net
 full:www.parallels.com
 full:www.pxcc.com
 full:www.recaptcha.net
