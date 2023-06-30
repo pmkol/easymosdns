@@ -365,10 +365,14 @@ plugins:
                 - forward_easymosdns
           secondary:
             # 超时用本地分流器
-            - forward_local
-            - if: "(! response_has_local_ip) && [_response_valid_answer]"
+            - forward_remote
+            - if: response_has_local_ip
               exec:
-                - ecs_global
+                - forward_local
+                - _return
+            - ecs_global
+            - if: "(! ecs_is_cn) && [_response_valid_answer]"
+              exec:
                 - forward_remote
           fast_fallback: 2500
           always_standby: false
