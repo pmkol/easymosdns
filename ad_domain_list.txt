@@ -726,6 +726,7 @@ ads.vgchartz.com
 ads.videosz.com
 ads.virtualcountries.com
 ads.virtual-nights.com
+ads.vnd89.com
 ads.vnumedia.com
 ads.watson.ch
 ads.weather.ca
