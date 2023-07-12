@@ -10801,6 +10801,8 @@ mdn.allizom.net
 mdn.dev
 mdnkids.com
 mdn.mozit.cloud
+mdnplay.dev
+mdnyalp.dev
 mdpi.com
 md-t.org
 meadjohnson.com
