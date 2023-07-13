@@ -2,7 +2,7 @@
 # https://apad.pro/easymosdns
 log:
     file: "./mosdns.log"
-    level: error
+    level: info
 
 data_providers:
   - tag: chinalist
@@ -53,6 +53,9 @@ plugins:
       lazy_cache_ttl: 86400
       cache_everything: true
       lazy_cache_reply_ttl: 5
+  # 统计插件
+  - tag: met
+    type: "metrics_collector"      
 
   # Hosts的插件
   - tag: hosts
@@ -239,16 +242,6 @@ plugins:
           enable_pipeline: true
           #socks5: "127.0.0.1:1080"
 
-  # 转发至分流服务器的插件
-  - tag: forward_easymosdns
-    type: fast_forward
-    args:
-      upstream:
-        - addr: "https://doh.apad.pro/dns-query"
-          bootstrap: "119.29.29.29"
-          #dial_addr: "ip:port"
-          #enable_http3: true
-
   # 主要的运行逻辑插件
   # sequence 插件中调用的插件 tag 必须在 sequence 前定义
   # 否则 sequence 找不到对应插件
@@ -256,6 +249,12 @@ plugins:
     type: sequence
     args:
       exec:
+        # met统计插件
+        - met
+
+        # 详细记录显示插件
+        - _query_summary
+
         # 域名映射IP
         - hosts
 
@@ -296,14 +295,7 @@ plugins:
             # 优先返回ipv4结果
             - _prefer_ipv4
             - ecs_global
-            - primary:
-                # 默认用分流服务器
-                - forward_easymosdns
-              secondary:
-                # 超时用远程服务器
-                - forward_remote
-              fast_fallback: 2500
-              always_standby: false
+            - forward_remote
             - ttl_5m
             - _return
 
@@ -323,7 +315,7 @@ plugins:
                 - ttl_1m
               secondary:
                 # 超时用分流服务器
-                - forward_easymosdns
+                - forward_remote
                 - ttl_5m
               fast_fallback: 25
               always_standby: false
@@ -338,14 +330,7 @@ plugins:
             # 优先返回ipv4结果
             - _prefer_ipv4
             - ecs_global
-            - primary:
-                # 默认用分流服务器
-                - forward_easymosdns
-              secondary:
-                # 超时用远程服务器
-                - forward_remote
-              fast_fallback: 2500
-              always_standby: false
+            - forward_remote
             - ttl_5m
             - _return
 
@@ -354,7 +339,7 @@ plugins:
         - _prefer_ipv4
         - primary:
             # 默认用分流服务器
-            - forward_easymosdns
+            - forward_remote
             - if: response_server_failed
               exec:
                 - forward_local
@@ -362,10 +347,10 @@ plugins:
             - ecs_global
             - if: "(! ecs_is_cn) && (! response_has_local_ip) && [_response_valid_answer]"
               exec:
-                - forward_easymosdns
+                - forward_remote
           secondary:
             # 超时用本地分流器
-            - forward_remote
+            - forward_local
             - if: response_has_local_ip
               exec:
                 - forward_local
@@ -388,6 +373,10 @@ servers:
         addr: "0.0.0.0:53"
       #- protocol: http
       #  addr: "127.0.0.1:9053"
+      #  url_path: "/d"
+      #  get_user_ip_from_header: "X-Forwarded-For"
+      #- protocol: http
+      #  addr: "127.0.0.1:9053"
       #  url_path: "/dns-query"
       #  get_user_ip_from_header: "X-Forwarded-For"
       #- protocol: tls             
@@ -395,5 +384,6 @@ servers:
       #  cert: "/etc/mosdns/yourdomain.cert"  # TLS 所需证书文件。
       #  key: "/etc/mosdns/yourdomain.key"    # TLS 所需密钥文件。
 
-#api:
-#    http: "127.0.0.1:9080"
+api:
+    http: "127.0.0.1:9080"
+
