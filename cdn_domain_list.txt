@@ -190,6 +190,7 @@ full:ec4.images-amazon.com
 full:ec8.images-amazon.com
 full:editorial.xboxlive.com
 full:eds.xboxlive.com
+full:emdl.ws.microsoft.com
 full:emmapplecodevice.googleapis.com
 full:emoi-cncdn.bing.com
 full:encoding.image-gmkt.com
