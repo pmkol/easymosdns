@@ -196,6 +196,7 @@ full:emoi-cncdn.bing.com
 full:encoding.image-gmkt.com
 full:epix-ssl.xbox.com
 full:epix.xbox.com
+full:events2.djicdn.com
 full:fides-pol.apple.com
 full:firebase-settings.crashlytics.com
 full:fontfiles.googleadapis.com
