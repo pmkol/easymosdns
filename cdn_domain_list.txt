@@ -479,6 +479,7 @@ full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
+full:source.tutorabc.com
 full:speedtest.xboxlive.com
 full:sp.itunes.apple.com
 full:ss.bjmu.edu.cn
