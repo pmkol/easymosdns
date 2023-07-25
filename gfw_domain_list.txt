@@ -771,8 +771,10 @@ akadeem.net
 akademiye.org
 akadns6.net
 akadns.com
+akadns.net
 akaeai.com
 akafms.net
+akagtm.org
 akahost.net
 akaint.net
 akamaa.com
@@ -781,6 +783,7 @@ akamai-access.com
 akamai-access.net
 akamai-cdn.com
 akamai.com
+akamaiedge.net
 akamaientrypoint.net
 akamaietpcnctest.com
 akamaietpcompromisedcnctest.com
@@ -801,6 +804,7 @@ akamai-platform-staging.com
 akamai-regression.net
 akamaisingapore.net
 akamai-staging.net
+akamaistream.net
 akamai-sucks.net
 akamaitech.com
 akamaitech.net
@@ -1650,6 +1654,7 @@ avinin.com
 avizoone.com
 avizoon.site
 avjb.com
+avjoy.me
 avlulu.cc
 avmoo.click
 avmoo.com
@@ -4818,6 +4823,7 @@ dm530.net
 dmcdn.net
 dmc.nico
 dmed.technology
+dm-event.net
 dmhy.org
 dmmapis.com
 dmm.co.jp
@@ -4870,6 +4876,7 @@ dnsrd.com
 dnssec.net
 dns-stuff.com
 dnsvisa.com
+dnvodcdn.me
 dnvod.tv
 dobbyporn.com
 doceapower.com
@@ -8817,6 +8824,7 @@ iana.org
 iask.bz
 iask.ca
 iav19.com
+iavnight.com
 ibb.co
 ibeatsbydre.cc
 ibeatsbydre.com
@@ -8852,7 +8860,6 @@ icl-fi.org
 icloudads.net
 icloudbox.net
 icloudbrowser.net
-icloud-cdn.icloud.com.akadns.net
 icloud.com
 icloud-content.com
 icloude.com
@@ -11517,6 +11524,7 @@ murmur.tw
 muryouav.net
 muscdn.com
 musclegirlflix.com
+mushroomtrack.com
 musicade.net
 musicbay.net
 musickit.net
@@ -12522,6 +12530,7 @@ old.nabble.com
 olehd.com
 olehdtv.com
 olelive.com
+olemovienews.com
 olevod.com
 olevodtv.com
 oli-school.com
@@ -13811,7 +13820,6 @@ privoxy.org
 procopytips.com
 proctoscopeexam.com
 prodrive-japan.com
-prod-support.apple-support.akadns.net
 profreeporno.com
 projectapex.com
 projectara.com
@@ -15172,8 +15180,6 @@ skyoceanrescue.com
 skypeassets.com
 skypeassets.net
 skype.com
-skypedata.akadns.net
-skype-edf.akadns.net
 skype.net
 skyporn.online
 skysports.com
@@ -15749,7 +15755,6 @@ superzooi.com
 supjav.com
 suppig.net
 supplybestjerseys.com
-support-china.apple-support.akadns.net
 supportfacebook.com
 supremacy.com
 supremacy.net
@@ -16243,6 +16248,7 @@ thongdreams.com
 thottok.com
 thotvids.com
 threadreaderapp.com
+threads.net
 threatchaos.com
 thrixxx.com
 throughnightsfire.com

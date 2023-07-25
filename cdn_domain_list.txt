@@ -143,6 +143,7 @@ full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
 full:crl2.alphassl.com
 full:crl.apple.com
+full:crl.kaspersky.com
 full:crl-lb.apple.com.akadns.net
 full:crl.pki.goog
 full:cs-analytics.htcsense.com
