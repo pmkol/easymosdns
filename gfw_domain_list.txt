@@ -994,6 +994,7 @@ amazonbusinessblog.com
 amazonbusiness.org
 amazon.co.jp
 amazon.com
+amazon.dev
 amazondevicesupport.com
 amazon-fashions.com
 amazonfctours.com
@@ -1757,6 +1758,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge.net
 azureedge-test.net
+azurefd.net
 azureiotcentral.com
 azureiotsolutions.com
 azureiotsuite.com
@@ -3625,6 +3627,8 @@ cheapshoesvip.com
 cheapwireless04.com
 cheapwirelessbeats.com
 checkgfw.com
+cheggcdn.com
+chegg.com
 chemequations.com
 chemnetbase.com
 chengjuanseo.com
@@ -3917,6 +3921,7 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
+cloudfront.com
 cloudfront.net
 cloudfunctions.net
 cloudhealthtech.com
@@ -3935,6 +3940,7 @@ cloupia.com
 cloupia.net
 club1069.com
 clubhouseapi.com
+clubhouse.com
 clubseventeen.com
 clubsweethearts.com
 clubtubes.com
@@ -5404,6 +5410,7 @@ edgefonts.net
 edgemeplease.com
 edge-skype-com.s-0001.s-msedge.net
 edge.steam-dns.top.comcast.net
+edgesuite.net
 edicypages.com
 edisebay.com
 editorx.com
@@ -5554,6 +5561,7 @@ epac.to
 epa.gov.tw
 epicbrowser.com
 epicgames.com
+epicgames.dev
 epicreads.com
 epigeum.com
 epikporn.com
@@ -6506,6 +6514,7 @@ fontsinuse.com
 fonts.net
 foofle.com
 fooooo.com
+footprintdns.com
 footseen.com
 footstockings.com
 forbes.com
@@ -7958,7 +7967,6 @@ hbg.com
 hboasia.com
 hbo.com
 hbo.com.c.footprint.net
-hbo.com.edgesuite.net
 hbogoasia.com
 hbogo.com
 hbomaxcdn.com
@@ -9884,7 +9892,9 @@ kagyu.org
 kagyu.org.za
 kairakudoujin.net
 kaiyuan.de
+kakaocdn.net
 kakao.com
+kakaocorp.com
 kaktuz.com
 kalachakralugano.org
 kali.org
@@ -10764,6 +10774,7 @@ matrix.org
 matsushimakaede.com
 matters.news
 matters.one
+matters.town
 matthewdgreen.wordpress.com
 mattwilcox.net
 mature-amateur-sex.com
@@ -13996,6 +14007,7 @@ qmov.com
 qmov.net
 qmttqg3k.me
 qombol.com
+qooqlevideo.com
 qoos.com
 qorno.com
 qpoe.com
@@ -14116,6 +14128,7 @@ rarbgproxy.org
 rarbgprx.org
 rarbgto.org
 rarbgunblock.com
+rarbgunblocked.org
 rarbgunblock.org
 rarbgway.org
 raremovie.cc
@@ -16805,7 +16818,6 @@ twilightsex.com
 twilog.org
 twimbow.com
 twimg.com
-twimg.edgesuite.net
 twindexx.com
 twinkspornos.com
 twinkybf.com
