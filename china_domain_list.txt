@@ -5513,7 +5513,6 @@
 765i.com
 765q.com
 7663.com
-76676.com
 766.com
 766z.com
 7676.com
@@ -9168,6 +9167,7 @@ atmlimited.com
 atmob.com
 atobo.com
 atomhike.com
+atomhike-en.com
 atomic-art.com
 atomy.tech
 atoolbox.net
@@ -16374,7 +16374,6 @@ cptae.com
 cpu114.com
 cpu668.com
 cpubbs.com
-cpupack.com
 cpvjob.com
 cpython.org
 cpzjzx.com
@@ -34888,6 +34887,7 @@ kvkaa.com
 kvmaa.com
 kvogues.com
 kvov.com
+kvps85.com
 kwaicdn.com
 kwaigobuy.com
 kwaishop.com
@@ -35307,7 +35307,6 @@ laomaotao.com
 laomaotao.net
 laomaotao.org
 laomaotaopan.com
-laomudong.cc
 laonanren.cc
 laoniushuju.com
 laoqiange.club
@@ -39870,7 +39869,6 @@ muniao.com
 muomou.com
 mupao.com
 mupceet.com
-mupmstx.com
 murdermysterypa.com
 murl.tv
 murphysec.com
@@ -39906,6 +39904,7 @@ muyingjie.com
 muyingzhijia.com
 muyishu.com
 muyuanfoods.com
+muyuekj0.com
 muzhigame.com
 muzhi.us
 muzhiwan.com
@@ -45464,7 +45463,6 @@ raymx-micro.com
 rayoptek.com
 rayps.com
 rayrjx.com
-raysd.com
 raysilicon.com
 raythonsoft.com
 raytoon.net
@@ -49538,7 +49536,6 @@ spointdesign.com
 spongeliu.com
 sportnanoapi.com
 sportq.com
-sports8.cc
 sports8.net
 sportsdt.com
 sports-idea.com
@@ -50821,7 +50818,6 @@ t1networks.com
 t1y4.com
 t1y5.com
 t20000.com
-t262.com
 t2cn.com
 t3315.com
 t4lover.com
@@ -57614,7 +57610,6 @@ x3china.com
 x3cn.com
 x431.com
 x5dj.com
-x5yue.com
 x64go.com
 x64pro.com
 x6d.com
@@ -61349,6 +61344,7 @@ yiyum.com
 yi-yun-tong.com
 yiyurumen.com
 yizenb.com
+yizhanok.com
 yizhanzx.com
 yizhema.com
 yizhengwx.com
@@ -62623,7 +62619,6 @@ yunpaiwang.net
 yunpan.com
 yunpansou.cc
 yunpanx.com
-yunpanziyuan.com
 yunpei.com
 yunpian.com
 yunpiao.net

@@ -3910,10 +3910,12 @@ cloudflarebolt.com
 cloudflareclient.com
 cloudflare.com
 cloudflare-dns.com
+cloudflare-gateway.com
 cloudflareinsights.com
 cloudflare-ipfs.com
 cloudflare.net
 cloudflareok.com
+cloudflareportal.com
 cloudflarepreview.com
 cloudflare-quic.com
 cloudflareresolve.com
@@ -13224,6 +13226,8 @@ pieceofplastic.com
 pifpafarabia.com
 pigav.com
 pikabu.monster
+pikpakdrive.com
+pikpak.me
 pillbeatsblackfridaysale.com
 pimg.tw
 pin6.com
