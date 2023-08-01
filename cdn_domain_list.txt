@@ -496,6 +496,7 @@ full:static-exp1.licdn.com
 full:static.image-gmkt.com
 full:static.licdn.com
 full:static-login.gog-statics.com
+full:static.yangfd.com
 full:stocks-sparkline.apple.com
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:store.apple.com
@@ -550,6 +551,7 @@ full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
 full:up.gcp.googlers.com
 full:uplaypc-s-ubisoft.cdn.ubi.com
+full:upload.yangfd.com
 full:upos-hz-mirrorakam.akamaized.net
 full:upp.itunes.apple.com
 full:userstats.xboxlive.com
