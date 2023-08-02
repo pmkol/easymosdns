@@ -118,6 +118,7 @@ full:cn.coremetrics.com
 full:cn.debian.org
 full:cn.download.nvidia.com
 full:cn.img.stb.s-msn.com
+full:cn.pandora.net
 full:cnupgrade.microsoft.com
 full:cn.widevine.com
 full:cn.windowssearch.com
