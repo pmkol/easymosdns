@@ -8352,6 +8352,7 @@ amh.sh
 amicool.net
 amif-expo.com
 amijiaoyu.com
+amindbox.com
 aminer.org
 aminglinux.com
 amo9.com
@@ -15729,7 +15730,6 @@ cnoswiki.com
 cnoutdoor.com
 cnovirt.com
 cnpaf.net
-cn.pandora.net
 cnpatent.com
 cnpc-hy.com
 cnpenjing.com
@@ -18967,6 +18967,7 @@ doh.plus
 doh.pub
 dohuo.com
 doido.com
+doii.cc
 doit.am
 doitim.com
 doiua.com
@@ -23714,7 +23715,6 @@ gh8s.com
 ghatg.com
 ghboke.com
 ghgy.com
-ghgy.net
 ghibliwiki.org
 ghjie.com
 ghlawyer.net
@@ -29933,7 +29933,6 @@ imipy.com
 imitui.com
 imixpark.com
 imjiayin.com
-imkerwin.com
 imkevinyang.com
 imkira.com
 imlaidian.com
@@ -31301,7 +31300,6 @@ jdzbth.com
 jdzdeyy.com
 jdzeduyun.com
 jdzj.com
-jdzjdz.com
 jdzmc.com
 jdzol.com
 jdzol.net
@@ -36186,6 +36184,7 @@ linglongart.com
 linglong.dev
 linglonglife.com
 linglongtech.com
+lingmo.org
 lingmovie.com
 lingnanpass.com
 lingocn.com
@@ -40489,6 +40488,7 @@ neaechina.com
 nearcharge.com
 nearsnet.com
 nease.net
+neatifyapp.com
 neat-reader.com
 nebulogy.com
 nedaex.com
@@ -45765,6 +45765,7 @@ rim20.com
 rinbowe.com
 ringdoll.com
 rinlink.com
+rinvay.cc
 ripic.xyz
 rippleos.com
 rippletek.com
@@ -49695,6 +49696,7 @@ startos.org
 startup-partner.com
 starwarschina.com
 starxn.com
+starx-w.com
 stat18.com
 staticaa.com
 static.cdnetworks.com
@@ -52732,7 +52734,6 @@ tsyqb.com
 tsyvps.com
 tsyzm.com
 tszckj.com
-tsz.com
 tszhjk.com
 tszyzx.com
 tt116114.com
@@ -55470,7 +55471,6 @@ weicaifu.com
 weica.net
 weicewang.com
 weichaishi.com
-weichen.org
 weicher-sz.com
 weiclicai.com
 weico.cc
@@ -58622,6 +58622,7 @@ xinfenlei.com
 xinfu888.com
 xinfushe.com
 xing73.com
+xingai.com
 xingames.com
 xingbangip.com
 xingbo.tv
