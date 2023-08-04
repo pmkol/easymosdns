@@ -719,7 +719,6 @@ ahxxx.club
 aiaa.org
 aibaobei.me
 ai.binwang.me
-ai.com
 ai.google
 ai-kan.net
 aimei133.com
@@ -18033,6 +18032,7 @@ wlx.sowiki.net
 wmcloud.org
 wmflabs.org
 wmfusercontent.org
+w-mt.co
 wmt.co
 wnacg.com
 wnacg.link
