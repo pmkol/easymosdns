@@ -4975,7 +4975,6 @@ dowjones.com
 dowjoneson.com
 download.aircrack-ng.org
 download.cnet.com
-download.ithome.com.tw
 downloadpass.com
 download.qatp1.net
 download.qcpp1.net
@@ -8719,6 +8718,7 @@ huaxin.ph
 hua-yue.net
 huayuworld.org
 hubblephone.com
+hub.docker.com
 hudatoriq.web.id
 hudson.org
 huffingtonpost.com
@@ -18330,6 +18330,7 @@ xiaogirls.com
 xiaohexie.com
 xiaolan.me
 xiaoma.org
+xiaomi.eu
 xiaoyaoge.xyz
 xiaxiaoqiang.net
 xie56.xyz
