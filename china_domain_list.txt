@@ -965,7 +965,6 @@
 123456.la
 12345good.com
 12345good.net
-12345szzx.com
 12348.net
 12349.net
 1234biao.com
@@ -1215,7 +1214,6 @@
 15str.com
 15tianqi.com
 15w.com
-15wz.com
 15xdd.com
 15yc.com
 15yl.com
@@ -2049,7 +2047,6 @@
 22dm.com
 22doc.com
 22edu.com
-22ff.com
 22hd.com
 22ja.com
 22k9.com
@@ -5227,6 +5224,7 @@
 6949.com
 695157.com
 695175.com
+69525.com
 695275.com
 695828.com
 695ljg.com
@@ -7331,6 +7329,7 @@ adpchina.com
 adplusx.com
 adpolestar.net
 adportion.com
+adqkmob.com
 adquan.com
 ads4f6gf46.com
 ads8.com
@@ -9055,7 +9054,6 @@ aso120.com
 asoasm.com
 aso.ink
 asomob.com
-asoulfan.com
 asoulwiki.com
 asp168.com
 asp300.com
@@ -16130,7 +16128,6 @@ coocaatv.com
 coocare.com
 coocox.org
 coodir.com
-coodub.com
 coofans.com
 cooffee.net
 cooh5.com
@@ -19155,6 +19152,7 @@ dovechina.com
 dovesky.com
 dovov.com
 dowater.com
+doweb8.com
 dowebok.com
 dowei.com
 doweidu.com
@@ -20289,7 +20287,6 @@ eehu.com
 eeio99.com
 eeioe.com
 eelly.com
-eeloves.com
 ee-nav.com
 eeook.com
 eeparking.com
@@ -21595,7 +21592,6 @@ faxdns.com
 faxdns.net
 faxingchina.com
 faxingcn.com
-faxingnet.com
 faxingsj.com
 faxingtupian.com
 faxingzhan.com
@@ -23137,7 +23133,6 @@ gao3d.com
 gao4.com
 gao7.com
 gao7gao8.com
-gaobata.com
 gaobei.com
 gao.bo
 gaocangyun.com
@@ -24971,7 +24966,6 @@ gz85.com
 gz91.com
 gzasp.net
 gzate.com
-gzaune.com
 gzbaibian.net
 gzbaozhilin.com
 gzbio.net
@@ -26988,6 +26982,7 @@ hmltec.com
 hmnst.com
 hmoe.link
 hmplay.com
+hmrczp.com
 hmsce.org
 hmsem.com
 hmsemi.com
@@ -27058,6 +27053,7 @@ hnhnled.com
 hnhxin.com
 hnhxxk.com
 hniec.org
+hnied.xyz
 hniic.com
 hnisca.org
 hniso.net
@@ -27450,7 +27446,6 @@ hpoi.net
 hpool.online
 hprt.com
 hprx.com
-hpshq.com
 hpstore.cc
 hpttue.com
 hpuoj.com
@@ -33174,7 +33169,6 @@ jx-bank.com
 jxbhwl.com
 jxbscbd.com
 jxc4.com
-jxcaipu.com
 jxcb.net
 jxccb.com
 jxcsedu.com
@@ -34721,6 +34715,7 @@ kuwen.net
 kuwew.com
 kuwuu.com
 kuxiaoji.com
+kuxiaozhu.com
 kuxiuktv.com
 kuxuexi.com
 kuy8.com
@@ -36280,7 +36275,6 @@ liqucn.com
 liquidnetwork.com
 liqunshop.com
 liqwei.com
-lirenling.com
 liriansu.com
 lirui.name
 lis99.com
@@ -37636,7 +37630,6 @@ maidoc.com
 maidou.com
 maidrom.net
 maiduo.com
-maienguoji.com
 maifjb.com
 maigoo.com
 maihaoche.com
@@ -41149,7 +41142,6 @@ ntes53.com
 ntfabu.com
 ntflk.com
 ntfsformac.cc
-nthfw.com
 nthysp.com
 ntjob88.com
 ntjoy.com
@@ -41843,7 +41835,6 @@ orvibo.com
 orz123.com
 orz520.com
 orz.asia
-orzjoy.com
 os7blue.com
 osall.com
 osbccdn.com
@@ -44457,6 +44448,7 @@ qjren.com
 qjsb88.com
 qjsmartech.com
 qjtrip.com
+qjwenming.com
 qjwhzs.com
 qjxgold.com
 qjystang.com
@@ -45600,6 +45592,7 @@ rf-gsm.com
 rfhhzx.com
 rf.hk
 rfidcardcube.com
+rfidfans.com
 rfidtech.cc
 rfk.com
 rfmwave.com
@@ -46018,7 +46011,6 @@ rufida.com
 rugao35.com
 ruguoapp.com
 ruhnn.com
-rui2.net
 ruian.com
 ruibai.com
 ruichuangfagao.com
@@ -48297,7 +48289,6 @@ sijiaomao.com
 sijijun.com
 sijinchuanbo.com
 sijitao.net
-sike.cc
 sikiedu.com
 silanggame.com
 sileadinc.com
@@ -50421,7 +50412,6 @@ szfwzl.com
 szfx.com
 szfyhd.com
 szgalaxy.com
-szgft.com
 szggzy.com
 szgky.com
 szgla.com
@@ -53361,7 +53351,6 @@ uedhome.net
 uedna.com
 uedsc.com
 ueeshop.com
-ueexz.com
 uehtml.com
 ueibo.com
 uelike.com
@@ -53830,7 +53819,6 @@ uu8281uu.com
 uu898.com
 uu89.com
 uuaa.net
-uuaoz.com
 uu.cc
 uucl.vip
 uucolor.com
@@ -57886,7 +57874,6 @@ xianfeng.net
 xianfengsg.com
 xiang578.com
 xiang5.com
-xiangaiwang.com
 xiangange.com
 xianganquan.com
 xianganyu.com
@@ -59191,6 +59178,7 @@ xn--fiqz9s
 xn--glr604k.com
 xnh123.com
 xnhdgame.com
+xn--iiq222b6igvp5c.com
 xninja.org
 xn--io0a7i
 xn--it-1r3f.com
@@ -59672,6 +59660,7 @@ xuyilx.com
 xuyimin.club
 xuyi.net
 xuyuanyi.com
+xuyueswkj.com
 xuzhi.net
 xuzhoujob.com
 xvista.com
@@ -59745,9 +59734,6 @@ xxlwin.com
 xxmac.com
 xxmanhua.info
 xxmh21.com
-xxmh223.com
-xxmh225.com
-xxmh226.com
 xxminizu.com
 xx-motor.com
 xxnets.net
@@ -60743,7 +60729,6 @@ yiketianqi.com
 yikeweiqi.com
 yikexue.com
 yikeyz.com
-yikm.net
 yikuaide.com
 yikuaiqu.com
 yikuns.com
@@ -62075,7 +62060,6 @@ yuanqitu.com
 yuanrenbang.com
 yuanrengu.com
 yuanrenxue.com
-yuanseedu.com
 yuansfer.com
 yuanshanbx.com
 yuanshen.com
