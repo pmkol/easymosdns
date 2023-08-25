@@ -285,6 +285,7 @@ full:icloud-cdn.icloud.com.akadns.net
 full:images.apple.com
 full:images.apple.com.akadns.net
 full:images.apple.com.edgekey.net.globalredir.akadns.net
+full:images.benchmarkemail.com
 full:images-cn-4.ssl-images-amazon.com
 full:images-cn-8.ssl-images-amazon.com
 full:images-cn.ssl-images-amazon.com
