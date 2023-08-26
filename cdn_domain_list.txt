@@ -52,7 +52,6 @@ full:bg4.v4.a.dl.ws.microsoft.com
 full:bg.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
 full:blog.tutorabc.com
-full:blz.nosdn.127.net
 full:bookkeeper.itunes.apple.com
 full:borgmon.adz.google.com
 full:cache-management-prod.google.com
@@ -111,7 +110,6 @@ full:clientservices.googleapis.com
 full:clubhub.xboxlive.com
 full:cma.itunes.apple.com
 full:cms.ibm.com
-full:cn.actual.battle.net
 full:cn-api.samsungcloud.com
 full:cnappinstall.googleadapis.com
 full:cn.coremetrics.com
@@ -157,8 +155,6 @@ full:dartsearch-cn.net
 full:dd-cdn.origin-apple.com.akadns.net
 full:developer.microsoft.com
 full:dg-meta.video.google.com
-full:diablo3.nosdn.127.net
-full:di.res.netease.com
 full:discussionschinese.apple.com
 full:distribution.qatp1.net
 full:distribution.qcpp1.net
@@ -274,10 +270,8 @@ full:guzzoni-apple-com.v.aaplimg.com
 full:gvt1-cn.com
 full:gvt2-cn.com
 full:hdn.xnimg.cn.cdngc.net
-full:hearthstone.nosdn.127.net
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
-full:heroes.nos.netease.com
 full:hospital.pku.edu.cn
 full:iadsdk.apple.com
 full:icloud.cdn-apple.com
@@ -386,7 +380,6 @@ full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
 full:osxapps.itunes.g.aaplimg.com
-full:overwatch.nosdn.127.net
 full:p1-juejin.byteimg.com
 full:p2-juejin.byteimg.com
 full:p3-juejin.byteimg.com
@@ -455,7 +448,6 @@ full:s4.mzstatic.com
 full:s5.mzstatic.com
 full:safebrowsing-cache.google.com
 full:safebrowsing.googleapis.com
-full:sc2.nosdn.127.net
 full:scanservice1.qatp1.net
 full:scanservice1.qcpp1.net
 full:scanservice1.qpdp1.net
@@ -568,7 +560,6 @@ full:web-service.halo.xbox.com
 full:web-service-ssl.halo.xbox.com
 full:webview.unityads.unity3d.com
 full:wl.dlservice.microsoft.com
-full:wow.nosdn.127.net
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:www-05.ibm.com
