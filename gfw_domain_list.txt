@@ -1375,6 +1375,7 @@ app-measurement.com
 appmediagroup.com
 approvedusedbmw.com
 apps5.oingo.com
+appsflayer.com
 appshopper.com
 app.smartmailcloud.com
 appsocks.net
@@ -2502,6 +2503,7 @@ bitcoinworld.com
 bit.do
 bitfinex.com
 bitflyer.com
+bitget.com
 bithumb.com
 bitinka.com.ar
 bit.ly
@@ -4236,6 +4238,7 @@ crucial.com
 cruel-furies.com
 crunchyroll.com
 crustwebsites.net
+crypto.com
 cryptocompare.com
 crystalgunnsworld.com
 crystalmiss.com
@@ -9975,6 +9978,7 @@ kicksnike1.com
 kidsnikeshoes.com
 kik.com
 kikdirty.com
+killcovid2021.com
 killwall.com
 kilmeadeandfriends.com
 kimogirl.cc
@@ -10932,6 +10936,8 @@ metro.taipei
 metrotoons.com
 meuhentai.com
 mewe.com
+mexc.com
+mexcsensors.com
 meyou.jp
 me.youthwant.com.tw
 meyul.com
@@ -14506,6 +14512,7 @@ s3-ap-southeast-2.amazonaws.com
 s81c.com
 s8ds5gfm.xyz
 s8forum.com
+saasexch.com
 sa-brazil-1.myhuaweicloud.com
 sabuibo.net
 sacduc.com
@@ -17781,6 +17788,7 @@ weblagu.com
 webmoneyinfo.com
 webmproject.org
 web.nebula-emby.com
+webnovel.com
 webobjects.com
 webobjects.net
 webofknowledge.com
