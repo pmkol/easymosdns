@@ -354,7 +354,6 @@
 7capture.com
 7cow.com
 7tb.cc
-7-zip.org
 8008206616.com
 8111y.top
 82mvmv.com
@@ -3846,6 +3845,7 @@ civildisobediencemovement.org
 civilhrfront.org
 civiliangunner.com
 civilmedia.tw
+civitai.com
 cixp.net
 ciyuanjie.cc
 ck101.com
@@ -10354,6 +10354,7 @@ listentoyoutube.com
 listinganalytics.net
 listorious.com
 lists.w3.org
+li.taipei
 litbus-anime.com
 literatumonline.com
 literotica.com
@@ -11322,6 +11323,7 @@ moneyswift.online
 moneywithfacebook.com
 mongodb.com
 mongodb.org
+monica.im
 mo.nightlife141.com
 monitorchina.org
 monitoring.qatp1.net
@@ -16596,7 +16598,6 @@ transangels.com
 transarmuito.com
 transcamslive.com
 translate.goog
-translate.google
 translatetheweb.com
 translatewiki.net
 translatewiki.org
@@ -17592,7 +17593,6 @@ vpn.ac
 vpnaccount.org
 vpnaccounts.com
 vpnbook.com
-vpn.cjb.net
 vpn.cmu.edu
 vpncomparison.org
 vpncoupons.com
