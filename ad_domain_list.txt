@@ -238,6 +238,7 @@ adgroups.net
 ad.hbv.de
 adhese.be
 adhese.com
+adhitzads.com
 adhoc4.net
 ad.hodomobile.com
 ad.huvle.com
@@ -2332,6 +2333,7 @@ d24rtvkqjwgutp.cloudfront.net
 d2bxxk33t58v29.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2cmedia.ca
+d2er1uyk6qcknh.cloudfront.net
 d2ers4gi7coxau.cloudfront.net
 d2fsfacjuqds81.cloudfront.net
 d2g8ksx1za632p.cloudfront.net
