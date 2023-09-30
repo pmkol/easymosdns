@@ -142,6 +142,7 @@ full:cortexfx.bnpparibas.com
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
 full:crl2.alphassl.com
+full:crl.alphassl.com
 full:crl.apple.com
 full:crl.kaspersky.com
 full:crl-lb.apple.com.akadns.net
@@ -215,6 +216,7 @@ full:gcpnode.com
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
 full:gfwsl.geforce.com
+full:global.prd.cdn.globalsign.com
 full:globalsigncdn.com
 full:gogalaxy.gog-statics.com
 full:gog.qtlglb.com
