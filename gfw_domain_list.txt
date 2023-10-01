@@ -3913,6 +3913,7 @@ cloudflarebolt.com
 cloudflareclient.com
 cloudflare.com
 cloudflare-dns.com
+cloudflare-ech.com
 cloudflare-gateway.com
 cloudflareinsights.com
 cloudflare-ipfs.com
