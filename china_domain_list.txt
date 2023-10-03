@@ -1894,7 +1894,6 @@
 21ce.cc
 21cn.com
 21cnev.com
-21cnimg.com
 21cnjy.com
 21cnjy.net
 21cn.net
@@ -3323,6 +3322,7 @@
 474b.com
 4765.com
 4779.com
+477zw.com
 47819.com
 47gs.com
 47test.com
@@ -7620,7 +7620,6 @@ aimei39.com
 aimeicity.com
 aimeideni.com
 aimeike.tv
-aimeit.com
 aimingtai.com
 aimipay.net
 aimiplay.com
@@ -9882,7 +9881,6 @@ bbsaso.com
 bbsds.com
 bbs-go.com
 bbsheji.com
-bbshuwu.com
 bbsls.net
 bbsmax.com
 bbsnet.com
@@ -10508,7 +10506,6 @@ bilibilihelper.com
 bilibilijj.com
 bilibili.net
 bilibilipay.com
-bilibilis0.one
 bilicdn1.com
 bilicdn2.com
 bilicdn3.com
@@ -23286,6 +23283,7 @@ getlema.com
 getmarkman.com
 getquicker.net
 getsurfboard.com
+getu.fun
 getui.com
 getui.net
 getui.vip
@@ -25740,7 +25738,6 @@ hbwhrd.org
 hbwjs.com
 hbwlykt.com
 hb-ws.com
-hb-wtw.com
 hbww.org
 hbxdf.com
 hbxhxkj.com
@@ -35549,7 +35546,6 @@ lifetmt.com
 lifevccdn.com
 lifevc.com
 lifeweeker.com
-lifeweekly.cc
 lifeyk.com
 lifox.net
 lifushop.com
@@ -36447,7 +36443,6 @@ loubobooo.com
 louding.com
 louge.ltd
 louislivi.com
-louisvv.com
 loukee.com
 loukky.com
 loulansheji.com
@@ -41112,7 +41107,6 @@ once.im
 onceoa.com
 onche.net
 oncity.cc
-ondeals.net
 one918.com
 onealert.com
 one-all.com
@@ -43628,7 +43622,6 @@ qiman5.com
 qiman6.com
 qimao.com
 qimaomh.com
-qimengshangwu.com
 qimhua.com
 qimiaomh.com
 qimiaosenlin.com
@@ -48985,7 +48978,6 @@ stardoctor.com
 starduster.me
 starfivetech.com
 stargame.com
-staridc.net
 starlakelab.com
 starlight-generator.com
 starlott.com
@@ -49806,7 +49798,6 @@ szcompare.com
 szcp.com
 szcsot.com
 szcssx.com
-szcsw.com
 szcua.org
 szcwdz.com
 szcy99.com
@@ -51187,7 +51178,6 @@ timecoo.com
 timedg.com
 timedoo.com
 time.izatcloud.net
-timenote.cc
 timeofdate.com
 timeoutbeijing.com
 timeoutcn.com
@@ -53989,6 +53979,7 @@ vurl3.vip
 vurl.link
 vutimes.com
 vux.li
+vuz.me
 vv881.com
 vv8.com
 vv8yx.com
@@ -54490,7 +54481,6 @@ wayhu.cc
 waynetechs.com
 wayos.com
 wayoulegal.com
-wayoutv.com
 wayoxi.com
 waytit.com
 wayzim.com
