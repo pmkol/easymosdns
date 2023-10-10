@@ -1218,6 +1218,7 @@
 163fen.com
 163.fm
 163.gg
+163hot.net
 163industry.com
 163jiasu.com
 163k.cc
@@ -7690,6 +7691,7 @@ aisearch.cc
 aiseeking.com
 aisee.tv
 aiseminar.com
+aisenseinc.com
 aishangba.org
 aishangyangyu.com
 aishengji.com
@@ -23424,6 +23426,7 @@ giocdn.com
 gionee.com
 gionee.net
 giordano.com
+gio.ren
 giraff3.com
 girlsfighters.com
 girls-frontline.com
@@ -33679,7 +33682,6 @@ kkkd.com
 kkkwww.com
 kklishi.com
 kklxj.com
-kkmaoyi.com
 kkmh.com
 kkminer.com
 kkmop.com
@@ -41416,6 +41418,7 @@ oupuzw.com
 our100.net
 our360vr.com
 ourail.com
+ourai.ws
 ourats.com
 ouravr.com
 ourcdns.com
@@ -42416,7 +42419,6 @@ plaidc.com
 plalzhang.com
 planckled.com
 planetmeican.com
-plantextra.com
 plantname.xyz
 plantower.com
 plateno.cc
@@ -47896,6 +47898,7 @@ sir3.com
 sir66.com
 siryin.com
 sisen.com
+sisensing.com
 sishuok.com
 sishuxuefu.com
 sisijiyi.com
@@ -48609,6 +48612,7 @@ soulgame.mobi
 souluo.net
 soulwonderland.com
 soundai.info
+sound-force.com
 soupan.info
 soupf.net
 soupingguo.com
@@ -48664,7 +48668,6 @@ sowu.com
 soxsok.com
 soyim.com
 soyiyuan.com
-soyobo.com
 soyohui.com
 soyoung.com
 soyouso.com
@@ -50871,6 +50874,7 @@ think-mall.com
 thinksns.com
 thinksrc.com
 thinvent.com
+thiscute.world
 thishealthsummit.com
 thiztech.com
 thjunshi.com
@@ -56621,7 +56625,6 @@ wysap.com
 wysfgc.com
 wysls.com
 wysm88.com
-wys.net
 wysww.vip
 wytfsp.com
 wytx.net
@@ -62243,6 +62246,7 @@ zbopr.net
 zbqlm.com
 zbrushcn.com
 zbstatic1.com
+zbt.com
 zbuhe.com
 zbusa.com
 zbwbbs.com
@@ -62792,6 +62796,7 @@ zhaosw.com
 zhaota8.com
 zhaouc.com
 zhaouc.net
+zhaowenyu.com
 zhaowofanyi.com
 zhaoxiaoshuo.com
 zhaoxin.com
