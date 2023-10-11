@@ -497,6 +497,7 @@ adserver1-images.backbeatmedia.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adserver.adultfriendfinder.com
+adserver.adverty.com
 adserver.barrapunto.com
 adserver.beggarspromo.com
 adserver.bizhat.com
@@ -796,11 +797,13 @@ adverdirect.com
 adverserve.net
 advert360.com
 advert.bayarea.com
+advertica-cdn2.com
 adverticum.com
 adverticum.net
 adverticus.de
 advertise.com
 advertiseireland.com
+advertise.ldplayer.net
 advertisementafterthought.com
 advertiseru.net
 advertiserurl.com
@@ -1879,6 +1882,7 @@ catvmuvkibud.com
 causecherry.com
 causlesscauslessdisapproval.com
 cauvousy.net
+c.bannerflow.net
 cbanners.virtuagirlhd.com
 cben1.net
 c.bigmir.net
@@ -2049,6 +2053,8 @@ clickreport.online
 click.revsharecash.com
 clicks.equantum.com
 clickserve.cc-dt.com
+clicks.eventbrite.com
+clicksmint.site
 clicks.mods.de
 clicksor.com
 clicktag.de
@@ -2185,6 +2191,7 @@ copyrightaccesscontrols.com
 coralogix.com
 coreidkanaka.digital
 coremetrics.com
+core.royalads.net
 coretalk.co
 correctchaos.com
 corrivethe.website
@@ -2261,6 +2268,8 @@ crispwireless.com
 critictruck.com
 crittercism.com
 crittercorupay.com
+crmpt.livejasmin.com
+crmt.livejasmin.com
 croakdisconnectedclaw.com
 croniesobli.com
 crosspromo.voodoo.io
@@ -2878,6 +2887,7 @@ exofrwe.com
 exogripper.com
 exomonyf.com
 exonymayuyu.com
+expdirclk.com
 expensepurpose.com
 experteerads.com
 expertnifg.com
@@ -3173,6 +3183,7 @@ getadx.com
 getalinkandshare.com
 getalltraffic.com
 getexceptional.com
+get-here-click.xyz
 getoptad360.com
 getsitecontrol.com
 getwisdom.io
@@ -3886,6 +3897,7 @@ julysystems.com
 jumptap.com
 jungianoxamide.space
 junkieswudge.com
+junmediadirect1.com
 junotherome.com
 juratoroutsees.uno
 juringupstage.com
@@ -4280,6 +4292,7 @@ materialplayground.com
 mathcountryside.com
 matheranalytics.com
 mat.luckyspin666.com
+matomo.openstreetmap.org
 matomy.com
 matqqagvkaaftr.com
 matrimonyfeudboss.com
@@ -4444,6 +4457,7 @@ mktoresp.com
 mkzqqhaakt.com
 mlm.de
 mlog.appguard.co.kr
+mlsend.com
 mlvgxzenoiz.com
 mmaglobal.com
 mmccint.com
@@ -5294,6 +5308,7 @@ poppinhelodes.store
 popruexo.com
 popsoffer.com
 popub.com
+popunder.bid
 pop-under.ru
 popunder.ru
 popupblockergold.com
@@ -6694,6 +6709,7 @@ toplist.cz
 toplist.pornhost.com
 top.list.ru
 topmmorpgsites.com
+toponadss.com
 top.proext.com
 toprebates.com
 toprevenuecpmnetwork.com
