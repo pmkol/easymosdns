@@ -7315,6 +7315,7 @@ github.community
 github.dev
 githubhackathon.com
 github.io
+githubnext.com
 githubpreview.dev
 githubstatus.com
 githubuniverse.com
