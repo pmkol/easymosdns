@@ -8611,7 +8611,6 @@ app001.com
 app1116.app
 app111.com
 app111.org
-app-123.com
 app178.com
 app17.com
 app2006.com
@@ -50044,7 +50043,6 @@ tancdn.com
 tanchinese.com
 tandehao.com
 tandjx.com
-tang8.com
 tangdaoya.com
 tangdou.com
 tangdouimg.com
@@ -61402,7 +61400,6 @@ yuncdn.bid
 yuncdndun.com
 yunceng.com
 yuncheng.com
-yunchong-powder.com
 yunchou.com
 yuncii.com
 yuncode.net
