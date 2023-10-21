@@ -8,6 +8,7 @@ full:a2.mzstatic.com
 full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
+full:account.samsung.com
 full:accounts.googlers.com
 full:accounts.xn--9trs65b.com
 full:accounts.xn--ggle-55da.com
