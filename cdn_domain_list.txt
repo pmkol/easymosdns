@@ -23,6 +23,9 @@ full:ai.ytimg.com
 full:ajax.loli.net
 full:altfarm.mediaplex.com
 full:amp-api.apps.apple.com
+full:amp-api-edge.apps.apple.com
+full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api-search-edge.apps.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
@@ -298,6 +301,11 @@ full:img4.wsimg.com
 full:img5.wsimg.com
 full:img-cdn.mediaplex.com
 full:img.mediaplex.com
+full:inappcheck-cn.itunes-apple.com.akadns.net
+full:inappcheck.itunes.apple.com
+full:inappcheck-lb.itunes-apple.com.akadns.net
+full:init.gc.apple.com
+full:init.gc-lb.apple.com.akadns.net
 full:init.itunes.apple.com
 full:init-p01md.apple.com
 full:init-p01md-lb.push-apple.com.akadns.net
