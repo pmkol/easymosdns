@@ -513,6 +513,7 @@ full:store.apple.com.edgekey.net.globalredir.akadns.net
 full:storeedgefd.dsx.mp.microsoft.com
 full:store-images.microsoft.com
 full:store-images.s-microsoft.com
+full:store.nike.com
 full:store.samsung.com
 full:store.storeimages.apple.com.akadns.net
 full:store.storeimages.cdn-apple.com
