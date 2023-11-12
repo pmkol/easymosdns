@@ -3516,6 +3516,7 @@ cdn.printfriendly.com
 cdnpure.com
 cdn.seatguru.com
 cdn.softlayer.net
+cdn-telegram.org
 cdn-terapeak.com
 cdp1989.org
 cdp1998.org
@@ -6375,6 +6376,7 @@ fffucked.com
 ff.im
 fflick.com
 fflnk.net
+fflogs.com
 ffmpeg.org
 ffotolia.com
 ffprofile.com
@@ -14518,6 +14520,7 @@ routledgehandbooks.com
 rou.video
 royalcams.com
 royalsocietypublishing.org
+rpglogs.com
 rplay.live
 rpmfusion.org
 rprimelab.com
@@ -16492,6 +16495,7 @@ tigervpn.com
 tig-ol-bitties.live
 tik-tokapi.com
 tiktokcdn.com
+tiktokcdn-us.com
 tiktok.com
 tiktokd.net
 tiktokd.org
@@ -16779,6 +16783,7 @@ tteshop.com
 tttan.com
 ttv.com.tw
 ttvnw.net
+ttwstatic.com
 tu8964.com
 tubaholic.com
 tube188.com

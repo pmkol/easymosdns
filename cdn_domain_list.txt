@@ -42,6 +42,7 @@ full:apptrailers.itunes.apple.com
 full:ark.intel.com
 full:assets.adobedtm.com
 full:assets-ssl.xbox.com
+full:assets.volvocars.com
 full:avail.googleflights.net
 full:avatarread-ssl.xboxlive.com
 full:avatarread.xboxlive.com
