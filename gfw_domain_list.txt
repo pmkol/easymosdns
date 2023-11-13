@@ -3990,8 +3990,6 @@ cnappinstall.googleadapis.com
 cnbbnews.wordpress.com
 cnbc.com
 cnbcfm.com
-cnbetacdn.com
-cnbeta.com
 cncrivals.com
 cn.dayabook.com
 cnd.org
