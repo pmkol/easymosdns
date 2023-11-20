@@ -3933,6 +3933,7 @@ cloudflareclient.com
 cloudflare.com
 cloudflare-dns.com
 cloudflare-ech.com
+cloudflare-esni.com
 cloudflare-gateway.com
 cloudflareinsights.com
 cloudflare-ipfs.com
@@ -9454,6 +9455,7 @@ irribay.com
 isaacmao.com
 is-a-hunter.com
 isasecret.com
+isbgpsafeyet.com
 isca-speech.org
 ischool.com
 i-scmp.com
@@ -11759,6 +11761,7 @@ mymusclevideo.com
 mymusic.net.tw
 mynetav.net
 mynetav.org
+mynetname.net
 mynike.com
 mynumber.org
 myoctocat.com
