@@ -581,6 +581,7 @@ full:wscont2.apps.microsoft.com
 full:www-05.ibm.com
 full:www1-cdn.dell.com
 full:www4-static.gog-statics.com
+full:www8.hp.com
 full:www.agoda.com
 full:www.amd.com
 full:www-api.ibm.com
