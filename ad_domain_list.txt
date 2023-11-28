@@ -705,6 +705,7 @@ ads.soft32.com
 ads.space.com
 ads.sportradar.com
 ads.stackoverflow.com
+ads-static.conde.digital
 ads.sun.com
 ads.sunmaker.com
 ads.suomiautomaatti.com
@@ -4909,6 +4910,7 @@ onclasrv.com
 onclickads.net
 onclickalgo.com
 onclickmega.com
+onclickperformance.com
 onclicksuper.com
 oncomeannuals.com
 oneandonlynetwork.com
