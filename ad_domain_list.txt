@@ -2869,6 +2869,7 @@ events.attentivemobile.com
 events.jora.com
 events.launchdarkly.com
 events.mapbox.com
+events.newsroom.bi
 events.redditmedia.com
 events.shoplytics.com
 events.split.io
