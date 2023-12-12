@@ -114,6 +114,7 @@ full:clientflow.apple.com
 full:clientflow.apple.com.akadns.net
 full:clientservices.googleapis.com
 full:clubhub.xboxlive.com
+full:clubweixin.samsung.com
 full:cma.itunes.apple.com
 full:cms.ibm.com
 full:cn-api.samsungcloud.com
