@@ -453,6 +453,7 @@ full:redirector.offline-maps.gvt1.com
 full:redirector.snap.gvt1.com
 full:redirector.xn--ngstr-lra8j.com
 full:regioninfo-pa.googleapis.com
+full:res.cdn.office.net
 full:reserve-prime.apple.com
 full:res.office365.com
 full:res.outlook.com
