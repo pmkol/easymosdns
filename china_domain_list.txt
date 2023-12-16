@@ -9115,6 +9115,7 @@ b2b6.com
 b2baa.com
 b2b.biz
 b2b-builder.com
+b2bgo.com
 b2bic.com
 b2bname.com
 b2bvip.com
@@ -19840,6 +19841,7 @@ edu80.com
 edu84.com
 edu84.net
 edu88.com
+eduapaashwc.com
 eduartisan.com
 edu-book.com
 educg.net
@@ -25638,6 +25640,7 @@ hcrlm.com
 hcshebao.com
 hcsilk.com
 hc-software.com
+hc-sre.com
 hctxf.org
 hcty.com
 hcwiki.com
@@ -27432,6 +27435,7 @@ huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
 huaweicloudlive.com
+huaweicloudsite.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloudwaf.com
@@ -27443,8 +27447,10 @@ huaweimall.com
 huaweimarine.com
 huaweimarketplace.com
 huaweimossel.com
+huaweioneaccess.com
 huaweirom.com
 huaweisafedns.com
+huaweisre.com
 huaweistatic.com
 huaweiuniversity.com
 huaweiyun.com
@@ -27934,6 +27940,7 @@ hw-ai.com
 hwangda.com
 hwanjia.com
 hwasmart.com
+hwastro.com
 hwbaoan.com
 hwccpc.com
 hwcdnsre.com
@@ -27942,6 +27949,7 @@ hwcloudlive.com
 hwclouds.com
 hwclouds-dns.com
 hwclouds-dns.net
+hwcloudsite.com
 hwclouds.mobi
 hwclouds.net
 hwcloudvis.com
@@ -39172,6 +39180,7 @@ myhuilv.com
 myhwcdn.com
 myhwcloudlive.com
 myhwclouds.com
+myhwclouds.net
 myie9.com
 myie.me
 my-imcloud.com

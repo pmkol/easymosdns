@@ -60,6 +60,7 @@ full:bj1.api.bing.com
 full:blog.tutorabc.com
 full:bookkeeper.itunes.apple.com
 full:borgmon.adz.google.com
+full:build.microsoft.com
 full:cache-management-prod.google.com
 full:cache.pack.google.com
 full:c.admob.com
@@ -161,6 +162,7 @@ full:cstat.cdn-apple.com
 full:ctldl.windowsupdate.com
 full:dartsearch-cn.net
 full:dd-cdn.origin-apple.com.akadns.net
+full:devblogs.microsoft.com
 full:developer.microsoft.com
 full:dg-meta.video.google.com
 full:discussionschinese.apple.com
@@ -351,6 +353,7 @@ full:khmdb.google.com
 full:khm.googleapis.com
 full:khm.google.com
 full:km.support.apple.com
+full:learn.microsoft.com
 full:lh3.appinn.net
 full:liveupdate01.asus.com
 full:lnkd.licdn.com
@@ -569,6 +572,7 @@ full:upp.itunes.apple.com
 full:userstats.xboxlive.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
+full:vscode.download.prss.microsoft.com
 full:wear.googleapis.com
 full:weather-data.apple.com
 full:weather-data.apple.com.akadns.net
