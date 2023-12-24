@@ -381,6 +381,7 @@ full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
 full:music.apple.com
+full:myvs.download.prss.microsoft.com
 full:nxeassets.xbox.com
 full:ocsp2.apple.com
 full:ocsp2.globalsign.com
@@ -390,6 +391,7 @@ full:ocsp-data.us.cdnetworks.com
 full:ocsp.globalsign.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.pki.goog
+full:oemsoc.download.prss.microsoft.com
 full:officecdn.microsoft.com
 full:olay-cn.cdnpg.com
 full:opencourse.pku.edu.cn
@@ -494,6 +496,7 @@ full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
+full:software.download.prss.microsoft.com
 full:source.tutorabc.com
 full:speedtest.xboxlive.com
 full:sp.itunes.apple.com
@@ -529,6 +532,7 @@ full:su.itunes.apple.com
 full:support.1ucrs.com
 full:support.apple.com
 full:support-china.apple-support.akadns.net
+full:surface.downloads.prss.microsoft.com
 full:swallow.apple.com
 full:swallow-apple-com.v.aaplimg.com
 full:swcatalog.apple.com
@@ -573,6 +577,7 @@ full:userstats.xboxlive.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
 full:vscode.download.prss.microsoft.com
+full:vz.download.prss.microsoft.com
 full:wear.googleapis.com
 full:weather-data.apple.com
 full:weather-data.apple.com.akadns.net
