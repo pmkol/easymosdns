@@ -4802,6 +4802,7 @@ discuss.com.hk
 dish.com
 dishworld.com
 disk.yandex.com
+disk.yandex.ru
 disneyadsales.com
 disneyarena.com
 disney-asia.com
@@ -7851,7 +7852,6 @@ graphql.org
 gr-assets.com
 gravatar.com
 gravitytank.com
-greasespot.net
 greatergothammini.com
 greatfire.org
 greatfire.us7.list-manage.com
@@ -12614,6 +12614,7 @@ observechina.net
 obsrvbl.com
 obutsumania.com
 obutu.com
+obyte.org
 ocaspro.com
 ocbmwdealers.com
 occupytiananmen.com
@@ -16032,6 +16033,7 @@ sybjav.online
 sydneytoday.com
 syfor.click
 syhacked.com
+s.yimg.com
 sylfoundation.org
 symantec.com
 symcb.com
@@ -18221,7 +18223,6 @@ wn.com
 wnoaissulli1.com
 wo3ttt.wordpress.com
 woeser.com
-woesermiddle-way.net
 woflthenewsstation.com
 wogx.com
 wokar.org
@@ -18339,7 +18340,6 @@ wwwapple.net
 www-bestbuystores.com
 www.businessinsider.com.au
 www.cmoinc.org
-www.cool18.com
 wwwdecide.com
 www.destinationurl.com
 www.dmm.com
