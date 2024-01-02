@@ -182,6 +182,7 @@ full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
 full:download.epicgames.com
 full:download.gfe.nvidia.com
+full:download.jetbrains.com
 full:download.mcafee.com
 full:download.microsoft.com
 full:download.mlcc.google.com
