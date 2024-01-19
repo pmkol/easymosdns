@@ -221,6 +221,7 @@ full:g3.gstatic.com
 full:gameplay.intel.com
 full:gateway.craft.moe
 full:gcpnode.com
+full:gdssl.image-gmkt.com
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
 full:gfwsl.geforce.com
@@ -513,6 +514,7 @@ full:static-exp1.licdn.com
 full:static.image-gmkt.com
 full:static.licdn.com
 full:static-login.gog-statics.com
+full:staticssl.image-gmkt.com
 full:static.yangfd.com
 full:stocks-sparkline.apple.com
 full:stocks-sparkline-lb.apple.com.akadns.net
