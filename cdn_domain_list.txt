@@ -193,6 +193,7 @@ full:download-ssl.xbox.com
 full:download.tensorflow.google.com
 full:download.visualstudio.microsoft.com
 full:download.xboxlive.com
+full:dp.image-gmkt.com
 full:e.admob.com
 full:ec4.images-amazon.com
 full:ec8.images-amazon.com
