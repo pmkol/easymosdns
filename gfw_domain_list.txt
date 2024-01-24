@@ -947,7 +947,6 @@ alphabet.com
 alphabetfinance.net
 alphabet.info
 alphaporno.com
-alphassl.com
 alphera.com
 alphera.net
 alpinelinux.org
@@ -1089,6 +1088,7 @@ ampproject.com
 ampproject.net
 ampproject.org
 ams02.space
+a-msedge.net
 ams.org
 amsterdamhotescort.com
 amsterdamluxescort.com
@@ -2519,6 +2519,7 @@ binancezh.mobi
 binancezh.net
 binancezh.pro
 binancezh.top
+bing123.com
 bingads.com
 bingagencyawards.com
 bingapis.com
@@ -3958,6 +3959,7 @@ clipsbai.com
 clipseksi.com
 clitgames.com
 cloakpoint.com
+clock.isc.org
 clojure.org
 cloudapp.net
 cloudappsecurity.com
@@ -5447,8 +5449,8 @@ edengay.net
 edgecastcdn.net
 edgedatg.com
 edgefonts.net
+edgekey.net
 edgemeplease.com
-edge-skype-com.s-0001.s-msedge.net
 edge.steam-dns.top.comcast.net
 edgesuite.net
 edicypages.com
@@ -7353,7 +7355,6 @@ globalrescue.net
 globalriskregulator.com
 global-sci.org
 globalsecurity.org
-globalsign.com
 globalsign-media.com
 globalsign.net
 globalspec.com
@@ -11100,6 +11101,7 @@ mihr.com
 mihua.org
 miitomo.com
 miiverse.com
+mikanani.me
 mike.cz.cc
 mikesoltys.com
 mikrotik.com
@@ -12431,6 +12433,7 @@ ntdtvla.com
 ntdtv.org
 ntdtv.ru
 ntdvn.com
+ntp.ripe.net
 ntrfun.com
 ntsna.gov.tw
 ntten-mg.buzz
@@ -13495,6 +13498,7 @@ polymerproject.org
 ponyanimalsex.com
 poofetish.com
 poolin.com
+pool.ntp.org
 poopeegirls.com
 poopee-puke.com
 poop-pee.online
@@ -14775,6 +14779,7 @@ scribd.com
 scriptspot.com
 scrolller.com
 s-cute.com
+s-dc-msedge.net
 sdcountybmw.com
 sdnice.one
 sdnitube.buzz
@@ -15374,6 +15379,7 @@ smmsp.xyz
 smokinmovies.com
 smplace.com
 smpte.org
+s-msedge.net
 s-msft.com
 s-msn.com
 smutcam.com
@@ -15712,6 +15718,7 @@ statueofdemocracy.org
 staxus.com
 stboy.net
 stc.com.sa
+st.com
 stcroixmosquito.com
 stcroixmosquitoproject.com
 stc-server.com

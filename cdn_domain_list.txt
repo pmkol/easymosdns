@@ -78,6 +78,7 @@ full:cdn-cn1.apple-mapkit.com
 full:cdn-cn2.apple-mapkit.com
 full:cdn-cn3.apple-mapkit.com
 full:cdn-cn4.apple-mapkit.com
+full:cdn.globalsigncdn.com.cdn.cloudflare.net
 full:cdnjs.loli.net
 full:cdn.loli.net
 full:cdn.marketplaceimages.windowsphone.com
@@ -148,8 +149,6 @@ full:corp.google.com
 full:cortexfx.bnpparibas.com
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
-full:crl2.alphassl.com
-full:crl.alphassl.com
 full:crl.apple.com
 full:crl.kaspersky.com
 full:crl-lb.apple.com.akadns.net
@@ -226,7 +225,6 @@ full:gdssl.image-gmkt.com
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
 full:gfwsl.geforce.com
-full:global.prd.cdn.globalsign.com
 full:globalsigncdn.com
 full:gogalaxy.gog-statics.com
 full:gog.qtlglb.com
@@ -375,6 +373,7 @@ full:mesu-china.apple.com.akadns.net
 full:mini5cn-1.opera-mini.net
 full:mini5cn.opera-mini.net
 full:mktplassets-ssl.xbox.com
+full:ml.cdn-apple.com
 full:monitoring.qatp1.net
 full:monitoring.qcpp1.net
 full:monitoring.qpdp1.net
@@ -386,11 +385,9 @@ full:music.apple.com
 full:myvs.download.prss.microsoft.com
 full:nxeassets.xbox.com
 full:ocsp2.apple.com
-full:ocsp2.globalsign.com
 full:ocsp2-lb.apple.com.akadns.net
 full:ocsp.apple.com
 full:ocsp-data.us.cdnetworks.com
-full:ocsp.globalsign.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.pki.goog
 full:oemsoc.download.prss.microsoft.com
@@ -481,8 +478,6 @@ full:sdx.microsoft.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
 full:secaz-fota-dn.samsungdm.com
-full:secure2.alphassl.com
-full:secure.globalsign.com
 full:secure-nikeplus.nike.com
 full:se-edge.itunes.apple.com
 full:sekong.cn.com
@@ -551,6 +546,7 @@ full:tac.googleapis.com
 full:tcl.com.ru
 full:tesla-cdn.thron.cn
 full:test.bugs-qa.chromium.org
+full:testflight.apple.com
 full:test.gbugs-qa.chromium.org
 full:tiles.xbox.com
 full:titlestorage.xboxlive.com
@@ -668,6 +664,8 @@ regexp:^gog-cdn-.+\.footprint\.net$
 regexp:^images(-\d)?\.gog-statics\.com$
 regexp:^is[1-5](-ssl)?\.mzstatic\.com$
 regexp:^.+-mihayo\.akamaized\.net$
+regexp:^ntp([1-5])?.tencent.com$
+regexp:^ntp([1-7])?.aliyun.com$
 regexp:^s[1-5]?\.mzstatic\.com$
 regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
 regexp:^(.+\.)*zh\.okaapps\.com$
