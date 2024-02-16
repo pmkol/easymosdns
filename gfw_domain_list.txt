@@ -263,7 +263,9 @@
 4kup.net
 4mydomain.com
 4myminicard.com
+4pcdn.org
 4pig.com
+4plebs.org
 4porn4.com
 4porn.com
 4pu.com
@@ -707,6 +709,7 @@ adventuresbydisney.com
 advertfan.com
 advertisercommunity.com
 adx.promo
+ae-ad-1.myhuaweicloud.com
 aeasyshop.com
 aebn.com
 ae.hao123.com
@@ -733,6 +736,7 @@ afreecatv.com
 afriboyz.com
 af-south-1.myhuaweicloud.com
 aga-expo.com
+agedm.org
 agendaweek.com
 agnesb.fr
 agoogleaday.com
@@ -812,6 +816,7 @@ akadeem.net
 akademiye.org
 akadns6.net
 akadns88.net
+akadns99.net
 akadns.com
 akadns.net
 akaeai.com
@@ -1437,6 +1442,7 @@ aps.org
 ap-southeast-1.myhuaweicloud.com
 ap-southeast-2.myhuaweicloud.com
 ap-southeast-3.myhuaweicloud.com
+ap-southeast-4.myhuaweicloud.com
 aptoide.com
 ap-tokyo.myqcloud.com
 apture.com
@@ -5783,6 +5789,7 @@ europepmc.org
 europornstar.com
 eurosexscene.com
 eu-west-0.myhuaweicloud.com
+eu-west-101.myhuaweicloud.com
 evaelfie.com
 evanottyvideos.com
 evchk.wikia.com
@@ -10926,6 +10933,7 @@ mediawiki.org
 medium.com
 medium.systems
 medrxiv.org
+me-east-1.myhuaweicloud.com
 meendo.com
 meetandfuck.games
 meetandfuckgames.com
@@ -16766,6 +16774,7 @@ truyenhentai.xyz
 truyenkk1.com
 truyentranh86.com
 truyenwk.com
+tr-west-1.myhuaweicloud.com
 tryboobs.com
 trycloudflare.com
 trycuckold.com

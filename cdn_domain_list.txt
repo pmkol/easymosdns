@@ -153,6 +153,7 @@ full:crl.apple.com
 full:crl.kaspersky.com
 full:crl-lb.apple.com.akadns.net
 full:crl.pki.goog
+full:crls.pki.goog
 full:cs-analytics.htcsense.com
 full:csi.gstatic.com
 full:c.s-microsoft.com
