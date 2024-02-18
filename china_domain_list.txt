@@ -15476,9 +15476,12 @@ cloud-dns.net
 cloud-dns.vip
 clouddongying.com
 clouddream.net
+cloudflareanycast.net
 cloudflare-cn.com
 cloudflarecn.net
+cloudflareglobal.net
 cloudflareinsights-cn.com
+cloudflareperf.com
 cloudflareprod.com
 cloudflarestaging.com
 cloudflarestoragegw.com
