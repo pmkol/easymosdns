@@ -128,6 +128,7 @@ ad1.emediate.dk
 ad1.emule-project.org
 ad1.kde.cz
 ad1.missyusa.com
+ad.22betpartners.com
 ad287.com
 ad2flash.com
 ad2games.com
@@ -152,6 +153,7 @@ adaction.de
 ad.adpon.jp
 adalgard-wol.com
 ad.anuntis.com
+ad.apl318.me
 ad.apsalar.com
 adapt.tv
 adasiatagmanager.appspot.com
@@ -693,6 +695,7 @@ ads.soft32.com
 ads.space.com
 ads.sportradar.com
 ads.stackoverflow.com
+ads.starzd.com
 ads-static.conde.digital
 ads.sun.com
 ads.sunmaker.com
@@ -1069,6 +1072,7 @@ analytics.newscred.com
 analytics.nike.com
 analytics.ninjakiwi.com
 analytics.nova.fox.com
+analytics.pangle-ads.com
 analytics.phando.com
 analytics.picsart.com
 analytics.pixels.ai
@@ -3121,6 +3125,7 @@ gastersliddry.com
 gatetodisplaycontent.com
 gatewayimpossibilitypursue.com
 gaudetehoazin.com
+gaunchdelimes.com
 gaut-hil.com
 gavnogeeygaika.com
 gayadnetwork.com
@@ -3603,6 +3608,7 @@ images-pw.secureserver.net
 i-mar.com
 imarketservices.com
 imatmobile.com
+im.bluevoox.com
 img3.usefathom.com
 img-ad-nex.com
 img.en25.com
@@ -4174,6 +4180,7 @@ lyssapebble.com
 lytics.io
 lzjl.com
 lzyjcooxsodz.com
+m0rsq075u.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 m32.media
 m4n.nl
@@ -4900,6 +4907,7 @@ ophan.theguardian.com
 ophoacit.com
 opienetwork.com
 opinionstage.com
+oplog.mulai.pw
 opmvivogsb.com
 oppvcuovgda.com
 opsivesh.net
@@ -6012,6 +6020,7 @@ shoeingneurone.com
 shofteph.com
 shoogleno.tech
 shopfulaments.com
+shopnetic.com
 shoppingads.com
 shopzilla.com
 shorteh.com
@@ -6244,6 +6253,7 @@ static.scptpx.com
 static.scroll.com
 static.site24x7rum.com
 statistic.ads24h.net
+statistik.changing-cities.org
 statistik-gallup.net
 stat.media
 statm.the-adult-company.com
@@ -6664,6 +6674,7 @@ top-site-list.com
 topsite.lv
 topsites.com.br
 topstats.com
+toptrendyinc.com
 tornbed.pro
 toroadvertisingmedia.com
 tosfeed.com
