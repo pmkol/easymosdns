@@ -119,6 +119,7 @@ full:clubhub.xboxlive.com
 full:clubweixin.samsung.com
 full:cma.itunes.apple.com
 full:cms.ibm.com
+full:cms-live.pandora.net
 full:cn-api.samsungcloud.com
 full:cnappinstall.googleadapis.com
 full:cn.coremetrics.com
