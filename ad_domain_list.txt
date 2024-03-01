@@ -305,6 +305,7 @@ adman.otenet.gr
 admarket.network
 admedia.network
 admedia.ro
+ad.meetyouintl.com
 admeld.com
 admeta.com
 admex.com
@@ -1097,6 +1098,7 @@ analytics-static.ugc.bazaarvoice.com
 analytics.streamgaga.com
 analytics.swiggy.com
 analytics-track.machbird.com
+analytics.tuoitrau.com
 analytics.webgains.io
 analytics.youronlinechoices.com
 analytics.ziftsolutions.com
@@ -1885,10 +1887,12 @@ cdngain.com
 cdn.house
 cdn.itskiddoan.club
 cdn.lr-ingest.io
+cdn.lumupu.xyz
 cdn.mmctsvc.com
 cdn.netcatx.com
 cdnondemand.org
 cdn.onesignal.com
+cdn-plus.roxot-panel.com
 cdn.promotionengine.com
 cdn.qgr.ph
 cdn.retailads.net
@@ -2313,6 +2317,7 @@ d1fc8wv8zag5ca.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1nssfq3xl2t6b.cloudfront.net
 d1pn3cn3ri604k.cloudfront.net
+d1uzjiv6zzdlbc.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d1wix2gc2cgqis.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
@@ -3176,6 +3181,7 @@ ginnerspuntel.live
 ginpithed.live
 gipaxqfpopu.com
 gipxpuotwv.com
+giraff.io
 girawrolrorf.com
 gk79a2oup.com
 gkemujoccwin.com
@@ -3320,6 +3326,7 @@ gycqna.com
 gyfumobo.com
 h2aek6rv0ard.com
 h4aock41f.com
+h74v6kerf.com
 h78xb.pw
 habitsdemise.com
 hacbfyvvsw.com
@@ -3618,6 +3625,7 @@ img.leadzutw.com
 imgpromo.easyrencontre.com
 imimobile.com
 immensehoney.com
+immerseweariness.com
 immoxdzdke.com
 impact-ad.jp
 impactmobile.com
@@ -5057,6 +5065,7 @@ parchedsofa.com
 parentlargevia.com
 parisjeroleinpg.com
 parkedcheerful.com
+parking.godaddy.com
 parriedcubelet.top
 parsimoniouspolice.com
 partage-facile.com
@@ -5197,6 +5206,7 @@ piwik.org
 piwik.pro
 pixanalytics2.pixnet.net
 pixanalytics.pixnet.net
+pixel.chaty.app
 pixel.gliacloud.com
 pixel.homeapp.team
 pixel.ipinfo.io
@@ -5264,6 +5274,7 @@ pontiflex.com
 poole-collector-prod.n3twork.com
 pop5sjhspear.com
 pop.bid
+popmansion.com
 popmonetizer.net
 popmyads.com
 poppinhelodes.store
@@ -5840,6 +5851,7 @@ ruwertur.com
 ruwjkygaxo.com
 ruzwraxcugta.com
 rvrpushserv.com
+r.wdfl.co
 rweqklxctunjy.com
 rwturquxinm.com
 rxeosevsso.com
@@ -6093,6 +6105,7 @@ slidbecauseemerald.com
 slidingfeddans.uno
 slight-responsibility.pro
 slimlyeneas.com
+slipheirphysician.com
 slipperysack.com
 slopeaota.com
 sltvhyjthx.com
@@ -6135,6 +6148,7 @@ snap.licdn.com
 snebbubbled.com
 sniffedheavensupervise.com
 sniffytuff.store
+s.nitropay.com
 snoobi.com
 snowdayonline.xyz
 snowplow-pixel.tradingview.com
@@ -6454,6 +6468,7 @@ tacoda.net
 tacticmarshannouncing.com
 tacticwane.com
 tafovzxhufhe.com
+tagdelivery.mayoclinic.org
 tagger.ope.scmp.com
 tag.imagino.com
 tagmanager.alright.network
@@ -6536,6 +6551,7 @@ telaria.com
 telemetry.acronis.com
 telemetry.api.swiftkey.com
 telemetry.art19.com
+telemetry.canva.com
 telemetry.dropbox.com
 telemetry.malwarebytes.com
 telemetry.tradingview.com
@@ -6568,6 +6584,7 @@ tgvbwjbnxz.com
 tgzobwoutuwn.com
 thaeinai.com
 thakscholae.com
+thanksgivingdelights.name
 thanosofcos5.com
 tharbadir.com
 that-muscle.com
@@ -6629,6 +6646,7 @@ tizadumbed.com
 tjclskcamptg.com
 tkickhhylnvm.com
 tkidcigitrte.com
+t.lumupu.xyz
 tlvmedia.com
 tm5kpprikka.com
 tm-banners.gamingadult.com
@@ -6731,6 +6749,7 @@ tracking.scenepass.com
 tracking-server-prod-1.zenmxapps.com
 trackingsoft.com
 tracking-user-behavior.meeyland.com
+track.lacunads.com
 track.lexico.com
 track.mobgc.com
 track.mp4.center
@@ -6842,6 +6861,7 @@ twazzyoidwlfe.com
 tweedygirly.com
 twinrdsrv.com
 twinrdsyn.com
+twinrdsyte.com
 twinsoflave.com
 twistconcept.com
 twittad.com
@@ -7180,6 +7200,7 @@ webeyemob.com
 web.informer.com
 webmasterplan.com
 webmasterplan.de
+webmetrics.mayoclinic.org
 web.mxradon.com
 weborama.com
 weborama.net
@@ -7243,6 +7264,7 @@ widgetbucks.com
 widget.manychat.com
 widget.privy.com
 widgets.coinmarketcap.com
+widget.sparrow.ru
 widow5blackfr.com
 wiediceberg.uno
 wieistmeineip.de
