@@ -26,9 +26,13 @@ full:amp-api.apps.apple.com
 full:amp-api-edge.apps.apple.com
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
+full:amp-api.media.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
+full:api-p-ap-c.smoot.apple.com
+full:api-p-ap-d.smoot.apple.com
+full:api-p-ap-e.smoot.apple.com
 full:appldnld.apple.com
 full:appldnld.g.aaplimg.com
 full:appleid.cdn-apple.com
@@ -128,6 +132,7 @@ full:cn.debian.org
 full:cn.download.nvidia.com
 full:cn.img.stb.s-msn.com
 full:cn.pandora.net
+full:cn-smp-paymentservices.apple.com
 full:cnupgrade.microsoft.com
 full:cn.widevine.com
 full:cn.windowssearch.com
@@ -164,6 +169,7 @@ full:cstat.cdn-apple.com
 full:ctldl.windowsupdate.com
 full:dartsearch-cn.net
 full:dd-cdn.origin-apple.com.akadns.net
+full:dejavu.apple.com
 full:devblogs.microsoft.com
 full:developer.microsoft.com
 full:dg-meta.video.google.com
@@ -209,6 +215,7 @@ full:encoding.image-gmkt.com
 full:epix-ssl.xbox.com
 full:epix.xbox.com
 full:events2.djicdn.com
+full:experiments.apple.com
 full:fides-pol.apple.com
 full:firebase-settings.crashlytics.com
 full:fontfiles.googleadapis.com
@@ -274,12 +281,14 @@ full:gsp5-cn.ls.apple.com
 full:gsp85-cn-ssl.ls.apple.com
 full:gspe11-2-cn-ssl.ls.apple.com
 full:gspe12-cn-ssl.ls.apple.com
+full:gspe19-2-cn-ssl.ls.apple.com
 full:gspe19-cn.ls.apple.com
 full:gspe19-cn.ls-apple.com.akadns.net
 full:gspe19-cn-ssl.ls.apple.com
 full:gspe21.ls.apple.com
 full:gspe21-ssl.ls.apple.com
 full:gspe35-ssl.ls.apple.com
+full:gspe79-cn-ssl.ls.apple.com
 full:gspe85-cn-ssl.ls.apple.com
 full:gstaticadssl.l.google.com
 full:gstatic-cn.com
@@ -287,6 +296,7 @@ full:gstatic.loli.net
 full:gtm.oasisfeng.com
 full:guzzoni.apple.com
 full:guzzoni-apple-com.v.aaplimg.com
+full:guzzoni.smoot.apple.com
 full:gvt1-cn.com
 full:gvt2-cn.com
 full:hdn.xnimg.cn.cdngc.net
@@ -317,9 +327,11 @@ full:img.mediaplex.com
 full:inappcheck-cn.itunes-apple.com.akadns.net
 full:inappcheck.itunes.apple.com
 full:inappcheck-lb.itunes-apple.com.akadns.net
+full:init.ess.apple.com
 full:init.gc.apple.com
 full:init.gc-lb.apple.com.akadns.net
 full:init.itunes.apple.com
+full:init-kt.apple.com
 full:init-p01md.apple.com
 full:init-p01md-lb.push-apple.com.akadns.net
 full:init-p01st-lb.push-apple.com.akadns.net
@@ -426,6 +438,7 @@ full:pagead-googlehosted.l.google.com
 full:pancake.apple.com
 full:pancake.cdn-apple.com.akadns.net
 full:partner.globalsign.com
+full:pba0.apple.com
 full:pd.itunes.apple.com
 full:performanceparameters.googleapis.com
 full:pki-goog.l.google.com
@@ -434,6 +447,7 @@ full:play.1ucrs.com
 full:play.itunes.apple.com
 full:plus.djicdn.com
 full:prm.dji.com
+full:probe.siri.apple.com
 full:prod-controlbe.floonet.goog
 full:prod-databe.floonet.goog
 full:prod.databe.floonet.goog
@@ -449,6 +463,7 @@ full:qgadmin.qatp1.net
 full:qgadmin.qcpp1.net
 full:qgadmin.qpdp1.net
 full:qh.dlservice.microsoft.com
+full:qiao-cn.com
 full:qpx.googleflights.net
 full:qualysapi.qatp1.net
 full:qualysapi.qcpp1.net
@@ -500,13 +515,19 @@ full:search.itunes.apple.com
 full:secaz-fota-dn.samsungdm.com
 full:secure-nikeplus.nike.com
 full:se-edge.itunes.apple.com
+full:seed-sequoia.siri.apple.com
+full:seed.siri.apple.com
+full:seed-swallow.siri.apple.com
 full:sekong.cn.com
+full:sequoia.apple.com
 full:service.urchin.com
 full:settings.crashlytics.com
 full:settings.xboxlive.com
 full:settings.xn--9trs65b.com
 full:sf-api-token-service.itunes.apple.com
+full:shazam-insights.cdn-apple.com
 full:shop.samsung.com
+full:sh-pod2-smp-device.apple.com
 full:silverlight.dlservice.microsoft.com
 full:sina.com.hk
 full:siportal.cdnetworks.com
@@ -529,6 +550,7 @@ full:staging-databe.floonet.goog
 full:staging.databe.floonet.goog
 full:staging-regioninfo-pa.googleapis.com
 full:static-exp1.licdn.com
+full:static.gc.apple.com
 full:static.image-gmkt.com
 full:static.licdn.com
 full:static-login.gog-statics.com
@@ -570,6 +592,7 @@ full:swdist.apple.com
 full:swdist.apple.com.akadns.net
 full:swscan.apple.com
 full:swscan-cdn.apple.com.akadns.net
+full:sylvan.apple.com
 full:sync.itunes.apple.com
 full:tac.googleapis.com
 full:tcl.com.ru
@@ -580,6 +603,7 @@ full:testflight.apple.com
 full:test.gbugs-qa.chromium.org
 full:tiles.xbox.com
 full:titlestorage.xboxlive.com
+full:tj-pod1-smp-device.apple.com
 full:toolbarqueries.google.com
 full:tools.google.com
 full:tools.l.google.com
@@ -620,6 +644,7 @@ full:vz.download.prss.microsoft.com
 full:wear.googleapis.com
 full:weather-data.apple.com
 full:weather-data.apple.com.akadns.net
+full:weatherkit.apple.com
 full:weather-map2.apple.com
 full:weather-map.apple.com
 full:web-service.halo.xbox.com
