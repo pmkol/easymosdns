@@ -54,6 +54,7 @@ full:avatarread.xboxlive.com
 full:avatar-ssl.xboxlive.com
 full:avatar.xboxlive.com
 full:bag.itunes.apple.com
+full:b.c2r.ts.cdn.office.net
 full:beacons2.gvt2.com
 full:beacons3.gvt2.com
 full:beacons.gcp.gvt2.com
@@ -216,6 +217,7 @@ full:epix-ssl.xbox.com
 full:epix.xbox.com
 full:events2.djicdn.com
 full:experiments.apple.com
+full:f.c2r.ts.cdn.office.net
 full:fides-pol.apple.com
 full:firebase-settings.crashlytics.com
 full:fontfiles.googleadapis.com
@@ -492,6 +494,7 @@ full:redirector.offline-maps.gvt1.com
 full:redirector.snap.gvt1.com
 full:redirector.xn--ngstr-lra8j.com
 full:regioninfo-pa.googleapis.com
+full:res-1.cdn.office.net
 full:res.cdn.office.net
 full:reserve-prime.apple.com
 full:res.office365.com
@@ -526,6 +529,7 @@ full:settings.xboxlive.com
 full:settings.xn--9trs65b.com
 full:sf-api-token-service.itunes.apple.com
 full:shazam-insights.cdn-apple.com
+full:shell.cdn.office.net
 full:shop.samsung.com
 full:sh-pod2-smp-device.apple.com
 full:silverlight.dlservice.microsoft.com
@@ -555,6 +559,7 @@ full:static.image-gmkt.com
 full:static.licdn.com
 full:static-login.gog-statics.com
 full:staticssl.image-gmkt.com
+full:statics.teams.cdn.office.net
 full:static.yangfd.com
 full:stocks-sparkline.apple.com
 full:stocks-sparkline-lb.apple.com.akadns.net

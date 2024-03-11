@@ -2451,6 +2451,7 @@ bbchat.tv
 bbci.co.uk
 bbc.in
 bbcmedia.co.uk
+bbc.mp-pxcdn.com
 bbc.net.uk
 bbcpersian.com
 bbcpornonly.com
@@ -4565,6 +4566,7 @@ cfake.com
 cfblob.com
 cfhks.org.hk
 cf-ipfs.com
+cfl.re
 cfna.com
 cfos.de
 cfr.org
@@ -13969,6 +13971,7 @@ modelsfreecams.com
 modeltv.com
 modernchinastudies.org
 mod.io
+modperl.pl
 modrinth.com
 modular.im
 moeaic.gov.tw
@@ -15504,6 +15507,9 @@ okkisokuho.com
 okk.tw
 ok.ru
 okx.com
+okx-dns1.com
+okx-dns2.com
+okx-dns.com
 ok.xxx
 old-cat.net
 older.tube
@@ -17520,6 +17526,7 @@ redbubble.com
 redchinacn.net
 redchinacn.org
 redd.it
+reddit.app.link
 reddit.com
 redditlist.com
 redditmail.com
@@ -19515,6 +19522,8 @@ tahr.org.tw
 taiav.com
 tail-f.com
 tailf.com
+tailscale.com
+tailscale.io
 tailwindtraders.com
 taiolongdh.sbs
 taipei.gov.tw
@@ -20395,6 +20404,7 @@ tsescortsdirectory.com
 tsi.ai
 ts.la
 tsmodelstube.com
+ts.net
 tsquare.tv
 tssp.best
 tsthai.com
