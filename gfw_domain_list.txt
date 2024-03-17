@@ -16316,6 +16316,7 @@ pinflix.com
 ping.fm
 pingguotv.xyz
 ping.pe
+ping.sx
 pingxiangpuer.com
 pinimg.com
 pin.it
@@ -20099,6 +20100,8 @@ tiktok.com
 tiktokd.net
 tiktokd.org
 tiktokv.com
+tiktokv.us
+tiktokw.us
 tiltbrush.com
 timdir.com
 time.com
@@ -23187,6 +23190,7 @@ yakbutterblues.com
 yale.edu
 yamaxun.com
 yam.com
+yamibo.com
 yammer.com
 yamoon.club
 yam.org.tw
