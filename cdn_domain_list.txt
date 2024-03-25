@@ -54,6 +54,7 @@ full:avatarread.xboxlive.com
 full:avatar-ssl.xboxlive.com
 full:avatar.xboxlive.com
 full:bag.itunes.apple.com
+full:bbs.ztedevices.com
 full:b.c2r.ts.cdn.office.net
 full:beacons2.gvt2.com
 full:beacons3.gvt2.com
@@ -691,6 +692,7 @@ full:www-ssl.intel.com
 full:www.sulwhasoo.com
 full:www.travelzoo.com
 full:www.tutorabc.com
+full:www.ztedevices.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
 full:xn--9kr7l.com
