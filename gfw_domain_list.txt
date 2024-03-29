@@ -1860,6 +1860,7 @@ app-measurement.com
 appmediagroup.com
 approvedusedbmw.com
 apps5.oingo.com
+apps.evozi.com
 appsflayer.com
 appshopper.com
 app.smartmailcloud.com
@@ -1904,6 +1905,7 @@ archive.fo
 archive.is
 archive-it.org
 archive.li
+archive.md
 archiveofourown.com
 archiveofourown.net
 archiveofourown.org
@@ -4830,6 +4832,7 @@ chuzs2.xyz
 chwr7s8u.com
 chyoa.com
 ciattackers.com
+ciciai.com
 cienen.com
 ci-en.jp
 ci-en.net
