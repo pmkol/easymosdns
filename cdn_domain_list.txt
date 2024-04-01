@@ -605,7 +605,6 @@ full:tcl.com.ru
 full:techstop.corp.google.com
 full:tesla-cdn.thron.cn
 full:test.bugs-qa.chromium.org
-full:testflight.apple.com
 full:test.gbugs-qa.chromium.org
 full:tiles.xbox.com
 full:titlestorage.xboxlive.com
