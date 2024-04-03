@@ -9,9 +9,6 @@ full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
 full:account.samsung.com
-full:accounts.googlers.com
-full:accounts.xn--9trs65b.com
-full:accounts.xn--ggle-55da.com
 full:achievements.xboxlive.com
 full:adcdownload.apple.com
 full:adcdownload.apple.com.akadns.net
@@ -60,7 +57,6 @@ full:beacons2.gvt2.com
 full:beacons3.gvt2.com
 full:beacons.gcp.gvt2.com
 full:beacons.gvt2.com
-full:beacons-handoff.gcp.gvt2.com
 full:bg4.v4.a.dl.ws.microsoft.com
 full:bg.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
@@ -153,8 +149,6 @@ full:console-service.halo.xbox.com
 full:console-service-ssl.halo.xbox.com
 full:content.googleadapis.com
 full:content.nike.com
-full:corp.googleapis.com
-full:corp.google.com
 full:cortexfx.bnpparibas.com
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
@@ -235,7 +229,6 @@ full:g3doc.corp.google.com
 full:g3.gstatic.com
 full:gameplay.intel.com
 full:gateway.craft.moe
-full:gcpnode.com
 full:gdssl.image-gmkt.com
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
@@ -629,13 +622,11 @@ full:uberproxy-with-cn4.l.google.com
 full:uberproxy-with-cn6.l.google.com
 full:uberproxy-with-cn.l.google.com
 full:u.djicdn.com
-full:up.corp.goog
 full:update.crashlytics.com
 full:update.googleapis.com
 full:updates.cdn-apple.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
-full:up.gcp.googlers.com
 full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upload.yangfd.com
 full:upos-hz-mirrorakam.akamaized.net
