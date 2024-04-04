@@ -707,10 +707,7 @@ regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
 regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
 regexp:\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
 regexp:\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.biz$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.com$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.net$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.top$
+regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 regexp:.+\.azchcdn[a-s]\.com$
 regexp:.+\.azure-dns-([1-9]|10)\.cn$
