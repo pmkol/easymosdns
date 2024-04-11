@@ -11953,8 +11953,13 @@ jintian.net
 jinx.com
 jitouch.com
 jitsi.org
+jiuse821.com
+jiuse822.com
+jiuse823.com
 jiuse.ai
+jiuse.com.co
 jiuse.icu
+jiuse.io
 jiyou520.com
 jiyu-kobo.co.jp
 jizzboom.com
@@ -12044,6 +12049,9 @@ jsdelivr.net
 js.org
 jstage.jst.go.jp
 jstor.org
+jstv51.com
+jstv52.com
+jstv53.com
 jsz91.com
 jtube.space
 jtvnw.net
@@ -17407,8 +17415,8 @@ rawgit.com
 raw.githack.com
 rawgithub.com
 razer.com
+razerofficial.com
 razersupport.com
-razerzone.com
 razerzone.jp
 razyboard.com
 rbbusinessshop.com
@@ -18076,6 +18084,7 @@ sego8.cc
 sego8.co
 sego8.xyz
 sehuatang.net
+sehuatang.org
 seiroganmania.com
 seiron-sankei.com
 sejie80.com
@@ -18515,6 +18524,7 @@ sidelinesnews.com
 sidelinessportseatery.com
 siege-amazon.com
 sierrafriendsoftibet.org
+sifangclub.com
 sigmoidoscopeexam.com
 signal.art
 signalbar.com
