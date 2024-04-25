@@ -511,6 +511,7 @@ full:se2.itunes.apple.com
 full:search.itunes.apple.com
 full:secaz-fota-dn.samsungdm.com
 full:secure-nikeplus.nike.com
+full:security.cdnetworks.com
 full:se-edge.itunes.apple.com
 full:seed-sequoia.siri.apple.com
 full:seed.siri.apple.com
