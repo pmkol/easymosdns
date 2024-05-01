@@ -1178,6 +1178,7 @@ apolloprogram.io
 app.adjust.net.in
 app.adjust.world
 appads.com
+app-analytics-services.com
 appbetnewapp.top
 appboy-images.com
 appclick.net
@@ -2078,6 +2079,7 @@ closetagitation.com
 cloudcoins.biz
 cloudembed.net
 cloueewinkles.com
+cloveswamptearing.com
 clrstm.com
 cls.vrvm.com
 clumsyrock.com
@@ -7122,7 +7124,6 @@ vibrantmedia.com
 viciousroughelusive.com
 vidcpm.com
 videoegg.com
-videoplayerhub.com
 video-serve.com
 videosprofitnetwork.com
 videosvc.ezoic.com
