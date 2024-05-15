@@ -1162,6 +1162,7 @@ api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.forshrd.com
 api-gdpr.voodoo-tech.io
 api.intensifier.de
+api.iterable.com
 api.mbrx.app
 api.monedata.io
 api.myadsget.com
