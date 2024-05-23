@@ -92,6 +92,7 @@ full:cds-cdn.v.aaplimg.com
 full:certs.apple.com
 full:certs-lb.apple.com.akadns.net
 full:checkin.gstatic.com
+full:chinacache.cedexis.com
 full:china-cdn2.unityads.unity3d.com
 full:china-cdn3.unityads.unity3d.com
 full:china.msn.com
@@ -153,6 +154,7 @@ full:cortexfx.bnpparibas.com
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
 full:crl.apple.com
+full:crl.globalsign.net
 full:crl.kaspersky.com
 full:crl-lb.apple.com.akadns.net
 full:crl.pki.goog
@@ -409,6 +411,7 @@ full:ocsp2.apple.com
 full:ocsp2-lb.apple.com.akadns.net
 full:ocsp.apple.com
 full:ocsp-data.us.cdnetworks.com
+full:ocsp.globalsign.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.pki.goog
 full:oemsoc.download.prss.microsoft.com
@@ -525,6 +528,7 @@ full:settings.xn--9trs65b.com
 full:sf-api-token-service.itunes.apple.com
 full:shazam-insights.cdn-apple.com
 full:shell.cdn.office.net
+full:shop.globalsign.com
 full:shop.samsung.com
 full:sh-pod2-smp-device.apple.com
 full:silverlight.dlservice.microsoft.com
@@ -579,6 +583,7 @@ full:support.1ucrs.com
 full:support.apple.com
 full:supportcenter.corp.google.com
 full:support-china.apple-support.akadns.net
+full:support.globalsign.com
 full:sup-ssh-relay2.corp.google.com
 full:sup-ssh-relay.corp.google.com
 full:surface.downloads.prss.microsoft.com
@@ -662,6 +667,7 @@ full:www.apple.com.edgekey.net
 full:www.apple.com.edgekey.net.globalredir.akadns.net
 full:www.destinationurl.com
 full:www.ericsson.com
+full:www.globalsign.com
 full:www.googleadapis.com
 full:www-google-analytics.l.google.com
 full:www-googletagmanager.l.google.com
