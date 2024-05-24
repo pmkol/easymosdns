@@ -408,6 +408,7 @@ full:music.apple.com
 full:myvs.download.prss.microsoft.com
 full:nxeassets.xbox.com
 full:ocsp2.apple.com
+full:ocsp2.globalsign.com
 full:ocsp2-lb.apple.com.akadns.net
 full:ocsp.apple.com
 full:ocsp-data.us.cdnetworks.com
@@ -513,6 +514,7 @@ full:sdx.microsoft.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
 full:secaz-fota-dn.samsungdm.com
+full:secure.globalsign.com
 full:secure-nikeplus.nike.com
 full:security.cdnetworks.com
 full:se-edge.itunes.apple.com
