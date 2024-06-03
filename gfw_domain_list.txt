@@ -3512,7 +3512,6 @@ blog.tiney.com
 blog.workflow.is
 blog.xuite.net
 blog.youthwant.com.tw
-blog.youxu.info
 bloodshed.net
 bloombergapps.com
 bloombergarcade.com
@@ -16903,6 +16902,7 @@ piwheels.org
 pixanalytics.com
 pixapp.net
 pixate.com
+pixeldrain.com
 pixelqi.com
 pixfs.net
 pixhost.to
@@ -23941,7 +23941,6 @@ yinya.shop
 yipub.com
 yiqiedoushiganggangkaishi.org
 yiqilai99.cn
-yiyechat.com
 yizhihongxing.com
 yjcontentdelivery.com
 ymail.com
@@ -24233,7 +24232,6 @@ yunchao.net
 yunlaopo.cc
 yunlaopo.com
 yunlaopo.net
-yuntipub.com
 yusercontent.com
 yusjb.com
 yuvutu.com
@@ -24247,6 +24245,7 @@ yy8y.com
 yyfb.cyou
 yyii.org
 yyjlymb.xyz
+yysub.net
 yyyzgdl.cn
 yzld188.top
 yzzk.com
