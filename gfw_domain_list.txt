@@ -6052,6 +6052,7 @@ devsitetest.how
 dev-theguardian.com
 dev.to
 devtools-paypal.com
+devv.ai
 dewitwithdurex.com
 dexterhorn.com
 dezyred.com
@@ -15172,6 +15173,7 @@ netflav5.com
 netflav.com
 netflix.ca
 netflix.com
+netflixdnstest0.com
 netflixdnstest10.com
 netflixdnstest1.com
 netflixdnstest2.com
