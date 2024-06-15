@@ -733,8 +733,8 @@ regexp:^gog-cdn-.+\.footprint\.net$
 regexp:^images(-\d)?\.gog-statics\.com$
 regexp:^is[1-5](-ssl)?\.mzstatic\.com$
 regexp:^.+-mihayo\.akamaized\.net$
-regexp:^ntp([1-5])?.tencent.com$
-regexp:^ntp([1-7])?.aliyun.com$
+regexp:^ntp([1-5])?\.tencent\.com$
+regexp:^ntp([1-7])?\.aliyun\.com$
 regexp:^s[1-5]?\.mzstatic\.com$
 regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
 regexp:^(.+\.)*zh\.okaapps\.com$
