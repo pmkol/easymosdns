@@ -151,6 +151,7 @@ full:console-service-ssl.halo.xbox.com
 full:content.googleadapis.com
 full:content.nike.com
 full:cortexfx.bnpparibas.com
+full:c.pki.goog
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
 full:crl.apple.com
@@ -343,6 +344,7 @@ full:iosapps.itunes.g.aaplimg.com
 full:ipcdn.apple.com
 full:iphone-ld.apple.com
 full:iphone-ld.origin-apple.com.akadns.net
+full:i.pki.goog
 full:is1.mzstatic.com
 full:is1-ssl.mzstatic.com
 full:is2.mzstatic.com
@@ -419,6 +421,7 @@ full:oemsoc.download.prss.microsoft.com
 full:officecdn.microsoft.com
 full:olay-cn.cdnpg.com
 full:opencourse.pku.edu.cn
+full:o.pki.goog
 full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
