@@ -9114,13 +9114,7 @@ aliavv.com
 alibabacapital.com
 alibabachengdun.com
 alibabachengdun.net
-alibabacloud.co.in
 alibabacloud.com
-alibabacloud.com.au
-alibabacloud.com.hk
-alibabacloud.com.my
-alibabacloud.com.sg
-alibabacloud.com.tw
 alibaba.com
 alibabacorp.com
 alibabadesign.com
@@ -9177,7 +9171,6 @@ ali-gtm-01.net
 ali-gtm-pressure.com
 alihd.net
 ali-health.com
-alihealth.hk
 alihuahua.com
 aliimg.com
 alijijinhui.org
@@ -10966,6 +10959,7 @@ baidu120.cc
 baidu123.com
 baidu521.com
 baiduads.com
+baiduapp.com
 baidubaidubaidu.com
 baidubaidubaidu.net
 baidubce.com
@@ -14812,12 +14806,10 @@ ccbft.com
 ccbfund.com
 ccbfutures.com
 ccbike.cc
-ccbintl.com.hk
 ccbleasing.com
 ccbookfair.com
 ccbpension.com
 ccbride.com
-ccbseoul.com
 ccbxt.com
 cccbs.net
 ccccc12kkkkk.com
@@ -16901,8 +16893,6 @@ chinauma.com
 chinaums.com
 chinaunicom-a.com
 chinaunicom.com
-chinaunicom.com.hk
-chinaunicomglobal.com
 chinaunionpay.com
 chinaunionpay.net
 chinauniversalasset.com
@@ -17965,7 +17955,6 @@ cmbchina.biz
 cmbchina.com
 cmbchina.net
 cmbchinawm.com
-cmbi.com.hk
 cmbimg.com
 cmb-leasing.com
 cmbuat.com
@@ -19758,11 +19747,7 @@ ctdzsk.com
 cteaw.com
 ctecdcs.com
 ct-emall.com
-ctexcel.ca
-ctexcel.com
 ctexcel.com.hk
-ctexcel.fr
-ctexcel.us
 ctex.org
 ctfhub.com
 ctfile.com
@@ -19811,9 +19796,7 @@ ctripbuy.hk
 ctrip.co.id
 ctrip.co.kr
 ctrip.com
-ctrip.com.hk
 ctripcorp.com
-ctrip.co.th
 ctripgslb.com
 ctripins.com
 ctrip.my
@@ -21730,7 +21713,6 @@ didctf.com
 diddgame.com
 didialift.com
 didiapp.com
-didiaustralia.blog
 didibear.com
 didichuxing.com
 didichuxing.net
@@ -21738,9 +21720,6 @@ dididadidi.com
 dididapiao.com
 dididawo.com
 dididi88.com
-didi-food.com
-didiglobal.com
-didimobility.co.jp
 didipay.com
 didiqiche.com
 didishijie.com
@@ -23209,6 +23188,8 @@ duwenz.com
 duwenzhang.com
 duxiaoman.com
 duxiaomanfintech.com
+duxiaoman-int.com
+duxiaomantech.com
 duxiaoshuo.com
 duxiu.com
 duyandb.com
@@ -23288,10 +23269,15 @@ dx-job.com
 dxjs.com
 dxlfile.com
 dx-marine.com
+dxm-cdn.com
+dxm-int.com
 dxmjinr.com
+dxmlcf.com
+dxmlcfintech.com
 dxmpay.com
 dxmstatic.com
 dxm-yibai.com
+dxmyqh.com
 dxnky.com
 dxpmedia.com
 dxqyy.com
@@ -24414,7 +24400,6 @@ emqx.net
 emr-volces.com
 ems517.com
 ems-audio.com
-emsec.hk
 emshost.com
 emshua.com
 emsym.com
@@ -32147,7 +32132,6 @@ hh-post.com
 hhrcard.com
 hhrdc.com
 hhtravel.com
-hhtravel.com.tw
 hhup.com
 hhuus.com
 hhvv.com
@@ -37648,7 +37632,6 @@ jdcmmc.com
 jdcmoly.com
 jd.co
 jd.com
-jd.co.th
 jdcq.net
 jdctky.com
 jddaojia.shop
@@ -37680,7 +37663,6 @@ jd.hk
 jdhmediajd.com
 jdhuafeng.com
 jdhyplay.com
-jd.id
 jdiy.club
 jdjingmai.com
 jdjinrong.com
@@ -37700,7 +37682,6 @@ jdpay.com
 jdpaydns.com
 jdplay.com
 jdpta.com
-jd.ru
 jdsafe.com
 jds-china.com
 jdsha.com
@@ -39857,6 +39838,7 @@ juejin.im
 juejinqifu.com
 juemei.com
 juemuren4449.com
+juequling.com
 juesheng.com
 jue.so
 juewei.com
@@ -55680,7 +55662,6 @@ rfaexpo.com
 rfc2cn.com
 rf-china.com
 rfchina.com
-rfchost.com
 rfcreader.com
 rfdl88.com
 rfdy.hk
@@ -64416,7 +64397,6 @@ trip8080.com
 tripbaba.com
 tripbe.com
 tripcdn.com
-trip.com
 triplexservice.com
 tripnearby.com
 tripodeck.com

@@ -611,6 +611,8 @@ full:tesla-cdn.thron.cn
 full:test.bugs-qa.chromium.org
 full:test.gbugs-qa.chromium.org
 full:tiles.xbox.com
+full:time.izatcloud.net
+full:time.xtracloud.net
 full:titlestorage.xboxlive.com
 full:tj-pod1-smp-device.apple.com
 full:toolbarqueries.google.com
@@ -640,7 +642,6 @@ full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
 full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upload.yangfd.com
-full:upos-hz-mirrorakam.akamaized.net
 full:upp.itunes.apple.com
 full:userstats.xboxlive.com
 full:valid.apple.com
