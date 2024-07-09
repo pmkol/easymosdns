@@ -5509,6 +5509,11 @@ corbinfisher.com
 cordcloud.org
 coreduo.com
 coreextreme.com
+corel.com
+coreldraw.app
+coreldraw.com
+corel.net
+corelstore.com
 coreml.net
 coreoptics.net
 corepublishingsolutions.com
@@ -10587,6 +10592,7 @@ home-song.com
 homestylerapp.com
 homestylernews.com
 hometrack.com.au
+hominis.media
 homo.xxx
 honawalaan.com
 honestpornreviews.com
@@ -12536,6 +12542,8 @@ jquery.com
 jquerymobile.com
 jqueryui.com
 jr24h.com
+jsati.com
+jsatmobile.com
 jsbridgestone.com
 jsdelivr.com
 jsdelivr.net
@@ -19355,6 +19363,8 @@ skypeassets.com
 skypeassets.net
 skype.com
 skype.net
+skyperfectjsat.space
+skyperfectv.co.jp
 skyporn.online
 skysports.com
 skysports.fr
@@ -19683,6 +19693,7 @@ spankmonster.com
 spankred3d.com
 spankwire.com
 spb.com
+spcc-sp.com
 sp.cool
 speakerdeck.com
 spearhead.kr
@@ -19746,6 +19757,7 @@ sprinklesapp.com
 sprite.org
 sproutcore.com
 sproxy.info
+sptvbroadcast.com
 spyjinx.com
 sqlite.org
 sqlserveronlinux.com
