@@ -426,6 +426,7 @@ full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
 full:osxapps.itunes.g.aaplimg.com
+full:owner-api.teslamotors.com
 full:p1-juejin.byteimg.com
 full:p2-juejin.byteimg.com
 full:p3-juejin.byteimg.com
