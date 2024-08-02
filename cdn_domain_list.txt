@@ -25,6 +25,7 @@ full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api.media.apple.com
 full:amp-api-search-edge.apps.apple.com
+full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
 full:api-p-ap-c.smoot.apple.com
@@ -50,6 +51,7 @@ full:avatarread-ssl.xboxlive.com
 full:avatarread.xboxlive.com
 full:avatar-ssl.xboxlive.com
 full:avatar.xboxlive.com
+full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
 full:bbs.ztedevices.com
 full:b.c2r.ts.cdn.office.net
@@ -281,6 +283,7 @@ full:gsp85-cn-ssl.ls.apple.com
 full:gspe11-2-cn-ssl.ls.apple.com
 full:gspe12-cn-ssl.ls.apple.com
 full:gspe19-2-cn-ssl.ls.apple.com
+full:gspe19-2-cn-ssl.ls-apple.com.akadns.net
 full:gspe19-cn.ls.apple.com
 full:gspe19-cn.ls-apple.com.akadns.net
 full:gspe19-cn-ssl.ls.apple.com
@@ -355,6 +358,7 @@ full:is4.mzstatic.com
 full:is4-ssl.mzstatic.com
 full:is5.mzstatic.com
 full:is5-ssl.mzstatic.com
+full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 full:itunes.apple.com
 full:itunes-apple.com.akadns.net
 full:itunesconnect.apple.com
