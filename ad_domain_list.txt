@@ -507,6 +507,7 @@ ads.cdn2-img.net
 ads.centraliprom.com
 adschill.com
 adscholar.com
+adsclick.cc
 ads-click.com
 ads.clickdigisol.net
 ads.co.com
@@ -564,6 +565,7 @@ ad-server.gulasidorna.se
 adserver.html.it
 adserver.hwupgrade.it
 adserver.janes.com
+adserver.kl-youniverse.com
 adserver.mgsex.com
 adserver.ngz-network.de
 adserver.nydailynews.com
@@ -581,6 +583,7 @@ adserver.theonering.net
 adserver.twitpic.com
 ad-server.unlimapps.com
 adserver.virginmedia.com
+adserv.etv.sale
 adservinginternational.com
 adserving.unibet.com
 adsessionserv.com
@@ -675,6 +678,7 @@ ads.mmania.com
 adsmobi.com
 ads.mobilebet.com
 adsmogo.org
+ads.mxhnkn.pro
 adsnative.com
 ads.ndtv1.com
 ads.networksolutions.com
@@ -2568,6 +2572,7 @@ deepermagnes.com
 deewansturacin.com
 defeatedbadge.com
 defectivesun.com
+defensive-living.com
 defrostjudica.com
 defyraspypuke.com
 delegatediscussion.com
@@ -2773,6 +2778,7 @@ dujzuwadpaqg.com
 dummieseardrum.com
 dustyhammer.com
 duwtkigcyxh.com
+duzcujquzl.com
 duzzufaxzavs.com
 dvmludkami.com
 dxgo95ahe73e8.cloudfront.net
@@ -2796,6 +2802,7 @@ e67repidwnfu7gcha.com
 eabids.com
 eachseventhblister.com
 eadexchange.com
+ea.epochbase.com
 e.apsalar.com
 earnbigo.com
 earnify.com
@@ -2813,6 +2820,7 @@ easyhits4u.com
 eatablesquare.com
 eatencurvature.com
 eatsbot.com
+ea.youmaker.com
 e-bannerx.com
 ebayadvertising.com
 ebbetsgourded.com
@@ -3671,6 +3679,7 @@ howdoesin.net
 howtubray.com
 hpijkah.com
 hpikarkucasz.com
+hpimavpico.com
 hppvkbfcuq.com
 hqtfjugceattb.com
 hrgyhgxcbvwxs.com
@@ -4775,6 +4784,7 @@ myscreen.com
 mystat-in.net
 mystat.pl
 mysteriousmonth.com
+mysweetsconnect.click
 mythings.com
 mytop-in.net
 myvisualiq.net
@@ -5309,6 +5319,7 @@ partnerlinks.io
 partner.pelikan.cz
 partners.priceline.com
 partnerstack.com
+partners.urbanistnetwork.com
 pasbstbovc.com
 pasjcutadak.com
 passeura.com
@@ -5595,6 +5606,7 @@ pro-advertising.com
 proaunbulky.guru
 prodigalpromotion.com
 producerplot.com
+prod.uidapi.com
 proetusbramble.com
 proext.com
 profbigo.com
@@ -5675,6 +5687,7 @@ pub.chez.com
 pub.club-internet.fr
 pubdirecte.com
 pubeshogback.uno
+pubfuture-ad.com
 pub.hardware.fr
 pubianmending.space
 pubimageboard.com
@@ -5703,6 +5716,7 @@ punyplant.com
 puppyderisiverear.com
 pupspu.com
 puqszoxagogc.com
+purgavax.com
 purmogak.com
 push4site.com
 pushadve.biz
@@ -7046,6 +7060,7 @@ tracking.musixmatch.com
 tracking.scenepass.com
 tracking-server-prod-1.zenmxapps.com
 trackingsoft.com
+tracking.the.tube
 tracking-user-behavior.meeyland.com
 track.lacunads.com
 track.lexico.com
