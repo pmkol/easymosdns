@@ -219,7 +219,6 @@
 228.net.tw
 233abc.com
 2371tom.com
-249dw7.cn
 24hjav.com
 24hrs.ca
 24porn.com
@@ -4224,6 +4223,7 @@ brightcovecdn.com
 brightcove.com
 brightcove.net
 brightcove.services
+brightline.tv
 briian.com
 brill.com
 brilliant.org
@@ -4393,6 +4393,7 @@ bwh81.net
 bwh88.net
 bwh89.net
 bwh8.net
+bwhstatus.com
 bwin.com
 bwsj.hk
 bx.in.th
@@ -5663,6 +5664,7 @@ csis.org
 csmonitor.com
 c-span.org
 c-spanvideo.org
+csrankings.org
 css.pixnet.in
 cstatic.net
 csuchen.de
@@ -6244,6 +6246,7 @@ dirtyshack.com
 dirtyship.com
 disco-api.com
 discoins.com
+discomax.com
 disconnect.me
 discord-activities.com
 discordactivities.com
@@ -8207,7 +8210,6 @@ fgmtv.net
 fgmtv.org
 fhreports.net
 fi11av1.com
-fi11.cn
 fi11.com
 fi11tv1.com
 ficeboock.com
@@ -10937,10 +10939,12 @@ hsbc.co.uk
 hsbc.de
 hsbc.fr
 hsbcinnovationbanking.com
+hsbcinsurance.com.cn
 hsbc.lk
 hsbc.net
 hsbcnet.com
 hsbcprivatebank.com
+hsbcqh.com.cn
 hsbc-transactionservices.de
 hsbctrinkaus.de
 hsbc.uk
@@ -16695,6 +16699,7 @@ pardot.com
 parkansky.com
 parkinfo.com
 park-now.com
+parkvv.com
 parler.com
 parse.com
 parsevideo.com
@@ -17342,6 +17347,7 @@ poopee-puke.com
 poop-pee.online
 popcap.com
 popjav.tv
+popo8.com
 popo.tw
 popporn-world.com
 popvote.hk
@@ -23878,7 +23884,7 @@ xvirtual.com
 xvxx.stream
 xvxxtube.com
 x-wall.org
-xx159.com.cn
+xwbo.com
 xx9.app
 xxbay.com
 xxbbx.com
@@ -24600,7 +24606,6 @@ yyfb.cyou
 yyii.org
 yyjlymb.xyz
 yysub.net
-yyyzgdl.cn
 yzld188.top
 yzzk.com
 z00.world
