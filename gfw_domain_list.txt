@@ -5208,7 +5208,6 @@ clickserve.cc-dt.com
 clickserver.googleads.com
 click-url.com
 climate-server.com
-clincha.cn
 cling.omy.sg
 clinicalkey.com
 clinical-videos.com
@@ -11497,7 +11496,6 @@ illusionas.com
 illusionchn.com
 illusion.co.jp
 illusionfactory.com
-illusionfb.cn
 illusiongw.com
 illusionh.com
 illusion.jp
@@ -24300,7 +24298,6 @@ yinshuiger.info
 yinya.shop
 yipub.com
 yiqiedoushiganggangkaishi.org
-yiqilai99.cn
 yizhihongxing.com
 yjcontentdelivery.com
 ymail.com
