@@ -1463,9 +1463,11 @@ anchor.fm
 anchorfree.com
 ancsconf.org
 andfaraway.net
+androidauthority.com
 android.com
 androidify.com
 androidplus.co
+androidpolice.com
 androidtv.com
 android-x86.org
 andygod.com
@@ -6173,6 +6175,7 @@ digitalplayground.com
 digitalplaygroundnetwork.com
 digitalprototyping.com
 digital-rb.com
+digitaltrends.com
 diigo.com
 dilber.se
 dilcdn.com
@@ -7302,6 +7305,7 @@ enfamil.pt
 enfasmart.com
 en.favotter.net
 enf-cmnf.com
+engadget.com
 engagedaily.org
 engineeringvillage.com
 englishforeveryone.org
@@ -20159,6 +20163,7 @@ store.steampowered.com
 stories.google
 storiesonline.net
 storify.com
+storj.io
 stormmediagroup.com
 storm.mg
 storyful.com
@@ -20576,6 +20581,7 @@ techliquidators.com
 technews.tw
 technics.com
 technologyandsociety.org
+techradar.com
 techspot.com
 techstreet.com
 techtimes.com
@@ -21146,6 +21152,7 @@ tokyo-tosho.net
 tokyotosho.se
 tomatespodres.com
 tomonews.net
+tomsguide.com
 tonec.com
 tongil.or.kr
 tonicmovies.com
@@ -21854,6 +21861,7 @@ usaco.org
 usaip.eu
 usatoday.com
 usatodaynetworkservice.com
+uscardforum.com
 uscnpm.org
 uselessjunk.com
 useplannr.com
@@ -24650,7 +24658,9 @@ zb.live
 zbporn.com
 zctb.buzz
 zdassets.com
+zdnet.com
 zdnet.com.tw
+zdnet.redvideo.io
 zdusercontent.com
 zee5.com
 zee5.in
