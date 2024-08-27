@@ -24,6 +24,7 @@ full:amp-api-edge.apps.apple.com
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api.media.apple.com
+full:amp-api.music.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
@@ -46,6 +47,7 @@ full:ark.intel.com
 full:assets.adobedtm.com
 full:assets-ssl.xbox.com
 full:assets.volvocars.com
+full:auth.music.apple.com
 full:avail.googleflights.net
 full:avatarread-ssl.xboxlive.com
 full:avatarread.xboxlive.com
@@ -401,6 +403,7 @@ full:mesu-cdn.apple.com.akadns.net
 full:mesu-china.apple.com.akadns.net
 full:mini5cn-1.opera-mini.net
 full:mini5cn.opera-mini.net
+full:misc-assets.itunes.apple.com
 full:mktplassets-ssl.xbox.com
 full:ml.cdn-apple.com
 full:monitoring.qatp1.net
@@ -411,7 +414,9 @@ full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
 full:music.apple.com
+full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
+full:np-edge.itunes.apple.com
 full:nxeassets.xbox.com
 full:ocsp2.apple.com
 full:ocsp2.globalsign.com
@@ -448,11 +453,13 @@ full:pancake.cdn-apple.com.akadns.net
 full:partner.globalsign.com
 full:pba0.apple.com
 full:pd.itunes.apple.com
+full:pd-nk.itunes.apple.com
 full:performanceparameters.googleapis.com
 full:pki-goog.l.google.com
 full:platform.linkedin.com
 full:play.1ucrs.com
 full:play.itunes.apple.com
+full:play.music.apple.com
 full:plus.djicdn.com
 full:prm.dji.com
 full:probe.siri.apple.com
@@ -615,6 +622,7 @@ full:techstop.corp.google.com
 full:tesla-cdn.thron.cn
 full:test.bugs-qa.chromium.org
 full:test.gbugs-qa.chromium.org
+full:tf-feedback.itunes.apple.com
 full:tiles.xbox.com
 full:time.izatcloud.net
 full:time.xtracloud.net
@@ -698,6 +706,7 @@ full:www.recaptcha.net
 full:www.renren.com.cdngc.net
 full:www-ssl.intel.com
 full:www.sulwhasoo.com
+full:www.support.apple.com
 full:www.travelzoo.com
 full:www.tutorabc.com
 full:www.tzoo-img.com
