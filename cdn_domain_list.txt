@@ -175,6 +175,7 @@ full:dd-cdn.origin-apple.com.akadns.net
 full:dejavu.apple.com
 full:devblogs.microsoft.com
 full:developer.microsoft.com
+full:devstreaming-cdn.apple.com
 full:dg-meta.video.google.com
 full:discussionschinese.apple.com
 full:distribution.qatp1.net
