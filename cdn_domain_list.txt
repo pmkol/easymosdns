@@ -392,6 +392,7 @@ full:login.corp.google.com
 full:lx2.cok.elexapp.com
 full:lx2.cok.elex.com
 full:manage.c3edge.com
+full:manga.bilibili.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
 full:media.admob.com
