@@ -134,6 +134,7 @@ full:cn.coremetrics.com
 full:cn.debian.org
 full:cn.download.nvidia.com
 full:cn.img.stb.s-msn.com
+full:cn.msi.com
 full:cn.pandora.net
 full:cn-smp-paymentservices.apple.com
 full:cnupgrade.microsoft.com
@@ -524,6 +525,7 @@ full:safebrowsing.googleapis.com
 full:scanservice1.qatp1.net
 full:scanservice1.qcpp1.net
 full:scanservice1.qpdp1.net
+full:scc.ssacdn.com
 full:scp-social.s-msn.com
 full:script.image-gmkt.com
 full:sdx.microsoft.com
