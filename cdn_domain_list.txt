@@ -105,7 +105,6 @@ full:china.uxengine.net
 full:cl1.apple.com
 full:cl1-cdn.origin-apple.com.akadns.net
 full:cl2.apple.com
-full:cl2.apple.com.edgekey.net.globalredir.akadns.net
 full:cl2-cn.apple.com
 full:cl3.apple.com
 full:cl3-cdn.origin-apple.com.akadns.net
@@ -124,7 +123,6 @@ full:clientflow.apple.com
 full:clientflow.apple.com.akadns.net
 full:clientservices.googleapis.com
 full:clubhub.xboxlive.com
-full:clubweixin.samsung.com
 full:cma.itunes.apple.com
 full:cms.ibm.com
 full:cms-live.pandora.net
@@ -160,8 +158,6 @@ full:c.pki.goog
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
 full:crl.apple.com
-full:crl.globalsign.net
-full:crl.kaspersky.com
 full:crl-lb.apple.com.akadns.net
 full:crl.pki.goog
 full:crls.pki.goog
@@ -242,7 +238,6 @@ full:gdssl.image-gmkt.com
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
 full:gfwsl.geforce.com
-full:globalsigncdn.com
 full:gmskiosk-ssl.corp.google.com
 full:go.corp.google.com
 full:gogalaxy.gog-statics.com
@@ -276,7 +271,6 @@ full:gravatar.loli.net
 full:gs-loc.apple.com
 full:gs-loc-cn.apple.com
 full:gsp10-ssl-cn.ls.apple.com
-full:gsp11-cn.ls.apple.com
 full:gsp12-cn.ls.apple.com
 full:gsp13-cn.ls.apple.com
 full:gsp4-cn.ls.apple.com
@@ -418,14 +412,13 @@ full:msg.xboxlive.com
 full:music.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
+full:ngportal.cdnetworks.com
 full:np-edge.itunes.apple.com
 full:nxeassets.xbox.com
 full:ocsp2.apple.com
-full:ocsp2.globalsign.com
 full:ocsp2-lb.apple.com.akadns.net
 full:ocsp.apple.com
 full:ocsp-data.us.cdnetworks.com
-full:ocsp.globalsign.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.pki.goog
 full:oemsoc.download.prss.microsoft.com
@@ -532,7 +525,6 @@ full:sdx.microsoft.com
 full:se2.itunes.apple.com
 full:search.itunes.apple.com
 full:secaz-fota-dn.samsungdm.com
-full:secure.globalsign.com
 full:secure-nikeplus.nike.com
 full:security.cdnetworks.com
 full:se-edge.itunes.apple.com
@@ -548,7 +540,6 @@ full:settings.xn--9trs65b.com
 full:sf-api-token-service.itunes.apple.com
 full:shazam-insights.cdn-apple.com
 full:shell.cdn.office.net
-full:shop.globalsign.com
 full:shop.samsung.com
 full:sh-pod2-smp-device.apple.com
 full:silverlight.dlservice.microsoft.com
@@ -558,7 +549,6 @@ full:slupdate.dlservice.microsoft.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
 full:software.download.prss.microsoft.com
-full:source.tutorabc.com
 full:speedtest.xboxlive.com
 full:sp.itunes.apple.com
 full:ss.bjmu.edu.cn
@@ -595,6 +585,7 @@ full:store.storeimages.cdn-apple.com
 full:streamingaudio.itunes.apple.com
 full:streaming-uberproxy.corp.google.com
 full:streaming-uberproxy-rotation.corp.google.com
+full:streaming.vn.teslamotors.com
 full:study.163.com
 full:su.itunes.apple.com
 full:sup.corp.google.com
@@ -603,7 +594,6 @@ full:support.1ucrs.com
 full:support.apple.com
 full:supportcenter.corp.google.com
 full:support-china.apple-support.akadns.net
-full:support.globalsign.com
 full:sup-ssh-relay2.corp.google.com
 full:sup-ssh-relay.corp.google.com
 full:surface.downloads.prss.microsoft.com
@@ -689,7 +679,6 @@ full:www.apple.com.edgekey.net
 full:www.apple.com.edgekey.net.globalredir.akadns.net
 full:www.destinationurl.com
 full:www.ericsson.com
-full:www.globalsign.com
 full:www.googleadapis.com
 full:www-google-analytics.l.google.com
 full:www-googletagmanager.l.google.com
@@ -711,7 +700,6 @@ full:www-ssl.intel.com
 full:www.sulwhasoo.com
 full:www.support.apple.com
 full:www.travelzoo.com
-full:www.tutorabc.com
 full:www.tzoo-img.com
 full:www.ztedevices.com
 full:xb.dlservice.microsoft.com
