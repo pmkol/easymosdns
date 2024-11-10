@@ -42,6 +42,7 @@ full:apps5.oingo.com
 full:apps.apple.com
 full:app-site-association.cdn-apple.com
 full:apps.mzstatic.com
+full:apps.samsung.com
 full:apptrailers.itunes.apple.com
 full:ark.intel.com
 full:assets.adobedtm.com
@@ -227,6 +228,7 @@ full:fonts.googleadapis.com
 full:fonts.googleapis.com
 full:fonts.gstatic.com
 full:fonts.loli.net
+full:fr-odc.samsungapps.com
 full:fs.microsoft.com
 full:g0.gstatic.com
 full:g1.gstatic.com
@@ -642,6 +644,7 @@ full:uberproxy-with-cn4.l.google.com
 full:uberproxy-with-cn6.l.google.com
 full:uberproxy-with-cn.l.google.com
 full:u.djicdn.com
+full:uk-odc.samsungapps.com
 full:update.crashlytics.com
 full:update.googleapis.com
 full:updates.cdn-apple.com
