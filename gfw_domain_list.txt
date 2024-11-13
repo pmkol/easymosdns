@@ -5808,6 +5808,7 @@ charticulator.com
 chase.ac.uk
 chasestudy.ac.uk
 chatango.com
+chat.com
 chatgpt.com
 chatgptvideob.buzz
 chatgptvideo.xyz
@@ -13643,6 +13644,7 @@ icloudos.net
 icloudpay.net
 icloud.pt
 icloud.ro
+icloud-sandbox.com
 icloud.se
 icloudsecure.net
 icloudsetup.com
