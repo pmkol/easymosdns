@@ -1148,6 +1148,7 @@ analytics.clickdimensions.com
 analytics.cloudron.io
 analytics.convertlanguage.com
 analytics.data.visenze.com
+analytics.digitaldudes.nl
 analytics-eu.clickdimensions.com
 analytics.getshogun.com
 analytics.gismart.xyz
@@ -1186,6 +1187,7 @@ analytics.seg.ritual.com
 analytics.sejda.com
 analytics.shein.com
 analytics.shift.agency
+analytics.shivamsinghis.me
 analytics.shutterstock.com
 analytics.slashdotmedia.com
 analytics-static.ugc.bazaarvoice.com
@@ -1353,6 +1355,7 @@ asccdn.com
 ascentlitigateunsaved.com
 ascentmatrimonypistol.com
 asdhhuztul.com
+asfobftirag.com
 asgccummig.com
 asgclick.com
 asgclickkl.com
@@ -5379,6 +5382,7 @@ opsivesh.net
 optimallimit.com
 optimost.com
 optimove.net
+optiontwentiethhart.com
 optmd.com
 optmstr.com
 optnmstr.com
@@ -7686,6 +7690,7 @@ vervewireless.com
 vetdeberg.com
 vexenbill.com
 vfagizavsdul.com
+vfuqivac.com
 vgrcxa.com
 vgsksc.com
 vheoggjiqaz.com
