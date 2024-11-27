@@ -224,8 +224,7 @@ plugins:
     args:
       upstream:
         - addr: "223.5.5.5"
-        - addr: "tls://120.53.53.53:853"
-          enable_pipeline: true
+        - addr: "119.29.29.29"
 
   # 转发至远程服务器的插件
   - tag: forward_remote
@@ -235,9 +234,7 @@ plugins:
         - addr: "tcp://208.67.220.220:5353"
           enable_pipeline: true
           #socks5: "127.0.0.1:1080"
-        - addr: "tls://8.8.4.4"
-          enable_pipeline: true
-          #socks5: "127.0.0.1:1080"
+        - addr: "udpme://8.8.4.4"
 
   # 转发至分流服务器的插件
   - tag: forward_easymosdns
