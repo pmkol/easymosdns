@@ -459,6 +459,7 @@ full:play.1ucrs.com
 full:play.itunes.apple.com
 full:play.music.apple.com
 full:plus.djicdn.com
+full:poseidon.dl.playstation.net
 full:prm.dji.com
 full:probe.siri.apple.com
 full:prod-controlbe.floonet.goog
