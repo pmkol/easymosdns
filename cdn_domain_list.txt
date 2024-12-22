@@ -44,6 +44,7 @@ full:app-site-association.cdn-apple.com
 full:apps.mzstatic.com
 full:apps.samsung.com
 full:apptrailers.itunes.apple.com
+full:ares.dl.playstation.net
 full:ark.intel.com
 full:assets.adobedtm.com
 full:assets-ssl.xbox.com
@@ -658,6 +659,7 @@ full:userstats.xboxlive.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
 full:vext.corp.google.com
+full:visualstudio.download.prss.microsoft.com
 full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
 full:wear.googleapis.com
@@ -716,6 +718,7 @@ full:xz.pphimalayanrt.com
 full:z0.muscache.com
 full:z1.muscache.com
 full:z2.muscache.com
+full:zeus.dl.playstation.net
 regexp:^a[1-5]\.mzstatic\.com$
 regexp:.+\.amzndns-cn\.(biz|cn|com|net)$
 regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
@@ -750,6 +753,7 @@ regexp:^is[1-5](-ssl)?\.mzstatic\.com$
 regexp:^.+-mihayo\.akamaized\.net$
 regexp:^ntp([1-5])?\.tencent\.com$
 regexp:^ntp([1-7])?\.aliyun\.com$
+regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 regexp:^s[1-5]?\.mzstatic\.com$
 regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
 regexp:^(.+\.)*zh\.okaapps\.com$
