@@ -297,6 +297,7 @@ full:gspe85-cn-ssl.ls.apple.com
 full:gstaticadssl.l.google.com
 full:gstatic-cn.com
 full:gstatic.loli.net
+full:gs.ww.np.dl.playstation.net
 full:gtm.oasisfeng.com
 full:guzzoni.apple.com
 full:guzzoni-apple-com.v.aaplimg.com
