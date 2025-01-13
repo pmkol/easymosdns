@@ -181,6 +181,7 @@
 1mobile.com
 1mobile.tw
 1monsterbeatsbydreus.com
+1point3acres.com
 1pondo.tv
 1pornlist.com
 1thek.com
@@ -213,9 +214,7 @@
 21centuryaccess.com
 21heise360dh.cc
 21hub.com
-21join.com
 21naturals.com
-21pron.com
 21sextury.com
 21vv.cc
 228.net.tw
@@ -2495,6 +2494,7 @@ aucb.ac.uk
 aucheapbeats.com
 auctions.yahoo.co.jp
 aucyfrwngcymraeg.ac.uk
+audacy.com
 aude.ac.uk
 audelondon.ac.uk
 audible.com
@@ -5667,6 +5667,7 @@ cdp1998.org
 cdp2006.org
 cdpa.url.tw
 cdpeu.org
+cdpuk.co.uk
 cdpusa.org
 cdpweb.org
 cdpwu.org
@@ -7286,7 +7287,6 @@ dazn-api.com
 dazn.com
 dazndn.com
 dba.dk
-dbc.hk
 dbgjd.com
 db.tt
 dca.ac.uk
@@ -7320,6 +7320,7 @@ ddns.name
 ddns.net
 ddns.us
 de1lib.org
+deadhouse.org
 deadline.com
 deadspacegame.com
 deafandcreative.ac.uk
@@ -10229,6 +10230,7 @@ firstpost.com
 firstprivatebank.com.mm
 firstrade.com
 fiscalstudies.ac.uk
+fish.audio
 fishmpegs.com
 fitbit.com
 fitgirl-repacks.site
@@ -14136,6 +14138,7 @@ ingkacentres.com
 ingka.com
 ingka.dev
 inherd.mom
+inherit.live
 inhumanity.com
 inikesneakers.com
 initiate.ac.uk
@@ -22261,6 +22264,7 @@ radicalparty.org
 radiko.jp
 radioaustralia.net.au
 radio-canada.ca
+radio-en-ligne.fr
 radiofarda.com
 radio.garden
 radiohilight.net
@@ -24174,6 +24178,7 @@ sldo.ac.uk
 sldolls.com
 sleaford.ac.uk
 sleazydream.com
+sleazyfork.org
 sleazyneasy.com
 sleepandwakefulnessresearch.ac.uk
 slg.ac.uk
@@ -24666,6 +24671,7 @@ spr.ac.uk
 spraynwash.com
 spreadprivacy.com
 spreadshirt.es
+spreaker.com
 sprg.ac.uk
 spring4u.info
 springboardplatform.com
@@ -30524,6 +30530,7 @@ zishy.com
 zkaip.com
 zlibcdn2.com
 zlibcdn.com
+z-lib.io
 zlib.life
 z-lib.org
 z-library.se
