@@ -753,7 +753,6 @@ acheter-followers-instagram.com
 acheterfollowersinstagram.com
 achievementanalytics.com
 ac.ir
-ac.jiruan.net
 acjj.net
 aclweb.org
 acm.ac.uk
@@ -1800,7 +1799,6 @@ api.ai
 apiary.io
 apibay.org
 apidocs.linksalpha.com
-api.dropboxapi.com
 api-extractor.com
 apigee.com
 api.linksalpha.com
@@ -4140,6 +4138,7 @@ blz-contentstack.com
 bm14.ac.uk
 bmac.ac.uk
 bmc.ac.uk
+bmdru.com
 bme.ac.uk
 bmet.ac.uk
 bmetc.ac.uk
@@ -15139,7 +15138,6 @@ jingpin.org
 jingsim.org
 jinpianwang.com
 jinrizhiyi.news
-jinroukong.com
 jintian.net
 jinx.com
 jisc.ac.uk
@@ -15220,7 +15218,6 @@ joanabliss.com
 jobmarket.com.hk
 jobnewera.wordpress.com
 jobs.ac.uk
-jobso.tv
 jodic-forum.org
 joeswall.com
 johnpersons.com
@@ -17992,6 +17989,7 @@ moeero-library.com
 moeerolibrary.com
 moefuns.co
 moeimg.net
+moeshare.cc
 moez-m.com
 mofa.gov.tw
 mofaxiehui.com
@@ -19098,6 +19096,7 @@ newsadds.com.au
 newsamerica.com
 newsancai.com
 newsapi.com.au
+newsblur.com
 newscareers.co.uk
 newscdn.com.au
 newschinacomment.org
@@ -19131,7 +19130,6 @@ news.nationalgeographic.com
 news.net.au
 newsnowfox.com
 news.omy.sg
-newspeak.cc
 newsprestigenetwork.com.au
 newsprinters.co.uk
 news.seehua.com
@@ -19612,7 +19610,6 @@ northumbria.ac.uk
 norwichresearchpark.ac.uk
 nos.nl
 notepad-plus-plus.org
-notify.dropboxapi.com
 notion.com
 notion.new
 notion.site
@@ -21210,6 +21207,7 @@ pixiv.co.jp
 pixiv.me
 pixiv.net
 pixiv.org
+pixivsketch.net
 pixlr-o-matic.com
 pixlromatic.com
 pixnet.cc
@@ -21226,6 +21224,7 @@ pki.goog
 pki-posta.ch
 pki-post.ch
 pki-poste.ch
+pkqjiasu.com
 placemix.com
 placemyad.com.au
 placesdocs.com
@@ -22133,6 +22132,7 @@ qgirl.com.tw
 qhigh.com
 qianbai.tw
 qiandao.today
+qianglie.com
 qiangwaikan.com
 qiangyou.org
 qiao-cn.com
@@ -22357,8 +22357,6 @@ rarbgunblock.com
 rarbgunblocked.org
 rarbgunblock.org
 rarbgway.org
-raremovie.cc
-raremovie.net
 ra-review.ac.uk
 rareview.ac.uk
 ras.ac.uk
@@ -22383,7 +22381,6 @@ razer.com
 razerofficial.com
 razersupport.com
 razerzone.jp
-razyboard.com
 rbbusinessshop.com
 rbc007.com
 rb.com
@@ -22680,7 +22677,6 @@ researchers14.ac.uk
 researchgate.net
 research.google
 researchintel.com
-research.jmsc.hku.hk
 researchkit.hk
 researchkit.net
 researchkit.org
@@ -22835,6 +22831,7 @@ roborecall.com
 robotoffice.com
 robustnessiskey.com
 rochdalesfc.ac.uk
+rocket.chat
 rocketfishproducts.com
 rocket-inc.net
 rockettube.com
@@ -26252,6 +26249,7 @@ timtales.com
 tinc-vpn.org
 tineye.com
 ting53.xyz
+tingtalk.me
 tinhduc.org
 tinkerboxapp.com
 tinkercad.com
@@ -27357,6 +27355,7 @@ useplannr.com
 userapi.com
 userapi.nytlog.com
 usercontent.dev
+usercontent.goog
 userpxt.io
 users.skynet.be
 usertrust.com
@@ -27390,6 +27389,7 @@ uug25.com
 uug26.com
 uug27.com
 uu-gg.com
+uujiasu.com
 uuk28.com
 uuk.ac.uk
 uukanshu.com
@@ -28360,6 +28360,7 @@ vpnintouch.net
 vpnjack.com
 vpnmaster.com
 vpnmentor.com
+vpn.net
 vpnpick.com
 vpnpop.com
 vpnpronet.com
@@ -28438,7 +28439,6 @@ waikeung.org
 wailaike.net
 wainao.me
 waisongcha.com
-waittingfor001.weebly.com
 waiwaier.com
 wakcoll.ac.uk
 wakefield.ac.uk
@@ -28639,6 +28639,7 @@ webtype.com
 webwarper.net
 webworkerdaily.com
 wechatlawsuit.com
+weebly.com
 weekly-economist.com
 weeklytimesnow.com.au
 weekmag.info
@@ -28646,7 +28647,6 @@ wefightcensorship.org
 wefong.com
 wego.here.com
 weiboleak.com
-weiboscope.jmsc.hku.hk
 weihuo.org
 weijingsheng.org
 weimi180.com
@@ -28882,7 +28882,6 @@ wikimapia.org
 wikimediacloud.org
 wikimediafoundation.org
 wikimedia.org
-wiki.moegirl.org
 wikinews.org
 wiki.oauth.net
 wikipedia.org
@@ -29371,6 +29370,7 @@ xfm.pp.ru
 xfockers.com
 xfreehd.com
 xfuckonline.com
+xfxssr.me
 xgames.zone
 xgaytube.com
 xgaytube.tv
@@ -29517,6 +29517,7 @@ xn--kput3imi374g.xn--hxt814e
 xn--mts47c3w9b1qr.net
 xn--mtswd61ejxq.com
 xn--ngstr-lra8j.com
+xn--noss43i.com
 xn--oiq.cc
 xnostars.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
