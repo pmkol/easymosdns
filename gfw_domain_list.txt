@@ -4977,6 +4977,7 @@ btctrade.im
 btdig.com
 btdigg.org
 btec.co.uk
+btguard.com
 btku.me
 btku.org
 bton.ac.uk
@@ -7891,6 +7892,7 @@ dlsitenews.com
 dlsitestudio.com
 dlyoutube.com
 dm530.net
+dma.mil
 dmcdn.net
 dmc.nico
 dmed.technology
@@ -11866,7 +11868,7 @@ google.rs
 google.ru
 google.rw
 google.sc
-googlescholar.comUSA
+googlescholar.com
 google.se
 google.sg
 google.sh
@@ -15070,7 +15072,6 @@ javxspot.com
 javxxx.me
 javynow.com
 javzoo.com
-ja.wikipedia.org
 jayspov.net
 jb22.lol
 jbe-platform.com
@@ -21069,7 +21070,6 @@ phimsexkhongche.cyou
 phimsexnhanh.club
 phmsociety.org
 phncdn.com
-phobos.apple.com
 phoenix.ac.uk
 phosphation13.rssing.com
 photodharma.net
@@ -26989,6 +26989,7 @@ u4heusergroup.ac.uk
 u9a9.cc
 u9a9.com
 u9un.com
+ua5v.com
 ua92.ac.uk
 uaa.com
 uab.com.mm
@@ -27204,6 +27205,8 @@ ultimaforever.com
 ultimaonline.com
 ultradonkey.com
 ultralab.ac.uk
+ultrasurf.us
+ultravpn.com
 ultravpn.fr
 ultraxs.com
 umagazine.com.hk
@@ -27380,6 +27383,7 @@ usaip.eu
 usatoday.com
 usatodaynetworkservice.com
 uscardforum.com
+uscg.mil
 uscnpm.org
 uselessjunk.com
 use-of-mans.ac.uk
@@ -28396,6 +28400,7 @@ vpn.net
 vpnpick.com
 vpnpop.com
 vpnpronet.com
+vpnproxymaster.com
 vpnreactor.com
 vpnreviewz.com
 vpnsecure.me
@@ -30074,6 +30079,7 @@ ya.ru
 yasarang.net
 yasni.co.uk
 yastatic.net
+yasukuni.or.jp
 yavtube.com
 yayabay.com
 yaya.cyou
@@ -30447,6 +30453,7 @@ yunchao.net
 yunlaopo.cc
 yunlaopo.com
 yunlaopo.net
+yunomi.tokyo
 yusercontent.com
 yusjb.com
 yuvutu.com

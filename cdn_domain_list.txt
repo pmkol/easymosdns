@@ -455,6 +455,7 @@ full:pba0.apple.com
 full:pd.itunes.apple.com
 full:pd-nk.itunes.apple.com
 full:performanceparameters.googleapis.com
+full:phobos.apple.com
 full:pki-goog.l.google.com
 full:platform.linkedin.com
 full:play.1ucrs.com
