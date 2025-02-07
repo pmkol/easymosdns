@@ -2978,6 +2978,7 @@ bangkokstreetwhores.com
 bang-movies.com
 bangor.ac.uk
 bangor-university-london.ac.uk
+bangumi.tv
 bangyoulater.com
 bangyourwife.com
 bankmobilevibe.com
@@ -3629,6 +3630,7 @@ bfnn.org
 bfsh.hk
 bftv.ac.uk
 bgc.ac.uk
+bgm.tv
 bgov.com
 bgr.in
 bgs.ac.uk
@@ -5972,6 +5974,7 @@ chicloud.ac.uk
 chid.com.mm
 chigroup.ac.uk
 chihair-straightener.com
+chii.in
 chikiporn.com
 chilbolton.ac.uk
 childrenofthe90s.ac.uk
@@ -12072,6 +12075,7 @@ grimsby.ac.uk
 grimsbytec.ac.uk
 grindr.com
 grooby.com
+groq.com
 grotty-monday.com
 ground.news
 groupfun.com
@@ -26256,6 +26260,8 @@ tiktokcdn-us.com
 tiktok.com
 tiktokd.net
 tiktokd.org
+tiktokeu-cdn.com
+tiktokrow-cdn.com
 tiktokv.com
 tiktokv.eu
 tiktokv.us
@@ -26676,6 +26682,7 @@ tte-lisa.ac.uk
 tteshop.com
 ttetraining.ac.uk
 ttlivecdn.com
+ttoverseaus.net
 ttrb.ac.uk
 tttan.com
 ttv.com.tw
@@ -28076,11 +28083,14 @@ viznet.ac.uk
 vizvaz.com
 vjav.com
 vjmedia.com.hk
+vk-apps.com
+vk-apps.ru
 vkcache.com
 vk.cc
 vk-cdn.me
 vk-cdn.net
 vk.com
+vk.company
 vk.design
 vkgo.app
 vk.link
@@ -28091,10 +28101,18 @@ vkmessenger.com
 vkontakte.ru
 vk-portal.net
 vk.ru
+vk.team
 vkuseraudio.com
+vkuseraudio.net
+vkuseraudio.ru
+vkusercdn.ru
 vkuserlive.net
+vkuser.net
+vkuserphoto.ru
 vkuservideo.com
 vkuservideo.net
+vkuservideo.ru
+vkvideo.ru
 vl4x.net
 vllcs.org
 vlog.xuite.net
