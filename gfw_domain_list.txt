@@ -6163,6 +6163,7 @@ cindymovies.com
 cineastentreff.de
 cinemax.com
 cinepornogratis.com
+cinny.in
 cios.org
 ciota.ac.uk
 cipfg.org
@@ -8191,6 +8192,7 @@ drweb.co.jp
 drweb.com
 drweb.fr
 drweb.kz
+drweb.ru
 drweb.uz
 dscis.ac.uk
 dscn.info
@@ -10329,6 +10331,7 @@ flowfront.net
 flowhongkong.net
 flow.org
 flowtype.org
+fluffychat.im
 fluidfxapp.com
 fluidpreview.com
 fluids.ac.uk
@@ -12077,6 +12080,7 @@ grid-support.ac.uk
 grimsby.ac.uk
 grimsbytec.ac.uk
 grindr.com
+grok.com
 grooby.com
 groq.com
 grotty-monday.com
@@ -19212,6 +19216,8 @@ nexcat.com
 nexitally.com
 nexitallysafe.com
 nexitcore.com
+nexo.com
+nexo.io
 nexoncdn.co.kr
 nexon.co.jp
 nexon.com
@@ -21251,9 +21257,11 @@ pixfs.net
 pixhost.to
 pixinsight.com.tw
 pixiv.co.jp
+pixiv.help
 pixiv.me
 pixiv.net
 pixiv.org
+pixiv-recommend.net
 pixivsketch.net
 pixlr-o-matic.com
 pixlromatic.com
