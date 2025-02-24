@@ -766,6 +766,7 @@ acm.org
 acmvalidationsaws.com
 acmvalidations.com
 acnw.com.au
+acousticbrainz.org
 acoustics.ac.uk
 acp.ac.uk
 acpica.com
@@ -823,6 +824,7 @@ adguard-dns.com
 adguard-dns.io
 adguard.info
 adguard.io
+adguard-mail.com
 adguard.org
 adguard-vpn.com
 adguardvpn.com
@@ -1046,6 +1048,7 @@ age.tv
 agnesb.fr
 agocg.ac.uk
 agoogleaday.com
+agrd.eu
 agrd.io
 agressofinanceroyalholloway.ac.uk
 agrifoodatp.ac.uk
@@ -4621,6 +4624,7 @@ boodigo.com
 boodigogo.com
 book18.org
 book4you.org
+bookbrainz.org
 bookclubcorner.com
 bookclubgirl.com
 book.com.tw
@@ -6424,6 +6428,7 @@ cmpaas.com
 cmpcp.ac.uk
 cmp.hku.hk
 cms.ac.uk
+c-msedge.net
 cms.gov
 cms-twdigitalassets.com
 cmu.ac.uk
@@ -6805,6 +6810,7 @@ cove4careinkent.ac.uk
 coventry.ac.uk
 coventrycollege.ac.uk
 coventryuniversity.ac.uk
+coverartarchive.org
 covid19-rx.org
 covid19rx.org
 covuni.ac.uk
@@ -6901,6 +6907,7 @@ critica.ac.uk
 critical.ac.uk
 criticalfriend.ac.uk
 criticaltheology.ac.uk
+critiquebrainz.org
 crit-staging.com
 crmdynint.com
 crmdynint-gcc.com
@@ -7935,6 +7942,8 @@ dns.google
 dnsrd.com
 dns.sb
 dnssec.net
+dnsserver1.de
+dnsserver2.de
 dns-stuff.com
 dnsvisa.com
 dnvodcdn.me
@@ -8818,6 +8827,7 @@ eff.org
 efksoft.com
 efproject.net
 efs.ac.uk
+eft-store.com
 efukt.com
 efutures.ac.uk
 egghead.io
@@ -9191,10 +9201,10 @@ erolabs.cloud
 ero-labs.com
 erolabs.com
 ero-labs.fun
-erolabs.fun
-erolabs.game
+ero-labs.io
 ero-labs.net
 erolabs.net
+ero-labs.one
 ero-labs.online
 erolabs.online
 erolabsshare.xyz
@@ -9246,6 +9256,7 @@ esc.ac.uk
 escalate.ac.uk
 escandinavia-arg.com
 escape.com.au
+escapefromtarkov.com
 escapestudios.ac.uk
 escapestudios.co.uk
 escg.ac.uk
@@ -11392,6 +11403,7 @@ girls.xyz
 gisplanning.com
 gitbook.com
 gitbook.io
+github1s.com
 githubapp.com
 githubassets.com
 github.blog
@@ -12230,6 +12242,8 @@ hairyolder.com
 hairypornsite.com
 hairy-women-pussy.net
 haisetu.net
+haitangbook.com
+haitbook.com
 haitenjp.com
 haiwaikan.com
 hakkatv.org.tw
@@ -13386,8 +13400,10 @@ ht.ac.uk
 htanime.epizy.com
 htkou.net
 htl.li
+htlvbooks.com
 ht.ly
 html5rocks.com
+htnewbooks.com
 h-top.supertop-100.com
 htp.ac.uk
 hts.ac.uk
@@ -13397,6 +13413,7 @@ https443.org
 httpsfacebook.com
 httpwwwfacebook.com
 htvncdn.net
+htwhbook.com
 htx.com
 htyj-bj.com
 htznr.li
@@ -13614,6 +13631,7 @@ ibeats-uk.com
 ibiblio.org
 ibis.ac.uk
 ibit.am
+ibkr.com
 iblist.com
 iblogserv-f.net
 ibm.com
@@ -14481,7 +14499,16 @@ intel.vu
 intel.wf
 intel.yt
 interactcbt.ac.uk
+interactivebrokers.ca
+interactivebrokers.co.in
+interactivebrokers.co.jp
 interactivebrokers.com
+interactivebrokers.com.au
+interactivebrokers.com.hk
+interactivebrokers.com.sg
+interactivebrokers.co.uk
+interactivebrokers.eu
+interactivebrokers.ie
 interactive-e.ac.uk
 interactiveeducation.ac.uk
 interactivesex.xxx
@@ -14934,6 +14961,7 @@ jas-mine.ac.uk
 jasper.ai
 jav01.cc
 jav101.com
+jav123.com
 jav168.cc
 jav19.com
 jav223.com
@@ -15498,6 +15526,7 @@ kecnuneaton.ac.uk
 kec-stourbridge.ac.uk
 kedst.ac.uk
 keele.ac.uk
+keemail.me
 keepandshare.com
 keepmovingwithmovefree.com
 keepyourcad.com
@@ -15779,7 +15808,6 @@ kyzyhello.com
 kzaobao.com
 kzeng.info
 l-0005.dc-msedge.net
-l-0005.l-msedge.net
 laban.ac.uk
 labiennale.org
 labinacell.ac.uk
@@ -16248,6 +16276,7 @@ lisiku1.com
 lisiku.com
 liss-dtp.ac.uk
 listar.ac.uk
+listenbrainz.org
 listennotes.com
 listentoyoutube.com
 listen-up.ac.uk
@@ -16342,13 +16371,16 @@ llnw-trials.com
 llwht88.xyz
 llysfasi.ac.uk
 lma.ac.uk
+lmbooks.com
 lmbru.ac.uk
 lmc.ac.uk
 lmd.ac.uk
+lmebooks.com
 lmi4he.ac.uk
 lmm167.shop
 lmmbtc.com
 lms.ac.uk
+l-msedge.net
 lmu.ac.uk
 lnat.ac.uk
 lncn.org
@@ -16459,6 +16491,8 @@ longleyparkcollege.ac.uk
 longley-parksfc.ac.uk
 longleyparksfc.ac.uk
 longleyparksixthformcollege.ac.uk
+longmabookcn.com
+longmabook.com
 longman.ch
 longmusic.com
 longportapp.com
@@ -16497,6 +16531,7 @@ lovebeatsdr.com
 lovedolltorso.com
 lovegirls.cam
 lovehomeporn.com
+lovehtbooks.com
 lovejav.net
 loveloveskill.com
 lovemarca.com
@@ -16596,6 +16631,7 @@ lucbjtu.ac.uk
 lucid.ac.uk
 luckydesigner.space
 luckyissue.com
+luckysrv.de
 ludlow-college.ac.uk
 luftoncollege.ac.uk
 lufton-college-fe.ac.uk
@@ -16633,6 +16669,7 @@ luxebc.com
 luxuretv.com
 luxuretv.fun
 lvhai.org
+lvhtebook.com
 lvv2.com
 lvv.ac.uk
 lwms.ac.uk
@@ -16789,6 +16826,7 @@ main-ecnpaper-economist.content.pugpig.com
 mainichi-athletepartners.jp
 mainichibooks.com
 mainichi.jp
+maintracker.org
 maiplus.com
 mairbeats.com
 maizhong.org
@@ -16895,6 +16933,7 @@ manyvids.com
 manyvoices.news
 maoeraobjects.ac.uk
 maomiav.one
+maomiav.top
 maomi-shipin.com
 mapbox.com
 mapguide.com
@@ -16967,6 +17006,7 @@ mashaalradio.com
 mash.to
 maskedip.com
 maskedsingerfox.com
+mask.me
 massage-in-taipei.com
 massagerepublic.com
 masseffectarchives.com
@@ -17364,10 +17404,12 @@ meshrep.com
 mesotw.com
 messenger.com
 messengerdevelopers.com
+messybrainz.org
 messytube.com
 meta.ai
 metabolomics.ac.uk
 metabora.io
+metabrainz.org
 metacafe.com
 metacloud.com
 meta.com
@@ -17468,6 +17510,7 @@ microsoftdiplomados.com
 microsoft.dk
 microsofteca.com
 microsoftedge.com
+microsoftedgeinsider.com
 microsoft.ee
 microsoft.es
 microsoft.eu
@@ -17919,8 +17962,11 @@ mirrorsedge.com
 mirrorsedge.jp
 mirrorsedge.net
 misoc.ac.uk
+missav.ai
 missav.com
 missav.uno
+missav.vip
+missav.ws
 missendenabbey.ac.uk
 misshotgirls.com
 misskey.04.si
@@ -18322,8 +18368,10 @@ msec.ac.uk
 msecnd.net
 msedge.net
 msftauth.net
+msftconnecttest.com
 msfteducation.ca
 msft.info
+msftncsi.com
 msft.net
 msftnet.org
 msgamesresearch.com
@@ -18414,6 +18462,7 @@ musicade.net
 musical.ly
 musicandphilosophy.ac.uk
 musicbay.net
+musicbrainz.org
 musiche.ac.uk
 musickit.net
 musiconline.ac.uk
@@ -18482,6 +18531,7 @@ mybestbuy.com
 mybet.com
 mybmw.ca
 mybmw.com
+mybookinlm.com
 myboylove.com
 mybridgestoneeducation.com
 mybukkakeporn.com
@@ -18565,6 +18615,9 @@ myhentaicomics.com
 myhentaigallery.com
 myhomemadesex.com
 myhpsupport.com
+myhtebook.com
+myhtebooks.com
+myhtlmebook.com
 myhulu.com
 myicloud.net
 myiphide.com
@@ -19022,6 +19075,7 @@ netcup.eu
 netcup.net
 netcup-news.de
 netcup-sonderangebote.de
+netcup-wiki.de
 netfapx.com
 net-fits.pro
 netflav1.com
@@ -19124,6 +19178,7 @@ newhampshirebmw.com
 newham-vic.ac.uk
 newhentai.org
 newhighlandvision.com
+newhtbook.com
 newi.ac.uk
 newipnow.com
 newisiknowledge.com
@@ -21259,6 +21314,7 @@ pixhost.to
 pixinsight.com.tw
 pixiv.co.jp
 pixiv.help
+pixivision.net
 pixiv.me
 pixiv.net
 pixiv.org
@@ -22010,7 +22066,10 @@ protonmail.ch
 protonmail.com
 proton.me
 protonstatus.com
+protontech.ch
+protonvpn.ch
 protonvpn.com
+protonweb.com
 proudman-oceanographic-lab.ac.uk
 provide.ac.uk
 provideocoalition.com
@@ -23073,7 +23132,14 @@ rutc.ac.uk
 ruten.com.tw
 rutherford.ac.uk
 rutlandcollege.ac.uk
+rutracker.cc
+rutracker.cr
+rutracker.me
 rutracker.net
+rutracker.nl
+rutracker.org
+rutrecker.net
+rutrk.org
 rutube.ru
 ruvideos.net
 ruyiseek.com
@@ -23190,6 +23256,7 @@ sandwell.ac.uk
 sandwellcollege.ac.uk
 sanger.ac.uk
 sanjesh.org
+sankakuapi.com
 sankakucomplex.com
 sankei-ad-info.com
 sankei-ad.net
@@ -23592,6 +23659,7 @@ serl.ac.uk
 serlucap.lol
 serlutv258.xyz
 servehttp.com
+servercontrolpanel.de
 serverfault.com
 serverlesslibrary.net
 serveuser.com
@@ -24602,6 +24670,7 @@ soupofmedia.com
 source.ac.uk
 sourceforge.com
 sourceforge.net
+sourcegraph.com
 sourcehut.org
 sourcewadio.com
 sourcingforebay.com.cn
@@ -24734,6 +24803,7 @@ spizoo.com
 splatoon2tournament.com
 splint-cetl.ac.uk
 spokenword.ac.uk
+spo-msedge.net
 sponichi.co.jp
 spore.com
 sportsfacebook.com
@@ -24862,6 +24932,11 @@ stackoverflowcareers.com
 stackoverflow.co
 stackoverflow.com
 stackoverflow.email
+stackoverflow.help
+stackoverflowjobs.com
+stackoverflow.net
+stackoverflowsolutions.com
+stackoverflowteams.com
 stackpath.com
 stackpath.dev
 stacksnippets.net
@@ -25331,6 +25406,7 @@ superokayama.com
 superpages.com
 superpapermario.com
 supersexeamateur.com
+supersrv.de
 superstation.com.tw
 superstem.ac.uk
 supertop.co
@@ -25638,6 +25714,7 @@ tarf-lcv.ac.uk
 target.com
 targetedgrad.ac.uk
 targetimg1.com
+tarkov.com
 tarn.ac.uk
 tarr.uspto.gov
 tasc.ac.uk
@@ -26361,6 +26438,7 @@ tmei-taoyuan.com
 tmi.me
 tmn.ac.uk
 tmpp.org
+t-msedge.net
 tmsnrt.rs
 t-mus.ac.uk
 tn1.shemalez.com
@@ -26803,8 +26881,11 @@ turn.livekit.cloud
 turntable.fm
 tushycash.com
 tushy.com
+tuta.com
 tuta.io
+tutamail.com
 tutanota.com
+tutanota.de
 tuvpn.com
 tuzaijidi.com
 tvants.com
@@ -27403,6 +27484,7 @@ urbanobservatory.ac.uk
 urbansurvival.com
 urchin.com
 urduvoa.com
+urhtbooks.com
 urlborg.com
 urlgalleries.net
 urlparser.com
@@ -29431,6 +29513,7 @@ xda-cdn.com
 xdaddy.in
 xda-developers.com
 xdaforums.com
+xdaimages.com
 xdh999.one
 xdir.vip
 xdporner.com
@@ -29518,6 +29601,7 @@ xiongpian.com
 xiuren.org
 xixicui.icu
 xizang-zhiye.org
+xj87ti.com
 xjavporn.com
 xjp.cc
 xjtravelguide.com
@@ -30289,6 +30373,7 @@ yourtrap.com
 yourtv.com.au
 yourupskirt.com
 yourvoyeurvideos.com
+yourvserver.net
 yourwifemymeat.com
 yourxxxvideos.pro
 yousendit.com

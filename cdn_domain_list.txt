@@ -169,6 +169,7 @@ full:c.s-microsoft.com
 full:cstat.apple.com
 full:cstat.cdn-apple.com
 full:ctldl.windowsupdate.com
+full:cueme-api.quark.cn
 full:dartsearch-cn.net
 full:dd-cdn.origin-apple.com.akadns.net
 full:dejavu.apple.com
@@ -755,6 +756,7 @@ regexp:^is[1-5](-ssl)?\.mzstatic\.com$
 regexp:^.+-mihayo\.akamaized\.net$
 regexp:^ntp([1-5])?\.tencent\.com$
 regexp:^ntp([1-7])?\.aliyun\.com$
+regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 regexp:^s[1-5]?\.mzstatic\.com$
 regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
