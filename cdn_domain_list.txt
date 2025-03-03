@@ -417,6 +417,7 @@ full:moocs.unipus.cn
 full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
+full:msproductuat.download.prss.microsoft.com
 full:music.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
