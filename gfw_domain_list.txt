@@ -206,6 +206,7 @@
 2021hkcharter.com
 2023aga.oen.tw
 2047.name
+2049bbs.xyz
 20thcenturystudios.com.au
 20thcenturystudios.com.br
 20thcenturystudios.jp
@@ -4016,6 +4017,7 @@ bloggrowup.com
 blogimg.jp
 blog.istef.info
 blog.jackjia.com
+blogjav.net
 blog.jp
 blog.kangye.org
 blog.lester850.info
@@ -5020,6 +5022,8 @@ btaia.com
 btas.ac.uk
 btbit.net
 btbtav.com
+btbtt.co
+btbtt.me
 btc98.com
 btc.ac.uk
 btcbank.bank
@@ -5345,6 +5349,7 @@ camgirlstemple.com
 camgoddess.tv
 cam-man-cic.ac.uk
 camonster.com
+campaign-archive.com
 campaignforuyghurs.org
 cam-pgmc.ac.uk
 camphill.ac.uk
@@ -6096,6 +6101,7 @@ chinatopsex.com
 chinatown.com.au
 chinatweeps.com
 china.ucanews.com
+chinauncensored.tv
 chinaunicom.com.hk
 chinaunicomglobal.com
 chinaview.wordpress.com
@@ -6313,6 +6319,7 @@ civilmedia.tw
 civilsoftware.net
 civilwarpetitions.ac.uk
 civitai.com
+cixiaoya.club
 cixp.net
 ciyuanjie.cc
 ck101.com
@@ -7396,6 +7403,7 @@ dct.ac.uk
 dctbeatsbydre.com
 ddc.com.tw
 ddd-smart.net
+ddex.io
 ddff66.com
 ddff77.com
 ddg.co
@@ -7437,6 +7445,7 @@ dec.ac.uk
 decentr.net
 dechamora.com
 deck.ly
+deck.new
 decodet.co
 decorativemodels.com
 decrypt.day
@@ -8007,6 +8016,7 @@ docker.io
 dockerizer.com
 docleradn.com
 doclercdn.com
+doc.new
 do.co
 docs.com
 docs.new
@@ -9387,6 +9397,7 @@ etherdelta.com
 ethereum.foundation
 ethereum.org
 ethermine.org
+etherscan.com
 etherscan.io
 ethicsguidebook.ac.uk
 ethnicity.ac.uk
@@ -9450,6 +9461,7 @@ evchk.wikia.com
 evemodels.com
 eventsinfocus.org
 everia.club
+everipedia.org
 evernote.com
 every1dns.net
 everydayporn.co
@@ -10480,6 +10492,8 @@ forhertube.com
 formission.ac.uk
 formit360.com
 formitfactory.com
+form.new
+forms.new
 forpojie.pics
 forster.ac.uk
 fortawesome.com
@@ -14630,6 +14644,7 @@ inventorseries.com
 inventorship.com.au
 investigating.wordpress.com
 investorschronicle.co.uk
+invidio.us
 invity.io
 inxian.com
 inxporn.com
@@ -15474,6 +15489,7 @@ justlesbianpussy.com
 justmysocks1.net
 justmysocks2.net
 justmysocks4.net
+justmysockscn.com
 justmysocks.net
 justnudepic.com
 justpaste.it
@@ -17030,6 +17046,7 @@ mappingthemedievalmargins.ac.uk
 mappingtheunderworld.ac.uk
 mappingwales.ac.uk
 mappingwelshmarches.ac.uk
+maps.googleapis.com
 map-software.com
 marble.ac.uk
 marchmont.ac.uk
@@ -17471,6 +17488,7 @@ mercari.jp
 mercatox.com
 mercdn.net
 mercyprophet.org
+mergersandinquisitions.com
 mergersandinquisitions.org
 meridian.net
 meridian-trust.org
@@ -19486,6 +19504,7 @@ nightclub.eu
 nightline.ac.uk
 night.livedoor.biz
 nights.fun
+nightswatch.top
 nihcc.ac.uk
 nihr.ac.uk
 nii.ac.jp
@@ -20428,6 +20447,7 @@ onesiterip.com
 onestore.ms
 oneteamconference.com
 onetrust.com
+onevps.com
 oneworldmanystories.com
 on.here
 onindiansex.com
@@ -20807,6 +20827,7 @@ panasonic.jp
 pancolle-movie.jp
 panda30.shop
 panda.ac.uk
+pandafan.pub
 pandamovies.pw
 pandanet-igs.com
 pandapow.co
@@ -20894,6 +20915,7 @@ paydiant.com
 paygonline.com
 payhulu.com
 paylike.com
+payments-jp.amazon.com
 paypa1.com
 paypa1.org
 paypaal.com
@@ -22057,6 +22079,7 @@ premproxy.com
 prepsure.com
 prescribe.ac.uk
 prescribingsafetyassessment.ac.uk
+presentation.new
 presentationzen.com
 presidencylondoncollege.ac.uk
 presidentlee.tw
@@ -22204,6 +22227,7 @@ proxypy.net
 proxyrarbg.org
 proxyroad.com
 proxytunnel.net
+proxz.com
 proyectoclubes.com
 prozz.net
 prpops.com
@@ -22363,6 +22387,7 @@ qiandao.today
 qianglie.com
 qiangwaikan.com
 qiangyou.org
+qianmo.tw
 qiao-cn.com
 qidian.ca
 qienkuen.org
@@ -23268,7 +23293,7 @@ s1s1s1.com
 s2csntp.miz.nao.ac.jp
 s2stagehance.com
 s3.amazonaws.com
-s3-ap-northeast-1.amazonaws.com
+s3-ap-*.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s81c.com
@@ -23692,6 +23717,7 @@ secure-paypal.info
 securepaypal.info
 secure.raxcdn.com
 secureservercdn.net
+secure.shadowsocks.nu
 securetunnel.com
 securityinabox.org
 securitykiss.com
@@ -24053,7 +24079,6 @@ sharebee.com
 sharecool.org
 shared-ed.ac.uk
 shared-es.ac.uk
-share.dmhy.org
 sharedsolutions.ac.uk
 sharegeo.ac.uk
 share.ovi.com
@@ -24079,6 +24104,7 @@ shc.ac.uk
 shdd.ink
 shdf.ac.uk
 sheef.ac.uk
+sheet.new
 sheets.new
 shef.ac.uk
 shefc.ac.uk
@@ -24206,6 +24232,7 @@ shoppercentre.com
 shopping.com
 shopping-days.net
 shoppinguheadphones.com
+shopping.yahoo.co.jp
 shops-disney.com
 shopspeedtv.com
 shoptraivip.com
@@ -24278,6 +24305,7 @@ sikiswap.com
 silkbook.com
 silkengirl.com
 silverchair-cdn.com
+silvergatebank.com
 silversluts.com
 simbios.ac.uk
 simbolostwitter.com
@@ -24290,6 +24318,7 @@ similar-porn.fun
 simility.com
 simonsgirls.com
 simpcity.su
+simplecd.me
 simplecd.org
 simpleproductivityblog.com
 simpleswap.io
@@ -24365,10 +24394,12 @@ site.com
 sitekreator.com
 siteks.uk.to
 sitemaps.org
+site.new
 sitepoint.com
 siterips.org
 siteripz.com
 siteripz.net
+sites.new
 siti.ac.uk
 situero.com
 siva.ac.uk
@@ -24952,6 +24983,7 @@ spotify.link
 spr.ac.uk
 spraynwash.com
 spreadprivacy.com
+spreadsheet.new
 spreadshirt.es
 spreaker.com
 sprg.ac.uk
@@ -25032,6 +25064,7 @@ ss.pythonic.life
 ssrpass.pw
 ssrshare.com
 ssrshare.us
+ssrtool.com
 ssr.tools
 sss.camp
 sssfc.ac.uk
@@ -25719,6 +25752,7 @@ symantec.com
 symcb.com
 symcd.com
 symonds.ac.uk
+synapse.org
 synaptic.net
 synbio-cdt.ac.uk
 syncback.com
@@ -26710,6 +26744,7 @@ touhouwiki.net
 tourporno.com
 toutapp.com
 toutiaoabc.com
+tou.tv
 tower.ac.uk
 towerauction.com
 towerhamletscollege.ac.uk
@@ -27006,6 +27041,7 @@ tumutanzi.com
 tumview.com
 tuncommercialbank.com
 tunein.com
+tunein.streamguys1.com
 tunnelbear.com
 tunnelblick.net
 tunnelr.com
@@ -27980,6 +28016,7 @@ vetschoolscouncil.ac.uk
 vetset2go.ac.uk
 vetvaccnet.ac.uk
 vevo.com
+vewas.net
 vfabric.net
 vfsco.at
 vfsco.be
@@ -28099,6 +28136,7 @@ viewgals.com
 viewpointsfromfacebook.com
 vijayatemple.org
 vikiporn.com
+vilanet.me
 vilavpn1.xyz
 vilavpn2.xyz
 vilavpn3.xyz
@@ -28930,6 +28968,7 @@ webpkgcache.com
 webrtc.org
 webrush.net
 website.informer.com
+website.new
 websitepulse.com
 webster.ac.uk
 webs-tv.net
