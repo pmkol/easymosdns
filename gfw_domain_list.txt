@@ -2462,7 +2462,6 @@ a-tap.ac.uk
 atchinese.com
 atc.org.au
 atdmt2.com
-atdmt.com
 ateam-oracle.com
 a-teenz.com
 atgfw.org
@@ -6509,7 +6508,6 @@ cnet.co.kr
 cnet.com
 cnet.de
 cnetfrance.fr
-cn.etherscan.com
 cnex.org.cn
 cn.fmnnow.com
 cn.freeones.com
@@ -17659,6 +17657,7 @@ microsoftonline.com
 microsoftonline-p.com
 microsoftpartnercommunity.com
 microsoftpartnersolutions.com
+microsoftpersonalcontent.com
 microsoft.pl
 microsoft-ppe.com
 microsoft.pt
