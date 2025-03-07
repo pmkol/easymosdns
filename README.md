@@ -1,5 +1,5 @@
 # EasyMosdns Rules
-- 规则每日0点更新，如未更新说明规则当日无变化
+- 规则每隔2小时更新一次，未更新即表示规则无变化
 - 请勿用于非法用途
 #### DNS规则库
 | 📦 List | 📃 Rule | 🔧 GitHub RAW | 🚀 GitHub CDN

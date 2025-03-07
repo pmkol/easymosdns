@@ -452,6 +452,7 @@
 69luolie.com
 69re.net
 69-sexgames.com
+69shuba.cx
 69story.com
 69tubesex.com
 69vj.com
@@ -17044,7 +17045,6 @@ mappingthemedievalmargins.ac.uk
 mappingtheunderworld.ac.uk
 mappingwales.ac.uk
 mappingwelshmarches.ac.uk
-maps.googleapis.com
 map-software.com
 marble.ac.uk
 marchmont.ac.uk
@@ -21613,6 +21613,7 @@ politicsinaction.ac.uk
 politiscales.net
 poloniex.com
 polygon.com
+polymarket.com
 polymerhk.com
 polymer-project.org
 polymerproject.org
@@ -26795,7 +26796,6 @@ transformingmusicology.ac.uk
 transit.ac.uk
 transitwestyorkshire.ac.uk
 translate.goog
-translate.googleapis.com
 translate-medtech.ac.uk
 translatetheweb.com
 translatewiki.net
