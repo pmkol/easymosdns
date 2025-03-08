@@ -4694,6 +4694,7 @@ bookwalker.com.tw
 book.zi5.me
 booloo.com
 boomba.club
+boombeach.com
 boomerang.com
 boomssr.com
 booru.org
@@ -4810,6 +4811,7 @@ bravoporn.com
 bravoteens.com
 bravotube.net
 bravotube.tv
+brawlstars.com
 brawlstarsgame.com
 brazilpartneruniversity.com
 brazzer.com
@@ -6337,6 +6339,11 @@ clarendon.ac.uk
 clarin.ac.uk
 clarionproject.org
 clarivate.com
+clash.com
+clashmini.com
+clashofclans.com
+clashroyaleapp.com
+clashroyale.com
 clasporno.org
 classicalguitarblog.net
 classicnike.com
@@ -11104,6 +11111,7 @@ game-repack.site
 gameroom.com
 gamerotic.com
 gamesathletes.com
+gamesfirsthelsinki.com
 gamesfuckgirls.com
 gamesofdesire.com
 gamesstack.com
@@ -12437,6 +12445,8 @@ hawaiibmw.com
 hayabusa.dev
 hayabusa.io
 hayabusa.media
+hayday.com
+haydaygame.com
 hayle.ac.uk
 haywardsheath.ac.uk
 hbabit.com
@@ -18173,6 +18183,7 @@ mobypicture.com
 moby.to
 mochajs.org
 mocloudplus.com
+mo.co
 modelmediaus.com
 modeloswebcambogota.com
 modelsfreecams.com
@@ -23737,6 +23748,7 @@ seemygf.com
 seemyporn.com
 seesmic.com
 se-essex-college.ac.uk
+seeurlpcl.com
 seevic.ac.uk
 seevic-college.ac.uk
 seevpn.com
@@ -25006,6 +25018,7 @@ sqhwesternconsortium.ac.uk
 sqlite.org
 sqlserveronlinux.com
 squ1.com
+squadbusters.com
 squarecapital.com
 squarecdn.com
 squarecloudservices.com
@@ -25549,8 +25562,12 @@ supc.ac.uk
 supchina.com
 superadultgames.com
 supercell.com
+supercellcreators.com
+supercellgames.com
 supercell.helpshift.com
+supercellid.com
 supercell.net
+supercellstore.com
 supercoach.com.au
 supercomputingwales.ac.uk
 superdarn.ac.uk
@@ -29234,7 +29251,6 @@ wikiunblocked.org
 wikiversity.org
 wikivoyage.org
 wikiwand.com
-wikiwiki.jp
 wiktionary.org
 wilberforce.ac.uk
 wildammo.com
