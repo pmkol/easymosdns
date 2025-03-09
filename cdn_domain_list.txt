@@ -421,6 +421,7 @@ full:msproductuat.download.prss.microsoft.com
 full:music.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
+full:myvsuat.download.prss.microsoft.com
 full:ngportal.cdnetworks.com
 full:np-edge.itunes.apple.com
 full:ntp1.aliyun.com
