@@ -5910,6 +5910,7 @@ chatgptvideob.buzz
 chatgptvideo.xyz
 chat.lmsys.org
 chatnook.com
+chat.openai.com
 chatsex.xxx
 chatterbate.io
 chatter.com
@@ -20560,6 +20561,7 @@ opensource.google
 opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
+open.spotify.com
 openssl.org
 openstemlab.ac.uk
 openstemlabs.ac.uk
