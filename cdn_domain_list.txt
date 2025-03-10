@@ -67,6 +67,7 @@ full:bg4.v4.a.dl.ws.microsoft.com
 full:bg.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
 full:blog.tutorabc.com
+full:blog.vive.com
 full:bookkeeper.itunes.apple.com
 full:borgmon.adz.google.com
 full:build.microsoft.com
@@ -108,6 +109,7 @@ full:china.uxengine.net
 full:cl1.apple.com
 full:cl1-cdn.origin-apple.com.akadns.net
 full:cl2.apple.com
+full:cl2.apple.com.edgekey.net.globalredir.akadns.net
 full:cl2-cdn.origin-apple.com.akadns.net
 full:cl2-cn.apple.com
 full:cl3.apple.com
@@ -398,6 +400,7 @@ full:manage.c3edge.com
 full:manga.bilibili.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
+full:mbsuat.download.prss.microsoft.com
 full:media.admob.com
 full:mediaexp-programming.xboxlive.com
 full:media.licdn.com
@@ -568,6 +571,7 @@ full:shazam-insights.cdn-apple.com
 full:shell.cdn.office.net
 full:shop.samsung.com
 full:sh-pod2-smp-device.apple.com
+full:si.cdn.dell.com
 full:silverlight.dlservice.microsoft.com
 full:sina.com.hk
 full:siportal.cdnetworks.com
@@ -727,8 +731,10 @@ full:www.renren.com.cdngc.net
 full:www-ssl.intel.com
 full:www.sulwhasoo.com
 full:www.support.apple.com
+full:www.thinkpad.com
 full:www.travelzoo.com
 full:www.tzoo-img.com
+full:www.vive.com
 full:www.ztedevices.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
