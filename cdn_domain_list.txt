@@ -542,6 +542,7 @@ full:s2.mzstatic.com
 full:s3.mzstatic.com
 full:s4.mzstatic.com
 full:s5.mzstatic.com
+full:safebrowsing-cache.google.com
 full:safebrowsing.googleapis.com
 full:scanservice1.qatp1.net
 full:scanservice1.qcpp1.net

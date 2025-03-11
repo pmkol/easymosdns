@@ -7929,9 +7929,6 @@ disqus.com
 disqusservice.com
 distillate.ac.uk
 distinct.ac.uk
-distribution.qatp1.net
-distribution.qcpp1.net
-distribution.qpdp1.net
 dit-inc.us
 divas.com.uy
 diversityuk.ac.uk
@@ -8145,8 +8142,6 @@ download.cnet.com
 download.com
 downloadpass.com
 download.qatp1.net
-download.qcpp1.net
-download.qpdp1.net
 downloadsforipod.com
 dphk.org
 dpoc.ac.uk
@@ -10470,9 +10465,7 @@ fonolia.com
 fontawesome.com
 fontbook.com
 fontexplorerx.com
-fontfiles.googleadapis.com
 fonts.com
-fonts.googleadapis.com
 fontshop.com
 fontsinuse.com
 fonts.net
@@ -11975,7 +11968,6 @@ google.ph
 googlephotos.com
 google.pl
 googleplay.com
-googleplex.com
 googleplus.com
 google.pn
 google.ps
@@ -18275,8 +18267,6 @@ mongodb.org
 monica.im
 mo.nightlife141.com
 monitorchina.org
-monitoring.qatp1.net
-monitoring.qcpp1.net
 monitoring.qpdp1.net
 monitrix.net
 monkwear.ac.uk
@@ -22374,8 +22364,6 @@ qaa.ac.uk
 qac.ac.uk
 qacollege.ac.uk
 qagpublic.qatp1.net
-qagpublic.qcpp1.net
-qagpublic.qpdp1.net
 qanote.com
 qatarescortsvip.com
 qattdh1.cc
@@ -22390,9 +22378,7 @@ qcmod.xyz
 qctconnect.com
 qdiehzz7.me
 qeliz.ac.uk
-qgadmin.qatp1.net
 qgadmin.qcpp1.net
-qgadmin.qpdp1.net
 qgirl.com.tw
 qhigh.com
 qianbai.tw
@@ -22470,10 +22456,6 @@ qualcommventures.com
 qualidata.ac.uk
 qualphone.com
 qualysapi.qatp1.net
-qualysapi.qcpp1.net
-qualysapi.qpdp1.net
-qualysguard.qatp1.net
-qualysguard.qcpp1.net
 qualysguard.qpdp1.net
 quanben.io
 quanben-xiaoshuo.com
@@ -23509,9 +23491,7 @@ scaleflex.com
 scaleform.com
 scandalplanet.com
 scanlover.com
-scanservice1.qatp1.net
 scanservice1.qcpp1.net
-scanservice1.qpdp1.net
 scapa.ac.uk
 scarb-6-form.ac.uk
 scarboroughtec.ac.uk
@@ -29581,7 +29561,6 @@ www-facebook.com
 wwwfacebook.com
 www.gmiddle.com
 www.gmiddle.net
-www.googleadapis.com
 wwwhost.biz
 wwwhuluplus.com
 www.hustlercash.com
