@@ -32,6 +32,7 @@ full:api-edge.apps.apple.com
 full:api-p-ap-c.smoot.apple.com
 full:api-p-ap-d.smoot.apple.com
 full:api-p-ap-e.smoot.apple.com
+full:app-analytics-services.com
 full:appldnld.apple.com
 full:appldnld.g.aaplimg.com
 full:appleid.cdn-apple.com
