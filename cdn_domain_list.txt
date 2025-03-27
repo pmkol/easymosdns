@@ -17,6 +17,7 @@ full:ad.mediaplex.com
 full:admob-cn.com
 full:adservice.google.com
 full:ai.ytimg.com
+full:ai.zhaomi.cn
 full:ajax.loli.net
 full:altfarm.mediaplex.com
 full:amp-api.apps.apple.com
@@ -251,6 +252,8 @@ full:gfwsl.geforce.com
 full:gmskiosk-ssl.corp.google.com
 full:go.corp.google.com
 full:gogalaxy.gog-statics.com
+full:gog-cdn.akamaized.net
+full:gog-cdn-fastly.gog.com
 full:gog.qtlglb.com
 full:gonglchuangl.net
 full:gongyichuangyi.net
