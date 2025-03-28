@@ -166,6 +166,7 @@ full:c.pki.goog
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
 full:crl.apple.com
+full:crl.globalsign.net
 full:crl-lb.apple.com.akadns.net
 full:crl.pki.goog
 full:crls.pki.goog
@@ -714,6 +715,7 @@ full:www.apple.com
 full:www.apple.com.edgekey.net
 full:www.apple.com.edgekey.net.globalredir.akadns.net
 full:www.destinationurl.com
+full:www.entrust.cn
 full:www.ericsson.com
 full:www.googleadapis.com
 full:www-google-analytics.l.google.com
