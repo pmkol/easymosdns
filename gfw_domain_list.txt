@@ -2572,6 +2572,7 @@ auricularesbeatsmarkt.com
 auroraoss.com
 ausbeatsbydrdre.com
 auth0.com
+auth.openai.com
 authorizeddns.net
 authorizeddns.org
 authorizeddns.us
@@ -20554,6 +20555,7 @@ opencollective.com
 open.com.hk
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendns.com
 opendn.xyz
 opendroneid.org
