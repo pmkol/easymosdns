@@ -19,6 +19,7 @@ full:adservice.google.com
 full:ai.ytimg.com
 full:ai.zhaomi.cn
 full:ajax.loli.net
+full:alibaba.cdn.steampipe.steamcontent.com
 full:altfarm.mediaplex.com
 full:amp-api.apps.apple.com
 full:amp-api-edge.apps.apple.com
@@ -399,6 +400,7 @@ full:lnkd.licdn.com
 full:logger.corp.google.com
 full:logger-dev.corp.google.com
 full:login.corp.google.com
+full:lv.queniujq.cn
 full:lx2.cok.elexapp.com
 full:lx2.cok.elex.com
 full:manage.c3edge.com
