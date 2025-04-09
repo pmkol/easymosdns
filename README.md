@@ -35,7 +35,7 @@
 #### 打赏项目：
 
 打赏项目的用户可参与测试支持DoT与DoH(http2/3)且更精准的分流API
-[前往发电](https://afdian.net/a/maplecool) <br />
+[前往发电](https://afdian.com/a/maplecool) <br />
 
 #### 更多信息：
 
