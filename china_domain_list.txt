@@ -82659,6 +82659,7 @@ regexlab.com
 regexr-cn.com
 regist.alphassl.com
 regist.globalsign.com
+reg.lenovo.com
 reglogo.net
 regltd.com
 regtm.com
@@ -103921,6 +103922,8 @@ www.htcsense.com
 wwwic.net
 wwwimages2.adobe.com
 wwwimages.adobe.com
+www.laecloud.com
+www.lenovo.net
 wwwmdzx8.com
 www.microsoft.com
 www.netarch.akamai.com
@@ -103933,6 +103936,7 @@ www.skypixel.com
 www.st.com
 wwwtisiwa.cc
 www.tutorabc.com
+www.uz0.xyz
 www-v1.dji.com
 www.viveport.com
 www.volvocars.com
