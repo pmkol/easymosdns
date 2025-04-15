@@ -654,6 +654,7 @@ full:test.bugs-qa.chromium.org
 full:test.gbugs-qa.chromium.org
 full:tf-feedback.itunes.apple.com
 full:tiles.xbox.com
+full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
 full:titlestorage.xboxlive.com
