@@ -176,6 +176,7 @@
 1lib.eu
 1lib.limited
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -12086,6 +12087,7 @@ got-game.org
 gotgayporn.com
 gotgeeks.com
 gothdporn.com
+go-to-library.sk
 go-to-zlibrary.se
 gotporn.com
 gotraffic.net
@@ -14946,6 +14948,7 @@ ita-do.com
 itaeromanga.com
 itaiwan.gov.tw
 italiabeatsbydrdre.com
+italian-books.sk
 italiatibet.org
 itasoftware.com
 itcanwait.com
@@ -31000,10 +31003,14 @@ zishy.com
 zkaip.com
 zlibcdn2.com
 zlibcdn.com
+z-lib.gd
+z-lib.gs
 z-lib.io
 zlib.life
 z-lib.org
+z-lib.ps
 z-library.se
+z-library.sk
 zmedia.com.tw
 zmw.cn
 zndsk.com
