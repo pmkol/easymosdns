@@ -3078,7 +3078,6 @@ i.mxplayer.j2inter.com
 inabsolor.com
 inboxdollars.com
 incognitosearches.com
-incoming.telemetry.mozilla.org
 incoming-telemetry.thunderbird.net
 increaserev.com
 indexstats.com
