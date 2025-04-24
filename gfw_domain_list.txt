@@ -177,6 +177,7 @@
 1lib.eu
 1lib.limited
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -513,6 +514,7 @@
 85tube.com
 8664av.com
 881903.com
+8888.google
 888.com
 888poker.com
 88av.one
@@ -2571,6 +2573,7 @@ audiencenetwork.com
 audiencenetwork.tv
 audiobeatsau.com
 audiobeatsbydre.com
+audiomack.com
 audiomonsterbeatsonline.com
 aue.ac.uk
 auee.ac.uk
@@ -2585,6 +2588,7 @@ auricularesbeatsmarkt.com
 auroraoss.com
 ausbeatsbydrdre.com
 auth0.com
+auth.openai.com
 authorizeddns.net
 authorizeddns.org
 authorizeddns.us
@@ -6633,6 +6637,7 @@ coin2co.in
 coinalyze.net
 coinbase.com
 coinbene.com
+coincarp.com
 coindesk.com
 coinegg.com
 coinex.com
@@ -9952,6 +9957,7 @@ fandom.com
 fanfox.net
 fangbinxing.com
 fangeming.com
+fangeming.comffvpn.com
 fangeqiang.com
 fanglizhi.info
 fangmincn.org
@@ -9963,6 +9969,7 @@ fanhaodang.com
 fanhaodian.com
 fanhaolou.com
 fanhowab.buzz
+fani.com
 fank.ru
 fanleakstoday.com
 fan-qiang.com
@@ -10071,10 +10078,10 @@ fastssh.com
 faststone.org
 fasttext.cc
 fasttrackreadysupport.com
-fast.wistia.com
 fatbtc.com
 fatstube.com
 fault-analysis-group.ac.uk
+favcomic.com
 favebook.com
 favelaporno.com
 favepornmovs.com
@@ -12100,6 +12107,7 @@ got-game.org
 gotgayporn.com
 gotgeeks.com
 gothdporn.com
+go-to-library.sk
 go-to-zlibrary.se
 gotporn.com
 gotquestions.org
@@ -12518,6 +12526,7 @@ hcctraining.ac.uk
 hcebusiness.ac.uk
 hcfe.ac.uk
 h-china.org
+h-ciyuan.com
 hclips.com
 hclrg.ac.uk
 hcomicbook.com
@@ -14962,6 +14971,7 @@ ita-do.com
 itaeromanga.com
 itaiwan.gov.tw
 italiabeatsbydrdre.com
+italian-books.sk
 italiatibet.org
 itasoftware.com
 itcanwait.com
@@ -17087,6 +17097,7 @@ mantais.ac.uk
 mantochichi.com
 manufacturingedc.ac.uk
 manurefetish.com
+manwa.me
 manytoon.com
 manyvids.com
 manyvoices.news
@@ -19419,6 +19430,7 @@ newsmax.com
 newsmax.in
 newsmaxtv.com
 news.msn.com.tw
+news.mt.co.kr
 news.nationalgeographic.com
 news.net.au
 newsnowfox.com
@@ -20505,6 +20517,7 @@ onekey.so
 onenote.com
 onenote.net
 one.one.one
+one.one.one.one
 onepornlist.com
 onesiterip.com
 onestore.ms
@@ -20588,6 +20601,7 @@ opencollective.com
 open.com.hk
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendns.com
 opendn.xyz
 opendroneid.org
@@ -23370,6 +23384,7 @@ s3.amazonaws.com
 s3-ap-*.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
+s3.eu-central-1.amazonaws.com
 s81c.com
 s8ds5gfm.xyz
 s8forum.com
@@ -24412,6 +24427,7 @@ sinet.ac.uk
 sing4.lat
 sing68.com
 singaporepools.com.sg
+sing-box.sagernet.org
 singfortibet.com
 singlelogin.app
 singlelogin.me
@@ -24886,6 +24902,7 @@ sostibet.org
 sothebys-institute.ac.uk
 soton.ac.uk
 sots.ac.uk
+sotwe.com
 soubory.com
 souka.xyz
 soulcaliburhentai.net
@@ -25135,6 +25152,7 @@ ssl-images-amazon.com
 ss-link.com
 sslpaypal.org
 ssl.webpack.de
+ssm.fun
 ssmh.ac.uk
 sspanel.net
 sspc.ac.uk
@@ -26479,6 +26497,7 @@ thornbeck.ac.uk
 thotbook.tv
 thothub.ru
 thothub.to
+thotsbay.tv
 thottok.com
 thotvids.com
 threadreaderapp.com
@@ -27864,6 +27883,7 @@ uymaarip.com
 v2ex.com
 v2fly.org
 v2.help
+v2.hysteria.network
 v2ph.com
 v2raycn.com
 v2ray.com
@@ -31016,10 +31036,14 @@ zishy.com
 zkaip.com
 zlibcdn2.com
 zlibcdn.com
+z-lib.gd
+z-lib.gs
 z-lib.io
 zlib.life
 z-lib.org
+z-lib.ps
 z-library.se
+z-library.sk
 zmedia.com.tw
 zmw.cn
 zndsk.com
