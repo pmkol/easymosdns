@@ -1073,6 +1073,7 @@ apfxpuatkla.com
 a.photowonder.net
 aphycolourses.info
 api2.poperblocker.com
+api-ad-adapter.wps.com
 api.adserver-e7.com
 api.ampiri.com
 api.appnxt.net
@@ -4080,6 +4081,7 @@ openad.travelnow.com
 openclick.com
 openfpcdn.io
 openmarket.com
+open.oneplus.net
 opensharecount.com
 openvideoads.org
 openx.angelsgroup.org.uk
@@ -5577,6 +5579,7 @@ tracker.metricool.com
 tracker.personizely.net
 tracker-pm2.spilleren.com
 trackersimulator.org
+tracker.stats.in.th
 tracker.toolpg.com
 track.flexlinks.com
 track.flexlinkspro.com
@@ -5671,6 +5674,7 @@ trtjigpsscmv9epe10.com
 truckstomatoes.com
 truculentrate.com
 truecontext.app
+truehits.in.th
 truehits.net
 trumpia.com
 trustaffs.com
