@@ -4982,6 +4982,7 @@ brnc.ac.uk
 brni.com
 broadbandreports.com
 broadbook.com
+broadcom.com
 broadpressinc.com
 broadstairscollege.ac.uk
 brocaproject.com
@@ -17580,6 +17581,7 @@ metacafe.com
 metacloud.com
 meta.com
 metacpan.org
+metacubex.one
 metadac.ac.uk
 metafilter.com
 metalpha.finance
@@ -18551,6 +18553,8 @@ msgamesresearch.com
 msguancha.com
 msha.gov
 mshome.net
+msi.cn
+msi.com
 msidentity.com
 msinnovationchallenge.com
 msk.ilnk.info
@@ -24418,6 +24422,7 @@ sinet.ac.uk
 sing4.lat
 sing68.com
 singaporepools.com.sg
+sing-box.app
 sing-box.sagernet.org
 singfortibet.com
 singlelogin.app

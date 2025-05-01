@@ -30630,6 +30630,7 @@ dji.com
 djigoapi.djiservice.org
 djigo.djicdn.com
 djigo-hk.djiservice.org
+djiits.com
 dji.net
 dji-official-fe.djicdn.com
 djiops.com
@@ -71051,6 +71052,7 @@ mored.com
 moredian.com
 more-fish.com
 morefood.com
+morefreegame.com
 morefun-philippines.com
 moregy.com
 moreless.io
@@ -105362,6 +105364,7 @@ xiaomicorp.net
 xiaomicp.com
 xiaomidns.com
 xiaomidns.net
+xiaomi.eu
 xiaomiev.com
 xiaomiflash.com
 xiaomi.hk
