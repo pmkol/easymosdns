@@ -313,8 +313,6 @@ full:gtm.oasisfeng.com
 full:guzzoni.apple.com
 full:guzzoni-apple-com.v.aaplimg.com
 full:guzzoni.smoot.apple.com
-full:gvt1-cn.com
-full:gvt2-cn.com
 full:hdn.xnimg.cn.cdngc.net
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
