@@ -689,7 +689,6 @@ full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upload.yangfd.com
 full:upp.itunes.apple.com
 full:userstats.xboxlive.com
-full:v2ex.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
 full:vext.corp.google.com
