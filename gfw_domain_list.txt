@@ -5942,7 +5942,6 @@ chatgptvideob.buzz
 chatgptvideo.xyz
 chat.lmsys.org
 chatnook.com
-chat.openai.com
 chatsex.xxx
 chatterbate.io
 chatter.com
@@ -20620,7 +20619,6 @@ opensource.google
 opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
-open.spotify.com
 openssl.org
 openstemlab.ac.uk
 openstemlabs.ac.uk
@@ -24404,6 +24402,7 @@ simplecd.me
 simplecd.org
 simpleproductivityblog.com
 simpleswap.io
+simplex.chat
 simplify.com
 simplifycommerce.com
 simply-hentai.com
@@ -31031,6 +31030,7 @@ zmedia.com.tw
 zmw.cn
 zndsk.com
 zodgame.us
+zodgame.xyz
 zohocdn.com
 zoho.com
 zoho.com.au
