@@ -177,6 +177,7 @@
 1lib.eu
 1lib.limited
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -1119,7 +1120,6 @@ aiaa.org
 aiasahi.jp
 aib.ac.uk
 ai.binwang.me
-ai.google
 ai-kan.net
 aim25.ac.uk
 aimei133.com
@@ -11665,6 +11665,7 @@ gmnetworks.net
 gmodules.com
 gmoney.org
 gmozomg.izihost.org
+gmp4.com
 gmsa.ac.uk
 gnai-dh.sbs
 gnailapp.sbs
@@ -13733,6 +13734,7 @@ hypothes.is
 hyprsense.com
 hysbys.ac.uk
 hzmn.net
+i.111666.best
 i-123-hp.com
 i1.hk
 i2p2.de
@@ -20511,6 +20513,7 @@ onekey.so
 onenote.com
 onenote.net
 one.one.one
+one.one.one.one
 onepornlist.com
 onesiterip.com
 onestore.ms
@@ -21574,6 +21577,7 @@ playerjs.io
 playfabapi.com
 playfab.com
 playforceone.com
+play.google
 playhearthstone.com
 playmation.com
 playmeow.com
@@ -22376,6 +22380,7 @@ puppiesofourtime.ac.uk
 pure18.com
 pureapk.com
 pureconcepts.net
+puredns.org
 pureinsight.org
 purelov5.com
 purelyceleb.com
@@ -22483,6 +22488,7 @@ qmced.ac.uk
 qml.ac.uk
 qmov.com
 qmov.net
+qmp4.com
 qmpgmc.ac.uk
 qmttqg3k.me
 qmu.ac.uk
@@ -23300,6 +23306,7 @@ rthk.org.hk
 rtings.com
 rti.org.tw
 rti.tw
+rtm.tnt-ea.com
 rtycminnesota.org
 ruanyifeng.com
 rua-project.ac.uk
@@ -31024,10 +31031,15 @@ zishy.com
 zkaip.com
 zlibcdn2.com
 zlibcdn.com
+z-lib.fm
+z-lib.fo
+z-lib.gd
+z-lib.gl
 z-lib.io
 zlib.life
 z-lib.org
 z-library.se
+z-library.sk
 zmedia.com.tw
 zmw.cn
 zndsk.com
