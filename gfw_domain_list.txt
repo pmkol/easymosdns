@@ -1120,6 +1120,7 @@ aiaa.org
 aiasahi.jp
 aib.ac.uk
 ai.binwang.me
+ai.google
 ai-kan.net
 aim25.ac.uk
 aimei133.com
@@ -19729,6 +19730,7 @@ nikkansports.com
 nikke-de.com
 nikke-en.com
 nikke-fr.com
+nikke.hotcool.tw
 nikkei4946.com
 nikkeibp.co.jp
 nikkei-cnbc.co.jp
@@ -19914,6 +19916,7 @@ northumberland.ac.uk
 northumbria.ac.uk
 norwichresearchpark.ac.uk
 nos.nl
+notebooklm.google
 notepad-plus-plus.org
 notion.com
 notion.new
