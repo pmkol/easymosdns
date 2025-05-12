@@ -1,4 +1,4 @@
-# EasyMosdns v3.0
+# EasyMosdns v3.5
 
 基于Mosdns的精准DNS分流策略，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器。<br />
 
@@ -31,6 +31,12 @@
 - 屏蔽TYPE65与非中国大陆地区的IPv6请求，自动保留纯IPv6域名的请求，以获取更好的网络体验
 - 支持规则自动更新，提供直连/CDN两种下载更新规则的方式
 - 支持上游节点故障时自动转移，优化DNS服务的稳定性
+
+```
+注意：
+内置的分流API(DoH)存在请求限制，请勿修改分流API规则或在本项目之外使用
+如需在更多客户端体验分流效果，请通过打赏项目获取无请求限制的分流API
+```
 
 #### 打赏项目：
 
@@ -155,11 +161,9 @@ mosdns service start
     args:
       upstream:
         - addr: "223.5.5.5"
-        - addr: "tls://120.53.53.53:853"
-          enable_pipeline: true
+        - addr: "119.29.29.29"
 ```
 > 修改 `addr:` 后的DNS地址即可 <br />
-> 如果不确定上游DNS是否支持pipeline，请将 `enable_pipeline:` 设置为false <br />
 > 默认使用AliDNS+DNSPod同时查询的方式解析 <br />
 > 运营商DNS不支持ECS，仅建议网络环境为内网时使用
 
@@ -174,9 +178,7 @@ mosdns service start
         - addr: "tcp://208.67.220.220:5353"
           enable_pipeline: true
           #socks5: "127.0.0.1:1080"
-        - addr: "tls://8.8.4.4"
-          enable_pipeline: true
-          #socks5: "127.0.0.1:1080"
+        - addr: "udpme://8.8.8.8"
 ```
 > 修改 `addr:` 后的DNS地址即可 <br />
 > 如果不确定上游DNS是否支持pipeline，请将 `enable_pipeline:` 设置为false <br />
@@ -191,14 +193,12 @@ mosdns service start
     type: fast_forward
     args:
       upstream:
-        - addr: "https://doh.apad.pro/dns-query"
-          bootstrap: "119.29.29.29"
+        - addr: "https://mosdns.apad.pro/api-query"
+          bootstrap: "223.6.6.6"
           #dial_addr: "ip:port"
-          #enable_http3: true
 ```
 > 修改 `addr:` 后的DNS地址即可 <br />
 > 可以使用 `dial_addr:` 指定分流服务器的IP与端口，优化访问速度 <br />
-> 如果确定分流服务器支持http3，可开启 `enable_http3:` 优化访问速度 <br />
 > 默认使用EasyMosdns项目官方的分流API，如需切换应确定所选的API或DNS服务支持分流功能
 
 #### 开启Redis持久化缓存
@@ -236,7 +236,7 @@ mosdns service start
       auto: false
       ipv4: "168.95.1.0"
       ipv6: "2001:b000:168::"
-      force_overwrite: false
+      force_overwrite: true
 ```
 > 修改 `ipv4:` 与 `ipv6:` 后的IP段即可 <br />
 > 默认ECS参数已针对中国大陆地区优化，根据网络环境自动判断开关 <br />
@@ -249,9 +249,9 @@ mosdns service start
 ```bash
         - if: query_is_ad_domain
           exec:
-          - black_hole
-          - ttl_1h
-          - _return
+            - black_hole
+            - ttl_1h
+            - _return
 ```
 > 将 `black_hole` 更改为 `forward_local`
 
