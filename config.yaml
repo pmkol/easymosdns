@@ -1,4 +1,4 @@
-# EasyMosdns v3.0(Final Release)
+# EasyMosdns v3.5(Final Release)
 # https://apad.pro/easymosdns
 log:
     file: "./mosdns.log"
@@ -69,15 +69,29 @@ plugins:
       force_overwrite: false
       
   # 指定ECS的插件
+  # [local|global]
+  - tag: ecs_local
+    type: ecs
+    args:
+      auto: false
+      ipv4: "101.6.6.0"
+      ipv6: "2001:da8::"
+      force_overwrite: false
   - tag: ecs_global
     type: ecs
     args:
       auto: false
       ipv4: "168.95.1.0"
       ipv6: "2001:b000:168::"
-      force_overwrite: false
+      force_overwrite: true
 
   # 匹配ECS的插件
+  - tag: ecs_is_local
+    type: query_matcher
+    args:
+      ecs: 
+        - "101.6.6.0/24"
+        - "2001:da8::/48"
   - tag: ecs_is_lan
     type: query_matcher
     args:
@@ -234,17 +248,16 @@ plugins:
         - addr: "tcp://208.67.220.220:5353"
           enable_pipeline: true
           #socks5: "127.0.0.1:1080"
-        - addr: "udpme://8.8.4.4"
+        - addr: "udpme://8.8.8.8"
 
   # 转发至分流服务器的插件
   - tag: forward_easymosdns
     type: fast_forward
     args:
       upstream:
-        - addr: "https://doh.apad.pro/dns-query"
-          bootstrap: "119.29.29.29"
+        - addr: "https://mosdns.apad.pro/api-query"
+          bootstrap: "223.6.6.6"
           #dial_addr: "ip:port"
-          #enable_http3: true
 
   # 主要的运行逻辑插件
   # sequence 插件中调用的插件 tag 必须在 sequence 前定义
@@ -307,23 +320,16 @@ plugins:
         # 屏蔽广告域名
         - if: query_is_ad_domain
           exec:
-          - black_hole
-          - ttl_1h
-          - _return
+            - black_hole
+            - ttl_1h
+            - _return
 
         # 已知的本地域名或CDN域名用本地服务器解析
         - if: "(query_is_local_domain) || (query_is_cdn_cn_domain)"
           exec:
-            - primary:
-                # 默认用本地服务器
-                - forward_local
-                - ttl_1m
-              secondary:
-                # 超时用分流服务器
-                - forward_easymosdns
-                - ttl_5m
-              fast_fallback: 25
-              always_standby: false
+            # 默认用本地服务器
+            - forward_local
+            - ttl_1m
             # 预防已知的本地域名临时污染
             - if: "(! response_has_gfw_ip)"
               exec:
@@ -351,15 +357,13 @@ plugins:
         - _prefer_ipv4
         - primary:
             # 默认用分流服务器
+            - ecs_local
             - forward_easymosdns
-            - if: response_server_failed
+            - if: "(ecs_is_local) && (response_has_local_ip) || [response_server_failed]"
               exec:
+                - _no_ecs
                 - forward_local
                 - _return
-            - ecs_global
-            - if: "(! ecs_is_cn) && (! response_has_local_ip) && [_response_valid_answer]"
-              exec:
-                - forward_easymosdns
           secondary:
             # 超时用本地分流器
             - forward_remote
@@ -367,10 +371,6 @@ plugins:
               exec:
                 - forward_local
                 - _return
-            - ecs_global
-            - if: "(! ecs_is_cn) && [_response_valid_answer]"
-              exec:
-                - forward_remote
           fast_fallback: 2500
           always_standby: false
         - ttl_5m
