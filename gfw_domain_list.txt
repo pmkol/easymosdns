@@ -3164,6 +3164,7 @@ bbs.mikocon.com
 bbsmo.com
 bbs.morbell.com
 bbs.mychat.to
+bbs.naixi.net
 bbs.netbig.com
 bbs.nyinfor.com
 bbsone.com
@@ -16107,6 +16108,8 @@ lcuck.ac.uk
 lcwc.ac.uk
 ld.hao123img.com
 ldoc-cdt.ac.uk
+ldplayer.net
+ldplayer.tw
 le.ac.uk
 leadershipfoundation.ac.uk
 leadershiphe.ac.uk
