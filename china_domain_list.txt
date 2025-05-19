@@ -1315,9 +1315,12 @@
 115care.com
 115cdn.com
 115cdn.net
+115cloud.com
+115cloud.net
 115.com
 115img.com
 115jk.com
+115meta.com
 115seo.com
 115vod.com
 115zb.com
@@ -12330,6 +12333,7 @@ amznz.com
 an1health.com
 an2.net
 an68.com
+analog.com
 analogfoundries.com
 analysysdata.com
 analyticskey.com
@@ -26415,6 +26419,7 @@ copperalliance.asia
 copperhome.net
 copyedu.com
 copyfuture.com
+copy-manga.com
 copyswisswatches.com
 copythelink.com
 copywatchstyle.com
@@ -28004,6 +28009,7 @@ ctrip.co.kr
 ctrip.com
 ctripcorp.com
 ctripgslb.com
+ctripgslb.net
 ctripins.com
 ctrip.my
 ctripqa.com
@@ -35022,9 +35028,11 @@ esou.biz
 esound.vip
 esouou.com
 esoyu.com
+esp8266.com
 espeedpost.com
 esplus.club
 espnlol.com
+espressif.com
 esr.com
 essaystar.com
 essbjs.com
@@ -50718,6 +50726,7 @@ hqcg1984.com
 hqchip.com
 hqcr.com
 hqdlsn.com
+hqdoc.com
 hqdoor.com
 hqengroup.com
 hqepay.com
@@ -55226,6 +55235,7 @@ inferoey.com
 infertilitybridge.com
 infimotion.com
 infineon-autoeco.com
+infineon.com
 infini-ai.com
 infinisign.com
 infinitescript.com
@@ -55563,6 +55573,7 @@ iotmag.com
 iot.moe
 iotmore.com
 iotpai.com
+iotronic.tech
 iotrouter.com
 iotsafe.net
 iotshifang.com
@@ -58229,6 +58240,7 @@ jijuduo.com
 jikabao.com
 jikaicai.com
 jike800.com
+jikecdn.com
 jike.city
 jike.com
 jikedata.com
@@ -59411,7 +59423,9 @@ jlc-layout.com
 jlcops.com
 jlc-pcb.com
 jlcsj.com
+jlc-smt.com
 jlcsmt.com
+jlc-zh.com
 jldjam.com
 jldpvc.com
 jl-er.com
@@ -69705,7 +69719,9 @@ manfen5.com
 manfen.net
 manfred-auto.com
 manfrottoclub.com
+mangacopy.com
 mangafuna.xyz
+mangafunb.fun
 manganesenanhai.com
 mangg.com
 mangguo168.com
@@ -74368,6 +74384,8 @@ neolix.net
 neomodulus.com
 neo.org
 neoremind.com
+neoscholar.com
+neoschool.com
 neosey.com
 neo-yiming.com
 neoyon.com
@@ -87071,6 +87089,7 @@ seedit.com
 seedland.cc
 seedlandss.com
 seedsufe.com
+seeed.cc
 see-far.com
 seegif.com
 seehealth.net
@@ -96261,6 +96280,7 @@ tgljw.com
 tglxh.com
 tgnet.com
 tgovcloud.com
+tgprocs.net
 tgr365.com
 tgshiguan.com
 tgslsst.com
@@ -96837,6 +96857,7 @@ tica.com
 tic-gx.com
 ticketdashi.com
 ticketmars.com
+ti.com
 ticp.io
 ticp.net
 ticpsh.com
@@ -98217,6 +98238,7 @@ trip169.com
 trip8080.com
 tripbaba.com
 tripbe.com
+tripcdn.com
 triphr.com
 tripleuuu.com
 triplexservice.com
