@@ -18559,6 +18559,7 @@ msdn.com
 msec.ac.uk
 msecnd.net
 msedge.net
+msftauthimages.net
 msftauth.net
 msftconnecttest.com
 msfteducation.ca
