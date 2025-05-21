@@ -16124,6 +16124,7 @@ ld.hao123img.com
 ldoc-cdt.ac.uk
 ldplayer.net
 ldplayer.tw
+ldstatic.com
 le.ac.uk
 leadershipfoundation.ac.uk
 leadershiphe.ac.uk
@@ -16431,6 +16432,7 @@ linkuswell.com
 linotype.com
 linseysworld.com
 linst.ac.uk
+linux.do
 linuxfoundation.org
 linuxfromscratch.org
 linuxmint.com
