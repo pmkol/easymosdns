@@ -1283,11 +1283,15 @@ aka.ms
 akasha.world
 akastream.com
 akastream.net
+akatest.tripcdn.com
 akatns.net
 akiba-online.com
 akiba-web.com
 akinator.com
 akow.org
+ak-p.tripcdn.com
+ak-s-cw.tripcdn.com
+ak-s.tripcdn.com
 akthelp.com
 alabout.com
 alanhou.com
@@ -2840,6 +2844,7 @@ avxlive.icu
 avxxc.com
 avyahoo.com
 awayoutgame.com
+aw-d.tripcdn.com
 aweencore.com
 awempire.com
 awesomeent.co.kr
@@ -2848,6 +2853,7 @@ awfdcp.ac.uk
 awflapp.top
 awjq.cc
 awlc.ac.uk
+aw-p.tripcdn.com
 awsautopilot.com
 awsautoscaling.com
 awsbraket.com
@@ -2865,6 +2871,7 @@ awssecworkshops.com
 awsstatic.com
 awsthinkbox.com
 awstrack.me
+aw-s.tripcdn.com
 awstrust.com
 awwcn.buzz
 awwcn.xyz
