@@ -599,6 +599,7 @@ full:staging-controlbe.floonet.goog
 full:staging-databe.floonet.goog
 full:staging.databe.floonet.goog
 full:staging-regioninfo-pa.googleapis.com
+full:start.htc.com
 full:static-exp1.licdn.com
 full:static.gc.apple.com
 full:static.image-gmkt.com
@@ -653,6 +654,7 @@ full:tesla-cdn.thron.cn
 full:test.bugs-qa.chromium.org
 full:test.gbugs-qa.chromium.org
 full:tf-feedback.itunes.apple.com
+full:thinkcloud.lenovo.com
 full:tiles.xbox.com
 full:time.amazonaws.cn
 full:time.izatcloud.net
@@ -691,6 +693,7 @@ full:upp.itunes.apple.com
 full:userstats.xboxlive.com
 full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
+full:verdaccio.cnno1.uds-qa.lenovo.com
 full:vext.corp.google.com
 full:visualstudio.download.prss.microsoft.com
 full:vscode.download.prss.microsoft.com
