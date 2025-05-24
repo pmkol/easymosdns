@@ -8,6 +8,7 @@ full:a2.mzstatic.com
 full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
+full:account.cdnetworks.com
 full:account.samsung.com
 full:achievements.xboxlive.com
 full:adcdownload.apple.com
