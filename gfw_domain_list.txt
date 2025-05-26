@@ -1856,7 +1856,6 @@ api-extractor.com
 apigee.com
 api.linksalpha.com
 apina.biz
-api.nebula-emby.com
 api.news
 api.pureapk.com
 api.recaptcha.net
@@ -13793,7 +13792,16 @@ ibeats-uk.com
 ibiblio.org
 ibis.ac.uk
 ibit.am
+ibkr.ca
+ibkr.co.in
 ibkr.com
+ibkr.com.au
+ibkr.com.hk
+ibkr.com.sg
+ibkr.co.uk
+ibkr.eu
+ibkrguides.com
+ibkr.ie
 iblist.com
 ibllc.com
 iblogserv-f.net
@@ -18530,6 +18538,7 @@ mpw.ac.uk
 mpweekly.com
 mql5.com
 mqxd.org
+mradx.net
 mray.club
 mrbasic.com
 mrbdsm.com
@@ -23241,6 +23250,7 @@ roses.ac.uk
 rosetta.ac.uk
 roshy.tv
 roslin.ac.uk
+rostaxi.org
 rothamsted.ac.uk
 rotherham.ac.uk
 rotherham-coll.ac.uk
@@ -28506,6 +28516,7 @@ viznet.ac.uk
 vizvaz.com
 vjav.com
 vjmedia.com.hk
+vk-analytics.ru
 vk-apps.com
 vk-apps.ru
 vkcache.com
@@ -29097,7 +29108,6 @@ webkit.org
 weblagu.com
 webmoneyinfo.com
 webmproject.org
-web.nebula-emby.com
 webnovel.com
 webobjects.com
 webobjects.co.uk
@@ -30490,14 +30500,17 @@ yammer.com
 yamoon.club
 yam.org.tw
 yande.re
+yandexadexchange.net
 yandex.aero
 yandex.az
+yandex-bank.net
 yandex.by
 yandexcloud.net
 yandex.co.il
 yandex.com
 yandex.com.am
 yandex.com.ge
+yandexcom.net
 yandex.com.ru
 yandex.com.tr
 yandex.com.ua
@@ -30506,6 +30519,7 @@ yandex.ee
 yandex.eu
 yandex.fi
 yandex.fr
+yandex-images.clstorage.net
 yandex.jobs
 yandex.kg
 yandex.kz
@@ -30522,6 +30536,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yandexwebcache.org
 yanghengjun.com
 yangjianli.com
 yantaqu.com
