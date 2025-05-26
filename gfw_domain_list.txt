@@ -11355,6 +11355,7 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
+gemini.google
 gen2.ac.uk
 gendai.net
 generated.photos
