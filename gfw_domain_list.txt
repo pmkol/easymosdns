@@ -23484,8 +23484,14 @@ s2csntp.miz.nao.ac.jp
 s2stagehance.com
 s3.amazonaws.com
 s3-ap-*.amazonaws.com
+s3-ap-northeast-1.amazonaws.com
+s3-ap-northeast-2.amazonaws.com
+s3.ap-northeast-2.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
+s3-eu-central-1.amazonaws.com
+s3.eu-central-1.amazonaws.com
+s3.us-east-1.amazonaws.com
 s81c.com
 s8ds5gfm.xyz
 s8forum.com
