@@ -5791,6 +5791,7 @@ cdn1.lp.saboom.com
 cdn77.com
 cdn77.org
 cdn.ac.uk
+cdn.arstechnica.net
 cdn.assets.lfpcontent.com
 cdnews.com.tw
 cdn.helixstudios.net
@@ -6267,6 +6268,7 @@ cias.ac.uk
 ciattackers.com
 cib.ac.uk
 ciciai.com
+cici.com
 cicl.ac.uk
 cied.ac.uk
 ciemap.ac.uk
