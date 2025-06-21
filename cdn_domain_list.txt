@@ -728,6 +728,7 @@ full:www.googleadapis.com
 full:www-google-analytics.l.google.com
 full:www-googletagmanager.l.google.com
 full:www.gstatic.com
+full:www.htcsense.com
 full:www.htcvive.com
 full:www.ibm.com
 full:www.ikea.com
