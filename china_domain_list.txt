@@ -10255,7 +10255,6 @@ admin6.com
 admin88.com
 admincdn.com
 adminer.com
-adminportal.cdnetworks.com
 admintony.com
 adminxe.com
 adminxy.com
@@ -10350,6 +10349,7 @@ adxhi.com
 adxhome.com
 adxiaozi.com
 adxliangmei.com
+adxmax.com
 adxmq.com
 adx.ms
 adxpand.com
@@ -29612,7 +29612,6 @@ densesndysn.com
 denson168.com
 dentistshow.com
 denverokie.com
-deny-netfilter.uds-dev.lenovo.com
 denzacloud.com
 deosen.com
 deosin.com
@@ -30284,6 +30283,7 @@ diaoyy.com
 diary365.net
 diaxue.com
 diazha.com
+dibaifang.com
 dibang18.com
 dibangshou.com
 dibaotong.com
@@ -30692,6 +30692,7 @@ djec.net
 djeconomic.com
 djf313.com
 djf.com
+djfensi.com
 djfj.net
 djfrj.com
 djgy.com
@@ -31068,6 +31069,7 @@ dnsis.net
 dnsjia.com
 dnsjiasu001.com
 dns.la
+dnslah.com
 dnslin.com
 dnslv.com
 dnsmeasurement.com
@@ -47800,6 +47802,7 @@ heygears.com
 heyi.com
 heyiguangye.com
 heyiguoyuan.com
+heyimiao.com
 heyingcn.com
 heyingedu.com
 heyinguanli.com
@@ -58453,6 +58456,7 @@ jjwxc.org
 jjxxk.com
 jjxyls.com
 jjy118.com
+jjycc.cc
 jjycw.net
 jjydp.com
 jjygym.com
@@ -70012,7 +70016,6 @@ metnews.net
 metong.com
 metools.info
 met.red
-metrics.deploy.akamai.com
 metro-3d.com
 metroer.com
 metrofastpass.com
@@ -71147,6 +71150,7 @@ moa06190ju.com
 moa06191ju.com
 moa06210ju.com
 moa06211ju.com
+moa06221ju.com
 moage.com
 mob55.com
 mobaders.com
@@ -91289,6 +91293,7 @@ steelsearcher.com
 steel-spot.com
 stefg.org
 stegameskins.com
+stelinno.com
 stellarplayer.com
 stemceltech.com
 step-by-step.tech
@@ -100486,7 +100491,6 @@ wae-logistics.com
 waerfa.com
 waesedu.com
 wafatea.com
-waf.cdnetworks.com
 wafcn.com
 wafsudun.com
 wafunny.com
@@ -119448,6 +119452,7 @@ zoular.com
 zouming.cc
 zoutu.com
 zouzhiqiang.com
+zouzhi.world
 zovps.com
 zowoyoo.com
 zox3ue.com

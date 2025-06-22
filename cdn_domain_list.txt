@@ -15,6 +15,7 @@ full:adcdownload.apple.com
 full:adcdownload.apple.com.akadns.net
 full:adfarm.mediaplex.com
 full:ad.mediaplex.com
+full:adminportal.cdnetworks.com
 full:admob-cn.com
 full:adservice.google.com
 full:ai.ytimg.com
@@ -182,6 +183,7 @@ full:cueme-api.quark.cn
 full:dartsearch-cn.net
 full:dd-cdn.origin-apple.com.akadns.net
 full:dejavu.apple.com
+full:deny-netfilter.uds-dev.lenovo.com
 full:devblogs.microsoft.com
 full:developer.microsoft.com
 full:devimages-cdn.apple.com
@@ -222,6 +224,7 @@ full:ec4.images-amazon.com
 full:ec8.images-amazon.com
 full:editorial.xboxlive.com
 full:eds.xboxlive.com
+full:egg.htcsense.com
 full:emdl.ws.microsoft.com
 full:emmapplecodevice.googleapis.com
 full:emoi-cncdn.bing.com
@@ -251,6 +254,8 @@ full:gateway.craft.moe
 full:gdssl.image-gmkt.com
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
+full:geo-prism-cn.htcsense.com
+full:geo-prism.htcsense.com
 full:gfwsl.geforce.com
 full:gmskiosk-ssl.corp.google.com
 full:go.corp.google.com
@@ -319,6 +324,8 @@ full:gvt2-cn.com
 full:hdn.xnimg.cn.cdngc.net
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
+full:home-cn.htcsense.com
+full:home.htcsense.com
 full:hospital.pku.edu.cn
 full:iadsdk.apple.com
 full:icloud.cdn-apple.com
@@ -416,6 +423,7 @@ full:menu-static.gog-statics.com
 full:mesu.apple.com
 full:mesu-cdn.apple.com.akadns.net
 full:mesu-china.apple.com.akadns.net
+full:metrics.deploy.akamai.com
 full:mini5cn-1.opera-mini.net
 full:mini5cn.opera-mini.net
 full:misc-assets.itunes.apple.com
@@ -601,6 +609,7 @@ full:staging-databe.floonet.goog
 full:staging.databe.floonet.goog
 full:staging-regioninfo-pa.googleapis.com
 full:start.htc.com
+full:start.htcsense.com
 full:static-exp1.licdn.com
 full:static.gc.apple.com
 full:static.image-gmkt.com
@@ -699,6 +708,7 @@ full:vext.corp.google.com
 full:visualstudio.download.prss.microsoft.com
 full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
+full:waf.cdnetworks.com
 full:wear.googleapis.com
 full:weather-data.apple.com
 full:weather-data.apple.com.akadns.net
@@ -709,6 +719,7 @@ full:web-service.halo.xbox.com
 full:web-service-ssl.halo.xbox.com
 full:webview.unityads.unity3d.com
 full:wl.dlservice.microsoft.com
+full:wmota.htcsense.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:www-05.ibm.com
