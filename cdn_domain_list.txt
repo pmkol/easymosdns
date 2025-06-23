@@ -1,5 +1,6 @@
 full:1.cms.s81c.com
 full:1.www.s81c.com
+full:2-01-5830-0005.cdx.cedexis.net
 full:265.com
 full:2mdn-cn.net
 full:2mdn.net
@@ -502,6 +503,7 @@ full:play.music.apple.com
 full:plus.djicdn.com
 full:poseidon.dl.playstation.net
 full:prm.dji.com
+full:prm.lenovo.com
 full:probe.siri.apple.com
 full:prod-controlbe.floonet.goog
 full:prod-databe.floonet.goog

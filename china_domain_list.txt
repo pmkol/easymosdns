@@ -3829,6 +3829,7 @@
 360anyu.com
 360boclub.com
 360-bo.com
+360bsafe.com
 360buy.com
 360buyimg.com
 360buyinternational.com
@@ -6370,6 +6371,7 @@
 56gk.com
 56hb.com
 56home.org
+56idc.com
 56img.com
 56img.net
 56imgs.com
@@ -7117,6 +7119,7 @@
 6666sa.com
 6666xsw.com
 66688.photo
+6668dns.com
 6669667.com
 666aa777bb.com
 666bb777ww.com
@@ -7984,6 +7987,7 @@
 7youxi.com
 7yuki.com
 7yun.com
+7yundns.com
 7yun.org
 7yz.com
 7yzone.com
@@ -9129,6 +9133,7 @@
 95262.com
 9527cha.com
 9527cloud.com
+9527dns.com
 9527g.com
 95303.com
 95311.com
@@ -9720,6 +9725,7 @@
 9xinli.com
 9xiu.com
 9xiuzb.com
+9xo9.com
 9xs.org
 9xu.com
 9xun.com
@@ -13664,13 +13670,24 @@ aword.net
 awotuan.com
 awoyun.com
 awsamazonlab.com
+awsdns-cn-00.com
 awsdns-cn-00.net
 awsdns-cn-01.biz
 awsdns-cn-01.net
+awsdns-cn-02.biz
 awsdns-cn-02.net
 awsdns-cn-03.biz
+awsdns-cn-04.net
+awsdns-cn-05.biz
 awsdns-cn-05.net
+awsdns-cn-06.com
+awsdns-cn-06.net
 awsdns-cn-07.biz
+awsdns-cn-07.com
+awsdns-cn-07.net
+awsdns-cn-09.biz
+awsdns-cn-09.com
+awsdns-cn-09.net
 awsdns-cn-10.com
 awsdns-cn-11.biz
 awsdns-cn-11.com
@@ -13681,49 +13698,79 @@ awsdns-cn-14.com
 awsdns-cn-15.net
 awsdns-cn-16.biz
 awsdns-cn-17.biz
+awsdns-cn-17.com
 awsdns-cn-17.net
 awsdns-cn-18.biz
+awsdns-cn-18.net
+awsdns-cn-19.biz
 awsdns-cn-19.net
 awsdns-cn-20.biz
+awsdns-cn-20.com
 awsdns-cn-20.net
 awsdns-cn-21.biz
+awsdns-cn-21.net
+awsdns-cn-22.com
 awsdns-cn-22.net
 awsdns-cn-23.com
+awsdns-cn-24.biz
 awsdns-cn-24.com
 awsdns-cn-24.net
+awsdns-cn-25.com
+awsdns-cn-25.net
+awsdns-cn-26.com
+awsdns-cn-27.biz
+awsdns-cn-27.com
+awsdns-cn-28.biz
 awsdns-cn-28.net
 awsdns-cn-29.biz
 awsdns-cn-31.net
+awsdns-cn-33.net
+awsdns-cn-34.com
+awsdns-cn-35.biz
 awsdns-cn-35.net
 awsdns-cn-36.biz
+awsdns-cn-36.com
 awsdns-cn-36.net
 awsdns-cn-37.biz
+awsdns-cn-37.com
 awsdns-cn-37.net
 awsdns-cn-38.net
 awsdns-cn-39.biz
+awsdns-cn-39.com
 awsdns-cn-40.biz
+awsdns-cn-40.com
 awsdns-cn-40.net
 awsdns-cn-41.biz
+awsdns-cn-41.com
+awsdns-cn-41.net
 awsdns-cn-42.biz
+awsdns-cn-42.com
 awsdns-cn-43.biz
 awsdns-cn-44.com
 awsdns-cn-44.net
 awsdns-cn-45.biz
+awsdns-cn-45.com
 awsdns-cn-45.net
+awsdns-cn-46.biz
 awsdns-cn-46.com
+awsdns-cn-46.net
 awsdns-cn-47.biz
 awsdns-cn-47.com
 awsdns-cn-47.net
+awsdns-cn-48.biz
 awsdns-cn-48.com
 awsdns-cn-48.net
 awsdns-cn-49.biz
 awsdns-cn-50.biz
 awsdns-cn-50.net
+awsdns-cn-51.biz
 awsdns-cn-51.com
 awsdns-cn-52.biz
 awsdns-cn-52.com
 awsdns-cn-52.net
 awsdns-cn-53.com
+awsdns-cn-54.biz
+awsdns-cn-54.net
 awsdns-cn-55.biz
 awsdns-cn-55.com
 awsdns-cn-55.net
@@ -13731,10 +13778,16 @@ awsdns-cn-56.biz
 awsdns-cn-56.net
 awsdns-cn-57.com
 awsdns-cn-58.biz
+awsdns-cn-58.com
 awsdns-cn-58.net
+awsdns-cn-59.biz
+awsdns-cn-59.net
+awsdns-cn-60.biz
 awsdns-cn-60.com
 awsdns-cn-60.net
+awsdns-cn-61.biz
 awsdns-cn-62.biz
+awsdns-cn-62.com
 awsdns-cn-62.net
 awsdns-cn-63.biz
 awsdns-cn-63.net
@@ -21992,6 +22045,7 @@ chinacraa.org
 chinacrane.net
 chinacrankshaft.com
 chinacreator.com
+china-cri.com
 chinacrops.org
 chinacrosspoint.com
 chinacrt.com
@@ -22021,6 +22075,7 @@ chinadatatrading.com
 chinadazhaxie.com
 chinadbs.com
 chinaddn.com
+chinaddos.com
 chinadds.net
 china-denox.com
 chinadentalshow.com
@@ -24314,6 +24369,7 @@ cmdns.xyz
 cmdpe.com
 cmdschool.org
 cmdsir.com
+cmd.tw
 cmdw.vip
 cme021.com
 cmea-crtc.com
@@ -24679,6 +24735,7 @@ cn-dlmgr-sdc.blurdev.com
 cndl.vip
 cndmaterial.com
 cndns5.com
+cndnscn.com
 cndns.com
 cndoct.com
 cndog.net
@@ -25227,6 +25284,7 @@ cnscee.com
 cnsce.net
 cn-school.com
 cnsciedu.com
+cnscn.com
 cnscnet.com
 cnscore.com
 cnsdb.com
@@ -29847,6 +29905,7 @@ dgcia.com
 dgcpkl.com
 dgddh.xyz
 dgdita.com
+dg-dns.com
 dgdq1688.com
 dgdqw.com
 dg-dx.com
@@ -30986,9 +31045,11 @@ dns6132.com
 dns666.com
 dns6868.com
 dns800.com
+dnsabc.com
 dnsany.com
 dnsapi12.com
 dnsbbzj.com
+dnsbubu.com
 dnsce.com
 dnscnc.com
 dns.com
@@ -37240,6 +37301,7 @@ free9.net
 free-api.com
 freebuf.com
 freebz.net
+freecomm.net
 freedgo.com
 freedirlist.com
 free-doctor.com
@@ -37464,6 +37526,7 @@ fslyx.com
 fsmama.com
 fsmcled.com
 fsmeeting.com
+fsmi818.com
 fs.microsoft.com
 fsnewage.com
 fsoet.com
@@ -45125,6 +45188,7 @@ h2o-china.com
 h2os.com
 h2vm.com
 h2weilai.com
+h389.com
 h3c.com
 h3c.com.hk
 h3cfuwuqi.com
@@ -48073,6 +48137,7 @@ hhzm88.com
 hhzyjng.com
 hi0755.net
 hi138.com
+hi169.net
 hi1718.com
 hi2000.com
 hi2000.net
@@ -50365,6 +50430,7 @@ httpsok.com
 httpssl.com
 htucloud.com
 htudata.com
+htudns.com
 hturl.cc
 htv123.com
 htvaas.com
@@ -56644,6 +56710,8 @@ jiafuda.com
 jiagedan.com
 jiagela.com
 jiagle.com
+jiagoo.com
+jiagoo.net
 jiagouyun.com
 jiaguanlaw.com
 jiaguboshi.com
@@ -58260,6 +58328,7 @@ jjbang.com
 jjbank.net
 jjbbs.com
 jjbctv.com
+jjbdns.com
 jjbearings.com
 jjbhn.com
 jjbisai.com
@@ -58595,6 +58664,7 @@ jmd-china.com
 jmdedu.com
 jmd-leatherbag.com
 jmdna.com
+jmdns.com
 jmed.com
 jmeii.com
 jmeizs.com
@@ -59516,6 +59586,7 @@ jsmo.xin
 jsmrmf.com
 jsmsg.com
 j-smu.com
+jsmuseum.com
 jsmxgs.com
 jsmxkj.com
 jsmxw.com
@@ -64346,6 +64417,7 @@ le5le.com
 le855.com
 le890.com
 le8.com
+leacloud.net
 leacol.com
 leadal.com
 leadal.net
@@ -66689,6 +66761,7 @@ longmeng.com
 longmen.net
 longmen-pharma.com
 longming.com
+longmingdns.com
 longnanke.com
 longo.ltd
 longoo.com
@@ -68363,6 +68436,7 @@ madouvip.com
 madserving.com
 maemo.cc
 maerdancdn.com
+mafadns.com
 mafa.tech
 mafengs.com
 mafengwo.com
@@ -71181,6 +71255,7 @@ moeyuuko.com
 moeyy.xyz
 moezx.cc
 mofacdnode.com
+mofadns.online
 mofahou.com
 mofangchuxing.com
 mofang.com
@@ -73331,6 +73406,7 @@ netvp.net
 networkbench.com
 network.deploy.akamai.com
 networkesl.com
+network-hk.com
 networklo.com
 netzonesoft.com
 neucrack.com
@@ -75261,6 +75337,8 @@ nsm-electrical.com
 nsmodel.com
 nsmovie.com
 nsoad.com
+nsqtlcdn.cc
+nsqtlcdn.info
 nsrcup.com
 nsrfww.com
 nsrjlb.com
@@ -76918,6 +76996,7 @@ padddy.vip
 paddlepaddle.org
 paddlewaver.com
 padh.net
+padns.com
 padtf.com
 pafj.net
 pafwl.com
@@ -78905,7 +78984,6 @@ privatess.win
 privspace.net
 prjdrj.com
 prkfyy.com
-prm.lenovo.com
 prnewspress.com
 pro001.com
 pro400.com
@@ -78954,6 +79032,7 @@ prositsole.com
 prostar-cn.com
 pros-view.com
 protect-file.com
+protong.com
 protontechcn.com
 proup.club
 providence-chemicals.com
@@ -79514,6 +79593,7 @@ qcloud-edumall.com
 qclouder.com
 qcloudestate.com
 qcloudgme.com
+qcloudgslb.com
 qcloudimg.com
 qcloudipv6.com
 qcloud.la
@@ -81968,6 +82048,7 @@ qweather.com
 qweather.net
 qwen.ai
 qwenlm.ai
+qwerdns.com
 qwerhost.com
 qwfync.com
 qwgg.com
@@ -85020,6 +85101,7 @@ scrc168.com
 scrcnet.org
 scrcu.com
 scredcross.com
+scrft.com
 scriptcat.org
 scriptjc.com
 scrm.so
@@ -89575,6 +89657,7 @@ slcad.com
 slchos.com
 slcyber.icu
 sldhc.com
+sldns1.com
 slduntong.com
 sleele.com
 sleepboy.com
@@ -91051,6 +91134,7 @@ starstech.cc
 starsuki.net
 starswar.org
 startcarlife.com
+startcomca.net
 start.dji.com
 startdt.com
 startech.ltd
@@ -94198,6 +94282,7 @@ tccxfw.com
 tcdinfo.com
 tcdj.com
 tcdlive.com
+tcdneo.com
 tcdnext.com
 tcdnhw.com
 tcdnkcbak.com
@@ -94936,6 +95021,7 @@ thegiac.com
 thegraduation.store
 thegreatwall-china.com
 thehanshow.com
+theheirism.com
 theicstock.com
 thejamy.com
 thejiangmen.com
@@ -96661,6 +96747,7 @@ tracegd.com
 traceint.com
 tracestour.com
 tracevision.tv
+tracker.ink
 trackingio.com
 trackingmore.com
 tracup.com
@@ -98967,6 +99054,7 @@ uwn.com
 uwntek.com
 u-workshop.com
 uworter.com
+uwparking.com
 ux18.com
 ux87.com
 uxacn.com
@@ -100494,6 +100582,7 @@ wanfangdata.com
 wanfangtech.com
 wanfangtech.net
 wanfantian.com
+wanfayun.com
 wanfoquan.com
 wanfucc.com
 wanfudaluye.com
@@ -100729,6 +100818,7 @@ wanmeilr.com
 wanmei.net
 wanmeiyunjiao.com
 wanmi.com
+wanming.com
 wanmingpiano.com
 wannaenergy.com
 wannaexpresso.com
@@ -103761,6 +103851,7 @@ wscstrace.com
 wscvdns.com
 wsdianzi.com
 wsdks.com
+wsdlb.com
 wsdqd56.com
 wsdtex.com
 wsdvs.com
@@ -104034,6 +104125,7 @@ wuhuwater.com
 wuhuzr.com
 wuhzx.com
 wui5.com
+wuip.com
 wujia800.com
 wujianghongyi.com
 wujianghr.com
@@ -107542,6 +107634,7 @@ xjjhjt.com
 xjjnjp.org
 xjjqd154.com
 xjjsws.com
+xjjt.com
 xjkangjia.com
 xjks.net
 xjkyc.com
@@ -108072,7 +108165,6 @@ xn--dtq23gl66e.com
 xndxfz.com
 xndyyljt.com
 xn--e1t46na.xn--6qq986b3xl
-xn--e6qx8b.xn--3bst00m
 xn--ebr05n.com
 xn--eh1a34ykpl.com
 xn--ehq647i.xn--j6w193g
@@ -113396,6 +113488,7 @@ yst100.net
 ystan.com
 ystb.com
 ystbds.com
+ystencdn.com
 ysten.com
 ystkw.com
 ysts.cc
@@ -113508,6 +113601,7 @@ ytphq.com
 ytport.com
 ytpowder.com
 ytpp.com
+ytpu.com
 ytqh-electric.com
 ytrain.com
 ytrcw.com
@@ -114057,6 +114151,7 @@ yundianjia.com
 yundianseo.com
 yundiantech.com
 yundingdun.com
+yun-dns.com
 yundongfang.com
 yundonghao.com
 yundongit.com
