@@ -1100,7 +1100,6 @@ api.parse.com
 api.prooffactor.com
 api.quantumgraph.com
 apis.appnxt.net
-api.statsig.com
 api.taps.io
 api.unthem.com
 api.usebutton.com
@@ -3103,6 +3102,7 @@ ia.iinfo.cz
 iapclick.gowadogo.com
 iasds01.com
 iaudienc.com
+iauzsghijpmq.com
 ibd-as-api.iq.com
 ib-ibi.com
 i.cdnkimg.com
@@ -3548,6 +3548,7 @@ lizardslaugh.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
 llink.site
+llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
@@ -4294,6 +4295,7 @@ oxado.com
 oxcash.com
 oxen.hillcountrytexas.com
 oxthrilled.com
+oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
@@ -6275,6 +6277,7 @@ workervanewalk.com
 worldgravity.com
 worldoffersdaily.com
 worldwide-cash.net
+wormslitty.top
 worriednumber.com
 worshippers.store
 worstideatum.com
@@ -6429,6 +6432,7 @@ xq1.net
 xrea.com
 xruamzpanbca.com
 xsaeafkfilbcur.com
+xsaheqapygdykxq.com
 xstats.evoload.io
 xszpuvwr7.com
 xtendmedia.com
