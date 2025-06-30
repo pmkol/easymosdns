@@ -331,9 +331,11 @@ plugins:
             - forward_local
             - ttl_1m
             # 预防已知的本地域名临时污染
-            - if: "(! response_has_gfw_ip)"
+            - if: response_has_gfw_ip
               exec:
-                - _return
+                - ecs_local
+                - forward_easymosdns
+            - _return
 
         # 已知的污染域名用分流服务器或远程服务器解析
         - if: query_is_non_local_domain
