@@ -31641,6 +31641,7 @@ dragonballcn.com
 dragon-chem.com
 dragon-download.msi.com
 dragonest.com
+dragonfgame.com
 dragonfly.fun
 dragon-guide.net
 dragon-hotel.com
@@ -37672,6 +37673,7 @@ fuxinghf.com
 fuxingtech.com
 fuxingwang.com
 fuxin-sh.com
+fuxuanji-jp.com
 fuxunpay.com
 fuyangbio.com
 fuyang.com
@@ -39810,6 +39812,7 @@ gingyan.com
 ginlong.com
 ginshio.org
 ginwa.com
+gio07231rp.com
 gioccc.com
 giocdn.com
 gionee.com
@@ -45112,6 +45115,7 @@ haier.com
 haierfinancial.com
 haier.hk
 haier-ioc.com
+haiermoney.com
 haier.net
 haiershequ.com
 haiershui.com
@@ -55813,6 +55817,7 @@ jcnano.com
 jcnk120.com
 jcno.net
 jcodecraeer.com
+jc-pcba.com
 jcpeixun.com
 jcpesz.com
 jcqzw.com
@@ -76198,6 +76203,7 @@ osbkj.com
 osbzr.com
 oscaches.com
 oscarzhoud.com
+osc.cool
 oschina.com
 oschina.io
 oschina.net
@@ -76239,6 +76245,7 @@ osp.io
 ospod.com
 osportsmedia.com
 ospp.com
+ospserver.net
 osredm.com
 osrelease.download.prss.microsoft.com
 oss-cn-beijing-aliyuncs.com
@@ -82783,6 +82790,7 @@ rippletek.com
 riqicha.com
 risc-v1.com
 riscv.club
+riscv-dev.tech
 riscv-mcu.com
 riscv-summit.com
 risde.com
@@ -83951,6 +83959,7 @@ samsunganycar.com
 samsungcloudcn.com
 samsungconnectivity.com
 samsunghealthcn.com
+samsungosp.com
 samsungyx.com
 sam-tec.com
 samton.net
@@ -89425,6 +89434,7 @@ smsbao.com
 smshos.com
 smshx.com
 smskb.com
+smslk1.com
 smslkcoffee.com
 smsot.com
 smsvifv.com
