@@ -1,17 +1,17 @@
 # EasyMosdns v3.5
 
-基于Mosdns的精准DNS分流策略，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器。<br />
+基于Mosdns-x的精准DNS分流策略，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器。<br />
 
 ## About Mosdns
 
-[Mosdns](https://github.com/IrineSistiana/mosdns) 是一个插件化的DNS转发/分流器。用户可以按需拼接插件，搭建适合自己的DNS服务器。<br />
+[Mosdns-x](https://github.com/pmkol/mosdns-x) 是一个插件化的DNS转发/分流器。用户可以按需拼接插件，搭建适合自己的DNS服务器。<br />
 
 配置灵活的优点可以满足各种场景下的DNS使用，相对也会有较高的使用门槛，无法开箱即用。<br />
 <br />
 
 ## About EasyMosdns
 
-[EasyMosdns](https://apad.pro/easymosdns) 是基于Mosdns制作的EDNS部署方案，内置中国大陆地区优化规则与分流API，满足DNS日常使用场景。<br />
+[EasyMosdns](https://apad.pro/easymosdns) 是基于 Mosdns/Mosdns-x 制作的EDNS部署方案，内置中国大陆地区优化规则与分流API，满足DNS日常使用场景。<br />
 
 #### 转发规则：
 
@@ -40,7 +40,7 @@
 
 #### 打赏项目：
 
-打赏项目的用户可参与测试支持DoT与DoH(http2/3)且更精准的分流API
+打赏项目的用户可参与测试支持 DoT/DoQ/DoH/DoH3 且更精准的分流API
 [前往发电](https://afdian.com/a/maplecool) <br />
 
 #### 更多信息：
@@ -54,7 +54,7 @@ https://apad.pro/easymosdns/ <br />
 #### 请先确认：
 
 - Mosdns已安装且可以正常运行
-- Mosdns版本 4.5.3
+- Mosdns版本 4.5.3 或 Mosdns-x
 - Mosdns工作目录是否为 /etc/mosdns
 - config配置文件已备份
 - config配置文件中'protocol: udp'与'protocol: tcp'字段下方的`addr:`使用的端口号
@@ -311,10 +311,10 @@ mosdns service start
 
 - 项目完整开源，可用于部署DNS服务器、开发软路由插件等多种场景
 - 使用源码仅需标明使用 [EasyMosdns](https://apad.pro/easymosdns) 的源码即可
-- 配置文件相关问题，请查阅 [Mosdns-Wiki](https://irine-sistiana.gitbook.io/mosdns-wiki/mosdns-v4)
+- 配置文件相关问题，请查阅 [Mosdns-x Wiki](https://github.com/pmkol/mosdns-x/wiki)
 <br />
 
 ## Contact Us
 
 For feedback, questions, and to follow the progress of the project: <br />
-[Telegram Group](https://t.me/+VeV5wt1E6FA5Ue-x)
+[Telegram Group](https://t.me/mosdns)
