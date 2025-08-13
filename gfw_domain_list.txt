@@ -3638,6 +3638,7 @@ beth.games
 bethsoft.com
 betterbim.com
 betterexplained.com
+betterhash.net
 betterhdporn.com
 betternet.co
 betternike.com
@@ -12645,6 +12646,7 @@ heroku.co
 heroku.com
 heroku.me
 herokussl.com
+herominers.com
 heron.ac.uk
 herringnetwork.com
 hertfordshire.ac.uk
