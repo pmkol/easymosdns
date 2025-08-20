@@ -105258,7 +105258,6 @@ xiaomicorp.net
 xiaomicp.com
 xiaomidns.com
 xiaomidns.net
-xiaomi.eu
 xiaomiev.com
 xiaomiflash.com
 xiaomi.hk
@@ -107054,6 +107053,7 @@ xn--4xup5j.com
 xn--54q23ckxiyx0e.com
 xn--54q249denfzw9a.net
 xn--54q40czz0g7xp.com
+xn--55qw42g
 xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
 xn--55qwa79fh6ku8czve.com
 xn--55qx2ag79c1iq.com
