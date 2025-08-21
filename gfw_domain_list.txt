@@ -11308,6 +11308,7 @@ ghcr.io
 ghettotube.com
 ghidra-sre.org
 ghil.ac.uk
+gh.io
 ghostgames.com
 ghostpath.com
 ghut.org
