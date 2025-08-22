@@ -11364,6 +11364,7 @@ gisplanning.com
 gitbook.com
 gitbook.io
 github1s.com
+github.ai
 githubapp.com
 githubassets.com
 github.blog
