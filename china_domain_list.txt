@@ -25748,7 +25748,6 @@ copperalliance.asia
 copperhome.net
 copyedu.com
 copyfuture.com
-copy-manga.com
 copyswisswatches.com
 copythelink.com
 copywatchstyle.com
@@ -29267,6 +29266,7 @@ delixi-electric.com
 deliyun.com
 dell027.com
 dell-alw.com
+dell-brand.com
 dellecs.com
 dellemc-solution.com
 dellenglish.com
@@ -37383,6 +37383,7 @@ funcrea.com
 functionads.com
 functionaltextilesshanghai.com
 functioncool.com
+functiongraph.run
 fund001.com
 fundebug.com
 fundebug.net
@@ -68055,9 +68056,7 @@ manfen5.com
 manfen.net
 manfred-auto.com
 manfrottoclub.com
-mangacopy.com
 mangafuna.xyz
-mangafunb.fun
 manganesenanhai.com
 mangg.com
 mangguo168.com
@@ -77627,6 +77626,7 @@ plateno.cc
 plateno.com
 platenogroup.com
 platform-cn.com
+platform.dell.com
 platinumchina.com
 platinum-traveller.com
 plat.smartedu.lenovo.com
@@ -82580,6 +82580,7 @@ roaing.com
 robam.com
 robei.com
 roboeyeai.com
+robomaster.com
 roboo.com
 robook.com
 robopeak.net
