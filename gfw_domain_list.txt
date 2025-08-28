@@ -1579,6 +1579,7 @@ amazonaws.tv
 amazonbusinessblog.com
 amazonbusiness.org
 amazon.ca
+amazoncognito.com
 amazon.co.jp
 amazon.com
 amazon.com.au
@@ -2866,6 +2867,8 @@ awflapp.top
 awjq.cc
 awlc.ac.uk
 aw-p.tripcdn.com
+awsapprunner.com
+awsapps.com
 awsautopilot.com
 awsautoscaling.com
 awsbraket.com
