@@ -610,7 +610,6 @@ full:shop.samsung.com
 full:sh-pod2-smp-device.apple.com
 full:si.cdn.dell.com
 full:silverlight.dlservice.microsoft.com
-full:sina.com.hk
 full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:sm.dell.com
