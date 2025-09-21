@@ -687,6 +687,7 @@ aboutamazon.it
 aboutamazon.jp
 aboutamazon.pl
 aboutfacebook.com
+about.gitlab.com
 aboutmcdonalds.com
 about.me
 aboutporno.net
