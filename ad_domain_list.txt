@@ -178,7 +178,6 @@ adaction.de
 ad.adpon.jp
 adaftegloomto.com
 ad.anuntis.com
-ad.api.3g.tudou.com
 ad.apsalar.com
 adaptationreconsider.com
 adapt.tv
@@ -455,7 +454,6 @@ ads.casumoaffiliates.com
 ads.cbc.ca
 ads.cc
 ads.centraliprom.com
-adscfg.uqualities.com
 adschill.com
 adscholar.com
 adsclick.cc
@@ -651,7 +649,6 @@ adsonar.com
 ads.oneplace.com
 adsoptimal.com
 ads.opus-static.net
-adsoss.uqualities.com
 ads.outpersonals.com
 ads.p161.net
 ad-space.net
@@ -772,7 +769,6 @@ ad.tv2.no
 adultadvertising.com
 adultmoda.com
 ad.unimhk.com
-adunion.tapas.net
 adunity.com
 ad-up.com
 ad.usatoday.com
@@ -843,7 +839,6 @@ adxpose.com
 ad.xrea.com
 adxserve.com
 adx.trackrsad.com
-ad.xunkids.com
 adxvalue.com
 adyea.com
 adyieldoptimizer.com
@@ -852,7 +847,6 @@ adz2you.com
 adz2you.net
 ad.zanox.com
 adzbazar.com
-ad.zuimeitianqi.com
 aeffe3nhrua5hua.com
 aerodynomach.com
 af-ad.co.uk
@@ -1003,7 +997,6 @@ analytics.ahrefs.com
 analytics.alright.network
 analytics.amazing-media.com
 analyticsapi.bsbportal.com
-analytics-api.samsunghealthcn.com
 analytics-api.vanceai.com
 analytics.archive.org
 analytics-au.clickdimensions.com
@@ -1062,7 +1055,6 @@ analytics-track.machbird.com
 analytics.tuoitrau.com
 analytics.undrads.com
 analytics.webgains.io
-analytics.wondershare.cc
 analytics.youronlinechoices.com
 analytics.ziftsolutions.com
 an.cliphub.net
@@ -1094,7 +1086,6 @@ apfxpuatkla.com
 a.photowonder.net
 aphycolourses.info
 api2.poperblocker.com
-api-ad-adapter.wps.com
 api.adserver-e7.com
 api.ampiri.com
 api.appnxt.net
@@ -1177,7 +1168,6 @@ a.sakh.com
 asccdn.com
 ascentlitigateunsaved.com
 asdhhuztul.com
-asdkd.tutuapp.com
 asfobftirag.com
 asgclick.com
 asgclickkl.com
@@ -1476,7 +1466,6 @@ bimlocal.com
 binomnet3.com
 bitads.net
 bitcoinsports.org
-bi.yeshen.com
 bizrate.com
 bjads.bejbej.ca
 bjdxhs.com
@@ -1894,7 +1883,6 @@ clobberprocurertightwad.com
 clodderpickmaw.com
 clonesmesopic.com
 closablemardistiffness.com
-cloudcollect.meitudata.com
 cloueewinkles.com
 cloveswamptearing.com
 clrstm.com
@@ -2014,7 +2002,6 @@ counter.snackly.co
 counting.kmindex.ru
 count.ly
 count.rin.ru
-count.west263.com
 coupling-media.de
 cousesheethain.net
 coveredbetting.com
@@ -2328,7 +2315,6 @@ dmc1acwvwny3.cloudfront.net
 dm.gg
 dmp.starbolt.io
 dmtgo.upc.biz
-dm.toutiao.com
 dmtracker.com
 dmxleo.com
 dmxleo.dailymotion.com
@@ -2364,7 +2350,6 @@ doublepimpads.com
 doug1izaerwt3.cloudfront.net
 douglasjamestraining.com
 dowerlesssightseehow.com
-down.nishuoa.com
 downstairsnegotiatebarren.com
 dozubatan.com
 dpuplet.net
@@ -2822,8 +2807,6 @@ getstats.org
 getsthis.com
 getwisdom.io
 gfugafoz.com
-gf.umenglog.com
-ggimg.tapas.net
 ggreatstuff.com
 ggz48pxys.com
 ghochv3eng.trafficmanager.net
@@ -2970,7 +2953,6 @@ guvnatar.com
 gvsnhzmjr.com
 gwallet.com
 gwfqxkelp.com
-gw-iad-bid.ymmobi.com
 gwvlrourhdkp.com
 gwyvusam.com
 gy.anaheimnonfat.com
@@ -3140,7 +3122,6 @@ huwqhqezemv.com
 hv.pultosteduardo.com
 hvxnlmjx.com
 hwpnocpctu.com
-hw.zuimeitianqi.com
 hxgqqxopf.com
 hxpohplms.com
 hybrid.ai
@@ -3637,8 +3618,6 @@ lockerdomecdn.com
 locketcattishson.com
 loftsbaacad.com
 log.ajunews.com
-log.apk.v-mate.mobi
-log-auth.zztfly.com
 log.btopenworld.com
 log.cookieyes.com
 logger.snackly.co
@@ -3661,14 +3640,8 @@ log.snow.me
 logs.roku.com
 logs.spilgames.com
 logs.supersonic.com
-log.tutuapp.com
 logua.com
-log.umsns.com
-log-upload-eur.mihoyo.com
-log-upload.mihoyo.com
-log-upload-os.mihoyo.com
 log.x2convert.com
-log.ys7.com
 lollipopsurveys.com
 longingtrees.com
 loopassume.com
@@ -3983,9 +3956,7 @@ mrskincash.com
 mrybahnw.com
 mrycibqutoz.com
 mscoldness.com
-msg-intl.qy.net
 msgose.com
-msg.qy.net
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -4036,7 +4007,6 @@ mytdsnet.com
 mythings.com
 mytop-in.net
 myvisualiq.net
-n69.com
 nagoverpayreimburse.com
 naiadsystems.com
 naishoochoh.com
@@ -4161,7 +4131,6 @@ nppmwatch.com
 npttech.com
 nqcgdvuuyxwj.com
 nqucjilr.com
-nrc.tapas.net
 nrs6ffl9w.com
 nsfwadds.com
 ns.zdbb.net
@@ -4320,7 +4289,6 @@ openad.travelnow.com
 openclick.com
 openfpcdn.io
 openmarket.com
-open.oneplus.net
 opensharecount.com
 openvideoads.org
 openx.angelsgroup.org.uk
@@ -4361,7 +4329,6 @@ origunix.com
 oriori.com
 orlotalers.com
 ornpuxmucb.com
-ortshk.tapas.net
 orywrjsf.com
 osamagenius.com
 osamaimpact.com
@@ -4732,7 +4699,6 @@ promo-bc.com
 promobenef.com
 promos.fling.com
 promote.pair.com
-promotionad.nvcam.net
 promotionengine.com
 promo.vador.com
 promptsgod.com
@@ -4840,7 +4806,6 @@ pvclouds.com
 pv.medialead.de
 pvnocbyq.com
 pvrladcyxnico.com
-pv.sohu.com
 pwieu.com
 pwmctl.com
 pwysruffoza.com
@@ -4916,7 +4881,6 @@ qxadsk.com
 qzeavzrfaoqn.com
 qzyztuwulo.com
 r0ckeet.com
-r1.snnd.co
 r.3gl.net
 rabbitbreath.com
 radiate.com
@@ -5038,7 +5002,6 @@ rev2pub.com
 revampcdn.com
 revenuedirect.com
 revenue.net
-revenuenetwork.com
 revenuetonightperforming.com
 revive-adserver.net
 revmasters.com
@@ -5295,7 +5258,6 @@ sezwho.com
 sf960.com
 sfiannzilgi.com
 sghehllds.com
-sg-open-set-api.shenshiads.com
 shaiksuk.net
 shaiwourtijogno.net
 shakingtacklingunpeeled.com
@@ -5383,7 +5345,6 @@ smart4ads.com
 smartclick.net
 smartclip.net
 smart-dmp.com
-smartmad.com
 smartyads.com
 smashsurprise.com
 smeartoassessment.com
@@ -5414,7 +5375,6 @@ snap.licdn.com
 snebbubbled.com
 s.nitropay.com
 snitzsauteur.shop
-snnd.co
 snoobi.com
 snowdayonline.xyz
 snowplow-pixel.tradingview.com
@@ -5445,7 +5405,6 @@ songbagoozes.com
 songdew.pushengage.com
 son-in-lawmorbid.com
 soodejeego.net
-soperson.com
 s.optvz.com
 sordimtaulee.com
 sorrowfultrouble.com
@@ -5470,7 +5429,6 @@ speedshiftmedia.com
 speee-ad.akamaized.net
 spezialreporte.de
 spicy-effect.com
-spider-tracker.xiaohongshu.com
 spidertrippingwisplike.com
 spiffymachine.com
 spikereekvelocity.com
@@ -5517,7 +5475,6 @@ starkuno.com
 startapp.com
 stat24.com
 stat24.meta.ua
-stat2.openinstall.io
 stat.cliche.se
 stat.dealtime.com
 stat.hackedonlinegames.com
@@ -5539,8 +5496,6 @@ statistic.ads24h.net
 statistik.changing-cities.org
 statistik-gallup.net
 stat.media
-stat.meitudata.com
-stat.microvirt.com
 statm.the-adult-company.com
 stat.mydaddy.cc
 stat.pl
@@ -5650,7 +5605,6 @@ surveywall-api.survata.com
 susifhfh2d8ldn09.com
 suspectedadvisor.com
 suwcaxazzn.com
-svibeacon.onezapp.com
 svkmxwssih.com
 swa.and.co.uk
 swan-swan-goose.com
@@ -5704,7 +5658,6 @@ tamgrt.com
 tampedirenica.com
 tangerinenet.biz
 tangibleteam.com
-tapas.net
 tapfiliate.com
 tapgen.com
 tapinfluence.com
@@ -5949,7 +5902,6 @@ track.pricespider.com
 track.rentracksw.com
 track.saygames.io
 track.securedvisit.com
-track.sohu.com
 track.storm.mg
 track.tenjin.io
 track.unidata.ai
@@ -6063,7 +6015,6 @@ ubbfpm.com
 uberads.com
 ubermedia.com
 ubewpjbfo.com
-ubt-sin.tripcdn.com
 ubuyanalytics.ubuy.com
 ucfunnel.com
 uciservice.com
@@ -6095,7 +6046,6 @@ ultraoranges.com
 ultsearch.com
 ul.xiphiidbachel.com
 umebella.com
-umeng.co
 umexalim.com
 unanimis.co.uk
 unarbokor.com
@@ -6172,7 +6122,6 @@ uuomdlaslopcrx.com
 uwoaptee.com
 uxumhgvends.com
 uyledjlevq.com
-uyunad.com
 uz.louchefunnel.shop
 uzxkuwalnjp.com
 v6rxv5coo5.com
@@ -6570,14 +6519,12 @@ www.trafyield.com
 www.tribedone.org
 www.trustaffs.com
 www.uciservice.com
-www.uyunad.com
 www.vantagemarketads.com
 www.velocitycdn.com
 www.w3counter.com
 www.webtrendslive.com
 www.xadsmart.com
 www.xumamropnox.com
-www.youmi.net
 www.zarpop.com
 www.zxc.world
 wyhifdpatl.com
@@ -6680,7 +6627,6 @@ yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
-youmi.net
 youradexchange.com
 yoursitestatstube.ru
 youthfire.com
@@ -6746,7 +6692,6 @@ zm232.com
 zmalalxt.com
 zmedia.com
 zonedummy.com
-zoosnet.net
 zovidree.com
 zpefriam.com
 ztumuvofzbfe.com
