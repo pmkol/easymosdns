@@ -1873,6 +1873,7 @@ api-extractor.com
 apigee.com
 apina.biz
 api.news
+api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
 apis.ac.uk
@@ -20311,6 +20312,7 @@ ocry.com
 ocsp-certum.com
 ocsp-responder.com
 october-review.org
+octocaptcha.com
 ocul.us
 oculus2014.com
 oculus3d.com
