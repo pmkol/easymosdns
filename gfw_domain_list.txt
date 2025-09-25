@@ -29182,6 +29182,7 @@ wikimedia.org
 wiki.metacubex.one
 wikinews.org
 wiki.oauth.net
+wikipedia.com
 wikipedia.org
 wiki.phonegap.com
 wikiporn.tv
