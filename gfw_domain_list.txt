@@ -4637,6 +4637,7 @@ bnef.com
 bnext.com.tw
 bnn.co
 bnrmetal.com
+bntrace.com
 bnu.ac.uk
 boa.ac.uk
 boardreader.com
@@ -5863,6 +5864,7 @@ cepacol.com
 ceramics-cadcam.com
 cercia.ac.uk
 cerdas.com
+cerebras.ai
 ceredigion.ac.uk
 ceri.ac.uk
 cerlim.ac.uk
@@ -6365,6 +6367,8 @@ classicnike.com
 classics.ac.uk
 classymomsex.com
 claude.ai
+claude.com
+claudemcpclient.com
 claudeusercontent.com
 clb.org.hk
 clc-london.ac.uk
@@ -15133,6 +15137,7 @@ java.com
 javakiba.org
 java.net
 jav-angel.net
+jav.app
 javbabe.net
 javbangers.com
 javbest.tv
@@ -17133,6 +17138,7 @@ marlab.ac.uk
 marlin.ac.uk
 marplecollege.ac.uk
 marranazas.com
+marscode.com
 martau.com
 martsangkagyuofficial.org
 maruta.be
@@ -19490,6 +19496,7 @@ nfscdict.com
 nfsc.global
 nfscofficial.com
 nfsworld.com
+nftstatic.com
 nftstorage.link
 nga.mil
 ngc.ac.uk
@@ -26779,6 +26786,7 @@ tracker.network
 tracking-location.com
 tradevip1.com
 tradingview.com
+trae.ai
 traffcoll.ac.uk
 trafficmanager.net
 trafford.ac.uk
