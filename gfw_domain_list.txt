@@ -4728,6 +4728,7 @@ boomba.club
 boombeach.com
 boomerang.com
 booru.org
+boosty.to
 booth.pm
 bootstrapcdn.com
 bootyliciousmag.com
@@ -5780,6 +5781,7 @@ cdn.softlayer.net
 cdn.statically.io
 cdn-telegram.org
 cdn-terapeak.com
+cdn-vk.ru
 cdp1989.org
 cdp1998.org
 cdp2006.org
@@ -7805,6 +7807,7 @@ dhlestudio.com.co
 diabetes-healthnet.ac.uk
 diablo3.com
 diabloimmortal.com
+diabrowser.com
 dialga.com
 dialogflow.com
 diamantewebcam.com
@@ -8216,6 +8219,7 @@ domesticabuserisk.ac.uk
 domywife.com
 don.ac.uk
 donatecarsoh.org
+donationalerts.com
 doncaster.ac.uk
 dongtaiwang.com
 dongtaiwang.net
@@ -12315,6 +12319,7 @@ guancha.org
 guangming.com.my
 guangming.org
 guaranitermal.com
+guardarian.com
 guardianapis.com
 guardianapps.co.uk
 guardianproject.info
@@ -17521,6 +17526,7 @@ melonstube.com
 meltoday.com
 me.me
 meme111.com
+memealerts.com
 memehk.com
 memes.tw
 memrijttm.org
@@ -20390,6 +20396,7 @@ oitabank.co.jp
 okaapps.com
 okayfreedom.com
 okazudouga.tokyo
+okcdn.ru
 okex.com
 okinawabank.co.jp
 okkisokuho.com
@@ -23400,10 +23407,15 @@ sams.ac.uk
 samsungapps.com
 samsungcloud.com
 samsung.com
+samsungconsent.com
 samsungdm.com
 samsunggalaxyfriends.com
+samsunghealth.com
+samsungiotcloud.com
 samsungknox.com
+samsungosp.com
 samsungqbe.com
+samsungrs.com
 sandisk.ae
 sandisk.co.jp
 sandisk.co.kr
@@ -25278,6 +25290,7 @@ st-davids-coll.ac.uk
 stdavidscollege.ac.uk
 stdavidsdaygroup.ac.uk
 stdoms.ac.uk
+stealthex.io
 s.team
 steam.apac.qtlglb.com
 steam-api.com
@@ -27927,6 +27940,7 @@ veporno.net
 vercel.app
 vercel.blog
 vercel.com
+vercel.dev
 vercel-dns.com
 vercel.events
 vercel.live
@@ -28353,6 +28367,7 @@ vkcache.com
 vk.cc
 vk-cdn.me
 vk-cdn.net
+vkcloud-static.ru
 vk.com
 vk.company
 vk.design
