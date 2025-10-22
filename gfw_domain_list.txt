@@ -8179,6 +8179,7 @@ docker.com
 docker.io
 dockerizer.com
 dockerstatic.com
+dockerstatus.com
 docleradn.com
 doclercdn.com
 doc.new
