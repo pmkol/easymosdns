@@ -1488,14 +1488,9 @@ alsalam.ac.uk
 alsod.ac.uk
 alt.ac.uk
 alt.com
+altera.co.jp
 altera.com
 alteraforum.com
-alteraforums.com
-alteraforums.net
-alterauserforum.com
-alterauserforum.net
-alterauserforums.com
-alterauserforums.net
 altereco.ac.uk
 alternate-tools.com
 alternativeto.net
@@ -6460,6 +6455,7 @@ cloudflarepartners.com
 cloudflareportal.com
 cloudflarepreview.com
 cloudflare-quic.com
+cloudflareregistrar.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
@@ -6714,6 +6710,7 @@ commerceos.com
 commnet.ac.uk
 communistcrimes.org
 communitychoicecu.com
+comm-verse.com
 comodoca2.com
 comodoca3.com
 comodoca4.com
@@ -7485,6 +7482,8 @@ deepfreeze.eu
 deepfreeze.net
 deepfreeze.tech
 deeping.ac.uk
+deepin.io
+deepin.org
 deepl.com
 deepmind.com
 deeside.ac.uk
@@ -8142,6 +8141,7 @@ dm-event.net
 dmgmediaprivacy.co.uk
 dmhy.org
 dml.ac.uk
+dml-lang.org
 dmmapis.com
 dmm.co.jp
 dmm.com
@@ -8934,6 +8934,7 @@ ebscohost.com
 ebsl.ac.uk
 ebslondon.ac.uk
 ebtcbank.com
+ebuyer.com
 ebuyheadphones.com
 e-c-a.ac.uk
 eca.ac.uk
@@ -10873,6 +10874,11 @@ fra.ac.uk
 fracebook.com
 fragment.com
 fragrancebay.com
+framercanvas.com
+framer.com
+framerstatic.com
+framerusercontent.com
+framer.website
 francecasquebeatssolde.com
 francemail.com
 francistowne.ac.uk
@@ -12240,6 +12246,7 @@ grannylovesyoungcock.com
 grannytube.net
 grantham.ac.uk
 grantleyhall.ac.uk
+granulate.io
 graphenecentre.ac.uk
 graphengine.io
 graphis.ne.jp
@@ -12418,6 +12425,7 @@ hackerguardian.com
 hacker.org
 hackfacebook.com
 hackfacebookid.com
+hackharassment.com
 hacklang.org
 hackmd.io
 hackney.ac.uk
@@ -14432,6 +14440,7 @@ insiderdevtour.com
 insider-intelligence.com
 insiderintelligence.com
 insidevoa.com
+insight.tech
 inspire-dtp.ac.uk
 inspiretrust.ac.uk
 instaadder.com
@@ -14531,6 +14540,7 @@ intel.cl
 intelcloudbuilders.com
 intelcloudfinder.com
 intel.cm
+intel.co
 intel.co.ae
 intel.co.cr
 intel.co.id
@@ -14542,6 +14552,7 @@ intel.com.ar
 intel.com.au
 intel.com.bo
 intel.com.br
+intel.com.cn
 intel.com.co
 intel.com.ec
 intel.com.hk
@@ -14562,6 +14573,7 @@ intel.cr
 intel.cu
 intel.cz
 intel.de
+intel.dev
 intel.dk
 intel.dz
 intel.ec
@@ -14578,6 +14590,7 @@ intelfreepress.com
 intel.ga
 intel.gd
 intel.ge
+intel.gg
 intel.gl
 intel.gm
 intelgo.net
@@ -14589,6 +14602,7 @@ intel.hk
 intel.hn
 intel.ht
 intel.hu
+intel.id
 intel.ie
 intel.in
 intelinsight.com
@@ -14627,7 +14641,6 @@ intel.mw
 intel.mx
 intel.my
 intelnervana.com
-intelnet.component
 intel.ng
 intel.nl
 intel.nu
@@ -14640,7 +14653,10 @@ intelplay.com
 intel.pn
 intelquark.com
 intel.re
+intelrealsense.cn
 intelrealsense.com
+intelrealsense.net
+intelreimbursement.com
 intel-research.net
 intel.ro
 intel.ru
@@ -17001,6 +17017,7 @@ mahjongsoul.com
 mahsc.ac.uk
 maiio.net
 mail-archive.com
+mail.com
 maileoch.com
 mailhealth.com
 mailonline.com
@@ -17477,6 +17494,7 @@ mearki.com
 meawallet.app
 mebank.ir
 meb.gov.mm
+meccontroller.com
 me.com
 meddyliwchamgymru.ac.uk
 mede-innovation.ac.uk
@@ -18485,6 +18503,7 @@ moveonmoveup.ac.uk
 movetv.com
 movidius.com
 movidius.net
+movidius.org
 movie1000.xyz
 movie-erog.com
 moviefap.com
@@ -20497,6 +20516,7 @@ oncars.in
 on.cc
 one889.app
 oneapi.com
+oneapi.io
 onedinesfree.com
 onedrive.co
 onedrive.com
@@ -20594,6 +20614,7 @@ openamt.com
 openapiplatform.com
 openapiservice.com
 openart.ai
+opencas.io
 opencollective.com
 open.com.hk
 opencreate.org
@@ -20638,6 +20659,7 @@ openthread.io
 opentranslatorstothings.org
 openuniversity.ac.uk
 openurl.ac.uk
+openvino.ai
 openvinotoolkit.org
 openvpn.net
 openvpn.org
@@ -20964,6 +20986,7 @@ passion.com
 passion-hd.com
 passiontimes.hk
 passport.net
+passwordday.org
 pastahealth.com
 pastebin.com
 paste.ee
@@ -21627,6 +21650,8 @@ plymsea.ac.uk
 plzpf.com
 pmatehunter.com
 pmates.com
+pmem.org
+pmem.us
 pml.ac.uk
 pm.me
 pms.ac.uk
@@ -22249,6 +22274,7 @@ programme3.ac.uk
 projectapex.com
 projectara.com
 projectbaseline.com
+projectcircuitbreaker.com
 projecteuclid.org
 projectjav.com
 projectmurphy.net
@@ -22965,6 +22991,7 @@ remirepo.net
 rems-cdt.ac.uk
 renaissanceskin.ac.uk
 renchead.com
+renderingtoolkit.org
 renderos.com
 reneerossvideos.com
 re-net.ac.uk
@@ -24375,11 +24402,14 @@ signal.tube
 signalusers.org
 sign.new
 sigops.org
+sigopt.com
 sihe.ac.uk
 sijihuisuo.club
 sijihuisuo.com
 sikh-uni.ac.uk
 sikiswap.com
+silicon-mobility.com
+siliconmobility.com
 silkbook.com
 silkengirl.com
 silverchair-cdn.com
@@ -24590,6 +24620,12 @@ smartcommunitiescoalition.com
 smartcommunitiescoalition.org
 smartdnsproxy.com
 smart-edge.com
+smart-edge.info
+smartedge.info
+smart-edge.io
+smart-edge.net
+smart-edge.org
+smart-edge.systems
 smartexpos.com
 smartfea.com
 smarthide.com
@@ -25037,6 +25073,7 @@ spitfire.ac.uk
 spizoo.com
 splatoon2tournament.com
 splint-cetl.ac.uk
+splunk.com
 spokenword.ac.uk
 spo-msedge.net
 sponichi.co.jp
@@ -25422,6 +25459,8 @@ stonefoxproductions.com
 stonyhurst.ac.uk
 stoporganharvesting.org
 stoptibetcrisis.net
+storageclassmemory.io
+storageclassmemory.org
 storagenewsletter.com
 storage.yandex.net
 storcuram.ac.uk
@@ -26462,6 +26501,7 @@ thothub.ru
 thothub.to
 thottok.com
 thotvids.com
+threadingbuildingblocks.org
 threadreaderapp.com
 threads.com
 threads.net
@@ -27431,11 +27471,14 @@ uhr.ac.uk
 uhrp.org
 uhsl.ac.uk
 uhub.com
+uicdn.com
 ui.com
 uighurbiz.net
 uighur.narod.ru
 uighur.nl
+uimserv.net
 uiporn.com
+ui-portal.de
 uisp.com
 ujapanesesex.com
 ujizzcn.com
@@ -27590,6 +27633,7 @@ univault.ac.uk
 universalorlando.com
 universalpictures.com
 universalpicturesinternational.com
+universalscalablefirmware.org
 universalstudioshollywood.com
 universitiesengland.ac.uk
 universitiesfornottingham.ac.uk
