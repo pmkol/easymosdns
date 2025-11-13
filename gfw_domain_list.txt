@@ -1032,6 +1032,8 @@ afappyending.com
 af-east-201.myhuaweicloud.com
 afewmomentswith.com
 affect3dstore.com
+affinity.api.serifservices.com
+affinity.studio
 affirmtrust.com
 afi.ac.uk
 afkv28.com
@@ -3234,6 +3236,7 @@ bcrncdn.com
 bctcs.ac.uk
 bcu.ac.uk
 bcuc.ac.uk
+bcvcdn.com
 bcvp0rtal.com
 bcy01.com
 bdc.ac.uk
@@ -3723,6 +3726,7 @@ bfnn.org
 bfsh.hk
 bftv.ac.uk
 bgc.ac.uk
+bgicdn.com
 bgme.me
 bgm.tv
 bgov.com
@@ -5507,6 +5511,7 @@ cant-col.ac.uk
 canterbury.ac.uk
 canterburycollege.ac.uk
 canterburytrust.ac.uk
+canva.com
 canyu.org
 caobian.info
 caochangqing.com
@@ -11932,6 +11937,7 @@ googlecapital.com
 google.cat
 google.cc
 google.cd
+googlecensorship.org
 googlecert.net
 google.cf
 google.cg
@@ -12288,6 +12294,7 @@ greatermanchesterinternationalmedicalschool.ac.uk
 greatermanchestermedicalschool.ac.uk
 greatfire.org
 greatfire.us7.list-manage.com
+greatfirevpn.com
 greatfirewall.biz
 greatfirewallofchina.org
 greatretroporn.com
@@ -19309,6 +19316,7 @@ neodaas.ac.uk
 neo-miracle.com
 neonatalsociety.ac.uk
 neotokyo.supertop-100.com
+neovim.io
 neow.in
 neowin.net
 nerap.ac.uk
@@ -30971,6 +30979,7 @@ zeit-world.net
 zeit-world.org
 zello.com
 zen8ok.xyz
+zen-browser.app
 zencdn.net
 zencoder.com
 zendesk.com
