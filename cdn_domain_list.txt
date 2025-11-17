@@ -1,5 +1,3 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).full:265.com
 full:1.cms.s81c.com
 full:1.www.s81c.com
 full:2-01-5830-0005.cdx.cedexis.net
@@ -51,6 +49,7 @@ full:applemdm.corp.google.com
 full:app-measurement-cn.com
 full:app-measurement.com
 full:apps5.oingo.com
+full:apps.apple.com
 full:app-site-association.cdn-apple.com
 full:apps.mzstatic.com
 full:apps.samsung.com
@@ -374,6 +373,7 @@ full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:home-cn.htcsense.com
 full:home.htcsense.com
 full:hospital.pku.edu.cn
+full:iadsdk.apple.com
 full:icloud.cdn-apple.com
 full:icloud-cdn.icloud.com.akadns.net
 full:i.dell.com
