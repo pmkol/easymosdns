@@ -1,5 +1,5 @@
 # EasyMosdns Rules
-- 规则每隔2小时更新一次，未更新即表示规则无变化
+- 规则每隔8小时更新一次，未更新即表示规则无变化
 - 请勿用于非法用途
 #### DNS规则库
 | 📦 List | 📃 Rule | 🔧 GitHub RAW | 🚀 GitHub CDN
@@ -10,6 +10,7 @@
 | 代理域名 | gfw_domain_list.txt | [下载链接](https://raw.githubusercontent.com/pmkol/easymosdns/rules/gfw_domain_list.txt) | [加速链接](https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/gfw_domain_list.txt) |
 | CDN域名 | cdn_domain_list.txt | [下载链接](https://raw.githubusercontent.com/pmkol/easymosdns/rules/cdn_domain_list.txt) | [加速链接](https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/cdn_domain_list.txt) |
 | 恶意广告 | ad_domain_list.txt | [下载链接](https://raw.githubusercontent.com/pmkol/easymosdns/rules/ad_domain_list.txt) | [加速链接](https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/ad_domain_list.txt)
+| MD5校验 | md5_hash_list.txt | [下载链接](https://raw.githubusercontent.com/pmkol/easymosdns/rules/md5_hash_list.txt) | [加速链接](https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/md5_hash_list.txt)
 #### DNS规则源
 - china_ip_list.txt
 > [china-ip-list](https://github.com/17mon/china_ip_list) | [chnroutes2](https://github.com/misakaio/chnroutes2) | [daily](https://github.com/pexcn/daily)
