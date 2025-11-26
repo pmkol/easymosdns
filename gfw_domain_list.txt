@@ -3447,7 +3447,6 @@ binancezh.pro
 binancezh.sh
 binancezh.top
 bing123.com
-bingads.com
 bingagencyawards.com
 bingapis.com
 bingapistatistics.com
@@ -8069,7 +8068,6 @@ facebook30.com
 facebook30.net
 facebook30.org
 facebook4business.com
-facebookads.com
 facebookadvertisingsecrets.com
 facebookappcenter.info
 facebookappcenter.net
@@ -14737,7 +14735,6 @@ microbit.org
 microsoft365.com
 microsoftaccountguard.com
 microsoftadc.com
-microsoftads.com
 microsoftadvertising.com
 microsoftadvertisingregionalawards.com
 microsoftaffiliates.com
@@ -15538,7 +15535,6 @@ mrtweet.com
 mrvideosdesexo.xxx
 ms365surfaceoffer.com
 ms4dre.com
-msads.net
 msa-it.org
 msauth.net
 mschallenge2018.com
@@ -19685,6 +19681,7 @@ sensorynetworks.com
 sensualgirls.org
 sensualmothers.com
 sensueel.net
+sentry-cdn.com
 sentry.io
 senzuritv.net
 seqing.one
