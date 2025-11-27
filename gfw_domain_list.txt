@@ -1164,6 +1164,7 @@ akita-bank.co.jp
 akow.org
 ak-p.tripcdn.com
 ak-s-cw.tripcdn.com
+akstat.io
 ak-s.tripcdn.com
 akthelp.com
 alabout.com
@@ -25082,6 +25083,7 @@ yandex.sx
 yandex-team.ru
 yandex.tj
 yandex.tm
+yandex.tr
 yandex.ua
 yandex.uz
 yandexwebcache.org
