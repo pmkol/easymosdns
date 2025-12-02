@@ -493,6 +493,8 @@
 7mmtv.sx
 7mmtv.tv
 7tb.cc
+7tv.app
+7tv.io
 8008206616.com
 8111y.top
 81jia.tv
@@ -4772,6 +4774,7 @@ canon.tj
 canon.ua
 canon.uz
 canva.com
+canvastatus.com
 canyu.org
 caobian.info
 caochangqing.com
@@ -10415,6 +10418,8 @@ h2porn.com
 h528.com
 h5dm.com
 h5galgame.me
+habrastorage.org
+habr.com
 hackday.com.au
 hacken.cc
 hackerfacebook.com
@@ -14692,6 +14697,7 @@ metabrainz.org
 metacloud.com
 meta.com
 metacpan.org
+metacritic.com
 metacubex.one
 metafilter.com
 metalpha.finance
@@ -19306,6 +19312,7 @@ rssing.com
 rssmeme.com
 rstatic.net
 rtalabel.org
+rtbcdn.ru
 rt.com
 rthk.hk
 rthklive2-lh.akamaihd.net
@@ -19358,6 +19365,7 @@ rutracker.nl
 rutracker.org
 rutrecker.net
 rutrk.org
+rutubelist.ru
 rutube.ru
 ruvideos.net
 rxhj.net
@@ -21457,6 +21465,7 @@ tellapart.com
 tellme.pw
 tellmewhygame.com
 temetube.xyz
+temp-mail.org
 temu.com
 tenacy.com
 tenbyfotolia.com
@@ -22849,6 +22858,8 @@ vaultify.info
 vaultify.net
 vaultproject.io
 v-av.com
+vbcdn.com
+vbcdn.net
 vbejeyv.shop
 vcanedge.com
 vce.com
@@ -23055,7 +23066,9 @@ viacbs.com
 viacomcbs.com
 viacomcbspressexpress.com
 viacom.com
+viber.co
 viber.com
+viber.me
 vica.info
 victimsofcommunism.org
 vidble.com
