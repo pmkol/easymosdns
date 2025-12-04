@@ -67,7 +67,6 @@ full:avatar-ssl.xboxlive.com
 full:avatar.xboxlive.com
 full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
-full:bbs.ztedevices.com
 full:b.c2r.ts.cdn.office.net
 full:beacons2.gvt2.com
 full:beacons3.gvt2.com
@@ -882,7 +881,6 @@ full:www.thinkpad.com
 full:www.travelzoo.com
 full:www.tzoo-img.com
 full:www.vive.com
-full:www.ztedevices.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
 full:xn--9kr7l.com
