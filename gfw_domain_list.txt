@@ -21935,7 +21935,10 @@ tiktok.com
 tiktokd.net
 tiktokd.org
 tiktokeu-cdn.com
+tiktokglobalshopv.com
+tiktokminis.us
 tiktokrow-cdn.com
+tiktok-row.net
 tiktokv.com
 tiktokv.eu
 tiktokv.us
@@ -25726,6 +25729,7 @@ zophar.net
 zopim.com
 zorglist.com
 zorrovpn.com
+zotero.org
 zozotown.com
 zpn.im
 zqqpwz.com
