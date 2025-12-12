@@ -4584,6 +4584,7 @@ bynet.co.il
 bypasscensorship.org
 byrut.org
 byspotify.com
+bytedapm.com
 byteglb.com
 byteoversea.com
 byteoversea.net
@@ -16281,6 +16282,7 @@ nextwork.com.hk
 nextwork.com.tw
 nextwork.hk
 nextwork.tw
+nexus-cdn.com
 nexusmods.com
 nf.id.au
 nfjtyd.com
@@ -21949,6 +21951,7 @@ tiktokd.net
 tiktokd.org
 tiktokeu-cdn.com
 tiktokglobalshopv.com
+tiktok-minis.com
 tiktokminis.us
 tiktokrow-cdn.com
 tiktok-row.net
