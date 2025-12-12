@@ -1,6 +1,6 @@
 ba6efb5ed847e136cc3d09e81151d320  ad_domain_list.txt
 b5aa40b8e5db913a0aa484c3985f6e55  cdn_domain_list.txt
 96ae402e99c6ce08fd34da6bed7a3901  china_domain_list.txt
-39f646a57766019e5a86da1d9e848f6a  china_ip_list.txt
+d50adc404a6f6808527f378cd8d9f059  china_ip_list.txt
 3e63ab9d1bf36f0d976db601afbe418d  gfw_domain_list.txt
 97077434d618a4c345c63d22e7166778  gfw_ip_list.txt
