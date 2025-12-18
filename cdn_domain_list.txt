@@ -170,6 +170,7 @@ full:console-service-ssl.halo.xbox.com
 full:content.googleadapis.com
 full:content.nike.com
 full:cortexfx.bnpparibas.com
+full:cowork.cn.lenovo.com
 full:c.pki.goog
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
