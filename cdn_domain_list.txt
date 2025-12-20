@@ -272,6 +272,7 @@ full:epix-ssl.xbox.com
 full:epix.xbox.com
 full:events2.djicdn.com
 full:experiments.apple.com
+full:facility.lenovo.com
 full:f.c2r.ts.cdn.office.net
 full:fcs.dell.com
 full:fides-pol.apple.com
