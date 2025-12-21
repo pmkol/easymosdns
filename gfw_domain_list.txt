@@ -6813,6 +6813,8 @@ dmed.technology
 dm-event.net
 dmgmediaprivacy.co.uk
 dmhy.org
+dmit.io
+dmit.sh
 dml-lang.org
 dmmapis.com
 dmm.co.jp
@@ -7257,6 +7259,7 @@ dynu.com
 dynu.net
 dynupdate.no-ip.com
 dysfz.cc
+dzcdn.net
 dzeninfra.ru
 dzen.ru
 dzze.com
@@ -7735,6 +7738,7 @@ entrust.cn
 entrust.com
 entrustdatacard.com
 entrust.net
+eotarchive.org
 epac.to
 epicbrowser.com
 epicgamescdn.com
@@ -9758,6 +9762,7 @@ ghcr.io
 ghettotube.com
 ghidra-sre.org
 gh.io
+ghostarchive.org
 ghostgames.com
 ghostpath.com
 ghut.org
@@ -14759,6 +14764,7 @@ me.me
 meme111.com
 memealerts.com
 memehk.com
+mementoweb.org
 memes.tw
 memrijttm.org
 memri.org
@@ -17815,6 +17821,7 @@ perfectshemales.com
 perfecttitspics.com
 periscope.tv
 perl.org
+perma.cc
 perplexity.ai
 perplexity.com
 persagg.com
@@ -24016,6 +24023,7 @@ webcammedellin.co
 webcams.tv
 webcam-teen.net
 webcamtubexxx.com
+webcitation.org
 web.dev
 webevader.org
 webex.ca
