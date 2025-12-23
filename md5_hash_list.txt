@@ -1,4 +1,4 @@
-2b589ef35642571e4b2294b4280ce963  ad_domain_list.txt
+17ee44f288163e3d25e92f32ebd502c3  ad_domain_list.txt
 4ef290d0ace188261c4955255fb81423  cdn_domain_list.txt
 b57376cd49aea209af6ab1dd746ca425  china_domain_list.txt
 63a8d2e45b730c0a8454c1a7d66575e7  china_ip_list.txt
