@@ -56,6 +56,7 @@ full:apps.samsung.com
 full:apptrailers.itunes.apple.com
 full:ares.dl.playstation.net
 full:ark.intel.com
+full:asset-account.msi.com
 full:assets.adobedtm.com
 full:assets-ssl.xbox.com
 full:assets.volvocars.com
@@ -188,6 +189,7 @@ full:cstat.cdn-apple.com
 full:ctldl.windowsupdate.com
 full:cueme-api.quark.cn
 full:customization-cdn.dell.com
+full:dam-storage.msi.com
 full:dartsearch-cn.net
 full:dc1-cert.ksn.kaspersky-labs.com
 full:dc1-file.ksn.kaspersky-labs.com
