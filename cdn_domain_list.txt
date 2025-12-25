@@ -171,6 +171,7 @@ full:console-service-ssl.halo.xbox.com
 full:content.googleadapis.com
 full:content.nike.com
 full:cortexfx.bnpparibas.com
+full:cowork.cn.extranet.lenovo.com
 full:cowork.cn.lenovo.com
 full:c.pki.goog
 full:crashlyticsreports-pa.googleapis.com
@@ -305,6 +306,7 @@ full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
 full:geo-prism-cn.htcsense.com
 full:geo-prism.htcsense.com
+full:getcs.lenovo.com
 full:gfwsl.geforce.com
 full:gmskiosk-ssl.corp.google.com
 full:go.corp.google.com
