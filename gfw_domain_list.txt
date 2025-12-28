@@ -6409,7 +6409,6 @@ dengeamerika.com
 dengekionline.com
 dengiamerika.com
 deno.com
-deno.dev
 deno.land
 dentalhypotheses.com
 dependabot.com
@@ -6856,7 +6855,6 @@ doclercdn.com
 doc.new
 do.co
 docs.com
-docs.deno.com
 docs.new
 docs.rs
 doctor-videos.com
@@ -9741,6 +9739,7 @@ gfpornvideos.com
 gfrevenge.com
 gfsale.com
 gfwatch.org
+gfwbao.com
 gfw.press
 gfw.report
 gfx.ms
@@ -12705,6 +12704,7 @@ iss138.com
 issitedownrightnow.com
 issquaredown.com
 issquareup.com
+issues.chromium.org 
 issuu.com
 istars.co.nz
 istent.co.kr
@@ -21081,6 +21081,7 @@ steamdb.info
 steamdeck.com
 steam.eca.qtlglb.com
 steamgames.com
+steamladder.com
 steam.naeu.qtlglb.com
 steamofporn.com
 steampowered.com

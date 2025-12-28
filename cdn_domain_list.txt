@@ -248,6 +248,7 @@ full:download.gfe.nvidia.com
 full:download.mcafee.com
 full:download.microsoft.com
 full:download.mlcc.google.com
+full:download.msi.com
 full:download.parallels.com
 full:download.qatp1.net
 full:download.qcpp1.net
@@ -273,6 +274,7 @@ full:emoi-cncdn.bing.com
 full:encoding.image-gmkt.com
 full:epix-ssl.xbox.com
 full:epix.xbox.com
+full:event.msi.com
 full:events2.djicdn.com
 full:experiments.apple.com
 full:facility.lenovo.com
@@ -492,6 +494,7 @@ full:manga.bilibili.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
 full:mbsuat.download.prss.microsoft.com
+full:mce.msi.com
 full:mdr.ksn.kaspersky-labs.com
 full:media.admob.com
 full:mediaexp-programming.xboxlive.com
