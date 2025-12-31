@@ -10854,6 +10854,7 @@ herokussl.com
 herominers.com
 herringnetwork.com
 hetzner.cloud
+hetzner-cloud.de
 hetzner.com
 hetzner.company
 hetzner.de
