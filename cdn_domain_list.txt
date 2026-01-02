@@ -38,6 +38,7 @@ full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
+full:api.lenovo.com
 full:api-p-ap-c.smoot.apple.com
 full:api-p-ap-d.smoot.apple.com
 full:api-p-ap-e.smoot.apple.com
@@ -140,6 +141,7 @@ full:clientflow.apple.com.akadns.net
 full:clientperipherals.dell.com
 full:clientservices.googleapis.com
 full:clubhub.xboxlive.com
+full:clubweixin.samsung.com
 full:cma.itunes.apple.com
 full:cms.ibm.com
 full:cms-live.pandora.net
@@ -173,6 +175,8 @@ full:content.nike.com
 full:cortexfx.bnpparibas.com
 full:cowork.cn.extranet.lenovo.com
 full:cowork.cn.lenovo.com
+full:cowork.us.extranet.lenovo.com
+full:cowork.us.lenovo.com
 full:c.pki.goog
 full:crashlyticsreports-pa.googleapis.com
 full:createpoint.qti.qualcomm.com
@@ -241,6 +245,7 @@ full:docs.microsoft.com
 full:doubleclick-cn.net
 full:doubleclick.net
 full:downloadcenter.samsung.com
+full:download-cn.msi.com
 full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
 full:download.epicgames.com
@@ -482,10 +487,12 @@ full:l2-uberproxy.corp.google.com
 full:learn.microsoft.com
 full:lh3.appinn.net
 full:liveupdate01.asus.com
+full:liveupdate.msi.com
 full:lnkd.licdn.com
 full:logger.corp.google.com
 full:logger-dev.corp.google.com
 full:login.corp.google.com
+full:luci.lenovo.com
 full:lv.queniujq.cn
 full:lx2.cok.elexapp.com
 full:lx2.cok.elex.com
@@ -550,6 +557,7 @@ full:officecdn.microsoft.com
 full:olay-cn.cdnpg.com
 full:opencourse.pku.edu.cn
 full:o.pki.goog
+full:orig-download.msi.com
 full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
@@ -617,6 +625,7 @@ full:publicassets.cdn-apple.com
 full:qagpublic.qatp1.net
 full:qagpublic.qcpp1.net
 full:qagpublic.qpdp1.net
+full:qas-leshop.lenovo.com
 full:qgadmin.qatp1.net
 full:qgadmin.qcpp1.net
 full:qgadmin.qpdp1.net
@@ -714,6 +723,7 @@ full:shop.samsung.com
 full:sh-pod2-smp-device.apple.com
 full:si.cdn.dell.com
 full:silverlight.dlservice.microsoft.com
+full:sim.lenovo.com
 full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:sm.dell.com
@@ -833,6 +843,7 @@ full:valid.apple.com
 full:valid.origin-apple.com.akadns.net
 full:verdaccio.cnno1.uds-qa.lenovo.com
 full:vext.corp.google.com
+full:virtual.lenovo.com
 full:visualstudio.download.prss.microsoft.com
 full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
