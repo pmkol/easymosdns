@@ -1149,6 +1149,7 @@ aisejushi.com
 aisex.com
 aishegw.com
 aiss.anws.gov.tw
+ai.studio
 ait.org.tw
 aiv-cdn.net
 aiweiweiblog.com
@@ -17356,6 +17357,7 @@ ontrac.com
 onxxxtube.com
 onxxxvideo.com
 oojj.de
+ooni.io
 ooni.org
 ootbstudio.co.kr
 op7979.com
@@ -19661,13 +19663,13 @@ rust-lang.org
 rustup.rs
 rusvpn.com
 ruten.com.tw
+rutor.info
 rutracker.cc
 rutracker.cr
 rutracker.me
 rutracker.net
 rutracker.nl
 rutracker.org
-rutrecker.net
 rutrk.org
 rutubelist.ru
 rutube.ru
@@ -24756,6 +24758,7 @@ xbx.lv
 xcafe.com
 xcafe.in
 xcams.com
+xcancel.com
 x-caprice.com
 xcg123.com
 xchina.co
