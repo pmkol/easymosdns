@@ -5366,6 +5366,7 @@ chromeexperiments.com
 chromeos.dev
 chromestatus.com
 chromium.org
+chromium.org 
 chroniclesec.com
 chronicle.security
 cht.com.tw
@@ -12839,7 +12840,6 @@ iss138.com
 issitedownrightnow.com
 issquaredown.com
 issquareup.com
-issues.chromium.org 
 issuu.com
 istars.co.nz
 istent.co.kr
@@ -16541,6 +16541,15 @@ ngeo.com
 nginx.com
 nginxconfig.io
 nginx.org
+ngrok.app
+ngrok.com
+ngrok.dev
+ngrok-free.app
+ngrok-free.dev
+ngrok-free.pizza
+ngrok.io
+ngrok.pizza
+ngrok.pro
 nhentai.com
 nhentaihaven.com
 nhentaihaven.org
@@ -18062,6 +18071,8 @@ pinflix.com
 pingan.com.hk
 ping.fm
 pingguotv.xyz
+pinggy.io
+pinggy.link
 ping.pe
 ping.sx
 pingxiangpuer.com
