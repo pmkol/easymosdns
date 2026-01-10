@@ -672,7 +672,6 @@ aboutamazon.it
 aboutamazon.jp
 aboutamazon.pl
 aboutfacebook.com
-about.gitlab.com
 aboutmcdonalds.com
 about.me
 aboutporno.net
@@ -5368,7 +5367,6 @@ chromeexperiments.com
 chromeos.dev
 chromestatus.com
 chromium.org
-chromium.org 
 chroniclesec.com
 chronicle.security
 cht.com.tw
