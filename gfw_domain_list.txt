@@ -4489,6 +4489,7 @@ brotli.org
 brourou.com
 browser.kagi.com
 browserleaks.com
+browser.run
 br.st
 brucewang.net
 brutalbdsmtube.com
@@ -5119,6 +5120,7 @@ cex.io
 cfake.com
 cfargotunnel.com
 cfblob.com
+cfdata.org
 cfdesign.com
 cfd-tv.com
 cfhks.org.hk
@@ -5545,8 +5547,12 @@ cloud.dify.ai
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
+cloudflarebrowser.com
+cloudflarechallenge.com
 cloudflareclient.com
 cloudflare.com
+cloudflarecp.com
+cloudflare.dev
 cloudflare-dns.com
 cloudflare-ech.com
 cloudflare-esni.com
@@ -5560,14 +5566,18 @@ cloudflareportal.com
 cloudflarepreview.com
 cloudflare-quic.com
 cloudflareregistrar.com
+cloudflareresearch.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
 cloudflarestorage.com
 cloudflarestream.com
+cloudflaresupport.com
+cloudflare-terms-of-service-abuse.com
 cloudflaretest.com
 cloudflare.tv
 cloudflarewarp.com
+cloudflareworkers.com
 cloudfront.com
 cloudfront.net
 cloudfunctions.net
@@ -6086,6 +6096,7 @@ cutscenes.net
 cutt.ly
 cwcams.com
 cw.com.tw
+cxacg.com
 cy22.tv
 cyber-bay.info
 cyber-bay.org
@@ -7764,6 +7775,7 @@ enablementadobe.com
 enanyang.my
 enbank.ir
 encoretvb.com
+encryptedsni.com
 encrypt.me
 encuentroscasualesoecuador.com
 encyclopedia.com
@@ -8005,6 +8017,7 @@ espn.com
 espn.co.uk
 espn.net
 espnqa.com
+esports.gg
 esposasymaridos.com
 espressif.com
 esri.com
@@ -9552,10 +9565,12 @@ galstars.net
 gamboporn.com
 gamcore.com
 game735.com
+gameapps.hk
 gamebase.com.tw
 gamebeforethegame.com
 gamebiz.jp
 gamebusiness.jp
+gamefocus.co.kr
 gamejolt.com
 gamemeca.com
 gameon-masters.com
@@ -11985,6 +12000,7 @@ ifuckedmy.mom
 ifuckedtheboss.com
 igaychat.com
 igayporn.tv
+igcc.jp
 igcdn.com
 igcd.net
 igetnaughty.com
@@ -12304,6 +12320,7 @@ innovations-i.com
 inoreader.com
 inote.tw
 inporn.com
+inquirer.net
 insecam.org
 inshotapp.com
 inshot.cc
@@ -14442,6 +14459,7 @@ mahabodhi.org
 mahajantech.com
 ma.hao123.com
 mahjongsoul.com
+maidonanews.jp
 maiio.net
 mail-archive.com
 mailchimp.com
@@ -15552,6 +15570,7 @@ modperl.pl
 modrinth.com
 modular.im
 moeaic.gov.tw
+moedigi.com
 moeero-library.com
 moeerolibrary.com
 moefuns.co
@@ -16057,6 +16076,7 @@ mymmode.com
 mymoe.moe
 mymom.info
 mymusclevideo.com
+mynavi.jp
 mynetav.net
 mynetav.org
 mynetname.net
@@ -17380,6 +17400,7 @@ openamt.com
 openapiplatform.com
 openapiservice.com
 openart.ai
+openbook.org.tw
 opencas.io
 opencollective.com
 open.com.hk
@@ -19443,6 +19464,7 @@ renyurenquan.org
 renzhe.cloud
 repe21.com
 repo.new
+repotama.com
 repsils.no
 repsneakermall.com
 repswing.com
@@ -21040,6 +21062,7 @@ sptvbroadcast.com
 spyjinx.com
 sqlite.org
 sqlserveronlinux.com
+sqool.net
 squ1.com
 squadbusters.com
 squarecapital.com
@@ -21652,6 +21675,7 @@ talkcc.com
 talkonly.net
 talksport.com
 tamilsexvideos.cc
+tampermonkey.net
 tamtam.chat
 tanc.org
 tandberg-china.com
@@ -22444,6 +22468,7 @@ toy-cadcam.com
 toycadcam.com
 toyobank.co.jp
 toypark.in
+toy-people.com
 toythieves.com
 toytractorshow.com
 tparents.org
