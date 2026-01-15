@@ -20514,6 +20514,8 @@ signalusers.org
 sign.new
 sigops.org
 sigopt.com
+sih.app
+sih-db.com
 sijihuisuo.club
 sijihuisuo.com
 sikiswap.com
@@ -21276,6 +21278,7 @@ steamdb.info
 steamdeck.com
 steam.eca.qtlglb.com
 steamgames.com
+steaminventoryhelper.com
 steamladder.com
 steam.naeu.qtlglb.com
 steamofporn.com
