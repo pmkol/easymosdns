@@ -3257,6 +3257,7 @@ openad.travelnow.com
 openclick.com
 openfpcdn.io
 openmarket.com
+open.oneplus.net
 opensharecount.com
 openvideoads.org
 openx.angelsgroup.org.uk
@@ -4547,6 +4548,7 @@ uarating.com
 ubbfpm.com
 uberads.com
 ubermedia.com
+ubt-sin.tripcdn.com
 ubuyanalytics.ubuy.com
 ucfunnel.com
 uciservice.com

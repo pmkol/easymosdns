@@ -444,7 +444,6 @@ full:itunes.apple.com
 full:itunes-apple.com.akadns.net
 full:itunesconnect.apple.com
 full:js-cdn.music.apple.com
-full:kc.kexinshe.com
 full:kh.google.com
 full:khm0.googleapis.com
 full:khm0.google.com
@@ -497,7 +496,6 @@ full:lv.queniujq.cn
 full:lx2.cok.elexapp.com
 full:lx2.cok.elex.com
 full:manage.c3edge.com
-full:manga.bilibili.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
 full:mbsuat.download.prss.microsoft.com
@@ -886,7 +884,6 @@ full:www.ibm.com
 full:www.ikea.com
 full:www.intel.com
 full:www.kaspersky.com
-full:www.libvideo.com
 full:www.microsoft.com
 full:www.nvidia.com
 full:www.pandora.net
@@ -911,20 +908,6 @@ full:z0.muscache.com
 full:z1.muscache.com
 full:z2.muscache.com
 full:zeus.dl.playstation.net
-regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 regexp:^cdn-akamai-.+\.gog-services\.com$
