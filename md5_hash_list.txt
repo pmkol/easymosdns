@@ -3,4 +3,4 @@
 aee00c4f364e895bd0400130075e1a3c  china_domain_list.txt
 b84b222620877208342a7d91610b22c8  china_ip_list.txt
 733ef3e91372da2d5fd35a549a16e117  gfw_domain_list.txt
-97077434d618a4c345c63d22e7166778  gfw_ip_list.txt
+380fa2b9e1ce8496c6c2aa8be625ae7e  gfw_ip_list.txt
