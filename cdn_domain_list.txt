@@ -37,6 +37,7 @@ full:amp-api.music.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
+full:aod-ssl.itunes.apple.com
 full:api-edge.apps.apple.com
 full:api.lenovo.com
 full:api-p-ap-c.smoot.apple.com
