@@ -2294,7 +2294,9 @@ atlantaminidealers.com
 atlasdmt.com
 atlasonepoint.com
 atlassian.com
+atlassian-dev.net
 atlassian.net
+atl-paas.net
 atnext.com
 atom.io
 atos.net
@@ -8946,6 +8948,9 @@ fotolia.tv
 fotolja.com
 fotoscaserasx.com
 foundationdb.org
+foundationdns.com
+foundationdns.net
+foundationdns.org
 fountmedia.io
 fourthinternational.org
 fourthns.systems
@@ -13078,6 +13083,7 @@ jinpianwang.com
 jinrizhiyi.news
 jintian.net
 jinx.com
+jira.com
 jitouch.com
 jitsi.org
 jiuse6666.com
@@ -20898,6 +20904,7 @@ ssglobal.me
 sshs.club
 sshs.pw
 sshs.xyz
+ss-inf.net
 ssl443.org
 ssl-certificate.ch
 ssl.com
