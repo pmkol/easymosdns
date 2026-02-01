@@ -812,6 +812,7 @@ full:toolbarqueries.google.com
 full:tools.google.com
 full:tools.l.google.com
 full:topics-cdn.dell.com
+full:tp.louisvuitton.com
 full:translate.googleapis.com
 full:translation.googleapis.com
 full:tse1.mm.bing.net
