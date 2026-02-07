@@ -3553,6 +3553,7 @@ bitsquare.io
 bitstamp.net
 bitstream.com
 bitterwinter.org
+bittorrent.com
 bittrex.com
 bitvise.com
 bitwarden.com
@@ -10742,6 +10743,7 @@ help.byspotify.com
 helpeachpeople.com
 helpster.de
 helpzhuling.org
+hembed.com
 he.net
 hentai01.com
 hentai0.com
@@ -14405,6 +14407,8 @@ manta.com
 mantan-web.jp
 mantochichi.com
 manurefetish.com
+manuscdn.com
+manus.im
 manytoon.com
 manyvids.com
 manyvoices.news
@@ -20439,6 +20443,7 @@ sketchbooknews.com
 sketchbookpro.com
 sketchfab.com
 skillshare.com
+skills.sh
 skimtube.com
 skinstrip.net
 skokka.com
@@ -22972,6 +22977,7 @@ uymaarip.com
 v2ex.com
 v2fly.org
 v2.help
+v2.hysteria.network
 v2ph.com
 v2raycn.com
 v2ray.com
