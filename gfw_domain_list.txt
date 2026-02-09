@@ -253,7 +253,10 @@
 2-hand.info
 2k.com
 2kcoretech.online
+2kct.onl
 2kgames.com
+2ksports.com
+2kweb.online
 2lib.org
 2lipstube.com
 2mdn-cn.net
@@ -707,6 +710,7 @@ acebook.com
 acer.com
 acer-group.com
 aceros-de-hispania.com
+acesofthunder.net
 acevpn.com
 acg18.me
 acgbox.org
@@ -747,6 +751,7 @@ actfortibet.org
 actimes.com.au
 activelearnprimary.com.au
 activelearnprimary.co.uk
+activematter.game
 activeteachonline.com
 activpn.com
 ac.uk
@@ -2181,6 +2186,7 @@ artoferotica.info
 artofpeacefoundation.org
 artstation.com
 artstationmedia.com
+artstorm.com
 artstor.org
 artsy.net
 arvanstorage.ir
@@ -5901,6 +5907,7 @@ crossborderexpansion.com
 crossfire.co.kr
 crossfitfirestone.com
 crossmediapanel.com
+crossout.net
 crossvpn.net
 crosswalk-project.com
 crosswalk-project.net
@@ -5909,6 +5916,7 @@ crowdtangle.com
 croxyproxy.com
 crr.com
 crrev.com
+crsed.net
 crtsgfb1.top
 crucial.com
 cruel-furies.com
@@ -5952,6 +5960,7 @@ ctv.com.tw
 ctwant.com
 ctyun.online
 cubicmotion.com
+cubicodyssey.game
 cuckfilmswifefuck.com
 cuckold69.com
 cuckoldfuck.com
@@ -7750,6 +7759,7 @@ en.hao123.com
 enjoyasianporn.com
 enjoyfuck.com
 enlighten.org.tw
+enlisted.net
 enpass.io
 enpirion.com
 enspireformula.com
@@ -9458,6 +9468,8 @@ gacebook.com
 gaeproxy.com
 gaforum.org
 gagaoolala.com
+gaijinent.com
+gaijin.net
 gaito.xyz
 galaxyappstore.com
 galaxymacau.com
@@ -15328,6 +15340,7 @@ modeloswebcambogota.com
 modelsfreecams.com
 modeltv.com
 modernchinastudies.org
+modernwarships.com
 mod.io
 modoo.at
 modperl.pl
@@ -19332,6 +19345,7 @@ rocksdb.net
 rocksdb.org
 rocksextube.com
 rockstargames.com
+rockstarnorth.com
 rojo.com
 roku.com
 rokutime.com
@@ -20934,6 +20948,7 @@ starbuckssummergame.ca
 starbuckssummergame.com
 starbucks.tt
 starbucks.vn
+star-conflict.com
 starcraft2.com
 starcraft.com
 starfieldtech.com
@@ -23887,6 +23902,7 @@ wariowarediy.com
 warnerbrosgames.com
 warp.plus
 warroom.org
+warthunder.com
 wasdj.com
 waselpro.com
 washa.tv
@@ -24384,6 +24400,7 @@ wsjwine.com
 ws-tcg.com
 wtbn.org
 wtfpeople.com
+wtmobile.com
 wto.org
 wuerkaixi.com
 wufafangwen.com
@@ -25832,6 +25849,9 @@ zvereff.com
 zweiporn.com
 zwtvusa.com
 zynamics.com
+zynga.com
+zyngaplayersupport.com
+zyngapoker.com
 zyns.com
 zyxel.com
 zzcartoon.com
