@@ -5586,7 +5586,6 @@ cnet.co.kr
 cnet.com
 cnet.de
 cnetfrance.fr
-cnex.org.cn
 cn.fmnnow.com
 cn.freeones.com
 cnineu.com
@@ -9753,6 +9752,7 @@ gettyimages.nl
 gettyimages.no
 gettyimages.pt
 gettyimages.se
+gettyimages.us
 getuploader.com
 getws1.com
 getwsone.com
@@ -11625,6 +11625,7 @@ huobiasia.vip
 huobi.co
 huobi.com
 huobigroup.com
+huobi.li
 huobi.me
 huobipool.com
 huobi.pro
@@ -25741,7 +25742,6 @@ zhoushuguang.com
 zh.pokerstrategy.com
 zh.pttpedia.wikia.com
 zhtv01.com
-zhuanxing.cn
 zhuatieba.com
 zhuichaguoji.org
 zh.uncyclopedia.wikia.com
