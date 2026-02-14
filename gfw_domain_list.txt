@@ -1674,6 +1674,7 @@ apkmonk.com
 apkplz.com
 apkpure.com
 apkpure.net
+apkpures.xyz
 apk.support
 aple.com
 aplestore.com
@@ -2210,6 +2211,7 @@ attcollaborate.com
 att.com
 attdns.com
 attdns.net
+attestation.app
 attexperts.com
 attglobal.net
 attic.io
@@ -9804,6 +9806,19 @@ grannylovesbbc.com
 grannylovesyoungcock.com
 grannytube.net
 granulate.io
+grapheneos.app
+grapheneos.ca
+grapheneos.com
+grapheneos.dev
+grapheneos.foundation
+grapheneos.info
+grapheneos.net
+grapheneos.network
+grapheneos.online
+grapheneos.org
+grapheneos.ovh
+grapheneos.page
+grapheneos.social
 graphengine.io
 graphis.ne.jp
 graph.org
@@ -18649,6 +18664,7 @@ sdcountybmw.com
 sdnice.one
 sdnitube.buzz
 seagroup.com
+seamlessupdate.app
 seamonkey-project.org
 seancody.com
 seaofsolitude.com
@@ -21533,6 +21549,7 @@ valeursactuelles.com
 valoryirene.com
 valuegb.com
 valvesoftware.com
+vanadium.app
 vancouverbmwretailers.ca
 vanisharabia.com
 vanish.at
