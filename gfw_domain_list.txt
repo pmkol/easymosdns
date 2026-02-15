@@ -20845,6 +20845,7 @@ tomp3.cc
 tomsguide.com
 tonec.com
 tonicmovies.com
+ton.org
 toolforge.org
 toolmaking-cadcam.com
 toomadporn.pro
@@ -22461,6 +22462,7 @@ wallhaven.cc
 wallmama.com
 wallpapercasa.com
 wallsttv.com
+wallzhihu.com
 wal-mart.com
 walmart.com
 walmart-content.com
