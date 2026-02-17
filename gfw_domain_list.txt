@@ -1174,7 +1174,6 @@ airwick.us
 ai-sdk.dev
 aisejushi.com
 aishegw.com
-aiss.anws.gov.tw
 ai.studio
 ait.org.tw
 aiv-cdn.net
@@ -2141,7 +2140,6 @@ archiveofourown.org
 archive.org
 archive.ph
 archives.gov
-archives.gov.tw
 archive.today
 archive.vn
 archivx.to
@@ -5932,7 +5930,6 @@ dashwood360.com
 dastanhisexy.cc
 data.com
 dataframeworks.com
-data.gov.tw
 dataliberation.org
 datalore.io
 datasheets360.com
@@ -7689,7 +7686,6 @@ evropaelire.org
 evschool.net
 eworld.com
 exacttarget.com
-exam.gov.tw
 exascale-tech.com
 excedo.com
 exchristian.hk
@@ -7736,7 +7732,6 @@ exxxtra.net
 exxxtrasmall1.com
 exxxtrasmall.com
 eyevio.jp
-ey.gov.tw
 eyny.com
 e-zone.com.hk
 f2pool.com
@@ -8009,7 +8004,6 @@ faeboook.com
 faecebok.com
 faesebook.com
 fafacebook.com
-fa.gov.tw
 faicbooc.com
 fairmarket.com
 faith100.org
@@ -8221,7 +8215,6 @@ fcfacebook.com
 fcww0.com
 fcw.xxx
 fdacebook.info
-fda.gov.tw
 fdiintelligence.com
 f-dro1d.org
 f-droid.com
@@ -9875,6 +9868,7 @@ governmentengineer.com
 govforce.com
 gov.ir
 gov.taipei
+gov.tw
 g.page
 gpstheseries.com
 gputechconf.co.kr
@@ -10760,7 +10754,6 @@ hp3d.com
 hp3dmetals.com
 hp3dprinter.com
 hp3dsamplepromo.com
-hpa.gov.tw
 hpallinoneprinter.com
 hpapplicationscenter.com
 hpayshop.com
@@ -11510,7 +11503,6 @@ imlive.co
 imlive.com
 immersivetranslate.com
 immidio.com
-immigration.gov.tw
 immoral.jp
 immxd.com
 imod.com
@@ -12131,7 +12123,6 @@ istripper.com
 isupportuyghurs.org
 ita-do.com
 itaeromanga.com
-itaiwan.gov.tw
 italiabeatsbydrdre.com
 italiatibet.org
 itasoftware.com
@@ -12601,7 +12592,6 @@ jtt.ir
 jtube.space
 jtvnw.net
 judeporn.com
-judicial.gov.tw
 juggsjoy.com
 juhachibank.co.jp
 juiceced.xyz
@@ -13480,7 +13470,6 @@ lwwcn.buzz
 lwwcn.xyz
 lxxlxx.com
 lyfhk.net
-ly.gov.tw
 lysol.ca
 lysol.cl
 lysol.co.cr
@@ -14601,7 +14590,6 @@ mixx.com
 miyazakibank.co.jp
 mizuhobank.co.jp
 mizzmona.com
-mjib.gov.tw
 mji.rip
 mjj.rip
 mjlsh.usc.cuhk.edu.hk
@@ -14661,7 +14649,6 @@ modoo.at
 modperl.pl
 modrinth.com
 modular.im
-moeaic.gov.tw
 moedigi.com
 moeero-library.com
 moeerolibrary.com
@@ -14670,7 +14657,6 @@ moeimg.net
 moepedia.net
 moeshare.cc
 moez-m.com
-mofa.gov.tw
 mof.kemomi.me
 mofos.com
 mofosex.com
@@ -14679,7 +14665,6 @@ mog.com
 mohu.club
 mohu.rocks
 mojang.com
-moj.gov.tw
 mojim.com
 moldflow.com
 moldflowexpress.com
@@ -14687,7 +14672,6 @@ moleculardesigntoolkit.com
 molecularsimulationtools.com
 molecularviewer.com
 molesports.com
-mol.gov.tw
 mol.im
 molviewer.com
 mom50.com
@@ -14997,7 +14981,6 @@ muyzorras.com
 muzi.com
 muzi.net
 muzu.tv
-mvdis.gov.tw
 mvg.jp
 mvideoporno.xxx
 mvk.com
@@ -15252,7 +15235,6 @@ nastyvids.com
 nataliefiore.com
 natgeokidsbooks.co.uk
 natgeomaps.com
-nat.gov.tw
 nationalawakening.org
 nationalgeographic.com
 nationalgeographicpartners.com
@@ -15564,7 +15546,6 @@ nhentai.net
 nhentai.to
 nhentai.xxx
 nheos.com
-nhi.gov.tw
 nhncorp.jp
 nic.cz.cc
 niceanimegames.com
@@ -15877,9 +15858,7 @@ noxinfluencer.com
 noxygames.com
 nozomi.la
 npa.go.jp
-npa.gov.tw
 npm.community
-npm.gov.tw
 npmjs.com
 npmjs.org
 npnt.me
@@ -15890,14 +15869,10 @@ nradio.me
 nrdh99.buzz
 nrk.no
 nrooms-dh.sbs
-nsc.gov.tw
 nsfw247.to
 nsfwmemes.com
 nsfw.xxx
 nsimg.net
-ntbk.gov.tw
-ntbna.gov.tw
-ntbt.gov.tw
 ntc.party
 ntdca.com
 ntd.com
@@ -16777,7 +16752,6 @@ pbworks.com
 pbxes.com
 pbxes.org
 pca.st
-pcc.gov.tw
 pc.com
 pccw.com
 pccwglobal.com
@@ -18805,7 +18779,6 @@ seeurlpcl.com
 seevpn.com
 see.xxx
 seezone.net
-sef.org.tw
 sego8.cc
 sego8.co
 sego8.xyz
@@ -19940,7 +19913,6 @@ starwarskids.com
 starwarstheoldrepublic.com
 stateofthemap.com
 stateofthemap.org
-stat.gov.tw
 static9.net.au
 static-cisco.com
 static-economist.com
@@ -20297,7 +20269,6 @@ tabooporn.tv
 tabootube.xxx
 tabustudios.co
 tacamateurs.com
-tacc.cwb.gov.tw
 tachusz.xyz
 taedp.org.tw
 tagapie.com.tw
@@ -20310,13 +20281,11 @@ tailscale.io
 tails.net
 tailwindtraders.com
 taiolongdh.sbs
-taipei.gov.tw
 taipeisociety.org
 taipeitimes.com
 taisounds.com
 taiwanadultexpo.com
 taiwanhot.net
-taiwanjobs.gov.tw
 taiwanjustice.net
 taiwanncf.org.tw
 taiwannews.com.tw
@@ -20552,7 +20521,6 @@ thanksloyalty.com
 thawte.com
 thawte.de
 thawte.fr
-thb.gov.tw
 thdh.cc
 the123d.com
 theaffairs.com
@@ -20884,7 +20852,6 @@ tinypaste.com
 tinyurl.com
 tiohentai.com
 tipas.net
-tipo.gov.tw
 tire-cadcam.com
 tiresplus.com
 titanfall.com
@@ -21313,6 +21280,7 @@ tweez.net
 twelve.today
 twerkingbutt.com
 twftp.org
+twgov.tw
 twgreatdaily.com
 twgreatnews.com
 twhentai.com
@@ -22649,7 +22617,6 @@ wbpay.ru
 wbrks.com
 wb.ru
 wbvm4s.com
-wda.gov.tw
 wd.bible
 wdc.com
 wd.com
