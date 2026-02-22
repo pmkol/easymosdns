@@ -1258,6 +1258,7 @@ akatns.net
 akiba-online.com
 akiba-souken.com
 akiba-web.com
+akile.io
 akinator.com
 akita-bank.co.jp
 akow.org
@@ -2267,6 +2268,7 @@ assemblesystems.com
 assesphoto.com
 assetsadobe.com
 assets.bwbx.io
+assets.nxtrace.org
 assimp.org
 assistirhentai.com
 assoass.com
@@ -14000,6 +14002,7 @@ medium.com
 medium.systems
 medow.ru
 medrxiv.org
+meee.com.tw
 meendo.com
 meetandfuck.games
 meetandfuckgames.com
@@ -16351,6 +16354,7 @@ openbook.org.tw
 opencas.io
 opencollective.com
 opencreate.org
+opencritic.com
 opendemocracy.net
 opendns.com
 opendroneid.org
@@ -23104,6 +23108,7 @@ wwwapplemusic.com
 wwwapple.net
 www-bestbuystores.com
 www.bing.com
+www.clashverge.dev
 www.cmoinc.org
 wwwdecide.com
 www.destinationurl.com
