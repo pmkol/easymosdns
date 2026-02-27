@@ -79,9 +79,9 @@ full:bg4.v4.a.dl.ws.microsoft.com
 full:bg.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
 full:blog.tutorabc.com
-full:blog.vive.com
 full:bookkeeper.itunes.apple.com
 full:borgmon.adz.google.com
+full:bpsso.lenovo.com
 full:build.microsoft.com
 full:cache-management-prod.google.com
 full:cache.pack.google.com
@@ -121,7 +121,6 @@ full:china.uxengine.net
 full:cl1.apple.com
 full:cl1-cdn.origin-apple.com.akadns.net
 full:cl2.apple.com
-full:cl2.apple.com.edgekey.net.globalredir.akadns.net
 full:cl2-cdn.origin-apple.com.akadns.net
 full:cl2-cn.apple.com
 full:cl3.apple.com
@@ -180,7 +179,6 @@ full:cowork.us.extranet.lenovo.com
 full:cowork.us.lenovo.com
 full:c.pki.goog
 full:crashlyticsreports-pa.googleapis.com
-full:createpoint.qti.qualcomm.com
 full:crl.apple.com
 full:crl.globalsign.net
 full:crl.kaspersky.com
@@ -193,10 +191,12 @@ full:c.s-microsoft.com
 full:cstat.apple.com
 full:cstat.cdn-apple.com
 full:ctldl.windowsupdate.com
+full:cubemail.lenovo.com
 full:cueme-api.quark.cn
 full:customization-cdn.dell.com
 full:dam-storage.msi.com
 full:dartsearch-cn.net
+full:datasecurity.htcsense.com
 full:dc1-cert.ksn.kaspersky-labs.com
 full:dc1-file.ksn.kaspersky-labs.com
 full:dc1.ksn.kaspersky-labs.com
@@ -245,8 +245,6 @@ full:dns.corp.google.com
 full:docs.microsoft.com
 full:doubleclick-cn.net
 full:doubleclick.net
-full:downloadcenter.samsung.com
-full:download-cn.msi.com
 full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
 full:download.epicgames.com
@@ -494,12 +492,9 @@ full:logger-dev.corp.google.com
 full:login.corp.google.com
 full:luci.lenovo.com
 full:lv.queniujq.cn
-full:lx2.cok.elexapp.com
-full:lx2.cok.elex.com
 full:manage.c3edge.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
-full:mbsuat.download.prss.microsoft.com
 full:mce.msi.com
 full:mdr.ksn.kaspersky-labs.com
 full:media.admob.com
@@ -522,11 +517,9 @@ full:moocs.unipus.cn
 full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
-full:msproductuat.download.prss.microsoft.com
 full:music.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
-full:myvsuat.download.prss.microsoft.com
 full:nexus.dell.com
 full:ngportal.cdnetworks.com
 full:np-edge.itunes.apple.com
@@ -557,6 +550,7 @@ full:olay-cn.cdnpg.com
 full:opencourse.pku.edu.cn
 full:o.pki.goog
 full:orig-download.msi.com
+full:orig-liveupdate.msi.com
 full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
@@ -899,7 +893,6 @@ full:www.support.apple.com
 full:www.thinkpad.com
 full:www.travelzoo.com
 full:www.tzoo-img.com
-full:www.vive.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
 full:xn--9kr7l.com
