@@ -32,6 +32,7 @@ full:amp-api.apps.apple.com
 full:amp-api-edge.apps.apple.com
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
+full:amp-api-edge.music.apple.com
 full:amp-api.media.apple.com
 full:amp-api.music.apple.com
 full:amp-api-search-edge.apps.apple.com
@@ -518,6 +519,8 @@ full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
 full:music.apple.com
+full:musicstatus.music.apple.com
+full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
 full:nexus.dell.com
@@ -726,6 +729,7 @@ full:snp.cdn.dell.com
 full:snpi.dell.com
 full:software.download.prss.microsoft.com
 full:speedtest.xboxlive.com
+full:speedysub.music.apple.com
 full:sp.itunes.apple.com
 full:ss.bjmu.edu.cn
 full:ssh-relay.corp.google.com
