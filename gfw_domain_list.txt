@@ -6754,6 +6754,7 @@ dowjones.io
 dowjoneson.com
 download.aircrack-ng.org
 download.com
+download.dappcdn.com
 downloadpass.com
 download.qatp1.net
 downloadsforipod.com
@@ -17176,6 +17177,10 @@ pleasefuck.org
 pleasurebabe.com
 pleasuregirl.net
 pleasuremore.com
+plexapp.com
+plex.com
+plex.services
+plex.tv
 plexvpn.pro
 plos.org
 plug.game
