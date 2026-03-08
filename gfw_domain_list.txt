@@ -2111,6 +2111,7 @@ app-measurement-cn.com
 app-measurement.com
 appmediagroup.com
 appmedia.jp
+app-pay.jp
 approvedusedbmw.com
 apps5.oingo.com
 apps.evozi.com
@@ -18626,6 +18627,7 @@ samsungdm.com
 samsunggalaxyfriends.com
 samsunghealth.com
 samsungiotcloud.com
+samsungiots.com
 samsungknox.com
 samsungosp.com
 samsungqbe.com
@@ -19479,6 +19481,7 @@ smartonerobotics.com
 smartonesolutions.com.hk
 smartonesolutions.hk
 smartstream.ne.jp
+smartthings.com
 smashed.xxx
 smbc.co.jp
 smbctb.co.jp

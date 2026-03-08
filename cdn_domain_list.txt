@@ -777,6 +777,7 @@ full:support.apple.com
 full:supportassist.dell.com
 full:supportcenter.corp.google.com
 full:support-china.apple-support.akadns.net
+full:support.lenovo.com
 full:sup-ssh-relay2.corp.google.com
 full:sup-ssh-relay.corp.google.com
 full:surface.downloads.prss.microsoft.com
