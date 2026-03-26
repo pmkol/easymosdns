@@ -191,6 +191,7 @@ full:csi.gstatic.com
 full:c.s-microsoft.com
 full:cstat.apple.com
 full:cstat.cdn-apple.com
+full:ctdsb.clouddiffuse.xyz
 full:ctldl.windowsupdate.com
 full:cubemail.lenovo.com
 full:cueme-api.quark.cn
