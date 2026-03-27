@@ -444,6 +444,7 @@ full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 full:itunes.apple.com
 full:itunes-apple.com.akadns.net
 full:itunesconnect.apple.com
+full:izattime.qcomgeo2.com
 full:js-cdn.music.apple.com
 full:kh.google.com
 full:khm0.googleapis.com
@@ -904,6 +905,7 @@ full:x-dash-public.rec.mp.microsoft.com
 full:xn--9kr7l.com
 full:xn--flw351e.com
 full:xp.apple.com
+full:xtratime.qcomgeo2.com
 full:xz.pphimalayanrt.com
 full:z0.muscache.com
 full:z1.muscache.com
