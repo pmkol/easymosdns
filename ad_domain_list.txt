@@ -969,6 +969,7 @@ api.parse.com
 api.prooffactor.com
 api.quantumgraph.com
 apis.appnxt.net
+api.sprig.com
 api.taps.io
 api.unthem.com
 api.usebutton.com
@@ -1456,6 +1457,7 @@ cestibegster.com
 cetrk.com
 cf.adxcel.com
 cgicounter.puretec.de
+cgqcuskbtcusxl.com
 chaerel.com
 chaglihysty.pro
 chaipoksore.com
@@ -2185,6 +2187,7 @@ fortvision.com
 foundinggulfsaturate.com
 fovcy1jg.pro
 foxpush.com
+foxtlytvs.com
 fpcdn.io
 fpjscdn.net
 fpnpmcdn.net
@@ -3260,6 +3263,7 @@ oixohmve.com
 ojooo.com
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
+okjmiqaqjakm.in
 okspeechlessamong.com
 oljqobudyusf.com
 omazeiros.com
@@ -3618,6 +3622,7 @@ proximic.com
 pr-star.de
 prx.wayfair.com
 psaltauw.net
+ps.bogymentracery.cyou
 psoroumukr.com
 psstt.com
 ptakeemsaifegro.net
@@ -5058,6 +5063,7 @@ yoc-adserver.com
 yoc-performance.com
 yoggrt.com
 yonhelioliskor.com
+yoshdeum.com
 youradexchange.com
 youthfire.com
 yqmxfz.com
