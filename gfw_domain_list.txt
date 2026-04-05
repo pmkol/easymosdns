@@ -7683,6 +7683,7 @@ eslite.com
 esmarthealth.com
 esmatube.com
 esm.run
+esm.sh
 esopworld.com
 esp32.com
 esp8266.com
@@ -17271,6 +17272,7 @@ pjbyj.top
 pjful-app.lol
 pjgirls.com
 pjsekai.sega.jp
+pkgbuild.com
 pki.goog
 pki-posta.ch
 pki-post.ch
