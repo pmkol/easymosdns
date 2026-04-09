@@ -1911,7 +1911,6 @@ dmp.starbolt.io
 dmtgo.upc.biz
 dmtracker.com
 dmxleo.com
-dmxleo.dailymotion.com
 dn0qt3r0xannq.cloudfront.net
 dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
@@ -2804,6 +2803,7 @@ lockerdomecdn.com
 log.ajunews.com
 log.btopenworld.com
 log.cookieyes.com
+logger.eji6.cc
 logger.snackly.co
 logger.unsplash.com
 log.getdropbox.com
