@@ -1713,11 +1713,9 @@ anistreaming.xyz
 ankarazirvesi2018.com
 anm.co.uk
 annamilk.com
-annas-archive.in
-annas-archive.li
-annas-archive.org
-annas-archive.pm
-annas-archive.se
+annas-archive.gd
+annas-archive.gl
+annas-archive.pk
 annstores.net
 annualpelvicexam.com
 annualreviews.org
@@ -4596,6 +4594,7 @@ c2cx.com
 c3pool.com
 c4rex.co
 c4slive.com
+cabconnect.org
 cableav.tv
 cableav.xyz
 cablegatesearch.net
@@ -4695,6 +4694,7 @@ canada-beatsbydre.com
 candidforum-videos.com
 candycumcity.com
 candypleasure.com
+canny.io
 canon.am
 canon.at
 canon.az
@@ -6881,6 +6881,7 @@ dreprobeats.com
 dreprofy.com
 drgan.net
 dribbble.com
+driveawaytaxi.org
 driverxxx.com
 drivevideo.xyz
 driving.co.uk
@@ -7538,6 +7539,9 @@ entrust.cn
 entrust.com
 entrustdatacard.com
 entrust.net
+envato.com
+envato-static.com
+envatousercontent.com
 eotarchive.org
 epicbrowser.com
 epicgamescdn.com
@@ -9628,6 +9632,7 @@ gofuckmenow.com
 gofundme.com
 go-gaytube.com
 gog.com
+gogettaxi.org
 gogle.com
 gogoanime3.co
 gogoanime.vc
@@ -10008,6 +10013,7 @@ gotquestions.org
 gotraffic.net
 gotrusted.com
 gotw.ca
+goup.ai
 gouri.xyz
 governmentengineer.com
 govforce.com
@@ -10260,6 +10266,7 @@ hayabusa.io
 hayabusa.media
 hayday.com
 haydaygame.com
+hayya.ae
 hbabit.com
 hbfile.net
 hbg.com
@@ -12634,6 +12641,21 @@ jiuse.ai
 jiuse.com.co
 jiuse.icu
 jiuse.io
+jivo.chat
+jivochat.co.in
+jivochat.com
+jivochat.com.br
+jivochat.com.co
+jivochat.com.pe
+jivochat.com.tr
+jivochat.co.za
+jivochat.de
+jivochat.es
+jivochat.ng
+jivochat.ru
+jivo.ru
+jivosite.com
+jivosite.ru
 jiyou520.com
 jiyu-kobo.co.jp
 jizzboom.com
@@ -15306,6 +15328,7 @@ mylittlenieces.com
 mylogiclab.com
 mylust.com
 my-magazine.me
+my-manager-account.com
 mymapportal.com
 mymasturbators.com
 mymicrosoft.com
@@ -20450,6 +20473,7 @@ superzooi.com
 supjav.com
 supplybestjerseys.com
 supportfacebook.com
+support-uber.com
 supremacy.com
 supremacy.net
 suprememastertv.com
@@ -20656,7 +20680,10 @@ taweet.com
 tawny-peaks.com
 taxel.media
 taxi69.com
+taxiaid.org
 taxidrivermovie.com
+taxiguru.org
+taxitax.org
 taylorandfrancis.com
 taylorfrancis.com
 t-bank-app.ru
@@ -20694,7 +20721,6 @@ technogym.ru
 technogym.su
 technologyandsociety.org
 techradar.com
-techspot.com
 techstreet.com
 techtimes.com
 techtudo.com
@@ -20748,7 +20774,6 @@ telegram.org
 telegram-porn.com
 telegram.space
 telegra.ph
-telegraph.co.uk
 telekom.com
 telekom.de
 telesco.pe
@@ -20931,6 +20956,7 @@ thelittleslush.com
 theman.in
 themarvelexperiencetour.com
 themathsfactor.com
+themeforest.net
 themercury.com.au
 themessengeradelaide.com.au
 the-m-festival.com
@@ -21932,6 +21958,7 @@ uverse.com
 uvwxyz.xyz
 uwants.com
 uwpcommunitytoolkit.com
+uxthemes.com
 uyghuraa.org
 uyghuramerican.org
 uyghurbiz.org
@@ -24197,6 +24224,7 @@ yandex.ee
 yandex.eu
 yandex.fi
 yandex.fr
+yandexgo.com
 yandex.jobs
 yandex.kg
 yandex.kz
@@ -24219,6 +24247,19 @@ yandex.ua
 yandex.uz
 yandexwebcache.net
 yandexwebcache.org
+yango.africa
+yango.ao
+yango-b2b.com
+yango.bh
+yango.co.il
+yango.com
+yangofellowship.com
+yango.fi
+yango.qa
+yango.taxi
+yango-team.com
+yango.tech
+yango-tech.com
 yangzhi.org
 yantaqu.com
 yaohubaba.com
