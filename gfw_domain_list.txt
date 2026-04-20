@@ -743,6 +743,7 @@ adelaidenow.com.au
 adgoogle.net
 adguardaccount.com
 adguard.app
+adguardcdn.com
 adguard.com
 adguard-dns.com
 adguard-dns.io
