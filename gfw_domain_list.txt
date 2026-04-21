@@ -14810,6 +14810,7 @@ mini.lu
 mini.ma
 minimarkham.ca
 minimarkham.com
+minimax.io
 mini.md
 mini-me.com
 minimoncton.ca
@@ -19269,6 +19270,7 @@ scnsrc.me
 scolle.net
 scoop.sh
 scopus.com
+scorecardresearch.com
 scoreclassics.com
 scorediscounts.club
 scoregroup.com
