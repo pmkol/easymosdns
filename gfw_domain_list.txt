@@ -1834,6 +1834,7 @@ appdynamics.fr
 appdynamics.info
 appdynamics.jp
 appdynamics.org
+app.element.io
 appe-store.com
 appexchange.com
 appget.com
@@ -2270,6 +2271,7 @@ asianthumbs.org
 asianwifeporn.com
 asianxxxvideos.cc
 asiaone.com
+asiasociety.org
 asjmapihost.cc
 ask.com
 askfacebook.net
@@ -3247,6 +3249,7 @@ bekijkporno.nl
 belamionline.com
 bellebound.com
 bellesa.co
+bellingcat.com
 bellotube.com
 bellsouth.net
 bell.wiki
@@ -5806,6 +5809,7 @@ creatwhatsnext.com
 crececonebay.com
 creditcardsbay.com
 creditkarma.com
+crewai.com
 cricketcountry.com
 cristyli.com
 critiquebrainz.org
@@ -12421,6 +12425,7 @@ iss138.com
 issitedownrightnow.com
 issquaredown.com
 issquareup.com
+issues.chromium.org
 issuu.com
 istent.co.kr
 istorytell.com
@@ -13348,6 +13353,7 @@ lamayeshe.com
 lamnia.co.uk
 lanasbigboobs.com
 landofhope.tv
+langchain.com
 langsuirs.com
 lanik.us
 lanmdh.net
@@ -13658,6 +13664,7 @@ lmm167.shop
 lmmbtc.com
 lms01.com
 l-msedge.net
+lmstudio.ai
 lnkd.in
 lnstagram-help.com
 loanbuilder.com
@@ -16634,6 +16641,7 @@ olevod.io
 olevod.tv
 olevodtv.com
 oli-school.com
+ollama.com
 olumpo.com
 omafotze.com
 omakase.in
@@ -18567,6 +18575,7 @@ ravm.tv
 rawgit.com
 raw.githack.com
 rawgithub.com
+rawstory.com
 rayark.download
 rayark.net
 razer.com
@@ -18701,6 +18710,7 @@ recode.net
 recoiljs.org
 reconinstruments.com
 reconjet.com
+recordedfuture.com
 recoveryversion.com.tw
 redamateurtube.com
 redbubble.com
@@ -20262,7 +20272,6 @@ sowers.org.hk
 soyinyj.top
 soyjak.party
 soyjak.st
-soylentnews.org
 spaceexplored.com
 spacely.com.au
 spacemail.com
@@ -21342,6 +21351,7 @@ thieme-connect.com
 thieme-connect.de
 thieme.de
 thinkboxsoftware.com
+thinkchina.sg
 thinkdifferent.us
 thinkgeek.com
 thinkingtaiwan.com
