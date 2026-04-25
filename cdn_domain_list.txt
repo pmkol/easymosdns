@@ -153,6 +153,7 @@ full:cn.debian.org
 full:cn.download.nvidia.com
 full:cn.img.stb.s-msn.com
 full:cn.msi.com
+full:cn.online.standardchartered.com
 full:cn.pandora.net
 full:cn-smp-paymentservices.apple.com
 full:cnupgrade.microsoft.com
