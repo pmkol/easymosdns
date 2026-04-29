@@ -832,6 +832,7 @@ full:uberproxy-with-cn6.l.google.com
 full:uberproxy-with-cn.l.google.com
 full:u.djicdn.com
 full:uk-odc.samsungapps.com
+full:universal-activity-service.itunes.apple.com
 full:update.crashlytics.com
 full:update.googleapis.com
 full:updates.cdn-apple.com
