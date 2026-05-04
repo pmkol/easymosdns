@@ -6491,6 +6491,7 @@ digital-id.ch
 digitalid.ch
 digitalocean.com
 digitaloceanspaces.com
+digitalocean-ui.com
 digitalpack.com
 digitalplayground.com
 digitalplaygroundnetwork.com
@@ -19219,9 +19220,6 @@ sb-telecom.net
 sbti.unun.dev
 sbuxcard.com
 sbux.com.my
-scache1.vzw.com
-scache2.vzw.com
-scache.vzw.com
 scala-lang.org
 scala-sbt.org
 scaleflex.com
@@ -20392,7 +20390,6 @@ srtcdn.net
 srttu.edu
 ss2.us
 ss7.app
-ss7.vzw.com
 ssdevrd.com
 ssglobal.co
 sshs.club
