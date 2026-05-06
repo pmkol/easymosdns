@@ -224,6 +224,7 @@ full:dlcdnets.asus.com
 full:dl.dell.com
 full:dl.google.com
 full:dl.l.google.com
+full:dl-origin.ubnt.com
 full:dnl-00.geo.kaspersky.com
 full:dnl-01.geo.kaspersky.com
 full:dnl-02.geo.kaspersky.com
