@@ -280,6 +280,8 @@ full:emdl.ws.microsoft.com
 full:emmapplecodevice.googleapis.com
 full:emoi-cncdn.bing.com
 full:encoding.image-gmkt.com
+full:end-api.shallow.ink
+full:end.shallow.ink
 full:epix-ssl.xbox.com
 full:epix.xbox.com
 full:event.msi.com
