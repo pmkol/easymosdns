@@ -10,6 +10,7 @@ full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
 full:account.cdnetworks.com
+full:account.lenovo.com
 full:account.samsung.com
 full:achievements.xboxlive.com
 full:activate.activation-v2.kaspersky.com
@@ -60,6 +61,7 @@ full:apptrailers.itunes.apple.com
 full:ares.dl.playstation.net
 full:ark.intel.com
 full:asset-account.msi.com
+full:asset.msi.com
 full:assets.adobedtm.com
 full:assets-ssl.xbox.com
 full:assets.volvocars.com
@@ -90,6 +92,7 @@ full:c.admob.com
 full:c.android.clients.google.com
 full:cashier.alipay.com.srip.net
 full:catalog-cdn.xboxlive.com
+full:ccmdl.adobe.com
 full:cdn1.apple-mapkit.com
 full:cdn1.evernote.com
 full:cdn2.apple-mapkit.com
@@ -122,6 +125,7 @@ full:china.uxengine.net
 full:cl1.apple.com
 full:cl1-cdn.origin-apple.com.akadns.net
 full:cl2.apple.com
+full:cl2.apple.com.edgekey.net.globalredir.akadns.net
 full:cl2-cdn.origin-apple.com.akadns.net
 full:cl2-cn.apple.com
 full:cl3.apple.com
@@ -190,6 +194,7 @@ full:crls.pki.goog
 full:cs-analytics.htcsense.com
 full:csi.gstatic.com
 full:c.s-microsoft.com
+full:csp.lenovo.com
 full:cstat.apple.com
 full:cstat.cdn-apple.com
 full:ctdsb.clouddiffuse.xyz
@@ -225,6 +230,7 @@ full:dl.dell.com
 full:dl.google.com
 full:dl.l.google.com
 full:dl-origin.ubnt.com
+full:dl.ubnt.com
 full:dnl-00.geo.kaspersky.com
 full:dnl-01.geo.kaspersky.com
 full:dnl-02.geo.kaspersky.com
@@ -247,8 +253,10 @@ full:dnl-18.geo.kaspersky.com
 full:dnl-19.geo.kaspersky.com
 full:dns.corp.google.com
 full:docs.microsoft.com
+full:docs.oracle.com
 full:doubleclick-cn.net
 full:doubleclick.net
+full:download-cn.msi.com
 full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
 full:download.epicgames.com
@@ -266,6 +274,7 @@ full:download.tensorflow.google.com
 full:download.visualstudio.microsoft.com
 full:download.xboxlive.com
 full:dp.image-gmkt.com
+full:dragon-download.msi.com
 full:ea2cn-dev-outlet.dell.com
 full:ea2cn-prod-outlet.dell.com
 full:ea2cn-staging-outlet.dell.com
@@ -355,6 +364,7 @@ full:gravatar.loli.net
 full:gs-loc.apple.com
 full:gs-loc-cn.apple.com
 full:gsp10-ssl-cn.ls.apple.com
+full:gsp11-cn.ls.apple.com
 full:gsp12-cn.ls.apple.com
 full:gsp13-cn.ls.apple.com
 full:gsp4-cn.ls.apple.com
@@ -387,6 +397,8 @@ full:gvt2-cn.com
 full:hdn.xnimg.cn.cdngc.net
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
+full:holoway.lenovo.com
+full:holowaytest.lenovo.com
 full:home-cn.htcsense.com
 full:home.htcsense.com
 full:hospital.pku.edu.cn
@@ -490,8 +502,10 @@ full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
 full:l2-uberproxy.corp.google.com
 full:learn.microsoft.com
+full:lenovomobilesupport.lenovo.com
 full:lh3.appinn.net
 full:liveupdate01.asus.com
+full:liveupdate-cn.msi.com
 full:liveupdate.msi.com
 full:lnkd.licdn.com
 full:logger.corp.google.com
@@ -502,6 +516,7 @@ full:lv.queniujq.cn
 full:manage.c3edge.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
+full:mbsuat.download.prss.microsoft.com
 full:mce.msi.com
 full:mdr.ksn.kaspersky-labs.com
 full:media.admob.com
@@ -529,6 +544,7 @@ full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
+full:myvsuat.download.prss.microsoft.com
 full:nexus.dell.com
 full:ngportal.cdnetworks.com
 full:np-edge.itunes.apple.com
@@ -623,6 +639,7 @@ full:prod-support.apple-support.akadns.net
 full:productcard.gog-statics.com
 full:profile.xboxlive.com
 full:proxyconfig.corp.google.com
+full:psrefstuff.lenovo.com
 full:publicassets.cdn-apple.com
 full:qagpublic.qatp1.net
 full:qagpublic.qcpp1.net
@@ -760,6 +777,7 @@ full:statics.teams.cdn.office.net
 full:static.yangfd.com
 full:stocks-sparkline.apple.com
 full:stocks-sparkline-lb.apple.com.akadns.net
+full:storage-asset.msi.com
 full:store.apple.com
 full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
