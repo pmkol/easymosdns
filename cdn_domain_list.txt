@@ -64,7 +64,10 @@ full:asset-account.msi.com
 full:asset.msi.com
 full:assets.adobedtm.com
 full:assets-ssl.xbox.com
+full:assets.uxengine.net
 full:assets.volvocars.com
+full:asset-us-store.msi.com
+full:asset-vendor-event.msi.com
 full:auth.music.apple.com
 full:avail.googleflights.net
 full:avatarread-ssl.xboxlive.com
@@ -148,6 +151,7 @@ full:clientservices.googleapis.com
 full:clubhub.xboxlive.com
 full:clubweixin.samsung.com
 full:cma.itunes.apple.com
+full:cms.csw.lenovo.com
 full:cms.ibm.com
 full:cms-live.pandora.net
 full:cn-api.samsungcloud.com
@@ -403,6 +407,7 @@ full:home-cn.htcsense.com
 full:home.htcsense.com
 full:hospital.pku.edu.cn
 full:iadsdk.apple.com
+full:icc.lenovo.com
 full:icloud.cdn-apple.com
 full:icloud-cdn.icloud.com.akadns.net
 full:i.dell.com
@@ -501,8 +506,11 @@ full:ksn-url.geoksn.kaspersky.com
 full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
 full:l2-uberproxy.corp.google.com
+full:lcp.gtm.lenovo.com
 full:learn.microsoft.com
+full:lenbpreturns.lenovo.com
 full:lenovomobilesupport.lenovo.com
+full:le-reporting.lenovo.com
 full:lh3.appinn.net
 full:liveupdate01.asus.com
 full:liveupdate-cn.msi.com
@@ -539,6 +547,7 @@ full:moocs.unipus.cn
 full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
+full:msproductuat.download.prss.microsoft.com
 full:music.apple.com
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
@@ -618,6 +627,7 @@ full:pancake.cdn-apple.com.akadns.net
 full:partner.globalsign.com
 full:pba0.apple.com
 full:p.cdn.persaas.dell.com
+full:pcsupport.lenovo.com
 full:pd.itunes.apple.com
 full:pd-nk.itunes.apple.com
 full:performanceparameters.googleapis.com
@@ -745,6 +755,7 @@ full:silverlight.dlservice.microsoft.com
 full:sim.lenovo.com
 full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
+full:smartsupport.lenovo.com
 full:sm.dell.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
@@ -815,6 +826,7 @@ full:swdist.apple.com
 full:swdist.apple.com.akadns.net
 full:swscan.apple.com
 full:swscan-cdn.apple.com.akadns.net
+full:swupdl.adobe.com
 full:sylvan.apple.com
 full:sync.itunes.apple.com
 full:tac.googleapis.com
@@ -910,6 +922,7 @@ full:www.ibm.com
 full:www.ikea.com
 full:www.intel.com
 full:www.kaspersky.com
+full:www.laecloud.com
 full:www.microsoft.com
 full:www.nvidia.com
 full:www.pandora.net
@@ -922,6 +935,7 @@ full:www.sulwhasoo.com
 full:www.support.apple.com
 full:www.thinkpad.com
 full:www.travelzoo.com
+full:www.tutorabc.com
 full:www.tzoo-img.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
