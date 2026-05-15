@@ -24298,7 +24298,6 @@ cncc.bingj.com
 cnccchina.com
 cnccdn.com
 cnccea.com
-cn-ccs-sdc.blurdev.com
 cn-cddc.com
 cncdh2.com
 cn-cdn1.skymansion.net
@@ -79736,6 +79735,7 @@ rz.sb
 rzsf.com
 rzspx.com
 rzszp.com
+rztit.com
 rzv5.com
 rzv7.com
 rzx.me
@@ -101492,6 +101492,7 @@ xinlilw.com
 xinlinghuayuan.com
 xinlingletu.com
 xinlip.com
+xinlischool.com
 xinliwanju.com
 xinlixinli.net
 xinlong-holding.com
@@ -102251,6 +102252,7 @@ xmjchyxh.com
 xmjiaruan.com
 xmjim.com
 xmjj3d.com
+xmjkbd.com
 xmjled.com
 xmjsci.com
 xmjslh.com
@@ -112305,6 +112307,7 @@ zktecn.com
 zkteco.com
 zktecoiot.com
 zktecosj.com
+zktecowebui.com
 zkteco.xin
 zktest.com
 zktimecube.com
