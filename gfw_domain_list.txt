@@ -2193,6 +2193,7 @@ archlinuxarm.org
 archlinuxcn.org
 archlinux.de
 archlinux.org
+archlinux.page
 arcraiders.com
 arctosia.com
 area120.com
