@@ -1292,6 +1292,7 @@ alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
 alfadirect.ru
+alfa.me
 alfera.com.hk
 alfera.com.my
 alfera.in
@@ -15726,6 +15727,7 @@ myspacecdn.com
 mysql.com
 mystrikingly.com
 my-tbank.ru
+myteamspeak.com
 myteenwebcam.com
 mythicentertainment.com
 mythicentertainment.net
@@ -21213,6 +21215,8 @@ teachmyass.com
 teachparentstech.org
 teamneedforspeed.com
 teamskeet.com
+teamspeak.com
+teamspeak-services.com
 teamviewer.com
 teamviewer.us
 tearapeak.com
