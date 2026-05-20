@@ -517,6 +517,7 @@ full:lh3.appinn.net
 full:liveupdate01.asus.com
 full:liveupdate-cn.msi.com
 full:liveupdate.msi.com
+full:lm-www.csc.edu.cn.akadns99.net
 full:lnkd.licdn.com
 full:logger.corp.google.com
 full:logger-dev.corp.google.com
