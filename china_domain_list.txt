@@ -24187,7 +24187,6 @@ cnamexingzuoy.com
 cnamico.com
 cnanzhi.com
 cnaomeng.com
-cn-api-test.lenovo.com
 cn-argo-sdc200.blurdev.com
 cnatom.com
 cnats.com
@@ -49271,6 +49270,7 @@ hulubaba.com
 huluboshi.com
 huludz.com
 huluer.com
+huluer.vip
 huluip.com
 huluip.tech
 huluo.com

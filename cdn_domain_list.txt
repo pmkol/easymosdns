@@ -155,6 +155,7 @@ full:cms.csw.lenovo.com
 full:cms.ibm.com
 full:cms-live.pandora.net
 full:cn-api.samsungcloud.com
+full:cn-api-test.lenovo.com
 full:cnappinstall.googleadapis.com
 full:cn-ccs-sdc.blurdev.com
 full:cn.coremetrics.com
