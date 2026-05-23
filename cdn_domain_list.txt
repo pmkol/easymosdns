@@ -399,6 +399,7 @@ full:guzzoni-apple-com.v.aaplimg.com
 full:guzzoni.smoot.apple.com
 full:gvt1-cn.com
 full:gvt2-cn.com
+full:hcs.globalsign.com
 full:hdn.xnimg.cn.cdngc.net
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
@@ -517,6 +518,8 @@ full:lh3.appinn.net
 full:liveupdate01.asus.com
 full:liveupdate-cn.msi.com
 full:liveupdate.msi.com
+full:lm-sa.csc.edu.cn.akadns99.net
+full:lm-studyinchina.csc.edu.cn.akadns99.net
 full:lm-www.csc.edu.cn.akadns99.net
 full:lnkd.licdn.com
 full:logger.corp.google.com
