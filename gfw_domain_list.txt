@@ -2298,6 +2298,7 @@ asme.org
 asmhentai.com
 asminternational.org
 asm.org
+as.mr
 asmrbuluo.com
 asmr.gay
 asn-online.org
@@ -9472,6 +9473,7 @@ gelbooru.wjcodes.com
 gemfire.net
 gemfury.com
 gemini.com
+gencraft.com
 gendai.net
 generated.photos
 geneticconstructor.com
@@ -22719,6 +22721,7 @@ vday.io
 vdoav.com
 vecchiescopate.casa
 vector.im
+veed.io
 veetarabia.com
 veet.at
 veetbangladesh.com
@@ -25103,7 +25106,6 @@ yho.com
 yhy.cool
 yibaochina.com
 yibei.org
-yidio.com
 yigeni.com
 yimg.com
 yimg.jp
