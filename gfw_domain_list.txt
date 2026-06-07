@@ -1606,6 +1606,7 @@ amcplus.com
 amd.com
 amd.com.cn
 amdfanstore.com
+amdgaming.com
 amdigital.co.uk
 ameba.jp
 amebame.com
@@ -4532,6 +4533,7 @@ budaedu.org
 budatt.com
 buddymedia.com
 buffered.com
+bugsnag.com
 bugzilla.org
 buhidoh.net
 buicha.social
@@ -4995,6 +4997,7 @@ cchostvps.xyz
 cciernslabs.com
 cciesecuritylabs.com
 ccievoicelabs.com
+ccleaner.com
 cclifefl.org
 cclife.org
 ccna5.net
@@ -5401,6 +5404,7 @@ citylab.com
 cityoflove.com
 citypopulation.de
 citytourgirls.com
+cityu.hk
 civicparty.hk
 civil3d.com
 civilcc.com
@@ -5956,6 +5960,7 @@ cuckwatchingwife.com
 cuckwimp.com
 cuebic.biz
 cuffiesaldi.com
+cuhk.hk
 cuinc.oen.tw
 cuinc.tw
 cuiweiping.net
@@ -7517,6 +7522,8 @@ editorx.com
 edninfo.com
 edubridge.com
 education-cadcam.com
+edu.hk
+eduhk.hk
 edu.ir
 eduplus.hk
 edu-research.org
@@ -8599,6 +8606,7 @@ fileflyer.com
 filesmonster.vip
 files.oaiusercontent.com
 filesor.com
+filezilla-project.org
 filipino-music.net
 filme2.xxx
 filmeleporno.xxx
@@ -9722,6 +9730,7 @@ girls.xyz
 gisplanning.com
 gitbook.com
 gitbook.io
+gitgud.io
 github1s.com
 github.ai
 githubapp.com
@@ -10931,6 +10940,7 @@ hitun.io
 hitxhot.com
 hive.blog
 hiveon.net
+hivepress.io
 hjb246.top
 hjb7e9.top
 hk01.com
@@ -10942,6 +10952,7 @@ hkbn.com.hk
 hkbnes.net
 hkbn.net
 hkbookcity.com
+hkbu.hk
 hkchronicles.com
 hkcircleapp.com
 hkcitizenmedia.com
@@ -10979,6 +10990,8 @@ hkt-enterprise.com
 hkt-eye.com
 hktpremier.com
 hktshop.com
+hku.hk
+hkust.hk
 hlbelygl.com
 hlsp1.pw
 hm.com
@@ -13559,6 +13572,7 @@ lanasbigboobs.com
 landofhope.tv
 langchain.com
 langsuirs.com
+languagetool.org
 lanik.us
 lanmdh.net
 lanniser-ylo.shop
@@ -15450,6 +15464,7 @@ motiongraphicsandmore.com
 motionpictureser.com
 moto.com
 motolia.com
+motopress.com
 motorola.ca
 motorolacareers.com
 motorola.cl
@@ -15601,6 +15616,7 @@ msturing.org
 msudalosti.com
 msunlimitedcloudsummit.com
 mswe1.org
+msys2.org
 mt0011.site
 mtao.fun
 mthruf.com
@@ -16815,6 +16831,7 @@ o3.ru
 o3team.ru
 o3t.ru
 oaistatic.com
+oaistatsig.com
 oaiusercontent.com
 oanda.com
 oanencore.com
@@ -18005,6 +18022,7 @@ polymarket.com
 polymerhk.com
 polymer-project.org
 polymerproject.org
+polyu.hk
 ponyanimalsex.com
 poofetish.com
 poolbinance.com
@@ -18710,6 +18728,7 @@ qmp4.com
 qmttqg3k.me
 qnap.com
 qobuz.com
+qoder.com
 qombol.com
 qoo10.jp
 qoo-app.com
@@ -24352,6 +24371,7 @@ woyaolian.org
 wp.com
 wpewebkit.org
 wplace.live
+wpmailsmtp.com
 wpoforum.com
 w-pool.com
 wp-themes.com
@@ -24689,8 +24709,14 @@ xn--d4ty0ojsqzfd.com
 xn--e1adjldbbpv.xn--90ais
 xn--e1aigb.xn--p1ai
 xnertv.shop
+xn--fiqs8s1bxp3anr7a.hk
+xn--fiqs8s1bxp3anr7a.xn--j6w193g
+xn--fiqs8s1byzqyvl.hk
+xn--fiqs8s1byzqyvl.xn--j6w193g
 xn--fiqs8sxootzz.xn--hxt814e
 xn--flw351e.com
+xn--gdt08a.hk
+xn--gdt08a.xn--j6w193g
 xn--ggle-55da.com
 xn--gmq348bujlxrb.com
 xn--gmq92kd2rm1kx34a.com
@@ -24709,6 +24735,8 @@ xn--kcrv3utim32hx9f6qe.com
 xn--kput3imi374g.xn--hxt814e
 xn--mts47c3w9b1qr.net
 xn--mtswd61ejxq.com
+xn--mxtq18a.hk
+xn--mxtq18a.xn--j6w193g
 xn--ngstr-lra8j.com
 xn--noss43i.com
 xn--oiq.cc
@@ -24716,6 +24744,16 @@ xnostars.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xn--pearsonenespaol-brb.com
 xnpool.com
+xn--pssu7ci2j23mp9ny48b.hk
+xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+xn--pssu7cv61af1tcs59bnvd.hk
+xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+xn--pssu7cv61af44b.hk
+xn--pssu7cv61af44b.xn--j6w193g
+xn--pssu7cv61ahw8aq79bztd.hk
+xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+xn--pssu7cv61ahwcb1p2yk.hk
+xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
 xn--q41am8x.com
 xn--qoq462m.com
 xn--r8jwklh769h2mc880dk1o431a.com
@@ -24727,7 +24765,13 @@ xn--tkry91n.com
 xn--u2u927b.com
 xn--ubt498knmf.com
 xn--uis17aj9kmuf.com
+xn--uis44a.xn--j6w193g
 xn--urs05q.jp
+xn--wcv22d.hk
+xn--wcv22d.xn--j6w193g
+xn--wcvs22d1m.hk
+xn--wcvs22d1m.xn--j6w193g
+xn--wcvs22d.xn--j6w193g
 xn--x-qeu1ji09tzlg.biz
 xn--x-qeu1ji09tzlg.net
 xn--xsq421m.com
