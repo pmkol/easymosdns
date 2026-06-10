@@ -12053,6 +12053,7 @@ infocert.it
 infoglobo.com.br
 info-graf.fr
 infolinker.com.tw
+infoq.com
 infoq.jp
 informs.org
 infosec.exchange
@@ -16803,6 +16804,7 @@ nwxs8.com
 nxta.org
 nxtdig.com.hk
 nxtdig.com.tw
+nxtv.jp
 nyaa.eu
 nyaa.net
 nyaa.si
@@ -22674,6 +22676,9 @@ uncyclopedia.tw
 underhentai.net
 underlords.com
 underwoodammo.com
+unext.co.jp
+unext-info.jp
+unext.jp
 unfiltered.news
 unholyknight.com
 unidraw.io
