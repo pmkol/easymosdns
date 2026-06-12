@@ -937,6 +937,7 @@ full:www.nvidia.com
 full:www.pandora.net
 full:www.parallels.com
 full:www.pxcc.com
+full:www.recaptcha-cn.net
 full:www.recaptcha.net
 full:www.renren.com.cdngc.net
 full:www-ssl.intel.com
