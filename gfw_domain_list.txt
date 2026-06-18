@@ -1845,6 +1845,7 @@ appbridge.it
 appcenter.ms
 appcloud.com
 app.cloudcone.com
+appconsent.io
 appdomain.cloud
 app-dynamics.com
 appdynamics.com
@@ -2722,6 +2723,7 @@ awwcn.buzz
 awwcn.xyz
 awxcdn.com
 axbdoll.com.tw
+axept.io
 axios.com
 axureformac.com
 ayabank.com
@@ -5027,6 +5029,7 @@ cdn77.com
 cdn77.org
 cdn.arstechnica.net
 cdnblackmyth.club
+cdn-cookieyes.com
 cdn-images.mailchimp.com
 cdninstagram.com
 cdnjs.com
@@ -5756,6 +5759,7 @@ conoha.jp
 conquerwithcharacter.com
 conscrypt.com
 conscrypt.org
+consentmanager.net
 consentpro.com
 constructware.com
 consul.io
@@ -5766,9 +5770,11 @@ contentful.com
 contest.com
 contests.twilio.com
 convrgencegame.com
+cookiebot.com
 cookiechoices.org
 cookielaw.org
 cookiepro.com
+cookieyes.com
 cool18.com
 cool3c.com
 coolaler.com
@@ -21280,7 +21286,6 @@ superadultgames.com
 supercell.com
 supercellcreators.com
 supercellgames.com
-supercell.helpshift.com
 supercellid.com
 supercell.net
 supercellstore.com
@@ -21668,6 +21673,7 @@ terapeak.info
 teraperk.com
 terk.nl
 termius.com
+termly.io
 termux.com
 termux.dev
 termux.org
@@ -22347,6 +22353,7 @@ truedwg.com
 truefi.io
 truenas.com
 trunest.com
+trustarc.com
 trustcor.ca
 trustcor.com
 trustdoc.ch
