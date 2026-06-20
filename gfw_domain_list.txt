@@ -1803,11 +1803,15 @@ apartments.com
 apat1989.org
 apexlegends.com
 apexprint.com.hk
+api5.futunn.com
 api.ai
 apiary.io
 apibay.org
 api-extractor.com
+api.futunn.com
 apigee.com
+api-gl.lbkrs.com
+api.lbkrs.com
 api.moomoobull.com
 apina.biz
 api.news
@@ -3498,6 +3502,7 @@ bild.de
 bili2.cc
 bili888.com
 bili999.com
+bilinovel.com
 biliplus.com
 biliworld.com
 billmelater.com
@@ -5033,6 +5038,7 @@ cdn77.org
 cdn.arstechnica.net
 cdnblackmyth.club
 cdn-cookieyes.com
+cdn.futustatic.com
 cdn-images.mailchimp.com
 cdninstagram.com
 cdnjs.com
@@ -6988,6 +6994,7 @@ dowjones.io
 dowjoneson.com
 download.com
 download.dappcdn.com
+download.futunn.com
 downloadpass.com
 downloadsforipod.com
 dpool.top
@@ -17192,8 +17199,12 @@ op7979.com
 opac-project.eu
 openai.com
 openamt.com
+openapi.futunn.com
+openapi.longbridge.com
 openapiplatform.com
+openapi-quote.longbridge.com
 openapiservice.com
+openapi-trade.longbridge.com
 openart.ai
 openbook.org.tw
 opencas.io
@@ -18856,6 +18867,8 @@ qqbs.work
 qq.co.za
 qr.ae
 qstatus.com
+qtcardfthk.futufin.com
+qtcard.futunn.com
 qt.io
 qt-project.org
 qtrac.eu
@@ -18923,6 +18936,7 @@ qumingwz.com
 quoracdn.net
 quora.com
 quotable.com
+quote.longbridge.global
 quovadisglobal.com
 quran.com
 qutebrowser.org
@@ -21335,6 +21349,7 @@ superzooi.com
 supjav.com
 supplybestjerseys.com
 supportfacebook.com
+support.futunn.com
 support-uber.com
 supr.cl
 supremacy.com
@@ -22307,6 +22322,8 @@ tracfone.com
 tracker.gg
 tracker.network
 tracking-location.com
+trade.futunn.com
+trade.longportapp.com
 tradeup.com
 tradevip1.com
 tradingview.com

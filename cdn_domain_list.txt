@@ -537,6 +537,7 @@ full:mdr.ksn.kaspersky-labs.com
 full:media.admob.com
 full:mediaexp-programming.xboxlive.com
 full:media.licdn.com
+full:mensura.cdn-apple.com
 full:menu-static.gog-statics.com
 full:mesu.apple.com
 full:mesu-cdn.apple.com.akadns.net
