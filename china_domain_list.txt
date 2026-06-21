@@ -15041,6 +15041,7 @@ bbzhi.com
 bbzhsw.com
 bbzxky.fun
 bc150.com
+b.c2r.ts.cdn.office.net
 bc4785bd211012.beer
 bc5539.com
 bc754c518ef6127a.com
@@ -34402,6 +34403,7 @@ fbyvalve.com
 fc0531.com
 fc0633.com
 fc224220480630b3.com
+f.c2r.ts.cdn.office.net
 fc3e2b88fc5254c9.com
 fc62.com
 fc811.com
@@ -81389,6 +81391,7 @@ shejiyue.com
 sheketiandi.com
 shekou.com
 shelive.net
+shell.cdn.office.net
 shellpub.com
 shellsec.com
 shelter-china.com
@@ -85311,6 +85314,7 @@ statics.cc
 staticsdd.com
 staticsoe.com
 staticsoem.com
+statics.teams.cdn.office.net
 staticswin.com
 static.tripcdn.com
 stationpc.com
@@ -86030,6 +86034,7 @@ suqun-group.com
 surely.cool
 surerp.com
 surface.download.prss.microsoft.com
+surface.downloads.prss.microsoft.com
 surfacetreatmentgroup.com
 surfacetreatmenttechnology.com
 surfcg.com
