@@ -337,9 +337,6 @@ full:getcs.lenovo.com
 full:gfwsl.geforce.com
 full:gmskiosk-ssl.corp.google.com
 full:go.corp.google.com
-full:gogalaxy.gog-statics.com
-full:gog-cdn.akamaized.net
-full:gog-cdn-fastly.gog.com
 full:gog.qtlglb.com
 full:gonglchuangl.net
 full:gongyichuangyi.net
@@ -538,7 +535,6 @@ full:media.admob.com
 full:mediaexp-programming.xboxlive.com
 full:media.licdn.com
 full:mensura.cdn-apple.com
-full:menu-static.gog-statics.com
 full:mesu.apple.com
 full:mesu-cdn.apple.com.akadns.net
 full:mesu-china.apple.com.akadns.net
@@ -654,7 +650,6 @@ full:prod-controlbe.floonet.goog
 full:prod-databe.floonet.goog
 full:prod.databe.floonet.goog
 full:prod-support.apple-support.akadns.net
-full:productcard.gog-statics.com
 full:profile.xboxlive.com
 full:proxyconfig.corp.google.com
 full:psrefstuff.lenovo.com
@@ -790,7 +785,6 @@ full:static-exp1.licdn.com
 full:static.gc.apple.com
 full:static.image-gmkt.com
 full:static.licdn.com
-full:static-login.gog-statics.com
 full:staticssl.image-gmkt.com
 full:statics.teams.cdn.office.net
 full:static.yangfd.com
@@ -907,7 +901,6 @@ full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:www-05.ibm.com
 full:www1-cdn.dell.com
-full:www4-static.gog-statics.com
 full:www8.hp.com
 full:www.adobe.com
 full:www.agoda.com
@@ -964,11 +957,8 @@ full:z2.muscache.com
 full:zeus.dl.playstation.net
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-regexp:^cdn-akamai-.+\.gog-services\.com$
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$
-regexp:^gog-cdn-.+\.footprint\.net$
-regexp:^images(-\d)?\.gog-statics\.com$
 regexp:^.+-mihayo\.akamaized\.net$
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
