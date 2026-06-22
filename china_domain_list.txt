@@ -10514,6 +10514,7 @@ adx.ms
 adxpand.com
 adx.pw
 adxqd.com
+adxsenmeng.com
 adxvip.com
 adxwork.com
 adxyun.com
@@ -11695,6 +11696,7 @@ aliddmall.com
 alidns.com
 alidns.net
 alidnsv4.com
+alidnsv5.com
 aliedge.com
 aliensidea.com
 alientek.com
@@ -80680,6 +80682,7 @@ sffdj.com
 sf-financial.com
 sf-freight.com
 sfgj.org
+sf.global
 sfgy.org
 sfhaa.com
 sfht.com
@@ -88279,6 +88282,7 @@ tcnvmms.com
 tcoejox.shop
 tcomall.com
 tcp5.com
+tcp-crm.com
 tcp.hk
 tcping8.com
 tcp.mk
