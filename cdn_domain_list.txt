@@ -74,6 +74,10 @@ full:avatarread-ssl.xboxlive.com
 full:avatarread.xboxlive.com
 full:avatar-ssl.xboxlive.com
 full:avatar.xboxlive.com
+full:azuremigrate.download.prss.microsoft.com
+full:azuremigratetest.download.prss.microsoft.com
+full:azurestackhub.download.prss.microsoft.com
+full:azurestackhubuat.download.prss.microsoft.com
 full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
 full:b.c2r.ts.cdn.office.net
@@ -95,6 +99,7 @@ full:c.admob.com
 full:c.android.clients.google.com
 full:cashier.alipay.com.srip.net
 full:catalog-cdn.xboxlive.com
+full:cbdstest.download.prss.microsoft.com
 full:ccmdl.adobe.com
 full:cdn1.apple-mapkit.com
 full:cdn1.evernote.com
@@ -169,6 +174,8 @@ full:cn-smp-paymentservices.apple.com
 full:cnupgrade.microsoft.com
 full:cn.widevine.com
 full:cn.windowssearch.com
+full:collaborate.download.prss.microsoft.com
+full:collaborateppe.download.prss.microsoft.com
 full:comments.xboxlive.com
 full:communities.apple.com
 full:compass-ssl.xbox.com
@@ -281,6 +288,8 @@ full:download.visualstudio.microsoft.com
 full:download.xboxlive.com
 full:dp.image-gmkt.com
 full:dragon-download.msi.com
+full:dreamspark.download.prss.microsoft.com
+full:dreamsparkuat.download.prss.microsoft.com
 full:ea2cn-dev-outlet.dell.com
 full:ea2cn-prod-outlet.dell.com
 full:ea2cn-staging-outlet.dell.com
@@ -463,6 +472,8 @@ full:is4-ssl.mzstatic.com
 full:is5.mzstatic.com
 full:is5-ssl.mzstatic.com
 full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+full:itacademy.download.prss.microsoft.com
+full:itacademyuat.download.prss.microsoft.com
 full:itunes.apple.com
 full:itunes-apple.com.akadns.net
 full:itunesconnect.apple.com
@@ -512,6 +523,8 @@ full:learn.microsoft.com
 full:lenbpreturns.lenovo.com
 full:lenovomobilesupport.lenovo.com
 full:le-reporting.lenovo.com
+full:lex.download.prss.microsoft.com
+full:lexuat.download.prss.microsoft.com
 full:lh3.appinn.net
 full:liveupdate01.asus.com
 full:liveupdate-cn.msi.com
@@ -528,6 +541,7 @@ full:lv.queniujq.cn
 full:manage.c3edge.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
+full:mbs.download.prss.microsoft.com
 full:mbsuat.download.prss.microsoft.com
 full:mce.msi.com
 full:mdr.ksn.kaspersky-labs.com
@@ -548,9 +562,15 @@ full:monitoring.qatp1.net
 full:monitoring.qcpp1.net
 full:monitoring.qpdp1.net
 full:moocs.unipus.cn
+full:mpnbenefits.download.prss.microsoft.com
+full:mpnbenefitsrtl.download.prss.microsoft.com
+full:mpnbenefitsrtluat.download.prss.microsoft.com
+full:msdn.download.prss.microsoft.com
+full:msdprod-ad.download.prss.microsoft.com
 full:msgr.dlservice.microsoft.com
 full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
+full:msproduct.download.prss.microsoft.com
 full:msproductuat.download.prss.microsoft.com
 full:music.apple.com
 full:musicstatus.music.apple.com
@@ -583,7 +603,10 @@ full:ocsp-data.us.cdnetworks.com
 full:ocsp-lb.apple.com.akadns.net
 full:ocsp.pki.goog
 full:oemsoc.download.prss.microsoft.com
+full:oemsocuat.download.prss.microsoft.com
 full:officecdn.microsoft.com
+full:officemkt.download.prss.microsoft.com
+full:officemktuat.download.prss.microsoft.com
 full:olay-cn.cdnpg.com
 full:opencourse.pku.edu.cn
 full:o.pki.goog
@@ -591,6 +614,7 @@ full:orig-download.msi.com
 full:orig-liveupdate.msi.com
 full:oscdn.apple.com
 full:oscdn.origin-apple.com.akadns.net
+full:osrelease.download.prss.microsoft.com
 full:osxapps.itunes.apple.com
 full:osxapps.itunes.g.aaplimg.com
 full:owner-api.teslamotors.com
@@ -692,11 +716,10 @@ full:redirector.snap.gvt1.com
 full:redirector.xn--ngstr-lra8j.com
 full:refresh-bkg.activation-v2.kaspersky.com
 full:regioninfo-pa.googleapis.com
-full:res-1.cdn.office.net
-full:res.cdn.office.net
 full:reserve-prime.apple.com
 full:res.office365.com
 full:res.outlook.com
+full:rsm.download.prss.microsoft.com
 full:rum8.perf.linkedin.com
 full:s00.upd.kaspersky.com
 full:s01.upd.kaspersky.com
@@ -794,7 +817,9 @@ full:storage-asset.msi.com
 full:store.apple.com
 full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
+full:storecorefulfillment.download.prss.microsoft.com
 full:storeedgefd.dsx.mp.microsoft.com
+full:storeedge.microsoft.com
 full:store-images.microsoft.com
 full:store-images.s-microsoft.com
 full:store.nike.com
@@ -817,6 +842,7 @@ full:support-china.apple-support.akadns.net
 full:support.lenovo.com
 full:sup-ssh-relay2.corp.google.com
 full:sup-ssh-relay.corp.google.com
+full:surface.download.prss.microsoft.com
 full:surface.downloads.prss.microsoft.com
 full:swallow.apple.com
 full:swallow-apple-com.v.aaplimg.com
@@ -883,6 +909,8 @@ full:verdaccio.cnno1.uds-qa.lenovo.com
 full:vext.corp.google.com
 full:virtual.lenovo.com
 full:visualstudio.download.prss.microsoft.com
+full:vlportal.download.prss.microsoft.com
+full:volic.download.prss.microsoft.com
 full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
 full:waf.cdnetworks.com
@@ -895,6 +923,7 @@ full:weather-map.apple.com
 full:web-service.halo.xbox.com
 full:web-service-ssl.halo.xbox.com
 full:webview.unityads.unity3d.com
+full:windbg.download.prss.microsoft.com
 full:wl.dlservice.microsoft.com
 full:wmota.htcsense.com
 full:wscont1.apps.microsoft.com
