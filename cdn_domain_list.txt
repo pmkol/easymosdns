@@ -10,6 +10,7 @@ full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
 full:account.cdnetworks.com
+full:account-cn.alibabacloud.com
 full:account.lenovo.com
 full:account.samsung.com
 full:achievements.xboxlive.com
@@ -40,6 +41,7 @@ full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
 full:aod-ssl.itunes.apple.com
+full:api.alibabacloud.com
 full:api-edge.apps.apple.com
 full:api.lenovo.com
 full:api-p-ap-c.smoot.apple.com
@@ -159,6 +161,7 @@ full:cma.itunes.apple.com
 full:cms.csw.lenovo.com
 full:cms.ibm.com
 full:cms-live.pandora.net
+full:cn.alibabacloud.com
 full:cn-api.samsungcloud.com
 full:cn-api-test.lenovo.com
 full:cnappinstall.googleadapis.com
@@ -811,6 +814,7 @@ full:static.licdn.com
 full:staticssl.image-gmkt.com
 full:statics.teams.cdn.office.net
 full:static.yangfd.com
+full:status.alibabacloud.com
 full:stocks-sparkline.apple.com
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:storage-asset.msi.com
