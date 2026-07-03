@@ -396,6 +396,7 @@ ads.bid
 ads.bigfoot.com
 ads.bittorrent.com
 ads-bi.zenkube.com
+ads.bizwd.net
 ads.blog.com
 ads.bluemountain.com
 ads.boylesports.com
@@ -1454,7 +1455,6 @@ c.bigmir.net
 cbmall.com
 cb.snoozyhayride.com
 cbx.net
-cc-api-data.adobe.io
 c.cdn-server.top
 ccjzuavqrh.com
 cc.swiftype.com
@@ -1644,7 +1644,6 @@ cointraffic.io
 coinzillatag.com
 cokieshins.com
 collect.analyse.lnearn.com
-collector.githubapp.com
 collector.leaddyno.com
 collector.megaxh.com
 collector.pi.spectrum.net
@@ -1769,6 +1768,7 @@ crtv.mate1.com
 crudenessfinishersacred.com
 crummydevioussucculent.com
 crumpetprankerstench.com
+cruncherpatiencestoreroom.com
 crunchybears.com
 cruzswim.org
 csdian.net
@@ -2198,6 +2198,7 @@ extracthorizontaldashing.com
 extreme-dm.com
 extremetracking.com
 ey43.com
+eycfdxhanqord.site
 eyebrowscrambledlater.com
 eyereturn.com
 eyeviewads.com
@@ -2855,6 +2856,7 @@ kupona.de
 kuqfudazkn.com
 kvkaa.com
 kw3y5otoeuniv7e9rsi.com
+kx.upturnsidoist.cyou
 kykay.com
 kzuocxorfo.com
 laceassumestatic.com
@@ -4095,6 +4097,7 @@ rum.uptime.com
 runads.com
 rusenov.com
 ru-traffic.com
+rutseasickmunch.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rvrpushserv.com
@@ -4588,6 +4591,7 @@ tenthsfrumpy.com
 terra8nb.com
 terriblethumb.com
 testingmetriksbre.ru
+tevitpcfav.com
 textads.biz
 text-link-ads.com
 textlinks.com
@@ -5360,6 +5364,7 @@ zogfwunf.com
 zonedummy.com
 zovidree.com
 ztumuvofzbfe.com
+zuchhsparxodc.site
 zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
