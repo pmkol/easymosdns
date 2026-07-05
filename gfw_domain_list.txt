@@ -2121,6 +2121,7 @@ applestore.qa
 applestore.sg
 apple-store.wang
 applestore.wang
+apple-studies.com
 applesurveys.com
 appleswift.com
 appletaiwan.com
@@ -2373,6 +2374,7 @@ atlassian.com
 atlassian-dev.net
 atlassian.net
 atl-paas.net
+atmeta.com
 atnext.com
 atokara.jp
 atom.io
@@ -2752,6 +2754,7 @@ azbukainterneta.ru
 aziani.com
 azirevpn.com
 aznude.com
+azure-api.net
 azure.com
 azurecomcdn.net
 azurecomm.net
@@ -2788,6 +2791,7 @@ azureserviceprofiler.com
 azuresmartspaces.net
 azure-sphere.com
 azurestackvalidation.com
+azurestaticapps.net
 azure-test.net
 azurewebsites.net
 b2c-digest.ru

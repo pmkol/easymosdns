@@ -309,6 +309,7 @@ full:emoi-cncdn.bing.com
 full:encoding.image-gmkt.com
 full:end-api.shallow.ink
 full:end.shallow.ink
+full:entitlements-edge.itunes.apple.com
 full:epix-ssl.xbox.com
 full:epix.xbox.com
 full:event.msi.com
@@ -325,6 +326,7 @@ full:fonts.googleadapis.com
 full:fonts.googleapis.com
 full:fonts.gstatic.com
 full:fonts.loli.net
+full:fpinit.itunes.apple.com
 full:fr-odc.samsungapps.com
 full:fs.microsoft.com
 full:ftaapj.dell.com
