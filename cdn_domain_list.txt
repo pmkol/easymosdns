@@ -37,6 +37,7 @@ full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api-edge.music.apple.com
 full:amp-api.media.apple.com
 full:amp-api.music.apple.com
+full:amp-api.podcasts.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
@@ -70,7 +71,6 @@ full:assets.uxengine.net
 full:assets.volvocars.com
 full:asset-us-store.msi.com
 full:asset-vendor-event.msi.com
-full:auth.music.apple.com
 full:avail.googleflights.net
 full:avatarread-ssl.xboxlive.com
 full:avatarread.xboxlive.com
@@ -668,9 +668,12 @@ full:phobos.apple.com
 full:pki-goog.l.google.com
 full:platform.linkedin.com
 full:play.1ucrs.com
+full:play-edge.itunes.apple.com
 full:play.itunes.apple.com
 full:play.music.apple.com
 full:plus.djicdn.com
+full:podcasts.apple.com
+full:podcasts.itunes.apple.com
 full:poseidon.dl.playstation.net
 full:prm.dji.com
 full:prm.lenovo.com
@@ -784,6 +787,7 @@ full:sh-pod2-smp-device.apple.com
 full:si.cdn.dell.com
 full:silverlight.dlservice.microsoft.com
 full:sim.lenovo.com
+full:single-test-2.cert-test.akamai.com
 full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:smartsupport.lenovo.com
@@ -939,7 +943,9 @@ full:www1-cdn.dell.com
 full:www8.hp.com
 full:www.adobe.com
 full:www.agoda.com
+full:www.akamai.com
 full:www.amd.com
+full:www.analog.com
 full:www-api.ibm.com
 full:www.apple.com
 full:www.apple.com.edgekey.net
