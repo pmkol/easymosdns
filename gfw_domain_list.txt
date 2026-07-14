@@ -1296,7 +1296,6 @@ alchemysynth.com
 alefbank.com
 alexa.com
 alexanderstreet.com
-alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
 alfadirect.ru
@@ -5168,6 +5167,7 @@ chatango.com
 chat.com
 chatgpt.com
 chatgpt.livekit.cloud
+chatgpt.site
 chatgptvideob.buzz
 chatgptvideo.xyz
 chat.lmsys.org
@@ -13470,6 +13470,7 @@ khatrimaza.org
 khotruyentranhx.com
 kichiku-doujinko.com
 kichikuou.com
+kick.com
 kickporn.com
 kickshatchannel.com
 kicksnike1.com
