@@ -63,6 +63,7 @@ full:apps.samsung.com
 full:apptrailers.itunes.apple.com
 full:ares.dl.playstation.net
 full:ark.intel.com
+full:ask.amd.com
 full:asset-account.msi.com
 full:asset.msi.com
 full:assets.adobedtm.com
@@ -76,6 +77,7 @@ full:avatarread-ssl.xboxlive.com
 full:avatarread.xboxlive.com
 full:avatar-ssl.xboxlive.com
 full:avatar.xboxlive.com
+full:axon.razerzone.com
 full:azuremigrate.download.prss.microsoft.com
 full:azuremigratetest.download.prss.microsoft.com
 full:azurestackhub.download.prss.microsoft.com
@@ -189,12 +191,15 @@ full:config.unityads.unity3d.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
 full:configure.ap.dell.com
+full:connect.akamai.com
 full:connectivitycheck.gstatic.com
 full:console-service.halo.xbox.com
 full:console-service-ssl.halo.xbox.com
+full:contacts.akamai.com
 full:content.googleadapis.com
 full:content.nike.com
 full:cortexfx.bnpparibas.com
+full:cortex.razerzone.com
 full:cowork.cn.extranet.lenovo.com
 full:cowork.cn.lenovo.com
 full:cowork.us.extranet.lenovo.com
@@ -235,6 +240,8 @@ full:developer.microsoft.com
 full:devimages-cdn.apple.com
 full:devstreaming-cdn.apple.com
 full:dg-meta.video.google.com
+full:discovery.razerapi.com
+full:discovery-sophie-pro.razerapi.com
 full:discussionschinese.apple.com
 full:distribution.qatp1.net
 full:distribution.qcpp1.net
@@ -272,6 +279,7 @@ full:docs.microsoft.com
 full:docs.oracle.com
 full:doubleclick-cn.net
 full:doubleclick.net
+full:downloadcenter.samsung.com
 full:download-cn.msi.com
 full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
@@ -522,6 +530,7 @@ full:ksn-url-geo.kaspersky-labs.com
 full:ksn-url.geoksn.kaspersky.com
 full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
+full:kt.lenovo.com
 full:l2-uberproxy.corp.google.com
 full:lcp.gtm.lenovo.com
 full:learn.microsoft.com
@@ -544,6 +553,10 @@ full:login.corp.google.com
 full:luci.lenovo.com
 full:lv.queniujq.cn
 full:manage.c3edge.com
+full:manifest3.razerapi.com
+full:manifest-assets.razerzone.com
+full:manifest.razerapi.com
+full:manifest-sophie-pro.razerapi.com
 full:maps.apple.com
 full:marketplace-xb.xboxlive.com
 full:mbs.download.prss.microsoft.com
@@ -563,6 +576,7 @@ full:mini5cn.opera-mini.net
 full:misc-assets.itunes.apple.com
 full:mktplassets-ssl.xbox.com
 full:ml.cdn-apple.com
+full:mobileapp-assets-dev.razerzone.com
 full:monitoring.qatp1.net
 full:monitoring.qcpp1.net
 full:monitoring.qpdp1.net
@@ -577,6 +591,7 @@ full:msgruser.dlservice.microsoft.com
 full:msg.xboxlive.com
 full:msproduct.download.prss.microsoft.com
 full:msproductuat.download.prss.microsoft.com
+full:m.travelzoo.com
 full:music.apple.com
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
@@ -788,6 +803,7 @@ full:si.cdn.dell.com
 full:silverlight.dlservice.microsoft.com
 full:sim.lenovo.com
 full:single-test-2.cert-test.akamai.com
+full:single-test-3.cert-test.akamai.com
 full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:smartsupport.lenovo.com
@@ -866,6 +882,7 @@ full:swscan.apple.com
 full:swscan-cdn.apple.com.akadns.net
 full:swupdl.adobe.com
 full:sylvan.apple.com
+full:synapse3ui-common-dev.razerzone.com
 full:sync.itunes.apple.com
 full:tac.googleapis.com
 full:tcl.com.ru
