@@ -887,7 +887,6 @@ full:sync.itunes.apple.com
 full:tac.googleapis.com
 full:tcl.com.ru
 full:techstop.corp.google.com
-full:tesla-cdn.thron.cn
 full:test.bugs-qa.chromium.org
 full:test.gbugs-qa.chromium.org
 full:tf-feedback.itunes.apple.com

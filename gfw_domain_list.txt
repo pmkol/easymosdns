@@ -2778,6 +2778,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge.net
 azureedge-test.net
+azureedge.us
 azurefd.net
 azureiotcentral.com
 azureiotsolutions.com
@@ -5820,6 +5821,7 @@ coova.net
 coova.org
 copilot.com
 copilot.microsoft.com
+copilot-stg.com
 copro.pw
 copy2000.online
 copy20.com
@@ -14855,6 +14857,7 @@ mgstage.com
 mh4u.org
 mhcbr.ru
 mhcb.ru
+mhgui.com
 mhhanman.xyz
 m.hkgalden.com
 mhqwe.xyz
@@ -21170,6 +21173,7 @@ starfox.com
 stargazer-games.com
 stark-verlag.ch
 star-latam.com
+starlink.com
 starott.com
 starp2p.com
 starplus.com
