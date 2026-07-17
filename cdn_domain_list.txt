@@ -43,6 +43,7 @@ full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
 full:aod-ssl.itunes.apple.com
 full:api.alibabacloud.com
+full:api.blipsandchitz.me
 full:api-edge.apps.apple.com
 full:api.lenovo.com
 full:api-p-ap-c.smoot.apple.com
