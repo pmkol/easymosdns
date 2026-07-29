@@ -68,6 +68,7 @@ full:ask.amd.com
 full:asset-account.msi.com
 full:asset.msi.com
 full:assets.adobedtm.com
+full:assets.analog.com
 full:assets-ssl.xbox.com
 full:assets.uxengine.net
 full:assets.volvocars.com
@@ -241,6 +242,7 @@ full:developer.microsoft.com
 full:devimages-cdn.apple.com
 full:devstreaming-cdn.apple.com
 full:dg-meta.video.google.com
+full:discovery3.razerapi.com
 full:discovery.razerapi.com
 full:discovery-sophie-pro.razerapi.com
 full:discussionschinese.apple.com
@@ -556,6 +558,7 @@ full:lv.queniujq.cn
 full:manage.c3edge.com
 full:manifest3.razerapi.com
 full:manifest-assets.razerzone.com
+full:manifest-assets-staging.razerzone.com
 full:manifest.razerapi.com
 full:manifest-sophie-pro.razerapi.com
 full:maps.apple.com
@@ -722,6 +725,7 @@ full:rapture-autopush.corp.google.com
 full:rapture.corp.google.com
 full:rapture-prod.corp.google.com
 full:rapture-test.corp.google.com
+full:razer-customer-swassets.razerzone.com
 full:r.cert.corp.google.com
 full:recaptcha-cn.net
 full:recaptcha.net
@@ -862,6 +866,7 @@ full:su.itunes.apple.com
 full:sup.corp.google.com
 full:sup.l.google.com
 full:support.1ucrs.com
+full:support.amd.com
 full:support.apple.com
 full:supportassist.dell.com
 full:supportcenter.corp.google.com
@@ -884,6 +889,7 @@ full:swscan-cdn.apple.com.akadns.net
 full:swupdl.adobe.com
 full:sylvan.apple.com
 full:synapse3ui-common-dev.razerzone.com
+full:synapse-x-assets-dev.razerzone.com
 full:sync.itunes.apple.com
 full:tac.googleapis.com
 full:tcl.com.ru
@@ -1002,6 +1008,7 @@ full:www.travelzoo.com
 full:www.tutorabc.com
 full:www.tzoo-img.com
 full:www.uz0.xyz
+full:www.volvocars.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
 full:xn--9kr7l.com
