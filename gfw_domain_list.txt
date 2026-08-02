@@ -722,6 +722,7 @@ acrobat.com
 acs.org
 actalis.com
 actalis.it
+actifio.com
 activelearnprimary.com.au
 activelearnprimary.co.uk
 activematter.game
@@ -13091,7 +13092,10 @@ jessicaturner.co.uk
 jetbrains.ai
 jetbrains.cloud
 jetbrains.com
+jetbrains.dev
 jetbrains.net
+jetbrains.org
+jetbrains.ru
 jetbrains.space
 jetbrains.team
 jetfuelapp.com
@@ -13648,6 +13652,8 @@ korewaeroi.com
 korona.com
 koshelek.app
 kostenlosepornoclips.com
+kotl.in
+kotlinconf.com
 kotlinlang.org
 koubaibu.jp
 koukoku.jp
@@ -13674,6 +13680,7 @@ ksescortclub.com
 kspcoin.com
 ksyp10.com
 ktech.team
+ktor.io
 ktvu.com
 ktzhk.com
 ku77.xyz
@@ -15991,6 +15998,7 @@ myhulu.com
 myicloud.net
 myiphide.com
 myipod.net
+myjetbrains.com
 myjkwd.com
 myjs.tw
 mykomica.org
@@ -16823,6 +16831,7 @@ ntdtv.ru
 ntdtv.se
 ntdvideo.tw
 ntdvn.com
+nthlink.com
 ntl.fyi
 ntnews.com.au
 ntp0.ring.gr.jp
@@ -17344,6 +17353,7 @@ openweathermap.org
 openweave.io
 openwebster.com
 openwrt.org
+openxla.org
 opera.com
 op.gg
 opinionjournal.com
@@ -21643,6 +21653,7 @@ taleofthenight.com
 talkatone.com
 talkboxapp.com
 talkcc.com
+talkingkotlin.com
 talkonly.net
 talksport.com
 tamilsexvideos.cc
