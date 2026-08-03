@@ -1,6 +1,6 @@
 9251797c4cff025cff1d165895aef111  ad_domain_list.txt
-3841e6bacec9d364b6cfd1883332c338  cdn_domain_list.txt
-110c5da21d0d7776e891c55142a4301c  china_domain_list.txt
-c724a7f9076420558b1ad2542ab738b6  china_ip_list.txt
-dc3d60fb42a8d1d2b22ecb7892a66fba  gfw_domain_list.txt
+e21bf9a7963adc8ed6b94d3cc9bd1466  cdn_domain_list.txt
+2a709c66ae1eef1148080e5adb10c311  china_domain_list.txt
+ae68c98206b58fd2a696689bf171c6df  china_ip_list.txt
+995973e9bd1be770967e186e2820b104  gfw_domain_list.txt
 97077434d618a4c345c63d22e7166778  gfw_ip_list.txt

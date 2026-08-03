@@ -17,6 +17,7 @@ full:achievements.xboxlive.com
 full:activate.activation-v2.kaspersky.com
 full:activation-v2.geo.kaspersky.com
 full:activation-v2.kaspersky.com
+full:adam.akamai.com
 full:adcdownload.apple.com
 full:adcdownload.apple.com.akadns.net
 full:adfarm.mediaplex.com
@@ -29,6 +30,7 @@ full:ai.ytimg.com
 full:ai.zhaomi.cn
 full:ajax.loli.net
 full:alibaba.cdn.steampipe.steamcontent.com
+full:aloha.akamai.com
 full:altfarm.mediaplex.com
 full:amp-api.apps.apple.com
 full:amp-api-edge.apps.apple.com
@@ -42,6 +44,7 @@ full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:aod.itunes.apple.com
 full:aod-ssl.itunes.apple.com
+full:aotgo.akamai.com
 full:api.alibabacloud.com
 full:api.blipsandchitz.me
 full:api-edge.apps.apple.com
@@ -74,6 +77,7 @@ full:assets.uxengine.net
 full:assets.volvocars.com
 full:asset-us-store.msi.com
 full:asset-vendor-event.msi.com
+full:audiobridge.akamai.com
 full:avail.googleflights.net
 full:avatarread-ssl.xboxlive.com
 full:avatarread.xboxlive.com
@@ -92,8 +96,10 @@ full:beacons3.gvt2.com
 full:beacons.gcp.gvt2.com
 full:beacons.gvt2.com
 full:bg4.v4.a.dl.ws.microsoft.com
+full:bgp.deploy.akamai.com
 full:bg.v4.a.dl.ws.microsoft.com
 full:bj1.api.bing.com
+full:blog.htc.com
 full:blog.tutorabc.com
 full:bookkeeper.itunes.apple.com
 full:borgmon.adz.google.com
@@ -123,6 +129,7 @@ full:cdn.globalsigncdn.com.cdn.cloudflare.net
 full:cdnjs.loli.net
 full:cdn.loli.net
 full:cdn.marketplaceimages.windowsphone.com
+full:cdn-static.farfetch-contents.com
 full:cds.apple.com
 full:cds.apple.com.akadns.net
 full:cdsassets.apple.com
@@ -177,10 +184,12 @@ full:cn.img.stb.s-msn.com
 full:cn.msi.com
 full:cn.online.standardchartered.com
 full:cn.pandora.net
+full:cn.razerzone.com
 full:cn-smp-paymentservices.apple.com
 full:cnupgrade.microsoft.com
 full:cn.widevine.com
 full:cn.windowssearch.com
+full:collaborate.akamai.com
 full:collaborate.download.prss.microsoft.com
 full:collaborateppe.download.prss.microsoft.com
 full:comments.xboxlive.com
@@ -227,14 +236,18 @@ full:cueme-api.quark.cn
 full:customization-cdn.dell.com
 full:dam-storage.msi.com
 full:dartsearch-cn.net
+full:dashboard.deploy.akamai.com
 full:datasecurity.htcsense.com
 full:dc1-cert.ksn.kaspersky-labs.com
 full:dc1-file.ksn.kaspersky-labs.com
 full:dc1.ksn.kaspersky-labs.com
 full:dc1-pp.ksn.kaspersky-labs.com
 full:dc1-st.ksn.kaspersky-labs.com
+full:dcmap2.deploy.akamai.com
+full:dcmap.deploy.akamai.com
 full:dd-cdn.origin-apple.com.akadns.net
 full:dds.dell.com
+full:decon.deploy.akamai.com
 full:dejavu.apple.com
 full:deny-netfilter.uds-dev.lenovo.com
 full:devblogs.microsoft.com
@@ -300,6 +313,7 @@ full:download-ssl.xbox.com
 full:download.tensorflow.google.com
 full:download.visualstudio.microsoft.com
 full:download.xboxlive.com
+full:dp.deploy.akamai.com
 full:dp.image-gmkt.com
 full:dragon-download.msi.com
 full:dreamspark.download.prss.microsoft.com
@@ -351,6 +365,7 @@ full:g3doc.corp.google.com
 full:g3.gstatic.com
 full:gameplay.intel.com
 full:gateway.craft.moe
+full:gator.deploy.akamai.com
 full:gbxgateway.dell.com
 full:gbxgateway-dev.dell.com
 full:gdssl.image-gmkt.com
@@ -422,8 +437,10 @@ full:guzzoni-apple-com.v.aaplimg.com
 full:guzzoni.smoot.apple.com
 full:gvt1-cn.com
 full:gvt2-cn.com
+full:hardware.deploy.akamai.com
 full:hcs.globalsign.com
 full:hdn.xnimg.cn.cdngc.net
+full:he.deploy.akamai.com
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:holoway.lenovo.com
@@ -553,8 +570,11 @@ full:lnkd.licdn.com
 full:logger.corp.google.com
 full:logger-dev.corp.google.com
 full:login.corp.google.com
+full:logistics.deploy.akamai.com
 full:luci.lenovo.com
 full:lv.queniujq.cn
+full:macosx-aam.upgrade.akamai.com
+full:mailinglists.akamai.com
 full:manage.c3edge.com
 full:manifest3.razerapi.com
 full:manifest-assets.razerzone.com
@@ -581,6 +601,7 @@ full:misc-assets.itunes.apple.com
 full:mktplassets-ssl.xbox.com
 full:ml.cdn-apple.com
 full:mobileapp-assets-dev.razerzone.com
+full:momentum.akamai.com
 full:monitoring.qatp1.net
 full:monitoring.qcpp1.net
 full:monitoring.qpdp1.net
@@ -602,6 +623,7 @@ full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
 full:myvsuat.download.prss.microsoft.com
+full:network.deploy.akamai.com
 full:nexus.dell.com
 full:ngportal.cdnetworks.com
 full:np-edge.itunes.apple.com
@@ -805,6 +827,7 @@ full:shell.cdn.office.net
 full:shop.samsung.com
 full:sh-pod2-smp-device.apple.com
 full:si.cdn.dell.com
+full:siebel.akamai.com
 full:silverlight.dlservice.microsoft.com
 full:sim.lenovo.com
 full:single-test-2.cert-test.akamai.com
@@ -861,6 +884,7 @@ full:streamingaudio.itunes.apple.com
 full:streaming-uberproxy.corp.google.com
 full:streaming-uberproxy-rotation.corp.google.com
 full:streaming.vn.teslamotors.com
+full:stsproxy.lenovo.com
 full:study.163.com
 full:su.itunes.apple.com
 full:sup.corp.google.com
@@ -905,6 +929,7 @@ full:time.xtracloud.net
 full:titlestorage.xboxlive.com
 full:tj-pod1-smp-device.apple.com
 full:toolbarqueries.google.com
+full:tools.deploy.akamai.com
 full:tools.google.com
 full:tools.l.google.com
 full:topics-cdn.dell.com
@@ -956,7 +981,11 @@ full:weather-map.apple.com
 full:web-service.halo.xbox.com
 full:web-service-ssl.halo.xbox.com
 full:webview.unityads.unity3d.com
+full:whohas.deploy.akamai.com
+full:whois.deploy.akamai.com
+full:wiki.network.akamai.com
 full:windbg.download.prss.microsoft.com
+full:wizards.akamai.com
 full:wl.dlservice.microsoft.com
 full:wmota.htcsense.com
 full:wscont1.apps.microsoft.com
@@ -992,6 +1021,8 @@ full:www.intel.com
 full:www.kaspersky.com
 full:www.laecloud.com
 full:www.microsoft.com
+full:www.nike.com
+full:www.nocc.akamai.com
 full:www.nvidia.com
 full:www.pandora.net
 full:www.parallels.com
