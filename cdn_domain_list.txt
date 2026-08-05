@@ -928,6 +928,8 @@ full:time.izatcloud.net
 full:time.xtracloud.net
 full:titlestorage.xboxlive.com
 full:tj-pod1-smp-device.apple.com
+full:tj-pod2-smp-device.apple.com
+full:tj-pod3-smp-device.apple.com
 full:toolbarqueries.google.com
 full:tools.deploy.akamai.com
 full:tools.google.com
