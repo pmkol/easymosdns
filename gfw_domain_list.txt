@@ -206,6 +206,7 @@
 2047.name
 2047.one
 2049bbs.xyz
+20thcenturystudios.com
 20thcenturystudios.com.au
 20thcenturystudios.com.br
 20thcenturystudios.jp
@@ -236,9 +237,13 @@
 2buybeatsbydre.com
 2chav.com
 2ch.hk
+2ch.life
 2ch.net
+2ch.org
+2ch.su
 2dgen.com
 2drdrebeats.com
+2dust.link
 2gayboys.com
 2gis.ae
 2gis.am
@@ -622,6 +627,7 @@ abc.com
 abcheadphones.com
 abclider.com
 abc.net.au
+abcnews.com
 abc-studios.com
 abc.xyz
 abeatsbydrdre.com
@@ -1634,6 +1640,7 @@ amlg.io
 amnesty.org
 amnesty.org.hk
 amnestyusa.org
+amnezia.org
 amodoll.com
 amourangels.com
 amp.dev
@@ -2861,6 +2868,7 @@ baltimorebmw.com
 baltnews.com
 baltnews.lt
 bamgrid.com
+bamtech.net
 bamtoki.com
 bananacall.ru
 banana-vpn.com
@@ -4722,7 +4730,6 @@ byrut.org
 byspotify.com
 bystys.tech
 bytedapm.com
-byteoversea.com
 bytick.com
 c0930.com
 c2cx.com
@@ -5481,10 +5488,13 @@ clannad-movie.jp
 claravenger.com
 clarivate.com
 clash.com
+clashmi.app
 clashmini.com
 clashofclans.com
+clashparty.org
 clashroyaleapp.com
 clashroyale.com
+clashverge.dev
 clashyun.com
 clasporno.org
 classicalguitarblog.net
@@ -5541,6 +5551,7 @@ cloudcredibility.com
 cloud.dify.ai
 cloudec.jp
 cloudflareaccess.com
+cloudflare.app
 cloudflareapps.com
 cloudflarebolt.com
 cloudflarebrowser.com
@@ -5558,6 +5569,7 @@ cloudflare-ipfs.com
 cloudflare.net
 cloudflareok.com
 cloudflarepartners.com
+cloudflare.pay
 cloudflareportal.com
 cloudflarepreview.com
 cloudflare-quic.com
@@ -6475,7 +6487,6 @@ deltacredit.ru
 deluxe.com.hk
 delvenetworks.com
 demandware.com
-demdex.net
 democracy.earth
 demonoid.is
 demoprint.com
@@ -6530,6 +6541,7 @@ destinationbim.com
 detaliczny.com
 detentiongirls.com
 detodosparatodos.org
+detpress.com
 dettolarabia.com
 dettol.at
 dettol.be
@@ -6763,7 +6775,9 @@ dishworld.com
 diskstation.me
 disk.yandex.com
 disk.yandex.ru
+disneyaccount.com
 disneyadsales.com
+disneyanimation.com
 disneyarena.com
 disney.asia
 disney-asia.com
@@ -6809,6 +6823,7 @@ disney.io
 disney.it
 disneyjunior.com
 disneyjuniortreataday.com
+disneylandparis.com
 disneylatino.com
 disneymagicmoments.co.il
 disneymagicmoments.co.uk
@@ -6836,6 +6851,7 @@ disney.pl
 disneyplus.bn5x.net
 disneyplus.com
 disney-plus.net
+disneyprivacycenter.com
 disney.pt
 disneyredirects.com
 disney.ro
@@ -6848,6 +6864,7 @@ disneystreaming.com
 disney-studio.com
 disney-studio.net
 disneysubscription.com
+disneytermsofuse.com
 disneytickets.co.uk
 disneyturkiye.com.tr
 disneytvajobs.com
@@ -8851,6 +8868,7 @@ flathub.org
 flatmates.com.au
 flatpak.org
 flatt.tech
+flclashx.app
 fldz8.buzz
 flecheinthepeche.fr
 fleshbot.com
@@ -8886,6 +8904,7 @@ flowgpt.com
 flowhongkong.net
 flow.org
 flowtype.org
+flowvy.io
 flowwow.com
 flowwow-images.com
 fluffychat.im
@@ -9216,6 +9235,7 @@ freefacebook.com
 freefacebook.net
 freefblikes.com
 freefbx.com
+freeform.com
 freegao.com
 freegaypornhdtube.com
 freegaysexgames.com
@@ -11220,6 +11240,7 @@ honawalaan.com
 honestpornreviews.com
 hongjie10.xyz
 hongjie11.xyz
+hongkongdisneyland.com
 hongkongdoll.tv
 hongkongdollvideo.org
 hongkong.fandom.com
@@ -12174,6 +12195,7 @@ incloak.com
 inclusivegrowthscore.com
 incommon-rsa.org
 incredibox.fr
+incy.cc
 indazn.com
 indaznlab.com
 independent.co.uk
@@ -13410,6 +13432,7 @@ kards.com
 karechat.ai
 karger.com
 karinahart.com
+karing.app
 karlajames.com
 karmahelp.ru
 karta-banka-rf.ru
@@ -14221,6 +14244,7 @@ lua.org
 lubetube.com
 lucahmelayu.club
 lucasentertainment.com
+lucasfilm.com
 luckydesigner.space
 luckyissue.com
 luckymobile.ca
@@ -16203,6 +16227,7 @@ nbtvpn.com
 nbys1.tv
 nbys.tv
 nbyy.tv
+ncbi.nlm.nih.gov
 nchrd.org
 ncl.edu.tw
 ncloud.com
@@ -16232,6 +16257,7 @@ negoziomonsterbeats.com
 neicad.com
 neiexplicit.com
 neifea.com
+neigbuy.com
 neimotion.com
 neinastranincad.com
 neisoftware.com
@@ -16815,6 +16841,7 @@ nsfw247.to
 nsfwmemes.com
 nsfw.xxx
 nsimg.net
+nsloon.com
 nspk.ru
 ntc.party
 ntdca.com
@@ -17243,6 +17270,7 @@ oneteamconference.com
 onetrust.com
 onevps.com
 oneworldmanystories.com
+onexray.com
 onfinality.io
 on.here
 onindiansex.com
@@ -18087,6 +18115,7 @@ pi-vr.com
 piwheels.org
 pixanalytics.com
 pixapp.net
+pixar.com
 pixate.com
 pixeldrain.com
 pixelqi.com
@@ -18766,6 +18795,7 @@ privatevpn.com
 privilege.hk
 privilege.tw
 privoxy.org
+prizrak.app
 procopytips.com
 proctoscopeexam.com
 prodcontest.com
@@ -20002,6 +20032,7 @@ seaofsolitude.com
 seaporn.org
 search.aol.com
 search.com
+searchlightpictures.com
 search.xxx
 search.yahoo.co.jp
 searx.me
@@ -20323,6 +20354,7 @@ sh83.xyz
 shadbase.com
 shadeyouvpn.com
 shadowcomplex.com
+shadowlaunch.com
 shadowslaves.com
 shadowsocks.be
 shadowsocks.com
@@ -21253,6 +21285,8 @@ starwarsgalacticstarcruiser.com
 starwarsjedifallenorder.com
 starwarskids.com
 starwarstheoldrepublic.com
+stash.wiki
+stash.ws
 stateofthemap.com
 stateofthemap.org
 static9.net.au
@@ -22080,6 +22114,7 @@ thetype.com
 theuab.net
 theverge.com
 thevirtualsexreview.com
+thewaltdisneycompany.com
 theweek.com
 theweek.in
 thewgo.org
@@ -22342,6 +22377,7 @@ tokenlon.im
 tokenplus.app
 tok.media
 tokyocn.com
+tokyodisneyresort.jp
 tokyo-hot.com
 tokyomotion.com
 tokyomotion.net
@@ -24134,6 +24170,7 @@ walmart.com
 walmart-content.com
 walmartimages.com
 walmart.pharmacy
+waltdisneystudios.com
 waltermartin.com
 waltermartin.org
 wa.me
@@ -24359,6 +24396,7 @@ wfm.com
 wforum.com
 wgcdn.co
 wgcrowd.io
+wgtunnel.com
 whasil.xyz
 whatblocked.com
 whatboyswant.com
@@ -24575,6 +24613,7 @@ wireless.radio
 wirelessreach.com
 wiremoneytoirelandwithxoomeasierandcheaper.com
 wireshark.org
+wiresock.net
 wisecoin.com
 wise.com
 wiseid.com
