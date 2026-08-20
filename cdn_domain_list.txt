@@ -25,7 +25,6 @@ full:ad.mediaplex.com
 full:adminportal.cdnetworks.com
 full:admob-cn.com
 full:adservice.google.com
-full:afcs.dell.com
 full:ai.ytimg.com
 full:ai.zhaomi.cn
 full:ajax.loli.net
@@ -164,7 +163,6 @@ full:client-api.itunes.apple.com
 full:client-download.steampowered.com
 full:clientflow.apple.com
 full:clientflow.apple.com.akadns.net
-full:clientperipherals.dell.com
 full:clientservices.googleapis.com
 full:clubhub.xboxlive.com
 full:clubweixin.samsung.com
@@ -233,7 +231,6 @@ full:ctdsb.clouddiffuse.xyz
 full:ctldl.windowsupdate.com
 full:cubemail.lenovo.com
 full:cueme-api.quark.cn
-full:customization-cdn.dell.com
 full:dam-storage.msi.com
 full:dartsearch-cn.net
 full:dashboard.deploy.akamai.com
@@ -246,7 +243,6 @@ full:dc1-st.ksn.kaspersky-labs.com
 full:dcmap2.deploy.akamai.com
 full:dcmap.deploy.akamai.com
 full:dd-cdn.origin-apple.com.akadns.net
-full:dds.dell.com
 full:decon.deploy.akamai.com
 full:dejavu.apple.com
 full:deny-netfilter.uds-dev.lenovo.com
@@ -265,7 +261,6 @@ full:distribution.qpdp1.net
 full:dlassets-ssl.xboxlive.com
 full:dlassets.xboxlive.com
 full:dlcdnets.asus.com
-full:dl.dell.com
 full:dl.google.com
 full:dl.l.google.com
 full:dl-origin.ubnt.com
@@ -318,9 +313,6 @@ full:dp.image-gmkt.com
 full:dragon-download.msi.com
 full:dreamspark.download.prss.microsoft.com
 full:dreamsparkuat.download.prss.microsoft.com
-full:ea2cn-dev-outlet.dell.com
-full:ea2cn-prod-outlet.dell.com
-full:ea2cn-staging-outlet.dell.com
 full:e.admob.com
 full:ec4.images-amazon.com
 full:ec8.images-amazon.com
@@ -342,7 +334,6 @@ full:events2.djicdn.com
 full:experiments.apple.com
 full:facility.lenovo.com
 full:f.c2r.ts.cdn.office.net
-full:fcs.dell.com
 full:fides-pol.apple.com
 full:firebase-settings.crashlytics.com
 full:fontfiles.googleadapis.com
@@ -354,10 +345,6 @@ full:fonts.loli.net
 full:fpinit.itunes.apple.com
 full:fr-odc.samsungapps.com
 full:fs.microsoft.com
-full:ftaapj.dell.com
-full:fta.dell.com
-full:ftaemea.dell.com
-full:ftasitapj.dell.com
 full:g0.gstatic.com
 full:g1.gstatic.com
 full:g2.gstatic.com
@@ -366,8 +353,6 @@ full:g3.gstatic.com
 full:gameplay.intel.com
 full:gateway.craft.moe
 full:gator.deploy.akamai.com
-full:gbxgateway.dell.com
-full:gbxgateway-dev.dell.com
 full:gdssl.image-gmkt.com
 full:g-ec4.images-amazon.com
 full:geetest.datasink.sensorsdata.cn
@@ -802,7 +787,6 @@ full:scanservice1.qatp1.net
 full:scanservice1.qcpp1.net
 full:scanservice1.qpdp1.net
 full:scc.ssacdn.com
-full:scene7-cdn.dell.com
 full:scp-social.s-msn.com
 full:script.image-gmkt.com
 full:sdx.microsoft.com
@@ -835,11 +819,8 @@ full:single-test-3.cert-test.akamai.com
 full:siportal.cdnetworks.com
 full:slupdate.dlservice.microsoft.com
 full:smartsupport.lenovo.com
-full:sm.dell.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
-full:snp.cdn.dell.com
-full:snpi.dell.com
 full:software.download.prss.microsoft.com
 full:speedtest.xboxlive.com
 full:speedysub.music.apple.com
@@ -892,7 +873,6 @@ full:sup.l.google.com
 full:support.1ucrs.com
 full:support.amd.com
 full:support.apple.com
-full:supportassist.dell.com
 full:supportcenter.corp.google.com
 full:support-china.apple-support.akadns.net
 full:support.lenovo.com
@@ -935,7 +915,6 @@ full:tools.deploy.akamai.com
 full:tools.google.com
 full:tools.l.google.com
 full:topics-cdn.dell.com
-full:tp.louisvuitton.com
 full:translate.googleapis.com
 full:translation.googleapis.com
 full:tse1.mm.bing.net
@@ -959,7 +938,6 @@ full:update.googleapis.com
 full:updates.cdn-apple.com
 full:updates-http.cdn-apple.com
 full:updates-http.cdn-apple.com.akadns.net
-full:uplaypc-s-ubisoft.cdn.ubi.com
 full:upload.yangfd.com
 full:upp.itunes.apple.com
 full:userstats.xboxlive.com
@@ -998,13 +976,11 @@ full:www8.hp.com
 full:www.adobe.com
 full:www.agoda.com
 full:www.akamai.com
-full:www.amd.com
 full:www.analog.com
 full:www-api.ibm.com
 full:www.apple.com
 full:www.apple.com.edgekey.net
 full:www.apple.com.edgekey.net.globalredir.akadns.net
-full:www-csb.dell.com
 full:www.dell.com
 full:www.destinationurl.com
 full:www.entrust.cn
