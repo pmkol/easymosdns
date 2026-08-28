@@ -71,6 +71,7 @@ full:asset-account.msi.com
 full:asset.msi.com
 full:assets.adobedtm.com
 full:assets.analog.com
+full:assets-global.viveport.com
 full:assets-ssl.xbox.com
 full:assets.uxengine.net
 full:assets.volvocars.com
@@ -389,6 +390,7 @@ full:gorom.corp.google.com
 full:goto.corp.google.com
 full:goto.google.com
 full:gravatar.loli.net
+full:gs2-geo.psn.akadns99.net
 full:gs-loc.apple.com
 full:gs-loc-cn.apple.com
 full:gsp10-ssl-cn.ls.apple.com
@@ -447,6 +449,7 @@ full:images-cn-8.ssl-images-amazon.com
 full:images-cn.ssl-images-amazon.com
 full:images-eds-ssl.xboxlive.com
 full:images.nvidia.com
+full:images.samsung.com
 full:image.xboxlive.com
 full:imasdk.googleapis.com
 full:img1.wsimg.com
@@ -490,6 +493,7 @@ full:is4-ssl.mzstatic.com
 full:is5.mzstatic.com
 full:is5-ssl.mzstatic.com
 full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+full:issues.deploy.akamai.com
 full:itacademy.download.prss.microsoft.com
 full:itacademyuat.download.prss.microsoft.com
 full:itunes.apple.com
@@ -755,6 +759,7 @@ full:reserve-prime.apple.com
 full:res.office365.com
 full:res.outlook.com
 full:rsm.download.prss.microsoft.com
+full:rtc.smartedu.lenovo.com
 full:rum8.perf.linkedin.com
 full:s00.upd.kaspersky.com
 full:s01.upd.kaspersky.com
@@ -949,6 +954,7 @@ full:virtual.lenovo.com
 full:visualstudio.download.prss.microsoft.com
 full:vlportal.download.prss.microsoft.com
 full:volic.download.prss.microsoft.com
+full:vrbi.viveport.com
 full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
 full:waf.cdnetworks.com
@@ -958,6 +964,7 @@ full:weather-data.apple.com.akadns.net
 full:weatherkit.apple.com
 full:weather-map2.apple.com
 full:weather-map.apple.com
+full:webmail.akamai.com
 full:web-service.halo.xbox.com
 full:web-service-ssl.halo.xbox.com
 full:webview.unityads.unity3d.com
@@ -1017,6 +1024,7 @@ full:www.travelzoo.com
 full:www.tutorabc.com
 full:www.tzoo-img.com
 full:www.uz0.xyz
+full:www.viveport.com
 full:www.volvocars.com
 full:xb.dlservice.microsoft.com
 full:x-dash-public.rec.mp.microsoft.com
