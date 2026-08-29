@@ -539,6 +539,7 @@ full:ksn-url-geo.kaspersky-labs.com
 full:ksn-url.geoksn.kaspersky.com
 full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
+full:kssip.msi.com
 full:kt.lenovo.com
 full:l2-uberproxy.corp.google.com
 full:lcp.gtm.lenovo.com
@@ -827,6 +828,7 @@ full:smartsupport.lenovo.com
 full:smp-device-content.apple.com
 full:s.mzstatic.com
 full:software.download.prss.microsoft.com
+full:source.tutorabc.com
 full:speedtest.xboxlive.com
 full:speedysub.music.apple.com
 full:sp.itunes.apple.com
@@ -983,6 +985,7 @@ full:www8.hp.com
 full:www.adobe.com
 full:www.agoda.com
 full:www.akamai.com
+full:www.amd.com
 full:www.analog.com
 full:www-api.ibm.com
 full:www.apple.com
