@@ -1009,6 +1009,7 @@ full:www.intel.com
 full:www.kaspersky.com
 full:www.laecloud.com
 full:www.microsoft.com
+full:www.netarch.akamai.com
 full:www.nike.com
 full:www.nocc.akamai.com
 full:www.nvidia.com
