@@ -1,7 +1,6 @@
-full:1.cms.s81c.com
+400: Bad Requestfull:1.cms.s81c.com
 full:1.www.s81c.com
 full:2-01-5830-0005.cdx.cedexis.net
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -422,8 +421,6 @@ full:gtm.oasisfeng.com
 full:guzzoni.apple.com
 full:guzzoni-apple-com.v.aaplimg.com
 full:guzzoni.smoot.apple.com
-full:gvt1-cn.com
-full:gvt2-cn.com
 full:hardware.deploy.akamai.com
 full:hcs.globalsign.com
 full:hdn.xnimg.cn.cdngc.net
