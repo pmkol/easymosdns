@@ -9779,6 +9779,7 @@ geti2p.net
 getlantern.org
 getmalus.com
 getmdl.io
+getmonero.org
 get.new
 getnews.jp
 getoutline.org
