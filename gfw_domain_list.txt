@@ -1822,16 +1822,12 @@ apartments.com
 apat1989.org
 apexlegends.com
 apexprint.com.hk
-api5.futunn.com
 api.ai
 apiary.io
 apiauto.ru
 apibay.org
 api-extractor.com
-api.futunn.com
 apigee.com
-api-gl.lbkrs.com
-api.lbkrs.com
 api.moomoobull.com
 apina.biz
 api.news
@@ -5089,7 +5085,6 @@ cdn77.org
 cdn.arstechnica.net
 cdnblackmyth.club
 cdn-cookieyes.com
-cdn.futustatic.com
 cdn-images.mailchimp.com
 cdninstagram.com
 cdnjs.com
@@ -5689,7 +5684,6 @@ cn.sandscotaicentral.com
 cn.shafaqna.com
 cnshopin.com
 cn.theaustralian.com.au
-cn.uptodown.com
 cnyes.com
 cnzjp.xyz
 coat.co.jp
@@ -7081,7 +7075,6 @@ dowjones.io
 dowjoneson.com
 download.com
 download.dappcdn.com
-download.futunn.com
 downloadpass.com
 downloadsforipod.com
 dpool.top
@@ -14967,7 +14960,6 @@ mhcbr.ru
 mhcb.ru
 mhgui.com
 mhhanman.xyz
-m.hkgalden.com
 mhqwe.xyz
 mhradio.org
 mhshosting.com
@@ -17394,12 +17386,8 @@ op7979.com
 opac-project.eu
 openai.com
 openamt.com
-openapi.futunn.com
-openapi.longbridge.com
 openapiplatform.com
-openapi-quote.longbridge.com
 openapiservice.com
-openapi-trade.longbridge.com
 openart.ai
 openbook.org.tw
 opencas.io
@@ -19077,11 +19065,10 @@ qqbs.work
 qq.co.za
 qr.ae
 qstatus.com
-qtcardfthk.futufin.com
-qtcard.futunn.com
 qt.io
 qt-project.org
 qtrac.eu
+quakemachinex.com
 qualcomm.co.id
 qualcomm.co.in
 qualcomm.co.jp
@@ -21597,7 +21584,6 @@ superzooi.com
 supjav.com
 supplybestjerseys.com
 supportfacebook.com
-support.futunn.com
 support-uber.com
 supr.cl
 supremacy.com
@@ -22584,8 +22570,6 @@ tracfone.com
 tracker.gg
 tracker.network
 tracking-location.com
-trade.futunn.com
-trade.longportapp.com
 tradeup.com
 tradevip1.com
 tradingview.com
