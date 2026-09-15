@@ -21492,6 +21492,9 @@ stripcamfun.com
 stripchat.com
 stripecdn.com
 stripe.com
+stripe.dev
+stripe.events
+stripe.global
 stripe.network
 stripe-terminal-local-reader.net
 stripparadise.com
