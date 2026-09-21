@@ -5699,6 +5699,7 @@ cocktailsandcocktalk.com
 cockyboys.com
 codeberg.org
 codeberg.page
+codebuff.com
 codecademy.com
 code-class.ru
 codeforaliving.io
@@ -8829,12 +8830,14 @@ fiotolia.com
 firearmsworld.net
 firebaseapp.com
 firebase.com
+firebase.dev
 firebase.io
 firebaseio.com
 fireemblemawakening.com
 fire-emblem-heroes.com
 firefox.com
 firefox.hu
+firefox-portal-detection.com
 firefoxtweetmachine.com
 firefoxusercontent.com
 fireofliberty.info
@@ -9239,6 +9242,7 @@ freebigmovies.com
 freebrowser.org
 freebs.com
 freebsd.org
+freebuff.com
 freecamsfan.com
 freecartoons.biz
 freechatnow.com
@@ -22003,6 +22007,7 @@ textnow.com
 textnow.me
 texttobuy.org
 texture.com
+tfbnw.net
 tfc-taiwan.org.tw
 tferwq.com
 tfhub.dev
