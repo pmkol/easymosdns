@@ -314,6 +314,7 @@ full:dp.image-gmkt.com
 full:dragon-download.msi.com
 full:dreamspark.download.prss.microsoft.com
 full:dreamsparkuat.download.prss.microsoft.com
+full:drivers.amd.com
 full:e.admob.com
 full:ec4.images-amazon.com
 full:ec8.images-amazon.com
