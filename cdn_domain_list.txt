@@ -129,6 +129,7 @@ full:cdn.globalsigncdn.com.cdn.cloudflare.net
 full:cdnjs.loli.net
 full:cdn.loli.net
 full:cdn.marketplaceimages.windowsphone.com
+full:cdn.samsung.com
 full:cdn-static.farfetch-contents.com
 full:cds.apple.com
 full:cds.apple.com.akadns.net
