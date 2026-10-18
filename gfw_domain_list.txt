@@ -6118,6 +6118,7 @@ cursorapi.com
 cursor-cdn.com
 cursor.com
 cursor.sh
+cursorvm.com
 cu.ru
 curve.fi
 curvefish.com
@@ -17475,6 +17476,7 @@ ootbstudio.co.kr
 op7979.com
 opac-project.eu
 openai.com
+openai.org
 openamt.com
 openapiplatform.com
 openapiservice.com
@@ -20106,6 +20108,7 @@ schemer.com
 schiffvitamins.com
 scholarpedia.org
 schwabassetmanagement.com
+schwabcdn.com
 schwab.com
 schwab.com.cn
 schwab.com.hk
@@ -22474,7 +22477,9 @@ timesnownews.com
 timesofindia.indiatimes.com
 timestalks.com
 timeweb.cloud
+timewebcloud.kz
 timeweb.com
+timeweb.tech
 timi1.me
 timo0.com
 timtales.com
@@ -23071,6 +23076,7 @@ typekit.com
 typekit.net
 typenetwork.com
 typepad.com
+typesafe.ai
 typeset.io
 typesquare.com
 typography.com
