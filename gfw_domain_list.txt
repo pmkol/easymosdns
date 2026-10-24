@@ -5883,6 +5883,7 @@ conscrypt.com
 conscrypt.org
 consentmanager.net
 consentpro.com
+console.typesafe.ai
 constructware.com
 consul.io
 contactossexoecuador.com
@@ -9618,6 +9619,7 @@ gaijin.net
 gaikaex.com
 gainstech.ru
 gaito.xyz
+ga.jspm.io
 galaxyappstore.com
 galaxymobile.jp
 gale.com
