@@ -58,6 +58,7 @@ full:appleid.cdn-apple.com
 full:applemdm.corp.google.com
 full:app-measurement-cn.com
 full:app-measurement.com
+full:app.moegirl.org.cn
 full:apps5.oingo.com
 full:apps.apple.com
 full:app-site-association.cdn-apple.com
@@ -858,6 +859,7 @@ full:status.alibabacloud.com
 full:stocks-sparkline.apple.com
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:storage-asset.msi.com
+full:storage.moegirl.org.cn
 full:store.apple.com
 full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
