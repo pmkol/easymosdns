@@ -818,7 +818,9 @@ full:sf-api-token-service.itunes.apple.com
 full:shazam-insights.cdn-apple.com
 full:shell.cdn.office.net
 full:shop.samsung.com
+full:sh-pod1-smp-device.apple.com
 full:sh-pod2-smp-device.apple.com
+full:sh-pod3-smp-device.apple.com
 full:si.cdn.dell.com
 full:siebel.akamai.com
 full:silverlight.dlservice.microsoft.com

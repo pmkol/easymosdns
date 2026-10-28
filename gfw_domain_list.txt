@@ -2280,6 +2280,7 @@ arteldoc.com
 arteldoc.tv
 artel.watch
 arte.tv
+artificialanalysis.ai
 artixlinux.org
 artnudegalleries.com
 artoferotica.info
@@ -5595,6 +5596,7 @@ clickserve.cc-dt.com
 clickserver.googleads.com
 click-url.com
 climate-server.com
+cline.bot
 clinicalkey.com
 clinical-videos.com
 clinica-tibet.ru
@@ -5842,6 +5844,7 @@ comicunivers.com
 comicuniverse.org
 comixzilla.com
 commandandconquer.com
+commandcode.ai
 comments.app
 commentshk.com
 commerceos.com
@@ -5899,6 +5902,7 @@ contechacademy.com
 contentful.com
 contest.com
 contests.twilio.com
+context7.com
 convrgencegame.com
 cookiebot.com
 cookiechoices.org
@@ -15046,6 +15050,7 @@ messengerdevelopers.com
 messybrainz.org
 messytube.com
 meta.ai
+metaaiusercontent.com
 metaaivm.com
 metabora.io
 metabrainz.org
@@ -17010,6 +17015,7 @@ notion-static.com
 notion-status.com
 notionusercontent.com
 nottinghampost.com
+nousresearch.com
 novelai.net
 noveltrove.com
 novids.com
@@ -22366,6 +22372,7 @@ thinkdifferent.us
 thinkgeek.com
 thinkingtaiwan.com
 thinkofliving.com
+thinkorswim.com
 thinkquarterly.com
 thinkquarterly.co.uk
 thinkwithgoogle.com
