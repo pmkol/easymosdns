@@ -114,6 +114,7 @@
 18comic-god.cc
 18comic-god.club
 18comic-god.xyz
+18comic.ink
 18comic.org
 18comic.vip
 18commic.com
@@ -1789,6 +1790,7 @@ antenna.co.kr
 anthemgame.com
 anthemthegame.com
 anthonycalzadilla.com
+anthropic.auth0.com
 anthropic.com
 anthropic.team
 antiphishing.nl
@@ -3636,6 +3638,7 @@ bing.net
 bingoporno.com
 bingparachute.com
 bingsandbox.com
+bingstatic.com
 bingvisualsearch.com
 bingworld.com
 bingx.com
@@ -4594,6 +4597,7 @@ bs-awh.ne.jp
 bscdnweb.com
 bsi.ir
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bspb.ru
@@ -10048,6 +10052,7 @@ github.community
 githubcopilot.com
 github.dev
 githubhackathon.com
+githubhelp.com
 github.io
 githubnext.com
 githubpreview.dev
@@ -15997,6 +16002,7 @@ msft.info
 msftncsi.com
 msft.net
 msftnet.org
+msftstatic.com
 msgamesresearch.com
 msgamestudios.com
 msha.gov
@@ -22518,6 +22524,9 @@ tiktok-minis.com
 tiktokminis.us
 tiktokrow-cdn.com
 tiktok-row.net
+tiktokshop.com
+tiktokstaticb.com
+tiktokvapp.com
 tiktokv.com
 tiktokv.eu
 tiktokv.us
