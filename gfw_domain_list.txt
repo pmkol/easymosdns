@@ -1852,6 +1852,7 @@ api-secure.recaptcha.net
 api.shuaiapi.com
 apisof.net
 api.steampowered.com
+api.themoviedb.org
 api-verify.recaptcha.net
 apkbank.ru
 apkcombo.com
@@ -22721,6 +22722,7 @@ toroporno.com
 torproject.org
 torrentgalaxy.to
 torrentkitty.tv
+torrentleech.org
 torrentprivacy.com
 torrentproject.se
 torrenty.org
@@ -26308,6 +26310,7 @@ youtube.ua
 youtube.ug
 youtube.uy
 youtube.vn
+youversionapi.com
 youversion.com
 youwin.com
 youwuss.com
