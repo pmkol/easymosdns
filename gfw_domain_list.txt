@@ -3925,6 +3925,7 @@ bmia.org
 bmi.ir
 bmj.com
 bml.info
+bmonkeys.net
 bmw-abudhabi.com
 bmw-adventskalender.com
 bmw-albania.com
@@ -4353,6 +4354,7 @@ bokepseks.org
 bokepvidz.com
 b-ok.global
 b-ok.org
+boldgrid.com
 bolehvpn.net
 bollywoodlife.com
 boltdns.net
@@ -5684,6 +5686,7 @@ cloudn.me
 cloudproxy.app
 cloudrobotics.com
 cloudvolumes.com
+cloudwp.dev
 cloudyzgirl.com
 cloupia.com
 cloupia.net
@@ -21589,6 +21592,7 @@ steamladder.com
 steam.naeu.qtlglb.com
 steamofporn.com
 steamos.cloud
+steampeek.hu
 steampowered.com
 steam.ru.qtlglb.com
 steamserver.net
@@ -24148,6 +24152,7 @@ vodafone.co.uk
 vodafone.de
 vodafone.it
 vodafone.nl
+vodafoneziggo.nl
 vod.wwe.com
 voicettank.org
 vokevr.com
@@ -24603,6 +24608,8 @@ webex.de
 webex.es
 webex.fr
 webflow.com
+webflow-ext.com
+webflow.io
 webgata.net
 webgirlsonline.net
 webhosting.com
@@ -24626,6 +24633,7 @@ webpkgcache.com
 webrtc.org
 websdr.org
 webshare.io
+website-files.com
 website.new
 webtoons.com
 webtoonscorp.com
@@ -26459,6 +26467,7 @@ zhuichaguoji.org
 zhuzhushipin-app.com
 zh.wikiquote.org
 zibacity.com
+ziggo.nl
 ziglang.org
 zigzag.kr
 zillionk.com
