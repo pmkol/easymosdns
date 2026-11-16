@@ -202,6 +202,7 @@ full:compass.xboxlive.com
 full:config.unityads.unity3d.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
+full:configuration.ls.apple.com
 full:configure.ap.dell.com
 full:connect.akamai.com
 full:connectivitycheck.gstatic.com
@@ -611,11 +612,13 @@ full:msproduct.download.prss.microsoft.com
 full:msproductuat.download.prss.microsoft.com
 full:m.travelzoo.com
 full:music.apple.com
+full:musicstatus.itunes.apple.com
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
 full:myvsuat.download.prss.microsoft.com
+full:mzstorekit.itunes.apple.com
 full:network.deploy.akamai.com
 full:nexus.dell.com
 full:ngportal.cdnetworks.com
