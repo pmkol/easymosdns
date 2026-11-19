@@ -7805,6 +7805,7 @@ elephanttube.com
 elephanttubenew.com
 elevenlabs.com
 elevenlabs.io
+elevenlabsusercontent.com
 elgaronline.com
 elgoog.im
 elifesciences.org
@@ -25976,7 +25977,6 @@ yandex.travel
 yandex.ua
 yandex.uz
 yandexwebcache.net
-yandexwebcache.org
 yango.africa
 yango.ao
 yango-b2b.com
