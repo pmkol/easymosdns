@@ -9806,6 +9806,7 @@ gelbooru.wjcodes.com
 gemfire.net
 gemfury.com
 gemini.com
+gemma.ai
 genbank.ru
 gencraft.com
 gendai.net
