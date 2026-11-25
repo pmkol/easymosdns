@@ -4782,6 +4782,7 @@ cabletv.com.hk
 cabletvdirectv.com
 cachefly.com
 cachefly.net
+cachix.org
 cacnw.com
 cactusvpn.com
 cadcamsystemsinc.com
@@ -8642,7 +8643,9 @@ fastindianporn.com
 fastlane.ci
 fastlane.tools
 fastly.com
+fastlydns.net
 fastly-edge.com
+fastly-insights.com
 fastly.io
 fastlylabs.com
 fastlylb.net
@@ -23945,6 +23948,7 @@ viu.com
 viu.tv
 vivaldi.com
 vivaxnxx.com
+vivox.com
 vivthomas.com
 vixen.com
 vixengroup.com
